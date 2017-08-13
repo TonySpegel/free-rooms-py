@@ -1,0 +1,26 @@
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  src: local("Roboto"), local("Roboto-Regular"), url("../fonts/roboto-regular.woff2") format("woff2") url("../fonts/roboto-regular.woff") format("woff"); }
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin: 0;
+  height: 100vh;
+  background-color: #607d8b; }
+
+* {
+  box-sizing: border-box; }
+
+h1 {
+  color: white;
+  font-family: Roboto, sans-serif;
+  margin-top: 0; }
+
+@media (min-width: 1024px) {
+  #wrapper {
+    width: 620px; } }

@@ -1,0 +1,54 @@
+@mixin shadow() {
+    box-shadow: 
+        0 1px 1.5px 0 rgba(0, 0, 0, .12), 
+        0 1px 1px 0   rgba(0, 0, 0, .24);
+}
+
+// Breakpoints
+// Source: https://davidwalsh.name/write-media-queries-sass
+$bp-laptop : 1024px;
+
+// >= 1024px
+@mixin desktop {
+  @media (min-width: #{$bp-laptop}) {
+    @content;
+  }
+}
+
+$container-width: 620px;
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Roboto'), local('Roboto-Regular'),
+        url('../fonts/roboto-regular.woff2') format('woff2')
+        url('../fonts/roboto-regular.woff') format('woff');
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+    margin: 0;
+    height: 100vh;
+    background-color: #607d8b;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+h1 {
+    color: white;
+    font-family: Roboto, sans-serif;
+    margin-top: 0;
+}
+
+#wrapper {
+    @include desktop {
+        width: $container-width;
+    };
+}
