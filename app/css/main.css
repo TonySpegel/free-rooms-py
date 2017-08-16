@@ -11,16 +11,35 @@ body {
   flex-direction: column;
   margin: 0;
   height: 100vh;
-  background-color: #607d8b; }
+  background-color: #607d8b;
+  color: white;
+  font-family: Roboto, sans-serif; }
 
 * {
   box-sizing: border-box; }
 
-h1 {
-  color: white;
-  font-family: Roboto, sans-serif;
-  margin-top: 0; }
+form {
+  display: flex;
+  width: 350px;
+  padding: 10px;
+  align-items: center;
+  justify-content: space-between; }
+  form .form__left {
+    display: flex;
+    flex-direction: column; }
+  form label, form button {
+    margin-bottom: 10px; }
 
-@media (min-width: 1024px) {
-  #wrapper {
-    width: 620px; } }
+input {
+  text-align: center; }
+
+button {
+  color: white;
+  cursor: pointer;
+  border-style: none;
+  border-radius: 2px;
+  padding: 5px;
+  background-color: #2196f3;
+  box-shadow: 0 1px 1.5px 0 rgba(0, 0, 0, 0.12), 0 1px 1px 0 rgba(0, 0, 0, 0.24); }
+  button:hover, button:focus {
+    background-color: #51adf6; }
