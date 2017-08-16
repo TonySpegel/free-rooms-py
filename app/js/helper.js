@@ -9,11 +9,12 @@
 
 // Test-presets
 // TODO: implement offset_time
-let house_number_input = '05';
+let building_number_input = '04';
 let floor_number_input;
-let today              = 'Friday';
-let current_time       = '10:00';
-let offset_time        = '00:30'; // At least this much time should be available
+let today                 = 'Friday';
+let current_time          = '10:00';
+let offset_time           = '00:30'; // At least this much time should be available
+let upper_time_limit      = '20:00';
 
 
 
@@ -47,13 +48,13 @@ async function fetch_calendar_week_json(cw) {
  * 1 = Specific building, every floor
  * 2 = Specific building, specific floor
  * 
- * @param {String} [house=undefined] '05'
+ * @param {String} [building=undefined] '05'
  * @param {String} [floor=undefined] '00'
  */
-function set_test_state(house = undefined, floor = undefined) {
-    if (house === undefined && floor === undefined) return 0;
-    if (house !== undefined && floor === undefined) return 1;
-    if (house !== undefined && floor !== undefined) return 2;
+function set_test_state(building = undefined, floor = undefined) {
+    if (building === undefined && floor === undefined) return 0;
+    if (building !== undefined && floor === undefined) return 1;
+    if (building !== undefined && floor !== undefined) return 2;
 }
 
 
@@ -70,7 +71,7 @@ function test_all(rooms) {
     
     // Iterate through each of this rooms
     rooms_top_level_keys.forEach(key => {
-        console.log(`Filter all → ${key}`);
+        // console.log(`Filter all → ${key}`);
         list_free_rooms(rooms, key);
     });
 }
@@ -80,22 +81,22 @@ function test_all(rooms) {
  * Test if key matches the parameters for a specific building.
  * TODO: Add return type
  * 
- * @param  {String} house_number
+ * @param  {String} building_number
  * @param  {JSON} rooms
  * @return {TODO}
  */
-function test_house_only(house_number, rooms) {
+function test_building_only(building_number, rooms) {
     // Get every room ot ouf -> 04.-1.17(SimLab)
     let rooms_top_level_keys = Object.keys(rooms);
     
     // Iterate through each of this rooms
     rooms_top_level_keys.forEach(key => {
         // Split these rooms in to single -> 04
-        [house] = key.split('.');
+        [building] = key.split('.');
         
-        // If house is the same as the users input
-        if (house === house_number) {
-            console.log(`Filter house: ${house} → ${key}`);
+        // If building is the same as the users input
+        if (building === building_number) {
+            console.log(`Filter building: ${building} → ${key}`);
             list_free_rooms(rooms, key);
         }
     });
@@ -106,22 +107,24 @@ function test_house_only(house_number, rooms) {
  * Test if key matches the parameters for a specific building and floor.
  * TODO: Add return type
  * 
- * @param  {String} house_number
+ * @param  {String} building_number
  * @param  {String} floor_number
  * @param  {JSON}   rooms
  * @return {TODO}
  */
-function test_house_and_floor(house_number, floor_number, rooms) {
+function test_building_and_floor(building_number, floor_number, rooms) {
     // Get every room ot ouf -> 04.-1.17(SimLab)
     let rooms_top_level_keys = Object.keys(rooms);
     
     // Iterate through each of this rooms
     rooms_top_level_keys.forEach(key => {
-        [house, floor] = key.split('.');
+        [building, floor] = key.split('.');
         
-        // If both house and floor are the same as the users input
-        if (house === house_number && floor === floor_number) {
-            console.log(`Filter house: ${house} & floor: ${floor} → ${key}`);
+        // If both building and floor are the same as the users input
+        if (building === building_number && floor === floor_number) {
+            // console.log(
+            //     `Filter building: ${building} & floor: ${floor} → ${key}`
+            // );
             list_free_rooms(rooms, key);
         }
     });
@@ -171,12 +174,16 @@ function list_free_rooms(all_rooms, room, current_time) {
     let lectures    = room_object.days[today];
     let now_time    = '13:30';
     
+    let between = false;
+    
     // console.log(`current time is: ${now_time}`);
-    
-    lectures.forEach(lecture => {
-        check_time_in_between(lecture.begin, lecture.end, now_time);
+    lectures.forEach((lecture, index) => {
+        between = check_time_in_between(lecture.begin, lecture.end, now_time);
+        if (between) console.log(index);
+        
+        // check_time_in_between(lecture.begin, lecture.end, now_time);
     });
-    
+    console.log(lectures);
     return lectures;
 }
 
@@ -187,15 +194,17 @@ function list_free_rooms(all_rooms, room, current_time) {
  * @param  {JSON} rooms
  */
 function find_available_rooms(rooms) {
-    switch(set_test_state(house_number_input, floor_number_input)) {
+    switch(set_test_state(building_number_input, floor_number_input)) {
         case 0:
             test_all(rooms);
             break;
         case 1:
-            test_house_only(house_number_input, rooms);
+            test_building_only(building_number_input, rooms);
             break;
         case 2:
-            test_house_and_floor(house_number_input, floor_number_input, rooms);
+            test_building_and_floor(
+                building_number_input, floor_number_input, rooms
+            );
             break;
         default:
     }
