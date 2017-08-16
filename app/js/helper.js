@@ -33,7 +33,7 @@ window.onload = () => {
  *                              for one specific calendar-week
  */
 async function fetch_calendar_week_json(cw) {
-    let response = await fetch(`./json/${cw}.json`);
+    let response      = await fetch(`./json/${cw}.json`);
     let response_json = await response.json();
     return response_json;
 }
