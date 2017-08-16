@@ -15,6 +15,52 @@
     </head>
     <body>
         <h1>Free Rooms EAH</h1>
+        
+        <form>
+            <div class="form__left">
+                <label>
+                    Building:
+                    <select>
+                        <option value="All">All</option>
+                        <option value="01">1</option>
+                        <option value="02">2</option>
+                        <option value="03">3</option>
+                        <option value="04">4</option>
+                        <option value="05">5</option>
+                    </select>
+                </label>
+                
+                <label>
+                    Floor:
+                    <select>
+                        <option value="All">All</option>
+                        <option value="-1">-1</option>
+                        <option value="00">0</option>
+                        <option value="01">1</option>
+                        <option value="02">2</option>
+                        <option value="03">3</option>
+                    </select>
+                </label>
+                
+                <label>
+                    Minimum available time
+                    <select>
+                        <option value="5">5</option>
+                        <option value="10">10</option>
+                        <option value="15">15</option>
+                        <option value="30" selected>30</option>
+                        <option value="60">60</option>
+                        <option value="120">120</option>
+                        <option value="180">180</option>
+                    </select>
+                </label>
+            </div>
+            
+            <div class="form__right">
+                <button type="button">Find Rooms</button>
+            </div>
+            
+        </form>
         <!-- <button id="btn-find-rooms">Find Rooms</button> -->
     </body>
 </html>
