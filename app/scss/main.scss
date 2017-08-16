@@ -1,21 +1,4 @@
-@mixin shadow() {
-    box-shadow: 
-        0 1px 1.5px 0 rgba(0, 0, 0, .12), 
-        0 1px 1px 0   rgba(0, 0, 0, .24);
-}
-
-// Breakpoints
-// Source: https://davidwalsh.name/write-media-queries-sass
-$bp-laptop : 1024px;
-
-// >= 1024px
-@mixin desktop {
-  @media (min-width: #{$bp-laptop}) {
-    @content;
-  }
-}
-
-$container-width: 620px;
+@import '_mixins';
 
 @font-face {
     font-family: 'Roboto';
@@ -35,20 +18,47 @@ body {
     margin: 0;
     height: 100vh;
     background-color: #607d8b;
+    
+    color: white;
+    font-family: Roboto, sans-serif;
 }
 
 * {
     box-sizing: border-box;
 }
 
-h1 {
-    color: white;
-    font-family: Roboto, sans-serif;
-    margin-top: 0;
+form {
+    display: flex;
+    width: 350px;
+    padding: 10px;
+    align-items: center;
+    justify-content: space-between;
+    
+    .form__left {
+        display: flex;
+        flex-direction: column;
+    }
+    
+    label, button {
+        margin-bottom: 10px;
+    }
 }
 
-#wrapper {
-    @include desktop {
-        width: $container-width;
-    };
+input {
+    text-align: center;
+}
+
+button {
+    &:hover,
+    &:focus {
+        background-color: lighten(#2196f3, 10%);
+    }
+    
+    color: white;
+    cursor: pointer;
+    border-style: none;
+    border-radius: 2px;
+    padding: 5px;
+    background-color: #2196f3;
+    @include shadow;
 }
