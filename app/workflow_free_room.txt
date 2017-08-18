@@ -1,0 +1,36 @@
+Fälle:
+    Während einer Vorlesung (in between): {
+        nth. Vorlesung   →  Wie lange dauert es, bis der Raum frei ist:
+                            ___________________________________________
+                            Ende der aktuellen Vorlesung
+                                [minus]
+                            Aktuelle Zeit
+        
+                            Verfügbare Zeit:
+                            ___________________________________________
+                            Anfang der nächsten Vorlesung 
+                                [minus] 
+                            Ende der aktuellen Vorlesung
+        
+        Letzte Vorlesung →  Wie lange dauert es, bis der Raum frei ist:
+                            ___________________________________________
+                            Ende der aktuellen Vorlesung
+                                [minus] 
+                            Aktuelle Zeit
+                            
+                            Verfügbare Zeit:
+                            ___________________________________________
+                            Oberes Limit 
+                                [minus] 
+                            Ende der letzten Vorlesung
+                            
+                            Beispiel:
+                                Vorlesung:      11:30 - 14:45
+                                Aktuelle Zeit:  13:30
+                                Oberes Limit:   20:00
+                                Ausgabe:
+                                In 1:15 ist dieser Raum den Rest 
+                                des Tages (5:15) frei
+    }
+    
+    Vor oder nach einer Vorlesung:
