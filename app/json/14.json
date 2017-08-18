@@ -1,4 +1,62 @@
 {
+    "04.-1.17(SimLab)": {
+        "id": "SPLUSCD9195",
+        "building": "04",
+        "floor": "-1",
+        "room_number": "17(SimLab)",
+        "days": {
+            "Wednesday": [
+                {
+                    "duration": "1:30:00",
+                    "begin": "07:45",
+                    "end": "09:15",
+                    "summary": "Ruckstien: ME(BA)3D-CAD I/P/01.1"
+                }
+            ],
+            "Friday": [
+                {
+                    "duration": "3:15:00",
+                    "begin": "07:45",
+                    "end": "11:00",
+                    "summary": "Reichelt: MB(BA)GL CAD/P/04"
+                },
+                {
+                    "duration": "3:15:00",
+                    "begin": "11:30",
+                    "end": "14:45",
+                    "summary": "Reichelt: MB(BA)GL CAD/P/01.1"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "duration": "1:30:00",
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "Reichelt: MB/ME(BA)KL I/P/03"
+                }
+            ],
+            "Monday": [
+                {
+                    "duration": "1:30:00",
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "Reichelt: MB/ME(BA)KL I/P/02"
+                },
+                {
+                    "duration": "1:30:00",
+                    "begin": "13:30",
+                    "end": "15:00",
+                    "summary": "Heiderich: MB(MA)Spez.Geb.FEM/P/01.1"
+                },
+                {
+                    "duration": "1:30:00",
+                    "begin": "15:15",
+                    "end": "16:45",
+                    "summary": "Schilling(MB): MB/ME(BA)KL I/P/01.1"
+                }
+            ]
+        }
+    },
     "05.00.03": {
         "id": "SPLUSD17C56",
         "building": "05",
@@ -121,64 +179,6 @@
                     "duration": "1:30:00",
                     "end": "15:00",
                     "begin": "13:30"
-                }
-            ]
-        }
-    },
-    "04.-1.17(SimLab)": {
-        "id": "SPLUSCD9195",
-        "building": "04",
-        "floor": "-1",
-        "room_number": "17(SimLab)",
-        "days": {
-            "Wednesday": [
-                {
-                    "duration": "1:30:00",
-                    "begin": "07:45",
-                    "end": "09:15",
-                    "summary": "Ruckstien: ME(BA)3D-CAD I/P/01.1"
-                }
-            ],
-            "Friday": [
-                {
-                    "duration": "3:15:00",
-                    "begin": "07:45",
-                    "end": "11:00",
-                    "summary": "Reichelt: MB(BA)GL CAD/P/04"
-                },
-                {
-                    "duration": "3:15:00",
-                    "begin": "11:30",
-                    "end": "14:45",
-                    "summary": "Reichelt: MB(BA)GL CAD/P/01.1"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "duration": "1:30:00",
-                    "begin": "11:30",
-                    "end": "13:00",
-                    "summary": "Reichelt: MB/ME(BA)KL I/P/03"
-                }
-            ],
-            "Monday": [
-                {
-                    "duration": "1:30:00",
-                    "begin": "09:30",
-                    "end": "11:00",
-                    "summary": "Reichelt: MB/ME(BA)KL I/P/02"
-                },
-                {
-                    "duration": "1:30:00",
-                    "begin": "13:30",
-                    "end": "15:00",
-                    "summary": "Heiderich: MB(MA)Spez.Geb.FEM/P/01.1"
-                },
-                {
-                    "duration": "1:30:00",
-                    "begin": "15:15",
-                    "end": "16:45",
-                    "summary": "Schilling(MB): MB/ME(BA)KL I/P/01.1"
                 }
             ]
         }
