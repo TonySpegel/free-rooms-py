@@ -72,7 +72,8 @@ function test_all(rooms) {
     // Iterate through each of this rooms
     rooms_top_level_keys.forEach(key => {
         // console.log(`Filter all → ${key}`);
-        list_free_rooms(rooms, key);
+        // TODO: All values greater than 12 causes an error
+        list_free_rooms(rooms, key, '12:00');
     });
 }
 
@@ -96,8 +97,8 @@ function test_building_only(building_number, rooms) {
         
         // If building is the same as the users input
         if (building === building_number) {
-            console.log(`Filter building: ${building} → ${key}`);
-            list_free_rooms(rooms, key);
+            console.log(`Building only: ${building} → ${key}`);
+            list_free_rooms(rooms, key, '15:00');
         }
     });
 }
@@ -122,10 +123,11 @@ function test_building_and_floor(building_number, floor_number, rooms) {
         
         // If both building and floor are the same as the users input
         if (building === building_number && floor === floor_number) {
-            // console.log(
-            //     `Filter building: ${building} & floor: ${floor} → ${key}`
-            // );
-            list_free_rooms(rooms, key);
+            console.log(
+                `Building: ${building} & floor: ${floor} → ${key}
+                `
+            );
+            list_free_rooms(rooms, key, '11:00');
         }
     });
 }
@@ -154,7 +156,7 @@ function check_time_in_between(time_begin, time_end, time_current) {
         current_minutes_combined < end_minutes_combined
     ) {
         console.log(
-            `${time_current} is in Between ${time_begin} and ${time_end}`
+            `${time_current} is in between ${time_begin} and ${time_end}`
         );
         return true;
     }
@@ -169,21 +171,81 @@ function check_time_in_between(time_begin, time_end, time_current) {
  * @param  {[type]} current_time [description]
  * @return {[type]}              [description]
  */
-function list_free_rooms(all_rooms, room, current_time) {
-    let room_object = all_rooms[room];
-    let lectures    = room_object.days[today];
-    let now_time    = '13:30';
+function list_free_rooms(all_rooms, room, time_param) {
+    let room_object     = all_rooms[room];
+    let lectures        = room_object.days[today];
+    let lectures_number = lectures.length;
+    let now_time        = time_param;
+    let between         = false; 
+    let free_room_flag  = false; 
     
-    let between = false;
-    
-    // console.log(`current time is: ${now_time}`);
     lectures.forEach((lecture, index) => {
-        between = check_time_in_between(lecture.begin, lecture.end, now_time);
-        if (between) console.log(index);
+        between      = check_time_in_between(lecture.begin, lecture.end, now_time);
+        current_time = parseTime(now_time);
         
-        // check_time_in_between(lecture.begin, lecture.end, now_time);
+        if (between) {
+            end_time         = parseTime(lectures[index].end);
+            upper_time_limit = parseTime('20:00');
+            available_in     = end_time - current_time;
+            
+            // Last lecture for this day
+            if (index + 1 === lectures_number) {
+                console.log(
+                    '%cLast lecture!', 
+                    'color: #f44336; text-decoration: underline;'
+                );
+                
+                available_time   = upper_time_limit - end_time;
+                
+                console.log(
+                    `%cRoom available in ${available_in} Minutes ⏱ for ${available_time} Minutes
+                    `,
+                    'color: #4caf50'
+                );
+                
+                return false;
+            }
+            
+            let next_lecture   = index + 1;
+            begin_next_lecture = parseTime(lectures[next_lecture].begin);
+            available_time     = begin_next_lecture - end_time;
+            
+            console.log(
+                `%cRoom available in ${available_in} Minutes ⏱ for ${available_time} Minutes
+                `,
+                'color: #4caf50'
+            );
+        }
+        
+        begin_time = parseTime(lectures[index].begin);
+
+        if (free_room_flag === false) {
+            if (current_time <= begin_time) {
+                free_room_flag = index;
+                
+                console.log(`Room is free for ${begin_time - current_time} Minutes`);
+                console.log(`${lectures[index].begin} - ${lectures[index].end}`);
+            }
+            
+            if (current_time >= begin_time) {
+                if (index + 1 === lectures_number) {
+                    console.log(
+                        '%cLast lecture!', 
+                        'color: #f44336; text-decoration: underline;'
+                    );
+                    
+                    available_time = parseTime(upper_time_limit) - parseTime(now_time);
+                    console.log(
+                        `Room is available for the rest of the day (${available_time} Minutes)`
+                    );
+                    
+                    console.log(upper_time_limit);
+                    
+                }
+
+            }
+        }
     });
-    console.log(lectures);
     return lectures;
 }
 
@@ -222,4 +284,16 @@ function get_current_time() {
     let minutes = date.getMinutes();
     
     return `${hours}:${minutes}`;
+}
+
+/**
+ * Parses time string into a hours and minutes variable
+ * 
+ * @param  {String} time_string -> 12:00
+ * @return {Integer}            -> 720
+ */
+function parseTime(time_string) {
+   [hours, minutes] = time_string.split(':');
+   let rel = parseInt(hours * 60) + parseInt(minutes); 
+   return rel;
 }
