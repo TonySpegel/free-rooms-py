@@ -1,0 +1,98 @@
+{
+    "id": "SPLUS9BD899",
+    "days": {
+        "Tuesday": [
+            {
+                "end": "09:15",
+                "summary": "Merker: WT(MA)Schadensana/V/01.1",
+                "begin": "07:45"
+            },
+            {
+                "end": "11:00",
+                "summary": "Morgeneier(ET): ET(BA)Autom.-objekte/V/01.4",
+                "begin": "09:30"
+            },
+            {
+                "end": "13:00",
+                "summary": "Bellemann: PT(BA)Ion.Strahlg./V/01.1",
+                "begin": "11:30"
+            },
+            {
+                "end": "15:00",
+                "summary": "Planer: WI/WIEC(BA)OR/Ü/01",
+                "begin": "13:30"
+            },
+            {
+                "end": "16:45",
+                "summary": "Planer: WI/WIEC(BA)OR/Ü/03",
+                "begin": "15:15"
+            },
+            {
+                "end": "18:30",
+                "summary": "Pawliska: WI(BA)Statik/Ü/02.1",
+                "begin": "17:00"
+            }
+        ],
+        "Monday": [
+            {
+                "end": "11:00",
+                "summary": "Redlich: ME(BA)Mech. BE/V/01.0",
+                "begin": "09:30"
+            },
+            {
+                "end": "13:00",
+                "summary": "Dittrich(ET): ET/ME(BA)El. Antr./V/01.1",
+                "begin": "11:30"
+            },
+            {
+                "end": "16:45",
+                "summary": "Kunert, M.: MB(BA)LBWst./V/01.1",
+                "begin": "15:15"
+            }
+        ],
+        "Wednesday": [
+            {
+                "end": "11:00",
+                "summary": "Kipfelsberger: WT(MA)Kst.veredlg./Ü/01",
+                "begin": "09:30"
+            },
+            {
+                "end": "12:45",
+                "summary": "Müller, J.: WI(BA)St.RT/S/01.2",
+                "begin": "11:15"
+            },
+            {
+                "end": "15:00",
+                "summary": "Planer: WI/WIEC(BA)OR/Ü/05",
+                "begin": "13:30"
+            },
+            {
+                "end": "18:30",
+                "summary": "Peter: WI/WIEC(BA)Angew.Ma/Ü/02.1",
+                "begin": "17:00"
+            }
+        ],
+        "Thursday": [
+            {
+                "end": "09:15",
+                "summary": "Herbst, U.: WI(BA)Robotik/S/01.2",
+                "begin": "07:45"
+            },
+            {
+                "end": "11:00",
+                "summary": "Brehm: WI(BA)Gesch.-Proz.-Man./S/01.1",
+                "begin": "09:30"
+            },
+            {
+                "end": "13:00",
+                "summary": "Dathe: BT(BA)Ma II/Ü/02.1",
+                "begin": "11:30"
+            }
+        ]
+    },
+    "room_number": "11",
+    "cw": "15",
+    "building": "01",
+    "floor": "01",
+    "room": "01.01.11"
+}

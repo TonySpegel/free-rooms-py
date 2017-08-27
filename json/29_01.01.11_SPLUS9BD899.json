@@ -1,0 +1,41 @@
+{
+    "id": "SPLUS9BD899",
+    "days": {
+        "Monday": [
+            {
+                "end": "11:30",
+                "summary": "Kunert, M.: WT(MA)Phys.GL Met.II/PL/01",
+                "begin": "10:00"
+            },
+            {
+                "end": "13:00",
+                "summary": "Fritzsche(MT): BT/MT(BA)DB/Wdh.-Prfg./01",
+                "begin": "12:00"
+            }
+        ],
+        "Wednesday": [
+            {
+                "end": "11:30",
+                "summary": "Schleicher: UT(BA)Env. a. ProC. Metr./Wdh.-Prfg./01",
+                "begin": "10:00"
+            },
+            {
+                "end": "13:30",
+                "summary": "Driesch(MT): BT(BA)BG biotech.Anl./Wdh.-Prfg./01",
+                "begin": "12:00"
+            }
+        ],
+        "Thursday": [
+            {
+                "end": "11:30",
+                "summary": "Bellemann: PT(BA)Ion.Strahlg./PL/01",
+                "begin": "10:00"
+            }
+        ]
+    },
+    "room_number": "11",
+    "cw": "29",
+    "building": "01",
+    "floor": "01",
+    "room": "01.01.11"
+}

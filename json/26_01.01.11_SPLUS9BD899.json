@@ -1,0 +1,88 @@
+{
+    "id": "SPLUS9BD899",
+    "days": {
+        "Tuesday": [
+            {
+                "end": "09:15",
+                "summary": "Merker: WT(MA)Schadensana/V/01.1",
+                "begin": "07:45"
+            },
+            {
+                "end": "13:00",
+                "summary": "Bellemann: PT(BA)Ion.Strahlg./V/01.1",
+                "begin": "11:30"
+            },
+            {
+                "end": "15:00",
+                "summary": "Planer: WI/WIEC(BA)OR/Ü/02",
+                "begin": "13:30"
+            },
+            {
+                "end": "16:45",
+                "summary": "Planer: WI/WIEC(BA)OR/Ü/04",
+                "begin": "15:15"
+            }
+        ],
+        "Monday": [
+            {
+                "end": "11:00",
+                "summary": "Tutorin Schiele(MT): BT(BA)Chem.I/T/01.5",
+                "begin": "09:30"
+            },
+            {
+                "end": "16:45",
+                "summary": "Tutor Winter(GW): MB/ME(BA)Phy II/T/02.2",
+                "begin": "15:15"
+            }
+        ],
+        "Thursday": [
+            {
+                "end": "09:15",
+                "summary": "Herbst, U.: WI(BA)Robotik/S/01.2",
+                "begin": "07:45"
+            },
+            {
+                "end": "11:00",
+                "summary": "Brehm: WI(BA)Gesch.-Proz.-Man./S/01.1",
+                "begin": "09:30"
+            },
+            {
+                "end": "13:00",
+                "summary": "Dathe: BT(BA)Ma II/Ü/02.1",
+                "begin": "11:30"
+            },
+            {
+                "end": "15:00",
+                "summary": "Wartenberger: LOT(MA)Geräteentw./V/01.2",
+                "begin": "13:30"
+            },
+            {
+                "end": "16:45",
+                "summary": "Teichert: WT(BA)Phys.WSt.Diag./Kon/01",
+                "begin": "15:15"
+            }
+        ],
+        "Friday": [
+            {
+                "end": "09:15",
+                "summary": "Niebel: ET(BA)/ME(MA)Lokale Netze/V/01.1",
+                "begin": "07:45"
+            },
+            {
+                "end": "11:00",
+                "summary": "Planer: WI(BA)Statistik/V/01.1",
+                "begin": "09:30"
+            },
+            {
+                "end": "13:00",
+                "summary": "Planer: WI(BA)Ma f. Wdh./Ü/01",
+                "begin": "11:30"
+            }
+        ]
+    },
+    "room_number": "11",
+    "cw": "26",
+    "building": "01",
+    "floor": "01",
+    "room": "01.01.11"
+}

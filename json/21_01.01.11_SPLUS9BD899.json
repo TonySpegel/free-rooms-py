@@ -1,0 +1,66 @@
+{
+    "id": "SPLUS9BD899",
+    "days": {
+        "Tuesday": [
+            {
+                "end": "09:15",
+                "summary": "Merker: WT(MA)Schadensana/V/01.1",
+                "begin": "07:45"
+            },
+            {
+                "end": "13:00",
+                "summary": "Bellemann: PT(BA)Ion.Strahlg./V/01.1",
+                "begin": "11:30"
+            },
+            {
+                "end": "15:00",
+                "summary": "Planer: WI/WIEC(BA)OR/Ü/01",
+                "begin": "13:30"
+            },
+            {
+                "end": "16:45",
+                "summary": "Planer: WI/WIEC(BA)OR/Ü/03",
+                "begin": "15:15"
+            }
+        ],
+        "Monday": [
+            {
+                "end": "11:00",
+                "summary": "Merker: WT(BA)Metalle I/Wdh.-Prfg./01",
+                "begin": "09:30"
+            },
+            {
+                "end": "13:00",
+                "summary": "Dittrich(ET): ET/ME(BA)El. Antr./V/01.1",
+                "begin": "11:30"
+            }
+        ],
+        "Wednesday": [
+            {
+                "end": "09:15",
+                "summary": "Merker: WT(BA)Wst.prf./V/01.4",
+                "begin": "07:45"
+            },
+            {
+                "end": "11:00",
+                "summary": "Kipfelsberger: WT(MA)Kst.veredlg./Ü/01",
+                "begin": "09:30"
+            },
+            {
+                "end": "13:00",
+                "summary": "Herbst, U.: WI(MA)Serienprod./P/01.12",
+                "begin": "12:00"
+            },
+            {
+                "end": "15:00",
+                "summary": "Planer: WI/WIEC(BA)OR/Ü/05",
+                "begin": "13:30"
+            }
+        ]
+    },
+    "room_number": "11",
+    "cw": "21",
+    "building": "01",
+    "floor": "01",
+    "room": "01.01.11"
+}

@@ -1,0 +1,105 @@
+{
+    "id": "SPLUS9BD899",
+    "days": {
+        "Tuesday": [
+            {
+                "end": "09:15",
+                "summary": "Merker: WT(MA)Schadensana/V/01.1",
+                "begin": "07:45"
+            },
+            {
+                "end": "15:00",
+                "summary": "Planer: WI/WIEC(BA)OR/Ü/01",
+                "begin": "13:30"
+            },
+            {
+                "end": "16:45",
+                "summary": "Planer: WI/WIEC(BA)OR/Ü/03",
+                "begin": "15:15"
+            },
+            {
+                "end": "18:30",
+                "summary": "Pawliska: WI(BA)Statik/Ü/02.1",
+                "begin": "17:00"
+            }
+        ],
+        "Monday": [
+            {
+                "end": "13:00",
+                "summary": "Dittrich(ET): ET/ME(BA)El. Antr./V/01.1",
+                "begin": "11:30"
+            }
+        ],
+        "Wednesday": [
+            {
+                "end": "11:00",
+                "summary": "Kipfelsberger: WT(MA)Kst.veredlg./Ü/01",
+                "begin": "09:30"
+            },
+            {
+                "end": "13:00",
+                "summary": "Merker, Hesse, O.: WT(BA)Wst.prf./P/Einf.",
+                "begin": "11:30"
+            },
+            {
+                "end": "15:00",
+                "summary": "Planer: WI/WIEC(BA)OR/Ü/05",
+                "begin": "13:30"
+            },
+            {
+                "end": "16:45",
+                "summary": "Tutor Koblenz(SciTec): FT/LOT/PT/WT(BA)Phy II/T/01.1",
+                "begin": "15:15"
+            }
+        ],
+        "Thursday": [
+            {
+                "end": "09:15",
+                "summary": "Herbst, U.: WI(BA)Robotik/S/01.2",
+                "begin": "07:45"
+            },
+            {
+                "end": "11:00",
+                "summary": "Brehm: WI(BA)Gesch.-Proz.-Man./S/01.1",
+                "begin": "09:30"
+            },
+            {
+                "end": "13:00",
+                "summary": "Dathe: BT(BA)Ma II/Ü/02.1",
+                "begin": "11:30"
+            },
+            {
+                "end": "15:00",
+                "summary": "Wartenberger: LOT(MA)Opt.kon./Opt.CAD/V/01.1",
+                "begin": "13:30"
+            }
+        ],
+        "Friday": [
+            {
+                "end": "09:15",
+                "summary": "Niebel: ET(BA)/ME(MA)Lokale Netze/V/01.1",
+                "begin": "07:45"
+            },
+            {
+                "end": "11:00",
+                "summary": "Planer: WI(BA)Statistik/V/01.1",
+                "begin": "09:30"
+            },
+            {
+                "end": "13:00",
+                "summary": "Planer: WI(BA)Ma f. Wdh./Ü/01",
+                "begin": "11:30"
+            },
+            {
+                "end": "16:45",
+                "summary": "Tutorin Meiser(GW): AO/UT/UTE(BA)Ma II/T/02.2",
+                "begin": "15:15"
+            }
+        ]
+    },
+    "room_number": "11",
+    "cw": "19",
+    "building": "01",
+    "floor": "01",
+    "room": "01.01.11"
+}

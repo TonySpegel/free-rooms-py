@@ -1,0 +1,17 @@
+{
+    "id": "SPLUSCD919A",
+    "days": {
+        "Wednesday": [
+            {
+                "end": "15:00",
+                "summary": "Klier, Werner, C.: MT(MA)Med.GT/P/02",
+                "begin": "12:00"
+            }
+        ]
+    },
+    "room_number": "16",
+    "cw": "23",
+    "building": "01",
+    "floor": "01",
+    "room": "01.01.16"
+}
