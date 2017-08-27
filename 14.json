@@ -1,0 +1,301 @@
+{
+    "04.-1.17(SimLab)": {
+        "id": "SPLUSCD9195",
+        "building": "04",
+        "floor": "-1",
+        "room_number": "17(SimLab)",
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "07:45",
+                    "end": "09:15",
+                    "summary": "Ruckstien: ME(BA)3D-CAD I/P/01.1"
+                }
+            ],
+            "Friday": [
+                {
+                    "begin": "07:45",
+                    "end": "11:00",
+                    "summary": "Reichelt: MB(BA)GL CAD/P/04"
+                },
+                {
+                    "begin": "11:30",
+                    "end": "14:45",
+                    "summary": "Reichelt: MB(BA)GL CAD/P/01.1"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "Reichelt: MB/ME(BA)KL I/P/03"
+                }
+            ],
+            "Monday": [
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "Reichelt: MB/ME(BA)KL I/P/02"
+                },
+                {
+                    "begin": "13:30",
+                    "end": "15:00",
+                    "summary": "Heiderich: MB(MA)Spez.Geb.FEM/P/01.1"
+                },
+                {
+                    "begin": "15:15",
+                    "end": "16:45",
+                    "summary": "Schilling(MB): MB/ME(BA)KL I/P/01.1"
+                }
+            ]
+        }
+    },
+    "05.00.03": {
+        "id": "SPLUSD17C56",
+        "building": "05",
+        "floor": "00",
+        "room_number": "03",
+        "days": {
+            "Monday": [
+                {
+                    "summary": "Reuter: ET/ME(BA)Ausgew. Kap. an. ST/S/01",
+                    "end": "09:15",
+                    "begin": "07:45"
+                },
+                {
+                    "summary": "Erfurth: WI(BA)IT-Man./S/01.1",
+                    "end": "15:00",
+                    "begin": "13:30"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "summary": "Giesecke: ET(BA)Dig. Audiotech./V/01",
+                    "end": "09:15",
+                    "begin": "07:45"
+                },
+                {
+                    "summary": "Sickenberger: AO(BA)KLi I/V/01.1",
+                    "end": "11:00",
+                    "begin": "09:30"
+                },
+                {
+                    "summary": "Dick(SciTec): AO/LOT(MA)Opht./V/01.1",
+                    "end": "13:00",
+                    "begin": "11:30"
+                },
+                {
+                    "summary": "Dittrich(ET): ET/ME(BA)El. Antr./V/02.1",
+                    "end": "15:00",
+                    "begin": "13:30"
+                },
+                {
+                    "summary": "Möller: WI(BA)Einf. ind. Prod./Proz.-Ind. I/V/01",
+                    "end": "17:30",
+                    "begin": "16:00"
+                },
+                {
+                    "summary": "StuRa: StuRa-Sitzg./01.1",
+                    "end": "21:00",
+                    "begin": "18:00"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "summary": "Richter: ET/ME(BA)Optoel. I/V/01.1",
+                    "end": "09:15",
+                    "begin": "07:45"
+                },
+                {
+                    "summary": "Fleck: LOT(BA)TO/Ü/01.1",
+                    "end": "15:00",
+                    "begin": "13:30"
+                },
+                {
+                    "summary": "Herbst, U.: DJU/WI(BA)Man.meth. i.P./S/01",
+                    "end": "18:30",
+                    "begin": "17:00"
+                }
+            ],
+            "Thursday": [
+                {
+                    "summary": "Jack: ET(BA)EZ-BS/V/02",
+                    "end": "09:15",
+                    "begin": "07:45"
+                },
+                {
+                    "summary": "Herbst, U.: DJU/WI(BA)Man.meth. i.P./S/02.1",
+                    "end": "11:00",
+                    "begin": "09:30"
+                },
+                {
+                    "summary": "Wicher: AO/LOT(BA)Lichtt./V/01",
+                    "end": "15:00",
+                    "begin": "13:30"
+                }
+            ],
+            "Friday": [
+                {
+                    "summary": "Wiedemann: ET(BA)Tech.Eng II/Ü/01.1",
+                    "end": "09:15",
+                    "begin": "07:45"
+                },
+                {
+                    "summary": "Wiedemann: ET(BA)Tech.Eng II/Ü/02.1",
+                    "end": "11:00",
+                    "begin": "09:30"
+                },
+                {
+                    "summary": "Kampe: ET(BA)Digitaldesign/V/02.1",
+                    "end": "13:00",
+                    "begin": "11:30"
+                },
+                {
+                    "summary": "Redlich, Reuter: ET(BA)Info Praxissem.",
+                    "end": "15:00",
+                    "begin": "13:30"
+                }
+            ]
+        }
+    },
+    "05.00.10": {
+        "id": "SPLUSD17C56",
+        "building": "05",
+        "floor": "00",
+        "room_number": "10",
+        "days": {
+            "Thursday": [
+                {
+                    "summary": "Reuter: ET/ME(BA)Analoge ST/El II/V/01.1",
+                    "end": "09:15",
+                    "begin": "07:45"
+                },
+                {
+                    "summary": "Geyer: BW(BA)Portf.man./Ü/01",
+                    "end": "11:00",
+                    "begin": "09:30"
+                },
+                {
+                    "summary": "Klaus: BW(BA)Int.RL/Ü/01.2",
+                    "end": "13:00",
+                    "begin": "11:30"
+                },
+                {
+                    "summary": "Glück: MB/ME(BA)StröL II/V/02.1",
+                    "end": "15:00",
+                    "begin": "13:30"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "summary": "Jack: BW/ET(BA)Softwaretech./V/01",
+                    "end": "09:15",
+                    "begin": "07:45"
+                },
+                {
+                    "summary": "Opielka: SA(BA)Soz.pol./S/03",
+                    "end": "12:45",
+                    "begin": "11:15"
+                },
+                {
+                    "summary": "Gitter: AO(BA)Biophys./V/01.1",
+                    "end": "15:00",
+                    "begin": "13:30"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "summary": "Richter: ET(BA)MT II/V/01.1",
+                    "end": "09:15",
+                    "begin": "07:45"
+                },
+                {
+                    "summary": "Opielka: SA(BA)Soz.pol./S/01",
+                    "end": "11:00",
+                    "begin": "09:30"
+                },
+                {
+                    "summary": "Opielka: SA(BA)Soz.pol./S/02",
+                    "end": "12:45",
+                    "begin": "11:15"
+                },
+                {
+                    "summary": "Stoetzer: BW(BA)VWL I Mikro/S/01.2",
+                    "end": "20:00",
+                    "begin": "17:00"
+                }
+            ],
+            "Friday": [
+                {
+                    "summary": "Degle: AO(BA)Opto IV/V/01.1",
+                    "end": "11:00",
+                    "begin": "09:30"
+                },
+                {
+                    "summary": "Linsenbarth(BW), die Stefano(BW): BW(BA)Insolv.R/Ü/01.1",
+                    "end": "15:00",
+                    "begin": "13:30"
+                },
+                {
+                    "summary": "Linsenbarth(BW), die Stefano(BW): BW(BA)Vf.R/Ü/01.1",
+                    "end": "16:45",
+                    "begin": "15:15"
+                }
+            ],
+            "Monday": [
+                {
+                    "summary": "Degle: AO(BA)Opto II/V/01.1",
+                    "end": "11:00",
+                    "begin": "09:30"
+                },
+                {
+                    "summary": "Brehm: ET/WIEC(BA)DB u. Data-WH/V/01.1",
+                    "end": "13:00",
+                    "begin": "11:30"
+                },
+                {
+                    "summary": "Schütze: AO(BA)Statistik/V/01.1",
+                    "end": "15:00",
+                    "begin": "13:30"
+                },
+                {
+                    "summary": "Schroeter(ET): ET/ME(BA)DBV I/V/01.1",
+                    "end": "16:45",
+                    "begin": "15:15"
+                }
+            ]
+        }
+    },
+    "05.02.48": {
+        "id": "SPLUSD17C4F",
+        "building": "05",
+        "floor": "02",
+        "room_number": "48",
+        "days": {
+            "Tuesday": [
+                {
+                    "begin": "17:00",
+                    "end": "18:30",
+                    "summary": "Sesselmann, Redlich: ME(MA)Thermosim./P/01"
+                }
+            ],
+            "Friday": [
+                {
+                    "begin": "07:45",
+                    "end": "09:15",
+                    "summary": "Sesselmann, Redlich: ME/SD(MA)Entw. el. BG u. FEM/P/02"
+                },
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "Redlich, Sesselmann: ME/SD(MA)Entw. el. BG u. FEM/P/01"
+                },
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "Redlich: ME/SD(MA)Entw. el. BG u. FEM/V/01.1"
+                }
+            ]
+        }
+    }
+}
