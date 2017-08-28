@@ -5,7 +5,6 @@
             "Thursday": [
                 {
                     "summary": "Stoetzer: BW(BA)ABWL Wiss.Arb./S/01.2",
-                    "duration": "7:30:00",
                     "end": "17:00",
                     "begin": "09:30"
                 }
@@ -13,7 +12,6 @@
             "Wednesday": [
                 {
                     "summary": "Stoetzer: BW(BA)ABWL Wiss.Arb./S/01.1",
-                    "duration": "7:30:00",
                     "end": "17:00",
                     "begin": "09:30"
                 }
@@ -21,7 +19,6 @@
             "Tuesday": [
                 {
                     "summary": "Bonk(GW): GHHK(BA)EAP/Ü/02",
-                    "duration": "3:30:00",
                     "end": "14:45",
                     "begin": "11:15"
                 }
@@ -29,7 +26,6 @@
             "Friday": [
                 {
                     "summary": "Stoetzer: BW(BA)ABWL Wiss.Arb./S/01.3",
-                    "duration": "7:30:00",
                     "end": "17:00",
                     "begin": "09:30"
                 }
@@ -37,7 +33,6 @@
             "Monday": [
                 {
                     "summary": "Bonk(GW): GHHK(BA)EAP/Ü/01",
-                    "duration": "3:15:00",
                     "end": "12:45",
                     "begin": "09:30"
                 }
@@ -53,7 +48,6 @@
             "Tuesday": [
                 {
                     "summary": "Jack: StET_ET/S/01",
-                    "duration": "2:00:00",
                     "end": "12:30",
                     "begin": "10:30"
                 }
