@@ -113,12 +113,10 @@ function test_building_only(building_number, rooms, time) {
 
 /**
  * Test if key matches the parameters for a specific building and floor.
- * TODO: Add return type
  * 
  * @param  {String} building_number
  * @param  {String} floor_number
  * @param  {JSON}   rooms
- * @return {TODO}
  */
 function test_building_and_floor(building_number, floor_number, rooms, time) {
     // Get every room ot ouf -> 04.-1.17(SimLab)
@@ -327,10 +325,12 @@ function parse_time_to_minutes(time_string) {
 }
 
 /**
- * TODO: add description
- * 
- * @param  {Number} minutes [description]
- * @return {String}         [description]
+ * Receives minutes and converts it to hours and minutes 
+ * and returns it as a String. It also decides if the plural 
+ * of minute or hour should be used.
+ *  
+ * @param  {Number} minutes
+ * @return {String}
  */
 function minutes_to_hours(minutes) {
     let plural_minutes;
