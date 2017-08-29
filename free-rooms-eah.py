@@ -54,6 +54,8 @@ ICS_BASE_LINK = 'http://stundenplanung.eah-jena.de/ical/raum/?id='
 EAH_ROOMS_BASE_URL = "http://stundenplanung.eah-jena.de/raeume/"
 
 
+# This function parses the EAH-website or to put it more precisely a certain select field.
+# These values inside the select field are used to build download links, IDs and name-fields.
 def digest_room_website():
     eah_rooms_website = urllib.request.urlopen(EAH_ROOMS_BASE_URL)
     eah_rooms_website_soup = BeautifulSoup(eah_rooms_website, "lxml")
@@ -61,9 +63,9 @@ def digest_room_website():
 
     # Select drop down and add its elements to a list
     for option in eah_rooms_options_list:
-        option_value = option['value']  # SPLUSA8CFB5
+        option_value = option['value']  # SPLUSA8CFB5 - a rooms ID
 
-        # Test if first char is a digit
+        # Test if first char is a digit do exclude rooms such as:
         if option.text[0].isdigit():
             option_text = option.text  # 05.00.03
 
@@ -108,7 +110,7 @@ def split_room_filename(str_element):
     # Splits '04.00.22(Reinr.)' into
     # 04, 00, 22(Reinr.)
 
-    # room_number_do can contain another dot, which shouldn't be split.
+    # room_full_identifier can contain another dot, which shouldn't be split.
     # Therefore maxsplit=2 is used, which splits only the first two occurrences of a dot.
     house, floor, room_number = room_full_identifier.split('.', maxsplit=2)
 
@@ -132,6 +134,8 @@ def build_json_object(
     for week, week_entries in grouped_by_week.items():
         grouped_by_day = defaultdict(list)
 
+        # This includes every lecture on a given day,
+        # and wraps these inside of a day -> monday [{begin, end, summary}]
         for entry in week_entries:
             grouped_by_day[entry[DAY_INDEX]].append({
                 'begin': entry[BEGIN_INDEX],
@@ -159,6 +163,8 @@ def save_as_json(cw, room_id, file_id, processed_json):
         json.dump(processed_json, fout, indent=4, ensure_ascii=False)
 
 
+# Prototype function. Not yet used. Should be used for new JSON-format.
+# This new format is structured
 def save_as_json_ex(cw, processed_json):
     file_template = './json/{}.json'
 
@@ -188,8 +194,8 @@ def extract_info_from_ics():
         for component in gcal.walk():
             if component.name == "VEVENT":
                 summary = component.get('summary')
-                start_time = component.get('dtstart').dt  # Lecture starts at this time
-                end_time = component.get('dtend').dt  # Lecture ends at this time
+                start_time = component.get('dtstart').dt     # Lecture starts at this time
+                end_time = component.get('dtend').dt         # Lecture ends at this time
                 calendar_week = start_time.isocalendar()[1]  # The number of a week starting w/ Monday
 
                 extracted_info.append([
@@ -203,14 +209,17 @@ def extract_info_from_ics():
 
                 print(extracted_info)
 
-        # Sorts every entry by using its calendar-week, date and time of beginning
+        # Sorts every entry by using its calendar-week, date and time of beginning.
+        # Therefore any entry should be sorted in an ascending order.
         extracted_info_sorted = sorted(
             extracted_info,
             key=lambda x: (x[CW_WEEK_INDEX], x[DATE_INDEX], x[BEGIN_INDEX])
         )
 
+        # After getting the needed information close the current file
         room_calendar_file.close()
 
+        # Prepair values for build_calendar_json
         compiled_json = build_json_object(
             building_number,
             floor_number,
@@ -219,10 +228,10 @@ def extract_info_from_ics():
             extracted_info_sorted
         )
 
+        # Build the JSON files
         build_calendar_json(compiled_json)
 
-        # print('##################')
-
+        # Clear the current list to work with the next room
         extracted_info.clear()
 
 extract_info_from_ics()
