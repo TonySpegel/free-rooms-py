@@ -28,15 +28,6 @@ BEGIN_INDEX = 3
 END_INDEX = 4
 SUMMARY_INDEX = 5
 
-test_file_names = [
-    '04.00.22(Reinr.)_SPLUS5637AE',
-    '03.02.22(WT/WI)_SPLUS5637AE',
-    '01.-1.13(SZB)_SPLUS5637AE',
-    '03.01.36_SPLUS5637AE',
-    '04.00.22(Reinr.)_SPLUS5637AE',
-    '01.03.11(GP)_SPLUS53385E'
-]
-
 # If the 'json' and 'ics' folders have not yet been created, create them.
 try:
     os.makedirs('ics')
