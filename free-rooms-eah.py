@@ -192,17 +192,11 @@ def extract_info_from_ics():
                 end_time = component.get('dtend').dt  # Lecture ends at this time
                 calendar_week = start_time.isocalendar()[1]  # The number of a week starting w/ Monday
 
-                # Y - Year    = 2017
-                # m - Month   = 04
-                # d - Day     = 07
-                # A - Weekday = Monday
-                # H - Hour    = 13
-                # M - Minute  = 37
                 extracted_info.append([
                     calendar_week,
-                    start_time.strftime('%Y%m%d'),
-                    start_time.strftime('%A'),
-                    start_time.strftime('%H:%M'),
+                    start_time.strftime('%Y%m%d'),  # Y - Year: 2017, m - Month: 12, d - Day: 31
+                    start_time.strftime('%A'),      # A - Weekday: Monday
+                    start_time.strftime('%H:%M'),   # H - Hour: 13, M - Minute: 37
                     end_time.strftime('%H:%M'),
                     summary
                 ])
