@@ -18,6 +18,11 @@ let upper_time_limit = '20:00';
 let free_room_flag   = false; 
 let debug_flag       = false;
 
+// TODO: fill w/ rooms
+let occupied_rooms   = [];
+let free_rooms       = [];
+
+// times used to test against JSON-data
 let times = [
     '09:15',
     '11:30',
@@ -193,17 +198,19 @@ function list_free_rooms(all_rooms, room, time_param) {
     let now_time        = time_param;
     let between         = false; 
     
+    // Iterate over every lecture on a given day for a specific room
     lectures.forEach((lecture, index) => {
         between          = check_time_in_between(lecture.begin, lecture.end, now_time);
         current_time     = parse_time_to_minutes(now_time);
         upper_time_limit = parse_time_to_minutes('20:00');
         
         if (between) {
-            end_time         = parse_time_to_minutes(lectures[index].end);
-            available_in     = minutes_to_hours(end_time - current_time);
+            end_time     = parse_time_to_minutes(lectures[index].end);
+            available_in = minutes_to_hours(end_time - current_time);
+            last_lecture = index + 1 === lectures_number;
             
             // Last lecture for this day
-            if (index + 1 === lectures_number) {
+            if (last_lecture) {
                 if (debug_flag) {
                     console.log(
                         '%cLast lecture!', 
@@ -233,38 +240,41 @@ function list_free_rooms(all_rooms, room, time_param) {
             console.log(lecture.summary);
             
             free_room_flag = true;
-        } else {
-            begin_time = parse_time_to_minutes(lectures[index].begin);
+            
+            return false;
+        }
+        
+        // "Else"
+        begin_time = parse_time_to_minutes(lectures[index].begin);
 
-            if (free_room_flag === false) {
-                if (current_time <= begin_time) {
-                    free_room_flag = true;
+        if (free_room_flag === false) {
+            if (current_time <= begin_time) {
+                free_room_flag = true;
 
+                console.log(
+                    `%c${room} is free for ${minutes_to_hours(begin_time - current_time)}`,
+                    'color: #4caf50; background-color: black; font-size: 15pt; padding: 3pt'
+                );
+                
+                console.log(lecture.summary);
+
+                if (index + 1 === lectures_number) {
+                    console.log('letzte Vorlesung');
+                }
+                
+            } else {
+                
+                if (index + 1 === lectures_number) {
+                    if (debug_flag) console.log('letzte Vorlesung - danach');
+                        
+                    available_time = minutes_to_hours(upper_time_limit - current_time);
+                
                     console.log(
-                        `%c${room} is free for ${minutes_to_hours(begin_time - current_time)}`,
+                        `%c${room} is free for ${available_time}`,
                         'color: #4caf50; background-color: black; font-size: 15pt; padding: 3pt'
                     );
                     
                     console.log(lecture.summary);
-
-                    if (index + 1 === lectures_number) {
-                        console.log('letzte Vorlesung');
-                    }
-                    
-                } else {
-                    
-                    if (index + 1 === lectures_number) {
-                        if (debug_flag) console.log('letzte Vorlesung - danach');
-                            
-                        available_time = minutes_to_hours(upper_time_limit - current_time);
-                    
-                        console.log(
-                            `%c${room} is free for ${available_time}`,
-                            'color: #4caf50; background-color: black; font-size: 15pt; padding: 3pt'
-                        );
-                        
-                        console.log(lecture.summary);
-                    }
                 }
             }
         }
