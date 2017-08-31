@@ -192,14 +192,17 @@ function check_time_in_between(lecture_begin, lecture_end, current_time) {
  * @return {[type]}              [description]
  */
 function list_free_rooms(all_rooms, room, time_param) {
-    let room_object     = all_rooms[room];
-    let lectures        = room_object.days[today];
+    let room_object  = all_rooms[room];
+    let lectures     = room_object.days[today];
     let display_text = `${room} is available (no lectures today)`;
     
     if (lectures === undefined) {
         console.log(
             `%c${display_text}`,
-            'color: #4caf50; background-color: black; font-size: 15pt; padding: 3pt'
+            `color: #4caf50; 
+            background-color: black; 
+            font-size: 15pt; 
+            padding: 3pt`
         );
         
         free_rooms.push({
@@ -241,7 +244,7 @@ function list_free_rooms(all_rooms, room, time_param) {
                 available_time = minutes_to_hours(minutes);
                 
                 console.log(
-                    `%c${room} available in ${available_in} ⏱ for the rest of the day (${available_time})`,
+                    `%c${room} available in ${available_in} ⏱ for the rest of the day`,
                     'color: #FF9800; background-color: black; black; font-size: 15pt; padding: 3pt'
                 );
                 console.log(lecture.summary);
