@@ -39,6 +39,16 @@ window.onload = () => {
             );
             
             find_available_rooms(result, time);
+            console.log(free_rooms);
+            
+            data = _(free_rooms).chain()
+                .sortBy('minutes')
+                .reverse()
+                .value();
+                
+            console.log(data);
+            
+            free_rooms = [];
         });
     });
 };
@@ -184,12 +194,20 @@ function check_time_in_between(lecture_begin, lecture_end, current_time) {
 function list_free_rooms(all_rooms, room, time_param) {
     let room_object     = all_rooms[room];
     let lectures        = room_object.days[today];
+    let display_text = `${room} is available (no lectures today)`;
     
     if (lectures === undefined) {
         console.log(
-            `%cRoom is available (no lectures today)`,
+            `%c${display_text}`,
             'color: #4caf50; background-color: black; font-size: 15pt; padding: 3pt'
         );
+        
+        free_rooms.push({
+            'room'         : room,
+            'minutes'      : undefined,
+            'summary'      : '',
+            'display_text' : display_text
+        });
         
         return false;
     }
@@ -197,6 +215,7 @@ function list_free_rooms(all_rooms, room, time_param) {
     let lectures_number = lectures.length;
     let now_time        = time_param;
     let between         = false; 
+    let minutes;
     
     // Iterate over every lecture on a given day for a specific room
     lectures.forEach((lecture, index) => {
@@ -218,7 +237,9 @@ function list_free_rooms(all_rooms, room, time_param) {
                     );
                 }
                 
-                available_time = minutes_to_hours(upper_time_limit - end_time);
+                minutes = upper_time_limit - end_time;
+                available_time = minutes_to_hours(minutes);
+                
                 console.log(
                     `%c${room} available in ${available_in} ⏱ for the rest of the day (${available_time})`,
                     'color: #FF9800; background-color: black; black; font-size: 15pt; padding: 3pt'
@@ -249,12 +270,25 @@ function list_free_rooms(all_rooms, room, time_param) {
 
         if (free_room_flag === false) {
             if (current_time <= begin_time) {
-                free_room_flag = true;
+                free_room_flag     = true;
+                minutes            = begin_time - current_time;
+                let available_time = minutes_to_hours(minutes);
+                display_text       = `${room} is free for ${available_time}`;
 
                 console.log(
-                    `%c${room} is free for ${minutes_to_hours(begin_time - current_time)}`,
-                    'color: #4caf50; background-color: black; font-size: 15pt; padding: 3pt'
+                    `%c${room} is free for ${available_time}`,
+                    `color: #4caf50; 
+                    background-color: black; 
+                    font-size: 15pt; 
+                    padding: 3pt`
                 );
+                
+                free_rooms.push({
+                    'room'         : room,
+                    'minutes'      : minutes,
+                    'summary'      : lecture.summary,
+                    'display_text' : display_text
+                });
                 
                 console.log(lecture.summary);
 
@@ -262,26 +296,37 @@ function list_free_rooms(all_rooms, room, time_param) {
                     console.log('letzte Vorlesung');
                 }
                 
-            } else {
+                return false;
+            } 
+
+            // Else
+            if (index + 1 === lectures_number) {
+                if (debug_flag) console.log('letzte Vorlesung - danach');
+                minutes        = upper_time_limit - current_time;
+                available_time = minutes_to_hours(minutes);
+                display_text   = `${room} is free for ${available_time}`;
+            
+                console.log(
+                    `%c${display_text}`,
+                    `color: #4caf50; 
+                    background-color: black; 
+                    font-size: 15pt; 
+                    padding: 3pt`
+                );
                 
-                if (index + 1 === lectures_number) {
-                    if (debug_flag) console.log('letzte Vorlesung - danach');
-                        
-                    available_time = minutes_to_hours(upper_time_limit - current_time);
+                free_rooms.push({
+                    'room'         : room,
+                    'minutes'      : minutes,
+                    'summary'      : lecture.summary,
+                    'display_text' : display_text
+                });
                 
-                    console.log(
-                        `%c${room} is free for ${available_time}`,
-                        'color: #4caf50; background-color: black; font-size: 15pt; padding: 3pt'
-                    );
-                    
-                    console.log(lecture.summary);
-                }
+                console.log(lecture.summary);
             }
         }
     });
     
     free_room_flag = false;
-    
     return lectures;
 }
 
@@ -322,6 +367,7 @@ function get_current_time() {
     return `${hours}:${minutes}`;
 }
 
+
 /**
  * Parses time string into a hours and minutes variable
  * 
@@ -333,6 +379,7 @@ function parse_time_to_minutes(time_string) {
     let rel = parseInt(hours * 60) + parseInt(minutes); 
     return rel;
 }
+
 
 /**
  * Receives minutes and converts it to hours and minutes 
