@@ -317,12 +317,6 @@ function list_free_rooms(all_rooms, room, time_param) {
                     'display_text'  : display_text
                 });
                 
-                console.log(lecture.summary);
-
-                if (index + 1 === lectures_number) {
-                    console.log('letzte Vorlesung');
-                }
-                
                 return false;
             } 
 
@@ -346,8 +340,6 @@ function list_free_rooms(all_rooms, room, time_param) {
                     'available_for' : minutes,
                     'display_text'  : display_text
                 });
-                
-                console.log(lecture.summary);
             }
         }
     });
