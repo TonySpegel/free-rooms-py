@@ -39,16 +39,23 @@ window.onload = () => {
             );
             
             find_available_rooms(result, time);
-            console.log(free_rooms);
             
-            data = _(free_rooms).chain()
-                .sortBy('minutes')
-                .reverse()
-                .value();
+            free_rooms_sorted = 
+                _(free_rooms).chain()
+                    .sortBy('available_for')
+                    .reverse()
+                    .value();
                 
-            console.log(data);
+            occupied_rooms_sorted = 
+                _(occupied_rooms).chain()
+                    .sortBy('available_in')
+                    .value();
             
-            free_rooms = [];
+            console.log(free_rooms_sorted);
+            console.log(occupied_rooms_sorted);
+            
+            free_rooms     = [];
+            occupied_rooms = [];
         });
     });
 };
@@ -208,7 +215,6 @@ function list_free_rooms(all_rooms, room, time_param) {
         free_rooms.push({
             'room'         : room,
             'minutes'      : undefined,
-            'summary'      : '',
             'display_text' : display_text
         });
         
@@ -245,8 +251,19 @@ function list_free_rooms(all_rooms, room, time_param) {
                 
                 console.log(
                     `%c${room} available in ${available_in} ⏱ for the rest of the day`,
-                    'color: #FF9800; background-color: black; black; font-size: 15pt; padding: 3pt'
+                    `color: #FF9800; 
+                    background-color: black;
+                    font-size: 15pt; 
+                    padding: 3pt`
                 );
+                
+                occupied_rooms.push({
+                    'room'          : room,
+                    'available_in'  : end_time - current_time,
+                    'available_for' : undefined,
+                    'summary'       : lecture.summary,
+                });
+                
                 console.log(lecture.summary);
                 console.log('');
                 
@@ -255,13 +272,21 @@ function list_free_rooms(all_rooms, room, time_param) {
             
             let next_lecture   = index + 1;
             begin_next_lecture = parse_time_to_minutes(lectures[next_lecture].begin);
-            available_time     = minutes_to_hours(begin_next_lecture - end_time);
+            minutes            = begin_next_lecture - end_time;
+            available_time     = minutes_to_hours(minutes);
             
             console.log(
                 `%c${room} is available in ${available_in} ⏱ for ${available_time}`,
                 'color: #FF9800; background-color: black; black; font-size: 15pt; padding: 3pt'
             );
             console.log(lecture.summary);
+            
+            occupied_rooms.push({
+                'room'          : room,
+                'available_in'  : end_time - current_time,
+                'available_for' : minutes,
+                'summary'       : lecture.summary
+            });
             
             free_room_flag = true;
             
@@ -287,10 +312,9 @@ function list_free_rooms(all_rooms, room, time_param) {
                 );
                 
                 free_rooms.push({
-                    'room'         : room,
-                    'minutes'      : minutes,
-                    'summary'      : lecture.summary,
-                    'display_text' : display_text
+                    'room'          : room,
+                    'available_for' : minutes,
+                    'display_text'  : display_text
                 });
                 
                 console.log(lecture.summary);
@@ -318,10 +342,9 @@ function list_free_rooms(all_rooms, room, time_param) {
                 );
                 
                 free_rooms.push({
-                    'room'         : room,
-                    'minutes'      : minutes,
-                    'summary'      : lecture.summary,
-                    'display_text' : display_text
+                    'room'          : room,
+                    'available_for' : minutes,
+                    'display_text'  : display_text
                 });
                 
                 console.log(lecture.summary);
