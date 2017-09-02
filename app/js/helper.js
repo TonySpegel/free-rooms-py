@@ -11,16 +11,14 @@
 // TODO: implement offset_time
 let building_number_input;
 let floor_number_input;
-let today            = 'Friday';
-let current_time     = '10:00';
-let offset_time      = '00:30'; // At least this much time should be available
+let today            = 'Friday'; 
+let current_time     = '10:00';  // TODO: current time or user chosen
+let offset_time      = '00:30';  // At least this much time should be available
 let upper_time_limit = '20:00';
 let free_room_flag   = false; 
-let debug_flag       = false;
-
-// TODO: fill w/ rooms
-let occupied_rooms   = [];
+let debug_flag       = false;    // Used to show console.log();
 let free_rooms       = [];
+let occupied_rooms   = [];
 
 // times used to test against JSON-data
 let times = [
@@ -40,19 +38,18 @@ window.onload = () => {
             
             find_available_rooms(result, time);
             
-            free_rooms_sorted = 
-                _(free_rooms).chain()
-                    .sortBy('available_for')
-                    .reverse()
-                    .value();
-                
-            occupied_rooms_sorted = 
-                _(occupied_rooms).chain()
-                    .sortBy('available_in')
-                    .value();
+            let free_rooms_sorted = free_rooms.sort((x, y) => {
+                return y.available_for - x.available_for;
+            });
             
-            console.log(free_rooms_sorted);
-            console.log(occupied_rooms_sorted);
+            let occupied_rooms_sorted = sort_by_multiple_keys(
+                occupied_rooms,
+                'available_in',
+                'available_for'
+            );
+                        
+            console.table(occupied_rooms_sorted);
+            console.table(free_rooms_sorted);
             
             free_rooms     = [];
             occupied_rooms = [];
@@ -204,13 +201,15 @@ function list_free_rooms(all_rooms, room, time_param) {
     let display_text = `${room} is available (no lectures today)`;
     
     if (lectures === undefined) {
-        console.log(
-            `%c${display_text}`,
-            `color: #4caf50; 
-            background-color: black; 
-            font-size: 15pt; 
-            padding: 3pt`
-        );
+        if (debug_flag) {
+            console.log(
+                `%c${display_text}`,
+                `color: #4caf50; 
+                background-color: black; 
+                font-size: 15pt; 
+                padding: 3pt`
+            );
+        }
         
         free_rooms.push({
             'room'         : room,
@@ -249,23 +248,26 @@ function list_free_rooms(all_rooms, room, time_param) {
                 minutes = upper_time_limit - end_time;
                 available_time = minutes_to_hours(minutes);
                 
-                console.log(
-                    `%c${room} available in ${available_in} ⏱ for the rest of the day`,
-                    `color: #FF9800; 
-                    background-color: black;
-                    font-size: 15pt; 
-                    padding: 3pt`
-                );
+                if (debug_flag) {
+                    console.log(
+                        `%c${room} available in ${available_in} ⏱ for the rest of the day`,
+                        `color: #FF9800; 
+                        background-color: black;
+                        font-size: 15pt; 
+                        padding: 3pt`
+                    );
+                    
+                    console.log(lecture.summary);
+                    console.log('');
+                }
                 
                 occupied_rooms.push({
                     'room'          : room,
                     'available_in'  : end_time - current_time,
-                    'available_for' : undefined,
+                    'available_for' : Infinity,
                     'summary'       : lecture.summary,
                 });
                 
-                console.log(lecture.summary);
-                console.log('');
                 
                 return false;
             }
@@ -275,11 +277,13 @@ function list_free_rooms(all_rooms, room, time_param) {
             minutes            = begin_next_lecture - end_time;
             available_time     = minutes_to_hours(minutes);
             
-            console.log(
-                `%c${room} is available in ${available_in} ⏱ for ${available_time}`,
-                'color: #FF9800; background-color: black; black; font-size: 15pt; padding: 3pt'
-            );
-            console.log(lecture.summary);
+            if (debug_flag) {
+                console.log(
+                    `%c${room} is available in ${available_in} ⏱ for ${available_time}`,
+                    'color: #FF9800; background-color: black; black; font-size: 15pt; padding: 3pt'
+                );
+                console.log(lecture.summary);
+            }
             
             occupied_rooms.push({
                 'room'          : room,
@@ -303,13 +307,15 @@ function list_free_rooms(all_rooms, room, time_param) {
                 let available_time = minutes_to_hours(minutes);
                 display_text       = `${room} is free for ${available_time}`;
 
-                console.log(
-                    `%c${room} is free for ${available_time}`,
-                    `color: #4caf50; 
-                    background-color: black; 
-                    font-size: 15pt; 
-                    padding: 3pt`
-                );
+                if (debug_flag) {
+                    console.log(
+                        `%c${room} is free for ${available_time}`,
+                        `color: #4caf50; 
+                        background-color: black; 
+                        font-size: 15pt; 
+                        padding: 3pt`
+                    );
+                }
                 
                 free_rooms.push({
                     'room'          : room,
@@ -327,13 +333,15 @@ function list_free_rooms(all_rooms, room, time_param) {
                 available_time = minutes_to_hours(minutes);
                 display_text   = `${room} is free for ${available_time}`;
             
-                console.log(
-                    `%c${display_text}`,
-                    `color: #4caf50; 
-                    background-color: black; 
-                    font-size: 15pt; 
-                    padding: 3pt`
-                );
+                if (debug_flag) {
+                    console.log(
+                        `%c${display_text}`,
+                        `color: #4caf50; 
+                        background-color: black; 
+                        font-size: 15pt; 
+                        padding: 3pt`
+                    );
+                }
                 
                 free_rooms.push({
                     'room'          : room,
@@ -427,4 +435,45 @@ function minutes_to_hours(minutes) {
     plural_minutes = minutes === 1 ? '' : 's'; 
     
     return minutes === 60 ? '1 Hour' : `${minutes} Minute${plural_minutes}`;
+}
+
+/**
+ * Takes an Array which hold n-Objects which can be sorted by two keys at once.
+ * It's possible to choose the sorting-order of each key independently.
+ * 
+ * This function is used for rooms which aren't available and it's therefore
+ * more practial to list rooms that are available 
+ * earlier and longer than others first.
+ *
+ * {available_in: 10, available_for: 30}
+ * {available_in: 20, available_for: 15}
+ * {available_in: 20, available_for: 10}
+ * 
+ * @param  {Array|Object}           unsorted_array
+ * @param  {Object.property|String} first_key      // 1st key to sort 
+ * @param  {Object.property|String} second_key     // 2nd key to sort 
+ * @param  {Boolean}                [first_key_order_asc=true]
+ * @param  {Boolean}                [second_key_order_asc=false] 
+ * @return {Array|Object}           // A sorted Array
+ */
+function sort_by_multiple_keys(
+    unsorted_array, 
+    first_key, 
+    second_key,
+    first_key_order_asc = true,
+    second_key_order_asc = false
+) {
+    return unsorted_array.sort((x, y) => {
+        let n = first_key_order_asc ? 
+            x[first_key] - y[first_key]:
+            y[first_key] - x[first_key];
+        
+        if (n !== 0) {
+            return n;
+        }
+        
+        return second_key_order_asc ?
+            x[second_key] - y[second_key]:
+            y[second_key] - x[second_key]; 
+    });
 }
