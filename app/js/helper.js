@@ -88,6 +88,8 @@ window.onload = () => {
             all_rooms_html = '';
         });
     });
+
+    new Clipboard('.tsp-btn-copy');
 };
 
 

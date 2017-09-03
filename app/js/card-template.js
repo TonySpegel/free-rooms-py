@@ -36,6 +36,7 @@ function create_room_html(
         </a>`;
     }
     
+    let display_text_lowercase = display_text.charAt(0).toLowerCase() + display_text.slice(1);
     let template =
 `<div class="mdc-card ${free ? '' : 'mdc-card--room-occupied'}">
     <section class="mdc-card__primary">
@@ -63,8 +64,9 @@ function create_room_html(
         </button>
         
         <button 
-                title="Copy Lecture"
-            class="mdc-button mdc-card__action material-icons">
+            title="Copy Lecture"
+            data-clipboard-text="${room}: ${display_text_lowercase}"
+            class="mdc-button mdc-card__action material-icons tsp-btn-copy">
             content_copy
         </button>
     </section>
