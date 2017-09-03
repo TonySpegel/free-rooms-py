@@ -1,45 +1,76 @@
+.mdc-card {
+  margin-bottom: 20px;
+  width: 450px;
+  background-color: #4CAF50;
+  color: white; }
+  @media (max-width: 768px) {
+    .mdc-card {
+      width: 100%; } }
+  .mdc-card.mdc-card--room-occupied {
+    background-color: #f44336; }
+    .mdc-card.mdc-card--room-occupied .mdc-card__primary > *,
+    .mdc-card.mdc-card--room-occupied .mdc-card__actions > * {
+      color: white; }
+  .mdc-card .mdc-card__available-time {
+    margin-top: 10px;
+    padding-top: 5px;
+    border-top: 1px solid white; }
+  .mdc-card .mdc-card__supporting-text {
+    display: flex;
+    justify-content: space-around; }
+  .mdc-card .mdc-card__primary > *,
+  .mdc-card .mdc-card__actions > * {
+    color: white; }
+  .mdc-card .mdc-card__primary span {
+    display: flex;
+    align-items: center;
+    font-family: 'Roboto', sans-serif; }
+  .mdc-card .mdc-card__primary .material-icons {
+    margin-right: 10px; }
+  .mdc-card .mdc-card__actions {
+    justify-content: flex-end; }
+  .mdc-card a.mdc-card__action {
+    display: flex;
+    align-items: center;
+    justify-content: center; }
+
+.tsp-card--info {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  margin-bottom: 10px;
+  width: 450px;
+  padding: 10px;
+  background-color: #607D8B;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  font-size: 18pt; }
+  @media (max-width: 768px) {
+    .tsp-card--info {
+      width: 100%; } }
+  .tsp-card--info.--announcement {
+    background-color: black; }
+    .tsp-card--info.--announcement a {
+      display: flex;
+      align-items: center;
+      justify-content: space-around;
+      width: 100%;
+      color: white;
+      font-size: 12pt;
+      text-decoration: none; }
+    .tsp-card--info.--announcement img {
+      width: 50px; }
+
 @font-face {
   font-family: 'Roboto';
   font-style: normal;
   font-weight: 400;
   src: local("Roboto"), local("Roboto-Regular"), url("../fonts/roboto-regular.woff2") format("woff2") url("../fonts/roboto-regular.woff") format("woff"); }
 
-body {
+main {
   display: flex;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
-  flex-direction: column;
-  margin: 0;
-  height: 100vh;
-  background-color: #607d8b;
-  color: white;
-  font-family: Roboto, sans-serif; }
-
-* {
-  box-sizing: border-box; }
-
-form {
-  display: flex;
-  width: 350px;
-  padding: 10px;
-  align-items: center;
-  justify-content: space-between; }
-  form .form__left {
-    display: flex;
-    flex-direction: column; }
-  form label, form button {
-    margin-bottom: 10px; }
-
-input {
-  text-align: center; }
-
-button {
-  color: white;
-  cursor: pointer;
-  border-style: none;
-  border-radius: 2px;
-  padding: 5px;
-  background-color: #2196f3;
-  box-shadow: 0 1px 1.5px 0 rgba(0, 0, 0, 0.12), 0 1px 1px 0 rgba(0, 0, 0, 0.24); }
-  button:hover, button:focus {
-    background-color: #51adf6; }
+  width: 100%; }

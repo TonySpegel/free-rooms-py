@@ -1,0 +1,98 @@
+@import '_viewports';
+
+.mdc-card {
+    margin-bottom: 20px;
+    width: 450px;
+    
+    @include till-tablet { 
+        width: 100%;
+    }
+    
+    &.mdc-card--room-occupied {
+        background-color: #f44336;
+        
+        .mdc-card__primary > *, 
+        .mdc-card__actions > * {
+            color: white;
+        }
+        
+    }
+    
+    background-color: #4CAF50;
+    color: white;
+    
+    .mdc-card__available-time {
+        margin-top: 10px;
+        padding-top: 5px;
+        border-top: 1px solid white;
+    }
+    
+    .mdc-card__supporting-text {
+        display: flex;
+        justify-content: space-around;
+    }
+    
+    .mdc-card__primary > *, 
+    .mdc-card__actions > * {
+        color: white;
+    }
+    
+    .mdc-card__primary {
+        span {
+            display: flex;
+            align-items: center;
+            font-family: 'Roboto', sans-serif;
+        }
+        .material-icons {
+            margin-right: 10px;
+        }
+    }
+    
+    .mdc-card__actions {
+        justify-content: flex-end;
+    }
+    
+    a.mdc-card__action {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+}
+
+.tsp-card--info {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    
+    margin-bottom: 10px;
+    width: 450px;
+    padding: 10px;
+    
+    background-color: #607D8B;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18pt;
+    
+    @include till-tablet { 
+        width: 100%;
+    }
+    
+    &.--announcement {
+        background-color: black;
+        a {
+            display: flex;
+            align-items: center;
+            justify-content: space-around;;
+            
+            width: 100%;
+            
+            color: white;
+            font-size: 12pt;
+            text-decoration: none;
+        }
+        img {
+            width: 50px;
+        }
+    }
+}
