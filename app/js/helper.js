@@ -247,14 +247,14 @@ function list_free_rooms(all_rooms, room, time_param, room_id) {
         }
         
         free_rooms.push({
-            'free'         : true,
-            'room'         : room,
-            'building'     : building,
-            'floor'        : floor,
-            'room_nr'      : room_nr,
-            'minutes'      : undefined,
-            'display_text' : display_text,
-            'room_id'      : undefined
+            'free'    : true,
+            room,
+            building,
+            floor,
+            room_nr,
+            'minutes' : undefined,
+            display_text,
+            'room_id' : undefined
         });
         
         return false;
@@ -303,15 +303,15 @@ function list_free_rooms(all_rooms, room, time_param, room_id) {
                 
                 occupied_rooms.push({
                     'free'          : false,
-                    'room'          : room,
-                    'building'      : building,
-                    'floor'         : floor,
-                    'room_nr'       : room_nr,
+                    room,
+                    building,
+                    floor,
+                    room_nr,
                     'available_in'  : end_time - current_time,
                     'available_for' : Infinity,
                     'summary'       : lecture.summary,
                     'display_text'  : `Available in ${available_in} (rest of the day)`,
-                    'room_id'       : room_id
+                    room_id
                 });
                 
                 
@@ -333,15 +333,15 @@ function list_free_rooms(all_rooms, room, time_param, room_id) {
             
             occupied_rooms.push({
                 'free'          : false,
-                'room'          : room,
-                'building'      : building,
-                'floor'         : floor,
-                'room_nr'       : room_nr,
+                room,
+                building,
+                floor,
+                room_nr,
                 'available_in'  : end_time - current_time,
                 'available_for' : minutes,
                 'summary'       : lecture.summary,
-                'display_text'  : display_text,
-                'room_id'       : room_id
+                display_text,
+                room_id
             });
             
             free_room_flag = true;
@@ -371,13 +371,13 @@ function list_free_rooms(all_rooms, room, time_param, room_id) {
                 
                 free_rooms.push({
                     'free'          : true,
-                    'room'          : room,
-                    'building'      : building,
-                    'floor'         : floor,
-                    'room_nr'       : room_nr,
+                    room,
+                    building,
+                    floor,
+                    room_nr,
                     'available_for' : minutes,
-                    'display_text'  : display_text,
-                    'room_id'       : room_id
+                    display_text,
+                    room_id
                 });
                 
                 return false;
@@ -402,12 +402,12 @@ function list_free_rooms(all_rooms, room, time_param, room_id) {
                 
                 free_rooms.push({
                     'free'          : true,
-                    'room'          : room,
-                    'building'      : building,
-                    'floor'         : floor,
-                    'room_nr'       : room_nr,
+                    room,
+                    building,
+                    floor,
+                    room_nr,
                     'available_for' : minutes,
-                    'display_text'  : display_text
+                    display_text
                 });
             }
         }
