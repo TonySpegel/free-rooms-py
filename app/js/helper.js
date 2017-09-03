@@ -12,13 +12,15 @@
 let building_number_input;
 let floor_number_input;
 let today            = 'Friday'; 
-let current_time     = '10:00';  // TODO: current time or user chosen
 let offset_time      = '00:30';  // At least this much time should be available
 let upper_time_limit = '20:00';
+let calendar_week    = '14';
 let free_room_flag   = false; 
 let debug_flag       = false;    // Used to show console.log();
 let free_rooms       = [];
 let occupied_rooms   = [];
+let all_rooms_list   = [];       // Includes free_rooms_sorted & occupied_rooms_sorted
+let all_rooms_html   = '';
 
 // times used to test against JSON-data
 let times = [
@@ -29,11 +31,19 @@ let times = [
 ];
 
 window.onload = () => {
-    fetch_calendar_week_json('14').then(result => {
+    const MAIN_WRAPPER = document.querySelector('#target'); 
+    fetch_calendar_week_json(calendar_week).then(result => {
         times.forEach(time => {
             console.log(
                 `%cTEST: ${time}`,
                 'background-color: #109; color: #9e9e9e; font-size: 15pt; padding: 3pt'
+            );
+            
+            MAIN_WRAPPER.insertAdjacentHTML(
+                'beforeend', 
+                `<div class="tsp-card--info">
+                    Test: ${today}, Week: ${calendar_week}, ${time}
+                </div>`
             );
             
             find_available_rooms(result, time);
@@ -47,12 +57,35 @@ window.onload = () => {
                 'available_in',
                 'available_for'
             );
-                        
-            console.table(occupied_rooms_sorted);
-            console.table(free_rooms_sorted);
+    
+            // Combine free and occupied rooms
+            all_rooms_list = [
+                ...free_rooms_sorted,
+                ...occupied_rooms_sorted
+            ];
             
+            console.table(all_rooms_list);
+            
+            all_rooms_list.forEach(entry => {
+                all_rooms_html += create_room_html(
+                    entry.free,
+                    entry.room,
+                    entry.building,
+                    entry.floor,
+                    entry.room_nr,
+                    entry.summary,
+                    entry.display_text,
+                    entry.room_id
+                );
+            });
+            
+            MAIN_WRAPPER.insertAdjacentHTML(
+                'beforeend', all_rooms_html
+            );
+
             free_rooms     = [];
             occupied_rooms = [];
+            all_rooms_html = '';
         });
     });
 };
@@ -101,7 +134,7 @@ function test_all(rooms, time) {
     let rooms_top_level_keys = Object.keys(rooms);
     // Iterate through each of this rooms
     rooms_top_level_keys.forEach(key => {
-        list_free_rooms(rooms, key, time);
+        list_free_rooms(rooms, key, time, rooms[key].id);
     });
 }
 
@@ -195,11 +228,13 @@ function check_time_in_between(lecture_begin, lecture_end, current_time) {
  * @param  {[type]} current_time [description]
  * @return {[type]}              [description]
  */
-function list_free_rooms(all_rooms, room, time_param) {
-    let room_object  = all_rooms[room];
-    let lectures     = room_object.days[today];
-    let display_text = `${room} is available (no lectures today)`;
+function list_free_rooms(all_rooms, room, time_param, room_id) {
+    let room_object            = all_rooms[room];
+    let lectures               = room_object.days[today];
+    let display_text           = `${room} is available (no lectures today)`;
+    [building, floor, room_nr] = split_room_string(room);
     
+    // No lectures this day
     if (lectures === undefined) {
         if (debug_flag) {
             console.log(
@@ -212,9 +247,14 @@ function list_free_rooms(all_rooms, room, time_param) {
         }
         
         free_rooms.push({
+            'free'         : true,
             'room'         : room,
+            'building'     : building,
+            'floor'        : floor,
+            'room_nr'      : room_nr,
             'minutes'      : undefined,
-            'display_text' : display_text
+            'display_text' : display_text,
+            'room_id'      : undefined
         });
         
         return false;
@@ -262,10 +302,16 @@ function list_free_rooms(all_rooms, room, time_param) {
                 }
                 
                 occupied_rooms.push({
+                    'free'          : false,
                     'room'          : room,
+                    'building'      : building,
+                    'floor'         : floor,
+                    'room_nr'       : room_nr,
                     'available_in'  : end_time - current_time,
                     'available_for' : Infinity,
                     'summary'       : lecture.summary,
+                    'display_text'  : `Available in ${available_in} (rest of the day)`,
+                    'room_id'       : room_id
                 });
                 
                 
@@ -276,20 +322,26 @@ function list_free_rooms(all_rooms, room, time_param) {
             begin_next_lecture = parse_time_to_minutes(lectures[next_lecture].begin);
             minutes            = begin_next_lecture - end_time;
             available_time     = minutes_to_hours(minutes);
-            
+            display_text       = `Available in ${available_in} for ${available_time}`;
             if (debug_flag) {
                 console.log(
-                    `%c${room} is available in ${available_in} ⏱ for ${available_time}`,
+                    `%${display_text}`,
                     'color: #FF9800; background-color: black; black; font-size: 15pt; padding: 3pt'
                 );
                 console.log(lecture.summary);
             }
             
             occupied_rooms.push({
+                'free'          : false,
                 'room'          : room,
+                'building'      : building,
+                'floor'         : floor,
+                'room_nr'       : room_nr,
                 'available_in'  : end_time - current_time,
                 'available_for' : minutes,
-                'summary'       : lecture.summary
+                'summary'       : lecture.summary,
+                'display_text'  : display_text,
+                'room_id'       : room_id
             });
             
             free_room_flag = true;
@@ -305,7 +357,7 @@ function list_free_rooms(all_rooms, room, time_param) {
                 free_room_flag     = true;
                 minutes            = begin_time - current_time;
                 let available_time = minutes_to_hours(minutes);
-                display_text       = `${room} is free for ${available_time}`;
+                display_text       = `Available for ${available_time}`;
 
                 if (debug_flag) {
                     console.log(
@@ -318,20 +370,25 @@ function list_free_rooms(all_rooms, room, time_param) {
                 }
                 
                 free_rooms.push({
+                    'free'          : true,
                     'room'          : room,
+                    'building'      : building,
+                    'floor'         : floor,
+                    'room_nr'       : room_nr,
                     'available_for' : minutes,
-                    'display_text'  : display_text
+                    'display_text'  : display_text,
+                    'room_id'       : room_id
                 });
                 
                 return false;
             } 
 
-            // Else
+            // Else - Available for the rest of the day
             if (index + 1 === lectures_number) {
                 if (debug_flag) console.log('letzte Vorlesung - danach');
                 minutes        = upper_time_limit - current_time;
                 available_time = minutes_to_hours(minutes);
-                display_text   = `${room} is free for ${available_time}`;
+                display_text   = `Available for the rest of the day`;
             
                 if (debug_flag) {
                     console.log(
@@ -344,7 +401,11 @@ function list_free_rooms(all_rooms, room, time_param) {
                 }
                 
                 free_rooms.push({
+                    'free'          : true,
                     'room'          : room,
+                    'building'      : building,
+                    'floor'         : floor,
+                    'room_nr'       : room_nr,
                     'available_for' : minutes,
                     'display_text'  : display_text
                 });
@@ -476,4 +537,40 @@ function sort_by_multiple_keys(
             x[second_key] - y[second_key]:
             y[second_key] - x[second_key]; 
     });
+}
+
+/**
+ * Returns and index of a given pattern after its n-th occurrence.
+ * 
+ * @param  {String} str
+ * @param  {String} pattern
+ * @param  {Number} nth_occurrence
+ * 
+ * @return {Index}
+ */
+function nth_index(str, pattern, nth_occurrence){
+    const STR_LENGTH = str.length;
+    let i = -1;
+        
+    while(nth_occurrence-- && i++< STR_LENGTH){
+        i= str.indexOf(pattern, i);
+        if (i < 0) break;
+    }
+    return i;
+}
+
+/**
+ * room_str can contain more than two dots, which shouldn't be split.
+ * Therefore another function (nth_index) is used, which splits only 
+ * the first two occurrences of a dot.
+ * 
+ * @param  {String} room_str
+ * @return {Array|String}
+ */
+function split_room_string(room_str) {
+    [building, floor] = room_str.split('.');
+    let room_nr_index = nth_index(room_str, '.', 2) + 1;
+    let room_nr       = room_str.slice(room_nr_index, room_str.length);
+    
+    return [building, floor, room_nr];
 }
