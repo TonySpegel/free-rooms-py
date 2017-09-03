@@ -4,7 +4,10 @@
         <meta charset="utf-8">
         <title>Free Rooms EAH</title>
         <link rel="icon" type="image/png" href="./img/ic_today_black_48dp_2x.png" sizes="96x96"> 
+        <script src="./js/card-template.js"></script>
         <script src="./js/helper.js"></script>
+        <link rel="stylesheet" href="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.css">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
         <link rel="stylesheet" href="./css/main.css">
 
         <meta name="description" content="Tool to find unoccupied rooms">
@@ -13,53 +16,16 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
     </head>
     <body>
-        <h1>Free Rooms EAH</h1>
-        
-        <form>
-            <div class="form__left">
-                <label>
-                    Building:
-                    <select>
-                        <option value="All">All</option>
-                        <option value="01">1</option>
-                        <option value="02">2</option>
-                        <option value="03">3</option>
-                        <option value="04">4</option>
-                        <option value="05">5</option>
-                    </select>
-                </label>
-                
-                <label>
-                    Floor:
-                    <select>
-                        <option value="All">All</option>
-                        <option value="-1">-1</option>
-                        <option value="00">0</option>
-                        <option value="01">1</option>
-                        <option value="02">2</option>
-                        <option value="03">3</option>
-                    </select>
-                </label>
-                
-                <label>
-                    Minimum available time
-                    <select>
-                        <option value="5">5</option>
-                        <option value="10">10</option>
-                        <option value="15">15</option>
-                        <option value="30" selected>30</option>
-                        <option value="60">60</option>
-                        <option value="120">120</option>
-                        <option value="180">180</option>
-                    </select>
-                </label>
+        <main id="target">
+            <div class="tsp-card--info --announcement">
+                <a target="_blank" href="https://github.com/TonySpegel/free-rooms-web">
+                    <img src="./img/ic_github_circle_white_48dp.png" alt="">
+                    Project not yet finished, see more at Github.
+                </a>
             </div>
+        </main>
             
-            <div class="form__right">
-                <button type="button">Find Rooms</button>
-            </div>
-            
-        </form>
-        <!-- <button id="btn-find-rooms">Find Rooms</button> -->
+        <script src="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.js"></script>
+        <script>window.mdc.autoInit();</script>
     </body>
 </html>
