@@ -1,24 +1,24 @@
 {
+    "room": "01.01.16",
     "id": "SPLUSCD919A",
+    "room_number": "16",
     "days": {
         "Monday": [
             {
-                "end": "11:00",
                 "summary": "Klier, Werner, C.: MT(MA)Med.GT/P/01",
-                "begin": "08:00"
+                "begin": "08:00",
+                "end": "11:00"
             }
         ],
         "Wednesday": [
             {
-                "end": "15:00",
                 "summary": "Klier, Werner, C.: MT(MA)Med.GT/P/02",
-                "begin": "12:00"
+                "begin": "12:00",
+                "end": "15:00"
             }
         ]
     },
-    "room_number": "16",
-    "cw": "20",
     "building": "01",
     "floor": "01",
-    "room": "01.01.16"
+    "cw": "20"
 }
