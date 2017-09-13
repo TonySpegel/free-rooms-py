@@ -1,0 +1,3931 @@
+{
+    "05.-1.232": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "07:45",
+                    "end": "14:30",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "05.03.37 (HS2)": {
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "07:45",
+                    "end": "09:15",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "11:15",
+                    "end": "12:45",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "13:30",
+                    "end": "15:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "17:00",
+                    "end": "18:30",
+                    "summary": "summary text"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "13:30",
+                    "end": "15:00",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "04.03.10": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "13:00",
+                    "end": "15:15",
+                    "summary": "summary text"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "07:45",
+                    "end": "09:15",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "13:30",
+                    "end": "15:00",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "05.03.43 (HS4)": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "08:00",
+                    "end": "14:30",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "15:15",
+                    "end": "16:45",
+                    "summary": "summary text"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "07:45",
+                    "end": "09:15",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "13:15",
+                    "end": "19:45",
+                    "summary": "summary text"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "07:45",
+                    "end": "09:15",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "15:15",
+                    "end": "16:45",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "05.-1.230": {
+        "days": {
+            "Thursday": [
+                {
+                    "begin": "08:00",
+                    "end": "11:00",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "05.02.39": {
+        "days": {
+            "Thursday": [
+                {
+                    "begin": "08:00",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "15:15",
+                    "end": "18:15",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "03.01.36": {
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "08:00",
+                    "end": "11:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "08:00",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "12:00",
+                    "end": "15:00",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "04.00.15/FA": {
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "15:15",
+                    "end": "18:15",
+                    "summary": "summary text"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "08:00",
+                    "end": "11:00",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "05.02.49": {
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "08:00",
+                    "end": "11:00",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "04.03.12": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "13:30",
+                    "end": "15:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "07:45",
+                    "end": "09:15",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "13:30",
+                    "end": "15:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "07:45",
+                    "end": "09:15",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "15:15",
+                    "end": "16:45",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "05.03.02 (HS5)": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "13:30",
+                    "end": "15:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Saturday": [
+                {
+                    "begin": "10:00",
+                    "end": "11:30",
+                    "summary": "summary text"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "13:30",
+                    "end": "15:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "18:00",
+                    "end": "22:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "03.01.39": {
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "08:00",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "12:00",
+                    "end": "15:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "12:00",
+                    "end": "15:00",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "04.00.11": {
+        "days": {
+            "Thursday": [
+                {
+                    "begin": "08:00",
+                    "end": "11:00",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "04.02.09": {
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "12:00",
+                    "end": "15:00",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "05.03.33": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "07:45",
+                    "end": "09:15",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "13:30",
+                    "end": "15:00",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "04.01.04": {
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "13:30",
+                    "end": "16:30",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "04.02.10": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "08:00",
+                    "end": "11:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "12:00",
+                    "end": "15:00",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "03.01.12": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "08:00",
+                    "end": "11:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "08:00",
+                    "end": "11:00",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "05.00.12": {
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "08:00",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "12:00",
+                    "end": "15:00",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "05.03.204": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "07:45",
+                    "end": "09:15",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "08:00",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "13:30",
+                    "end": "15:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "15:15",
+                    "end": "16:45",
+                    "summary": "summary text"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "08:00",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "13:30",
+                    "end": "15:00",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "05.02.26": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "08:00",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "11:30",
+                    "end": "14:30",
+                    "summary": "summary text"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "08:00",
+                    "end": "11:00",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "04.00.37": {
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "08:00",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "04.-1.11": {
+        "days": {
+            "Thursday": [
+                {
+                    "begin": "12:00",
+                    "end": "15:00",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "05.02.36": {
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "15:15",
+                    "end": "18:15",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "04.03.11": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "07:45",
+                    "end": "09:15",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "13:30",
+                    "end": "15:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "15:15",
+                    "end": "16:45",
+                    "summary": "summary text"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "08:00",
+                    "end": "09:15",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "07:45",
+                    "end": "09:15",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "13:30",
+                    "end": "15:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "17:00",
+                    "end": "18:30",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "05.03.40 (HS3)": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "13:30",
+                    "end": "15:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "13:30",
+                    "end": "15:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "07:45",
+                    "end": "09:15",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "13:30",
+                    "end": "15:00",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "03.02.11": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "08:00",
+                    "end": "11:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "13:30",
+                    "end": "16:30",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "04.00.17": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "08:00",
+                    "end": "11:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "08:00",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "12:00",
+                    "end": "15:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "15:15",
+                    "end": "18:15",
+                    "summary": "summary text"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "08:00",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "12:00",
+                    "end": "15:00",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "05.02.12": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "11:15",
+                    "end": "12:45",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "15:15",
+                    "end": "18:15",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "04.02.12": {
+        "days": {
+            "Thursday": [
+                {
+                    "begin": "08:00",
+                    "end": "11:00",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "04.00.09(CAM)": {
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "08:00",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "12:00",
+                    "end": "15:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "15:15",
+                    "end": "18:15",
+                    "summary": "summary text"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "15:15",
+                    "end": "16:45",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "05.-1.217": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "08:00",
+                    "end": "11:00",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "03.00.19": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "07:45",
+                    "end": "09:15",
+                    "summary": "summary text"
+                }
+            ],
+            "Monday": [
+                {
+                    "begin": "18:30",
+                    "end": "20:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "17:00",
+                    "end": "18:30",
+                    "summary": "summary text"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "08:00",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "13:30",
+                    "end": "15:00",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "04.00.04/2": {
+        "days": {
+            "Thursday": [
+                {
+                    "begin": "15:15",
+                    "end": "18:15",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "04.00.18": {
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "12:00",
+                    "end": "15:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "15:15",
+                    "end": "18:15",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "05.03.36": {
+        "days": {
+            "Sunday": [
+                {
+                    "begin": "08:00",
+                    "end": "18:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Friday": [
+                {
+                    "begin": "08:00",
+                    "end": "18:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Saturday": [
+                {
+                    "begin": "08:00",
+                    "end": "18:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "08:00",
+                    "end": "18:00",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "04.-1.13": {
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "13:30",
+                    "end": "16:30",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "03.00.43": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "07:45",
+                    "end": "09:15",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "11:15",
+                    "end": "12:45",
+                    "summary": "summary text"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "13:30",
+                    "end": "15:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "13:30",
+                    "end": "15:00",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "04.00.12": {
+        "days": {
+            "Thursday": [
+                {
+                    "begin": "12:00",
+                    "end": "15:00",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "05.03.01": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "09:30",
+                    "end": "12:30",
+                    "summary": "summary text"
+                }
+            ],
+            "Saturday": [
+                {
+                    "begin": "13:00",
+                    "end": "14:30",
+                    "summary": "summary text"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "13:30",
+                    "end": "15:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "15:15",
+                    "end": "18:15",
+                    "summary": "summary text"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "17:00",
+                    "end": "18:30",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "03.01.13": {
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "08:00",
+                    "end": "11:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "12:00",
+                    "end": "15:00",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "04.00.10": {
+        "days": {
+            "Thursday": [
+                {
+                    "begin": "08:00",
+                    "end": "11:00",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "03.03.10/1": {
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "15:15",
+                    "end": "18:15",
+                    "summary": "summary text"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "08:00",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "11:00",
+                    "end": "12:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "12:00",
+                    "end": "15:00",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "05.03.229": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "13:30",
+                    "end": "15:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "17:00",
+                    "end": "18:30",
+                    "summary": "summary text"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "13:30",
+                    "end": "15:00",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "03.02.17": {
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "13:30",
+                    "end": "16:30",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "04.02.13": {
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "15:15",
+                    "end": "18:15",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "03.00.14/15": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "08:00",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "11:30",
+                    "end": "14:30",
+                    "summary": "summary text"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "15:15",
+                    "end": "18:15",
+                    "summary": "summary text"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "08:00",
+                    "end": "11:00",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "04.01.03": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "11:30",
+                    "end": "14:30",
+                    "summary": "summary text"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "13:30",
+                    "end": "16:30",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "05.-1.229": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "08:00",
+                    "end": "11:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "08:00",
+                    "end": "11:00",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "05.03.201": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "07:45",
+                    "end": "09:15",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "11:15",
+                    "end": "12:45",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "13:30",
+                    "end": "19:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Saturday": [
+                {
+                    "begin": "08:00",
+                    "end": "18:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "15:15",
+                    "end": "16:45",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "18:30",
+                    "end": "21:30",
+                    "summary": "summary text"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "07:45",
+                    "end": "09:15",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "13:30",
+                    "end": "15:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "17:00",
+                    "end": "18:30",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "03.03.10/2": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "13:30",
+                    "end": "15:45",
+                    "summary": "summary text"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "11:15",
+                    "end": "13:30",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "04.00.01(HS6)": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "07:45",
+                    "end": "09:15",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "14:00",
+                    "end": "15:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "07:45",
+                    "end": "09:15",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "13:30",
+                    "end": "15:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "13:30",
+                    "end": "15:00",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "04.-1.17(SimLab)": {
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "07:45",
+                    "end": "09:15",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "13:30",
+                    "end": "15:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "15:15",
+                    "end": "16:45",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "04.00.26": {
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "15:15",
+                    "end": "18:15",
+                    "summary": "summary text"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "05.02.37": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "08:00",
+                    "end": "11:00",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "03.03.42/1": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "09:30",
+                    "end": "12:30",
+                    "summary": "summary text"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "15:15",
+                    "end": "18:15",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "05.03.202": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "08:00",
+                    "end": "14:30",
+                    "summary": "summary text"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "07:45",
+                    "end": "09:15",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "13:30",
+                    "end": "15:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "05.03.32": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "13:30",
+                    "end": "15:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "15:15",
+                    "end": "16:45",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "17:00",
+                    "end": "18:30",
+                    "summary": "summary text"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "07:45",
+                    "end": "09:15",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "11:15",
+                    "end": "12:45",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "17:00",
+                    "end": "18:30",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "04.00.29": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "13:30",
+                    "end": "19:30",
+                    "summary": "summary text"
+                }
+            ],
+            "Saturday": [
+                {
+                    "begin": "09:00",
+                    "end": "14:30",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "04.01.02": {
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "13:30",
+                    "end": "16:30",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "03.01.29": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "08:00",
+                    "end": "11:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "13:30",
+                    "end": "16:30",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "04.00.34": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "begin": "07:45",
+                    "end": "16:45",
+                    "summary": "summary text"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "07:45",
+                    "end": "09:15",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "13:30",
+                    "end": "15:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "15:15",
+                    "end": "16:45",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "03.03.42/2": {
+        "days": {
+            "Thursday": [
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "05.00.06": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "13:30",
+                    "end": "15:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Saturday": [
+                {
+                    "begin": "09:00",
+                    "end": "18:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "15:15",
+                    "end": "16:45",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "17:00",
+                    "end": "18:30",
+                    "summary": "summary text"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "13:30",
+                    "end": "15:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "15:15",
+                    "end": "16:45",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "05.02.48": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "07:45",
+                    "end": "09:15",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "05.00.04": {
+        "days": {
+            "Sunday": [
+                {
+                    "begin": "08:00",
+                    "end": "18:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Friday": [
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "14:00",
+                    "end": "16:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Saturday": [
+                {
+                    "begin": "08:00",
+                    "end": "18:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "08:00",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "17:00",
+                    "end": "18:30",
+                    "summary": "summary text"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "08:00",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "15:15",
+                    "end": "16:45",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "05.03.225": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "13:30",
+                    "end": "15:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "13:30",
+                    "end": "15:00",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "05.00.03": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "07:45",
+                    "end": "09:15",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "13:30",
+                    "end": "15:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "15:15",
+                    "end": "16:45",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "17:00",
+                    "end": "18:30",
+                    "summary": "summary text"
+                }
+            ],
+            "Saturday": [
+                {
+                    "begin": "09:00",
+                    "end": "11:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "07:45",
+                    "end": "09:15",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "13:30",
+                    "end": "15:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "15:15",
+                    "end": "16:45",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "17:00",
+                    "end": "18:30",
+                    "summary": "summary text"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "07:45",
+                    "end": "09:15",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "15:15",
+                    "end": "16:45",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "18:45",
+                    "end": "20:15",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "05.02.52": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "07:45",
+                    "end": "09:15",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "12:00",
+                    "end": "15:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "07:45",
+                    "end": "09:15",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "15:15",
+                    "end": "18:15",
+                    "summary": "summary text"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "16:00",
+                    "end": "17:30",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "05.03.203": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "12:30",
+                    "end": "20:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Saturday": [
+                {
+                    "begin": "09:00",
+                    "end": "16:15",
+                    "summary": "summary text"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "11:15",
+                    "end": "12:45",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "15:15",
+                    "end": "16:45",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "01.02.12": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "13:30",
+                    "end": "19:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Saturday": [
+                {
+                    "begin": "09:00",
+                    "end": "16:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "08:00",
+                    "end": "11:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "12:00",
+                    "end": "15:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "15:15",
+                    "end": "16:45",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "18:00",
+                    "end": "20:00",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "04.-1.19-22": {
+        "days": {
+            "Thursday": [
+                {
+                    "begin": "08:00",
+                    "end": "11:00",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "05.03.07(Sprachen)": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "07:45",
+                    "end": "09:15",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "15:15",
+                    "end": "17:30",
+                    "summary": "summary text"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "11:15",
+                    "end": "12:45",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "15:15",
+                    "end": "16:45",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "04.-1.23": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "08:00",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "11:30",
+                    "end": "14:30",
+                    "summary": "summary text"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "09:00",
+                    "end": "10:30",
+                    "summary": "summary text"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "15:15",
+                    "end": "18:15",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "04.03.07": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "07:45",
+                    "end": "09:15",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "13:15",
+                    "end": "14:45",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "16:00",
+                    "end": "17:30",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "05.-1.207(CAD2)": {
+        "days": {
+            "Thursday": [
+                {
+                    "begin": "13:30",
+                    "end": "15:00",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "03.03.33": {
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "17:00",
+                    "end": "20:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "12:00",
+                    "end": "15:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "17:00",
+                    "end": "20:00",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "04.00.02 (HS7)": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "13:30",
+                    "end": "15:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "07:45",
+                    "end": "09:15",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "13:30",
+                    "end": "15:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "15:15",
+                    "end": "16:45",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "05.03.28": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "13:30",
+                    "end": "19:30",
+                    "summary": "summary text"
+                }
+            ],
+            "Saturday": [
+                {
+                    "begin": "09:00",
+                    "end": "14:30",
+                    "summary": "summary text"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "17:00",
+                    "end": "18:30",
+                    "summary": "summary text"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "07:45",
+                    "end": "09:15",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "13:30",
+                    "end": "15:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "15:15",
+                    "end": "16:45",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "17:00",
+                    "end": "18:30",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "05.02.28": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "13:15",
+                    "end": "15:30",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "05.01.42": {
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "13:30",
+                    "end": "15:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "18:45",
+                    "end": "20:15",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "05.-1.24/25": {
+        "days": {
+            "Thursday": [
+                {
+                    "begin": "09:30",
+                    "end": "12:30",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "15:15",
+                    "end": "18:15",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "01.03.11(GP)": {
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "07:45",
+                    "end": "13:00",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "02.03.01": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "08:00",
+                    "end": "11:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "10:00",
+                    "end": "13:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "08:00",
+                    "end": "11:00",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "04.00.22(Reinr.)": {
+        "days": {
+            "Thursday": [
+                {
+                    "begin": "08:00",
+                    "end": "11:00",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "02.02.05": {
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "08:00",
+                    "end": "11:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "08:00",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "12:00",
+                    "end": "15:00",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "03.02.01": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "08:00",
+                    "end": "11:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "13:30",
+                    "end": "16:30",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "04.-1.06": {
+        "days": {
+            "Thursday": [
+                {
+                    "begin": "08:00",
+                    "end": "11:00",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "04.00.20": {
+        "days": {
+            "Thursday": [
+                {
+                    "begin": "08:00",
+                    "end": "15:00",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "03.01.15": {
+        "days": {
+            "Thursday": [
+                {
+                    "begin": "13:30",
+                    "end": "19:30",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "05.-1.228": {
+        "days": {
+            "Thursday": [
+                {
+                    "begin": "08:00",
+                    "end": "11:00",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "04.00.28": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "13:30",
+                    "end": "19:30",
+                    "summary": "summary text"
+                }
+            ],
+            "Saturday": [
+                {
+                    "begin": "09:00",
+                    "end": "14:30",
+                    "summary": "summary text"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "12:00",
+                    "end": "15:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "17:00",
+                    "end": "20:00",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "01.01.11": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "07:45",
+                    "end": "09:15",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "13:30",
+                    "end": "15:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "17:00",
+                    "end": "18:30",
+                    "summary": "summary text"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "07:45",
+                    "end": "09:15",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "13:30",
+                    "end": "15:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "15:15",
+                    "end": "16:45",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "05.02.15": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "08:00",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "11:30",
+                    "end": "14:30",
+                    "summary": "summary text"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "08:00",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "15:15",
+                    "end": "18:15",
+                    "summary": "summary text"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "08:00",
+                    "end": "11:00",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "01.02.14": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "13:30",
+                    "end": "19:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Saturday": [
+                {
+                    "begin": "08:00",
+                    "end": "15:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "07:45",
+                    "end": "09:15",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "07:45",
+                    "end": "09:15",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "15:15",
+                    "end": "16:45",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "17:00",
+                    "end": "18:30",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "04.01.10": {
+        "days": {
+            "Thursday": [
+                {
+                    "begin": "12:00",
+                    "end": "15:00",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "04.00.15/FT": {
+        "days": {
+            "Thursday": [
+                {
+                    "begin": "08:00",
+                    "end": "11:00",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "04.00.04/1": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "08:00",
+                    "end": "11:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "12:00",
+                    "end": "15:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "15:15",
+                    "end": "18:15",
+                    "summary": "summary text"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "12:00",
+                    "end": "15:00",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "03.03.01(HS1)": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "15:15",
+                    "end": "18:15",
+                    "summary": "summary text"
+                }
+            ],
+            "Saturday": [
+                {
+                    "begin": "08:00",
+                    "end": "10:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "10:00",
+                    "end": "11:30",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "12:00",
+                    "end": "16:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "07:45",
+                    "end": "09:15",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "13:30",
+                    "end": "15:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "18:30",
+                    "end": "20:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "10:00",
+                    "end": "13:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "15:15",
+                    "end": "16:45",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "04.00.07": {
+        "days": {
+            "Thursday": [
+                {
+                    "begin": "15:15",
+                    "end": "18:15",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "04.00.16": {
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "12:00",
+                    "end": "15:00",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "05.-1.220": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "08:00",
+                    "end": "11:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "08:00",
+                    "end": "11:00",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "04.00.08(CIM)": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "07:45",
+                    "end": "09:15",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "12:00",
+                    "end": "15:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "15:15",
+                    "end": "18:15",
+                    "summary": "summary text"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "13:30",
+                    "end": "16:30",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "05.00.10": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "07:45",
+                    "end": "09:15",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "13:30",
+                    "end": "15:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "15:15",
+                    "end": "16:45",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "17:00",
+                    "end": "18:30",
+                    "summary": "summary text"
+                }
+            ],
+            "Saturday": [
+                {
+                    "begin": "09:00",
+                    "end": "14:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "07:45",
+                    "end": "09:15",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "11:15",
+                    "end": "12:45",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "13:30",
+                    "end": "17:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "17:30",
+                    "end": "19:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "07:45",
+                    "end": "09:15",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "05.-1.221": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "08:00",
+                    "end": "11:00",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "01.01.16": {
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "12:00",
+                    "end": "15:00",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "05.03.224": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "07:45",
+                    "end": "09:15",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "09:30",
+                    "end": "15:30",
+                    "summary": "summary text"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "13:30",
+                    "end": "15:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "11:15",
+                    "end": "12:45",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "13:30",
+                    "end": "15:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "15:15",
+                    "end": "16:45",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "03.02.02": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "08:00",
+                    "end": "11:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "13:30",
+                    "end": "16:30",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "05.01.45": {
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "13:30",
+                    "end": "15:00",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "02.02.01": {
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "13:30",
+                    "end": "16:30",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "03.00.18": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "07:45",
+                    "end": "09:15",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "13:30",
+                    "end": "15:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "17:00",
+                    "end": "18:30",
+                    "summary": "summary text"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "07:45",
+                    "end": "09:15",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "13:30",
+                    "end": "15:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "15:15",
+                    "end": "16:45",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "17:00",
+                    "end": "18:30",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "01.02.11": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "13:30",
+                    "end": "15:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "15:15",
+                    "end": "16:45",
+                    "summary": "summary text"
+                }
+            ],
+            "Saturday": [
+                {
+                    "begin": "09:00",
+                    "end": "12:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "07:45",
+                    "end": "09:15",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "13:30",
+                    "end": "15:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "07:45",
+                    "end": "09:15",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "13:30",
+                    "end": "15:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "15:15",
+                    "end": "16:45",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "17:00",
+                    "end": "18:30",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "04.-1.15/FA": {
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "15:15",
+                    "end": "18:15",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "05.02.14": {
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "13:30",
+                    "end": "15:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "07:45",
+                    "end": "09:15",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "04.02.15": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "07:45",
+                    "end": "09:15",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "13:30",
+                    "end": "15:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "15:15",
+                    "end": "16:45",
+                    "summary": "summary text"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "13:30",
+                    "end": "15:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "15:15",
+                    "end": "16:45",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "05.02.27": {
+        "days": {
+            "Thursday": [
+                {
+                    "begin": "09:30",
+                    "end": "11:45",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "03.00.32": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "13:30",
+                    "end": "15:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "15:15",
+                    "end": "18:15",
+                    "summary": "summary text"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "15:15",
+                    "end": "18:15",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "05.03.06(Sprachen)": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "07:45",
+                    "end": "09:15",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "16:30",
+                    "end": "18:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "07:45",
+                    "end": "09:15",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "11:15",
+                    "end": "12:45",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "13:30",
+                    "end": "15:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "15:15",
+                    "end": "16:45",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "05.00.11": {
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "08:00",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "12:00",
+                    "end": "15:00",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "05.-1.216": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "08:00",
+                    "end": "11:00",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "05.-1.208(CAD3)": {
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "13:30",
+                    "end": "15:00",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "05.03.206": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "07:45",
+                    "end": "09:15",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "11:45",
+                    "end": "13:15",
+                    "summary": "summary text"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "13:15",
+                    "end": "19:45",
+                    "summary": "summary text"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "13:30",
+                    "end": "15:00",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "01.03.13": {
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "10:00",
+                    "end": "11:15",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "03.01.02": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "13:30",
+                    "end": "15:45",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "05.00.02": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "07:45",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "11:30",
+                    "end": "15:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "15:45",
+                    "end": "17:15",
+                    "summary": "summary text"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "13:30",
+                    "end": "15:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "15:15",
+                    "end": "16:45",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "17:00",
+                    "end": "18:30",
+                    "summary": "summary text"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "07:45",
+                    "end": "09:15",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "11:15",
+                    "end": "12:45",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "15:15",
+                    "end": "16:45",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "17:00",
+                    "end": "18:30",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "04.-1.01(Aula)": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "08:30",
+                    "end": "15:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Saturday": [
+                {
+                    "begin": "12:00",
+                    "end": "22:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "09:00",
+                    "end": "12:30",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "13:30",
+                    "end": "15:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "08:30",
+                    "end": "16:00",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "05.02.40": {
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "12:00",
+                    "end": "15:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "15:15",
+                    "end": "18:15",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "05.01.43": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "09:30",
+                    "end": "12:30",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "13:30",
+                    "end": "19:30",
+                    "summary": "summary text"
+                }
+            ],
+            "Saturday": [
+                {
+                    "begin": "09:00",
+                    "end": "14:30",
+                    "summary": "summary text"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "13:30",
+                    "end": "15:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "15:15",
+                    "end": "16:45",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "17:00",
+                    "end": "18:30",
+                    "summary": "summary text"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "07:45",
+                    "end": "09:15",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "05.02.29": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "12:00",
+                    "end": "15:00",
+                    "summary": "summary text"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "11:30",
+                    "end": "13:00",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "03.01.31": {
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "08:00",
+                    "end": "11:00",
+                    "summary": "summary text"
+                },
+                {
+                    "begin": "13:30",
+                    "end": "16:30",
+                    "summary": "summary text"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "08:00",
+                    "end": "11:00",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "05.02.38": {
+        "days": {
+            "Thursday": [
+                {
+                    "begin": "08:00",
+                    "end": "11:00",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "03.00.44/45": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "08:00",
+                    "end": "11:00",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    },
+    "04.02.16": {
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "12:00",
+                    "end": "15:00",
+                    "summary": "summary text"
+                }
+            ]
+        }
+    }
+}
