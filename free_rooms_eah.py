@@ -2,7 +2,7 @@
 # coding: utf8
 
 """
-free-rooms-eah.py:
+free_rooms_eah.py:
 This script is used to download and handle ics-calendar files provided by
 the Ernst-Abbe-Hochschule Jena to process them into JSON files.
 These JSON-files are the backbone of a Web-App to show users available
