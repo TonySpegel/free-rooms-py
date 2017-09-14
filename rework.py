@@ -85,7 +85,7 @@ def parse_ics_data(ics_data):
                         extracted_info,
                         key=lambda x: (x[WEEK_INDEX], x[DATE_INDEX], x[BEGIN_INDEX])
                     )
-    # TODO: Habe das von append zu einer Zuweiung geändert
+    # TODO: Habe das von append zu einer Zuweisung geändert
     extracted_info_sorted = sort
 
     return extracted_info_sorted
