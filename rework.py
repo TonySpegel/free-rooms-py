@@ -1,10 +1,26 @@
+#!/usr/bin/env python
+# coding: utf8
+
 import urllib.request                   # Request website-data
 from bs4 import BeautifulSoup           # Parse website-data
 import json                             # Handle JSON files
 import os                               # For OS-level operations
 import errno                            # Catch errors
 from icalendar import Calendar          # parser/generator of iCalendar files
-import pprint
+import time
+import stat
+import datetime
+
+import base64
+from github import Github
+from github import InputGitTreeElement
+
+try:
+    os.makedirs('ics')
+    os.makedirs('json')
+except OSError as e:
+    if e.errno != errno.EEXIST:
+        raise
 
 room_links = []
 
@@ -48,9 +64,13 @@ def digest_room_website():
 
 def parse_ics_data(ics_data):
     extracted_info = []
-    extracted_info_sorted = []
+    number_of_rooms = len(ics_data)
 
     i = 0
+
+    start = time.time()
+
+    # print('download_ics took {}'.format(end - start))
 
     for ics in ics_data:
         room_id = ics[0]
@@ -59,10 +79,23 @@ def parse_ics_data(ics_data):
 
         i = i + 1
 
-        print('Downloading {} {}/{}'.format(room_id, i, len(ics_data)))
+        end = time.time()
+        total_time = time.strftime("%M:%S", time.gmtime(int(end - start)))
 
-        with urllib.request.urlopen(ics_url) as response:
+        current_begin = datetime.datetime.now()
+
+        with urllib.request.urlopen(ics_url, timeout=10) as response:
             ics_response = Calendar.from_ical(response.read())
+            file_size = '{0:.2f}'.format(int(response.getheader('Content-Length')) / 1024)
+
+            current_end = datetime.datetime.now()
+            difference = (current_end - current_begin).total_seconds() * 1000
+            kibibyte_per_second = '{0:.2f}'.format((float(file_size) / float(difference)) * 1000)
+
+            print(
+                ' ↓ {} {: >4}/{}   🕐 {: >5}  Size: {: >6} KiB   🚀{: >7} KiB/s'.
+                format(room_id, i, number_of_rooms, total_time, file_size, kibibyte_per_second)
+            )
 
             for component in ics_response.walk():
                 if component.name == "VEVENT":
@@ -78,14 +111,13 @@ def parse_ics_data(ics_data):
                         start_time.strftime('%H:%M'),
                         end_time.strftime('%H:%M'),
                         room_name,
-                        'summary text'
+                        summary
                     ])
 
                     sort = sorted(
                         extracted_info,
                         key=lambda x: (x[WEEK_INDEX], x[DATE_INDEX], x[BEGIN_INDEX])
                     )
-    # TODO: Habe das von append zu einer Zuweisung geändert
     extracted_info_sorted = sort
 
     return extracted_info_sorted
@@ -96,54 +128,12 @@ room_list = [
     ['SPLUSDE238B', '04.00.15/FT', 'http://stundenplanung.eah-jena.de/ical/raum/?id=SPLUSDE238B']
 ]
 
-parsed_data = [
-    [15, '20170413', 'Thursday', '13:30', '16:30', '04.00.15/FT', 'lit text'],
-    [16, '20170419', 'Wednesday', '08:00', '11:00', '04.00.15/FT', 'summary text'],
-    [17, '20170427', 'Thursday', '13:30', '16:30', '04.00.15/FT', 'mofo text'],
-    [17, '20170428', 'Friday', '09:30', '12:30', '04.00.15/FT', 'summary text'],
-    [18, '20170503', 'Wednesday', '08:00', '11:00', '04.00.15/FT', 'summary text'],
-    [19, '20170511', 'Thursday', '13:30', '16:30', '04.00.15/FT', 'summary text'],
-    [19, '20170512', 'Friday', '09:30', '12:30', '04.00.15/FT', 'super lit text'],
-    [20, '20170515', 'Monday', '08:00', '12:00', '01.-1.13(SZB)', 'lit af text'],
-    [20, '20170515', 'Monday', '15:15', '18:15', '04.00.15/FT', 'summary text'],
-    [20, '20170516', 'Tuesday', '15:15', '17:15', '01.-1.13(SZB)', 'summary text'],
-    [20, '20170517', 'Wednesday', '08:00', '11:00', '01.-1.13(SZB)', 'yo text'],
-    [20, '20170517', 'Wednesday', '08:00', '11:00', '04.00.15/FT', 'summary text'],
-    [20, '20170517', 'Wednesday', '13:30', '16:30', '04.00.15/FT', 'summary text'],
-    [20, '20170519', 'Friday', '08:00', '11:00', '04.00.15/FT', 'summary text'],
-    [21, '20170522', 'Monday', '08:00', '11:00', '04.00.15/FT', 'summary text'],
-    [21, '20170522', 'Monday', '12:00', '15:00', '04.00.15/FT', 'summary text'],
-    [22, '20170529', 'Monday', '08:00', '11:00', '04.00.15/FT', 'summary text'],
-    [22, '20170531', 'Wednesday', '08:00', '11:00', '04.00.15/FT', 'summary text'],
-    [22, '20170531', 'Wednesday', '15:15', '18:15', '04.00.15/FT', 'summary text'],
-    [22, '20170601', 'Thursday', '08:00', '11:00', '04.00.15/FT', 'yo digger text'],
-    [22, '20170602', 'Friday', '08:00', '11:00', '04.00.15/FT', 'summary text'],
-    [23, '20170608', 'Thursday', '08:00', '11:00', '04.00.15/FT', 'summary text'],
-    [24, '20170612', 'Monday', '08:00', '11:00', '04.00.15/FT', 'summary text'],
-    [24, '20170612', 'Monday', '15:15', '18:15', '01.-1.13(SZB)', 'summary text'],
-    [24, '20170613', 'Tuesday', '08:00', '11:00', '01.-1.13(SZB)', 'summary text'],
-    [24, '20170613', 'Tuesday', '15:15', '18:15', '04.00.15/FT', 'summary text'],
-    [24, '20170614', 'Wednesday', '08:00', '11:00', '01.-1.13(SZB)', 'summary text'],
-    [24, '20170614', 'Wednesday', '15:15', '18:15', '04.00.15/FT', 'summary text'],
-    [24, '20170615', 'Thursday', '08:00', '11:00', '04.00.15/FT', 'summary text'],
-    [25, '20170619', 'Monday', '08:00', '11:00', '04.00.15/FT', 'summary text'],
-    [25, '20170619', 'Monday', '12:00', '15:00', '04.00.15/FT', 'summary text'],
-    [25, '20170620', 'Tuesday', '08:00', '11:00', '04.00.15/FT', 'summary text'],
-    [25, '20170621', 'Wednesday', '13:30', '16:30', '04.00.15/FT', 'summary text'],
-    [25, '20170622', 'Thursday', '08:00', '11:00', '04.00.15/FT', 'summary text'],
-    [26, '20170626', 'Monday', '08:00', '11:00', '04.00.15/FT', 'summary text'],
-    [26, '20170627', 'Tuesday', '08:00', '11:00', '04.00.15/FT', 'summary text'],
-    [26, '20170628', 'Wednesday', '08:00', '11:00', '04.00.15/FT', 'summary text'],
-    [26, '20170628', 'Wednesday', '15:15', '18:15', '04.00.15/FT', 'summary text'],
-    [26, '20170629', 'Thursday', '08:00', '11:00', '04.00.15/FT', 'summary text'],
-    [27, '20170703', 'Monday', '08:00', '11:00', '04.00.15/FT', 'summary text'],
-    [27, '20170704', 'Tuesday', '08:00', '11:00', '04.00.15/FT', 'summary text'],
-    [28, '20170710', 'Monday', '08:00', '11:00', '04.00.15/FT', 'summary text'],
-    [28, '20170711', 'Tuesday', '08:00', '11:00', '04.00.15/FT', 'summary text'],
-    [28, '20170712', 'Wednesday', '08:00', '11:00', '04.00.15/FT', 'summary text'],
-    [28, '20170712', 'Wednesday', '13:30', '16:30', '04.00.15/FT', 'summary text'],
-    [28, '20170713', 'Thursday', '15:15', '18:15', '04.00.15/FT', 'summary text']
-]
+
+def get_file_age(path):
+    file_template = './json/{}.json'.format(path)
+    file_age = ((time.time() - os.stat(file_template)[stat.ST_MTIME]) / 60) / 60
+
+    return file_age
 
 
 def create_schedule_dictionary(parsed_data):
@@ -176,7 +166,7 @@ def save_as_json(schedule_dictionary):
         schedule_data = schedule_dictionary[room]
 
         with open(file_template.format(room), 'w') as fout:
-            json.dump(schedule_dictionary[room], fout, indent=4, ensure_ascii=False)
+            json.dump(schedule_dictionary[room], fout, ensure_ascii=False)
 
         # with open(file_template.format(room)) as json_data:
             # json_file_data = json.load(json_data)
@@ -188,9 +178,30 @@ def save_as_json(schedule_dictionary):
                     # json.dump(schedule_dictionary[room], fout, ensure_ascii=False)
 
 
-room_online_data = digest_room_website()
-parsed_ics_data = parse_ics_data(room_online_data)
+def init():
+    # if get_file_age('dump') >= 3:
+    room_online_data = digest_room_website()
+    try:
+        parsed_ics_data = parse_ics_data(room_online_data)
+    except ValueError:
+        with open('./json/log.json', 'w') as fout:
+            json.dump('{"04.00.02 (HS7)": {}}', fout, indent=4, ensure_ascii=False)
 
-schedule = create_schedule_dictionary(parsed_ics_data)
+    # else:
+    #    with open('./json/dump.json') as data_dump:
+    #        parsed_ics_data = json.load(data_dump)
 
-save_as_json(schedule)
+    schedule = create_schedule_dictionary(parsed_ics_data)
+    save_as_json(schedule)
+
+
+# init()
+
+
+def get_work_dir():
+    current_file = __file__
+    real_path = os.path.realpath(current_file)  # /home/tony/PycharmProjects/free-rooms/rework.py
+    dir_path = os.path.dirname(real_path)       # /home/tony/PycharmProjects/free-rooms
+
+    return dir_path
+
