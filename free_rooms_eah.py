@@ -225,4 +225,5 @@ def extract_info_from_ics():
         # Clear the current list to work with the next room
         extracted_info.clear()
 
+
 extract_info_from_ics()
