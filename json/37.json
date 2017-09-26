@@ -1,0 +1,282 @@
+{
+    "04.00.01(HS6)": {
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "08:00",
+                    "end": "09:00",
+                    "summary": "Merker: 13.09._SciTec_SchÃ¼ler"
+                },
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": ": SchÃ¼lerExpress/S/06"
+                }
+            ]
+        }
+    },
+    "05.00.03": {
+        "days": {
+            "Monday": [
+                {
+                    "begin": "09:30",
+                    "end": "12:00",
+                    "summary": "HÃ¼bner: 11.09._HÃ¼bner_Verteidigung"
+                }
+            ]
+        }
+    },
+    "04.00.10": {
+        "days": {
+            "Thursday": [
+                {
+                    "begin": "08:00",
+                    "end": "18:00",
+                    "summary": "Bliedtner: JenALL/3-D-Druck/S/01.4"
+                }
+            ]
+        }
+    },
+    "04.02.15": {
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "Feller: AG_Feller"
+                }
+            ]
+        }
+    },
+    "04.00.34": {
+        "days": {
+            "Tuesday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:00",
+                    "summary": "ZSB: STET_Lager/Packen Erstsem.beutel/02"
+                }
+            ],
+            "Saturday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:00",
+                    "summary": "ZSB: STET_Lager/Packen Erstsem.beutel/06"
+                }
+            ],
+            "Monday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:00",
+                    "summary": "ZSB: STET_Lager/Packen Erstsem.beutel/01"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:00",
+                    "summary": "ZSB: STET_Lager/Packen Erstsem.beutel/03"
+                }
+            ],
+            "Friday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:00",
+                    "summary": "ZSB: STET_Lager/Packen Erstsem.beutel/05"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:00",
+                    "summary": "ZSB: STET_Lager/Packen Erstsem.beutel/04"
+                }
+            ]
+        }
+    },
+    "05.00.10": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "09:30",
+                    "end": "16:30",
+                    "summary": "Stoetzer: BW(BA)ABWL wiss.Arb.:Info-Rech., Aufb., Zitierw./S/01.3"
+                }
+            ],
+            "Monday": [
+                {
+                    "begin": "10:00",
+                    "end": "11:30",
+                    "summary": "Herrmann, Hoechstetter: 11.09._Herrmann/Vertdg."
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "09:30",
+                    "end": "16:30",
+                    "summary": "Stoetzer: BW(BA)ABWL wiss.Arb.:Info-Rech., Aufb., Zitierw./S/01.1"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "begin": "10:00",
+                    "end": "11:30",
+                    "summary": "Klier, Herrmann, Werner, C.: 12.09._MT_Vertdg."
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "09:30",
+                    "end": "16:30",
+                    "summary": "Stoetzer: BW(BA)ABWL wiss.Arb.:Info-Rech., Aufb., Zitierw./S/01.2"
+                }
+            ]
+        }
+    },
+    "05.00.04": {
+        "days": {
+            "Saturday": [
+                {
+                    "begin": "09:00",
+                    "end": "12:00",
+                    "summary": "Stoetzer: JenALL/GM 2016/APL/02"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "begin": "10:00",
+                    "end": "11:30",
+                    "summary": "Pollok, Munder, Nemitz: 12.09._Munder_Verteidigung"
+                }
+            ]
+        }
+    },
+    "01.02.11": {
+        "days": {
+            "Tuesday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:30",
+                    "summary": ": Ref 4/Stuhllager/Senat/05"
+                }
+            ],
+            "Saturday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:30",
+                    "summary": ": Ref 4/Stuhllager/Senat/03"
+                }
+            ],
+            "Monday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:30",
+                    "summary": ": Ref 4/Stuhllager/Senat/04"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:30",
+                    "summary": ": Ref 4/Stuhllager/Senat/06"
+                }
+            ],
+            "Friday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:30",
+                    "summary": ": Ref 4/Stuhllager/Senat/02"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:30",
+                    "summary": ": Ref 4/Stuhllager/Senat/01"
+                }
+            ]
+        }
+    },
+    "04.03.07": {
+        "days": {
+            "Monday": [
+                {
+                    "begin": "08:00",
+                    "end": "18:00",
+                    "summary": "Bliedtner: JenALL/3-D-Druck/S/01.1"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "08:00",
+                    "end": "18:00",
+                    "summary": "Bliedtner: JenALL/3-D-Druck/S/01.3"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "begin": "08:00",
+                    "end": "18:00",
+                    "summary": "Bliedtner: JenALL/3-D-Druck/S/01.2"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "08:00",
+                    "end": "18:00",
+                    "summary": "Bliedtner: JenALL/3-D-Druck/S/01.4"
+                }
+            ]
+        }
+    },
+    "01.02.12": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "08:00",
+                    "end": "20:00",
+                    "summary": ": AG Bliedtner_3D Drucker Test_V"
+                }
+            ],
+            "Monday": [
+                {
+                    "begin": "08:00",
+                    "end": "20:00",
+                    "summary": ": AG Bliedtner_3D Drucker Test_I"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "08:00",
+                    "end": "20:00",
+                    "summary": ": AG Bliedtner_3D Drucker Test_III"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "begin": "08:00",
+                    "end": "20:00",
+                    "summary": ": AG Bliedtner_3D Drucker Test_II"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "08:00",
+                    "end": "20:00",
+                    "summary": ": AG Bliedtner_3D Drucker Test_IV"
+                }
+            ]
+        }
+    },
+    "05.03.36": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "08:00",
+                    "end": "18:00",
+                    "summary": "Fleck: JenALL/TO/S/01.0"
+                }
+            ]
+        }
+    }
+}

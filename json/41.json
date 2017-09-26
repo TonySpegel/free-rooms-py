@@ -1,0 +1,1084 @@
+{
+    "04.02.15": {
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "Feller: AG_Feller"
+                }
+            ]
+        }
+    },
+    "05.03.28": {
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "09:30",
+                    "end": "18:30",
+                    "summary": "Assfalg(BW): BW(BA)ABWL UPS/S/02.1"
+                }
+            ],
+            "Friday": [
+                {
+                    "begin": "09:30",
+                    "end": "18:30",
+                    "summary": "Assfalg(BW): BW(BA)ABWL UPS/S/02.3"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "09:30",
+                    "end": "18:30",
+                    "summary": "Assfalg(BW): BW(BA)ABWL UPS/S/02.2"
+                }
+            ]
+        }
+    },
+    "05.03.206": {
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "14:30",
+                    "end": "16:00",
+                    "summary": "Klaus: StET_BW/S/02"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "13:30",
+                    "end": "15:00",
+                    "summary": "Frank: PFD(BA)LV/S/01.4"
+                }
+            ]
+        }
+    },
+    "04.03.12": {
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "15:00",
+                    "end": "16:00",
+                    "summary": "Wartenberger: SciTec(BA))EinfÃ¼hrungsveranstaltung Kennenlernrunde FT/S/01"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "09:45",
+                    "end": "12:00",
+                    "summary": "Wartenberger: SciTec(BA))EinfÃ¼hrungsveranstaltung Vorstellung FBfÃ¼r FT/S/01"
+                },
+                {
+                    "begin": "12:00",
+                    "end": "16:00",
+                    "summary": "ZVM: 12.10._Tag d.gesunden Arbeit"
+                }
+            ]
+        }
+    },
+    "05.00.04": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:00",
+                    "summary": "ZSB: STET_Thoskaausgabe/05"
+                }
+            ],
+            "Monday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:00",
+                    "summary": "ZSB: STET_Thoskaausgabe/01"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:00",
+                    "summary": "ZSB: STET_Thoskaausgabe/03"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:00",
+                    "summary": "ZSB: STET_Thoskaausgabe/02"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:00",
+                    "summary": "ZSB: STET_Thoskaausgabe/04"
+                }
+            ]
+        }
+    },
+    "05.00.06": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "13:00",
+                    "end": "16:15",
+                    "summary": "JenAll_Weitz: JenALL/Vorkurs BW Wiss. Arb. 3/S/01.5"
+                }
+            ],
+            "Monday": [
+                {
+                    "begin": "13:00",
+                    "end": "16:15",
+                    "summary": "JenAll_Weitz: JenALL/Vorkurs BW Wiss. Arb. 3/S/01.1"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "14:00",
+                    "end": "16:00",
+                    "summary": "Butzke: StET_AO/S/01.1"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "begin": "13:00",
+                    "end": "16:15",
+                    "summary": "JenAll_Weitz: JenALL/Vorkurs BW Wiss. Arb. 3/S/01.2"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "11:30",
+                    "end": "12:30",
+                    "summary": "Butzke: StET_AO/S/01.2"
+                },
+                {
+                    "begin": "13:00",
+                    "end": "16:15",
+                    "summary": "JenAll_Weitz: JenALL/Vorkurs BW Wiss. Arb. 3/S/01.4"
+                }
+            ]
+        }
+    },
+    "05.01.45": {
+        "days": {
+            "Saturday": [
+                {
+                    "begin": "08:00",
+                    "end": "15:00",
+                    "summary": "Hamel(BW): BW(BA)Verk.+Verh.tr./Ã/01.2"
+                }
+            ],
+            "Friday": [
+                {
+                    "begin": "13:30",
+                    "end": "19:00",
+                    "summary": "Hamel(BW): BW(BA)Verk.+Verh.tr./Ã/01.1"
+                }
+            ]
+        }
+    },
+    "04.03.07": {
+        "days": {
+            "Monday": [
+                {
+                    "begin": "08:00",
+                    "end": "18:00",
+                    "summary": "Bliedtner: JenALL/OT/S/01.1"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "08:00",
+                    "end": "18:00",
+                    "summary": "Bliedtner: JenALL/OT/S/01.3"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "begin": "08:00",
+                    "end": "18:00",
+                    "summary": "Bliedtner: JenALL/OT/S/01.2"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "12:00",
+                    "end": "16:00",
+                    "summary": "ZVM: 12.10._Tag d.gesunden Arbeit"
+                }
+            ]
+        }
+    },
+    "05.03.43 (HS4)": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "16:00",
+                    "end": "20:00",
+                    "summary": "VoÃ: 13.10._ET_Absolvententreffen"
+                }
+            ],
+            "Monday": [
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "Dorschner: StET_GP/S/02"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "13:30",
+                    "end": "14:30",
+                    "summary": "Schumann: StET_MT/S/01.1"
+                },
+                {
+                    "begin": "14:45",
+                    "end": "16:30",
+                    "summary": "Schumann: StET_MT/S/01.2"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "begin": "14:30",
+                    "end": "16:45",
+                    "summary": "Dorschner: StET_GP/S/01"
+                }
+            ]
+        }
+    },
+    "05.00.03": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "09:30",
+                    "end": "17:00",
+                    "summary": "Stoetzer: BW(BA)ABWL Wiss.Arb./S/01.3"
+                }
+            ],
+            "Monday": [
+                {
+                    "begin": "09:30",
+                    "end": "12:45",
+                    "summary": "Bonk(GW): GHHK(BA)EAP/Ã/01"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "09:30",
+                    "end": "17:00",
+                    "summary": "Stoetzer: BW(BA)ABWL Wiss.Arb./S/01.1"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "begin": "11:15",
+                    "end": "14:45",
+                    "summary": "Bonk(GW): GHHK(BA)EAP/Ã/02"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "09:30",
+                    "end": "17:00",
+                    "summary": "Stoetzer: BW(BA)ABWL Wiss.Arb./S/01.2"
+                }
+            ]
+        }
+    },
+    "04.03.10": {
+        "days": {
+            "Monday": [
+                {
+                    "begin": "08:00",
+                    "end": "18:00",
+                    "summary": "Kaiser(SciTec): JenALL/DÃ¼nne Schichten/S/01.1"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "begin": "08:00",
+                    "end": "18:00",
+                    "summary": "Kaiser(SciTec): JenALL/DÃ¼nne Schichten/S/01.2"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "12:00",
+                    "end": "16:00",
+                    "summary": "ZVM: 12.10._Tag d.gesunden Arbeit"
+                }
+            ]
+        }
+    },
+    "05.03.201": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "16:00",
+                    "end": "18:00",
+                    "summary": ": 13.10._ALOTA"
+                }
+            ],
+            "Monday": [
+                {
+                    "begin": "10:00",
+                    "end": "15:00",
+                    "summary": "StuRa: StuRa-Prf.beratg/01.11"
+                },
+                {
+                    "begin": "16:00",
+                    "end": "18:00",
+                    "summary": ": 09.10._ALOTA"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "14:30",
+                    "end": "16:00",
+                    "summary": "Klaus: StET_BW/S/02"
+                },
+                {
+                    "begin": "20:00",
+                    "end": "22:00",
+                    "summary": ": 11.10._ALOTA"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "begin": "16:00",
+                    "end": "18:00",
+                    "summary": ": 10.10._ALOTA"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "14:00",
+                    "end": "16:00",
+                    "summary": ": 12.10._ALOTA"
+                }
+            ]
+        }
+    },
+    "01.02.14": {
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "14:45",
+                    "end": "16:30",
+                    "summary": "Schumann: StET_MT/S/01.2"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "begin": "14:00",
+                    "end": "15:30",
+                    "summary": "Schumann: 10.10._MT_Vertdg"
+                }
+            ]
+        }
+    },
+    "05.03.204": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "07:45",
+                    "end": "15:00",
+                    "summary": "Jocham: PFD(BA)Prax.-Phase 2/S/01"
+                }
+            ],
+            "Monday": [
+                {
+                    "begin": "11:15",
+                    "end": "12:45",
+                    "summary": "Frank: PFD(BA)LV/S/01.1"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "14:30",
+                    "end": "16:00",
+                    "summary": "Klaus: StET_BW/S/02"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "begin": "07:45",
+                    "end": "11:00",
+                    "summary": "GP: PFD(BA)Pfege III/S/01"
+                },
+                {
+                    "begin": "13:00",
+                    "end": "14:30",
+                    "summary": "Frank: PFD(BA)LV/S/01.2"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "11:15",
+                    "end": "12:45",
+                    "summary": "Frank: PFD(BA)LV/S/01.3"
+                }
+            ]
+        }
+    },
+    "05.00.10": {
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "13:00",
+                    "end": "16:15",
+                    "summary": "JenAll_Weitz: JenALL/Vorkurs BW Wiss. Arb. 3/S/01.3"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "begin": "10:30",
+                    "end": "12:30",
+                    "summary": "Jack: StET_ET/S/01"
+                },
+                {
+                    "begin": "13:00",
+                    "end": "14:30",
+                    "summary": "HÃ¼bner: 10.10._AO_Vertdg."
+                }
+            ]
+        }
+    },
+    "04.00.01(HS6)": {
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "09:30",
+                    "end": "10:30",
+                    "summary": "SchrÃ¶ck: SciTec(BA))EinfÃ¼hrungsveranstaltung/S/01"
+                }
+            ]
+        }
+    },
+    "05.03.29": {
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "09:30",
+                    "end": "18:30",
+                    "summary": "Assfalg(BW): BW(BA)ABWL UPS/S/02.1"
+                }
+            ],
+            "Friday": [
+                {
+                    "begin": "09:30",
+                    "end": "18:30",
+                    "summary": "Assfalg(BW): BW(BA)ABWL UPS/S/02.3"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "09:30",
+                    "end": "18:30",
+                    "summary": "Assfalg(BW): BW(BA)ABWL UPS/S/02.2"
+                }
+            ]
+        }
+    },
+    "01.02.12": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "08:00",
+                    "end": "20:00",
+                    "summary": ": AG Bliedtner_3D Drucker Test_V"
+                }
+            ],
+            "Monday": [
+                {
+                    "begin": "08:00",
+                    "end": "20:00",
+                    "summary": ": AG Bliedtner_3D Drucker Test_I"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "08:00",
+                    "end": "20:00",
+                    "summary": ": AG Bliedtner_3D Drucker Test_III"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "begin": "08:00",
+                    "end": "20:00",
+                    "summary": ": AG Bliedtner_3D Drucker Test_II"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "08:00",
+                    "end": "20:00",
+                    "summary": ": AG Bliedtner_3D Drucker Test_IV"
+                }
+            ]
+        }
+    },
+    "05.03.01": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "13:00",
+                    "end": "16:15",
+                    "summary": "JenAll_Vater: JenALL/Vorkurs Ing. Phy 5/S/01.5"
+                }
+            ],
+            "Monday": [
+                {
+                    "begin": "13:00",
+                    "end": "16:15",
+                    "summary": "JenAll_Vater: JenALL/Vorkurs Ing. Phy 5/S/01.1"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "13:00",
+                    "end": "16:15",
+                    "summary": "JenAll_Vater: JenALL/Vorkurs Ing. Phy 5/S/01.3"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "begin": "13:00",
+                    "end": "16:15",
+                    "summary": "JenAll_Vater: JenALL/Vorkurs Ing. Phy 5/S/01.2"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "13:00",
+                    "end": "16:15",
+                    "summary": "JenAll_Vater: JenALL/Vorkurs Ing. Phy 5/S/01.4"
+                }
+            ]
+        }
+    },
+    "05.03.40 (HS3)": {
+        "days": {
+            "Monday": [
+                {
+                    "begin": "13:30",
+                    "end": "16:45",
+                    "summary": "GP: PFD/HKD(BA)WR/S/01"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "08:00",
+                    "end": "11:00",
+                    "summary": "Klaus: StET_BW/S/01"
+                },
+                {
+                    "begin": "14:45",
+                    "end": "16:30",
+                    "summary": "Schumann: StET_MT/S/01.2"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "11:00",
+                    "end": "13:30",
+                    "summary": "Klaus: StET_BW/S/03"
+                }
+            ]
+        }
+    },
+    "05.03.33": {
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "09:30",
+                    "end": "18:30",
+                    "summary": "Assfalg(BW): BW(BA)ABWL UPS/S/02.1"
+                }
+            ],
+            "Friday": [
+                {
+                    "begin": "09:30",
+                    "end": "18:30",
+                    "summary": "Assfalg(BW): BW(BA)ABWL UPS/S/02.3"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "09:30",
+                    "end": "18:30",
+                    "summary": "Assfalg(BW): BW(BA)ABWL UPS/S/02.2"
+                }
+            ]
+        }
+    },
+    "05.03.02 (HS5)": {
+        "days": {
+            "Monday": [
+                {
+                    "begin": "09:00",
+                    "end": "10:00",
+                    "summary": "Mitte: StET_SW/S/01"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "Trenczek: StET_SW/S/03"
+                },
+                {
+                    "begin": "11:00",
+                    "end": "11:30",
+                    "summary": "Lampert: StET_SW_StuWe/S/01"
+                },
+                {
+                    "begin": "14:45",
+                    "end": "16:30",
+                    "summary": "Schumann: StET_MT/S/01.2"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "begin": "14:00",
+                    "end": "15:30",
+                    "summary": "Mitte: StET_SW/S/02"
+                }
+            ]
+        }
+    },
+    "01.02.11": {
+        "days": {
+            "Tuesday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:30",
+                    "summary": ": Ref 4/Stuhllager/Senat/05"
+                }
+            ],
+            "Saturday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:30",
+                    "summary": ": Ref 4/Stuhllager/Senat/03"
+                }
+            ],
+            "Monday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:30",
+                    "summary": ": Ref 4/Stuhllager/Senat/04"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:30",
+                    "summary": ": Ref 4/Stuhllager/Senat/06"
+                }
+            ],
+            "Friday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:30",
+                    "summary": ": Ref 4/Stuhllager/Senat/02"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:30",
+                    "summary": ": Ref 4/Stuhllager/Senat/01"
+                }
+            ]
+        }
+    },
+    "05.03.202": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "09:30",
+                    "end": "15:00",
+                    "summary": "Reichelt, J.: NFS(BA)LV/S/01.4"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "07:45",
+                    "end": "11:00",
+                    "summary": "GP: HKD(BA)Prax.-Phase 2/01"
+                },
+                {
+                    "begin": "14:30",
+                    "end": "16:00",
+                    "summary": "Klaus: StET_BW/S/02"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "begin": "13:00",
+                    "end": "14:15",
+                    "summary": "Reichelt, J.: NFS(BA)LV/S/01.2"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "07:45",
+                    "end": "09:15",
+                    "summary": "Reichelt, J.: NFS(BA)LV/S/01.3"
+                },
+                {
+                    "begin": "13:30",
+                    "end": "15:00",
+                    "summary": "Reichelt, J.: NFS(BA)LV/S/01.3a"
+                }
+            ]
+        }
+    },
+    "03.00.19": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "09:30",
+                    "end": "16:45",
+                    "summary": "Kleekamp(GW): 13.10._GP(MA)_Statistik"
+                }
+            ]
+        }
+    },
+    "05.03.224": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "09:00",
+                    "end": "12:15",
+                    "summary": "JenAll_Koch: JenALL/Vorkurs Ing. Ma 4/S/01.5"
+                },
+                {
+                    "begin": "13:00",
+                    "end": "16:15",
+                    "summary": "JenAll_Koch: JenALL/Vorkurs Ing. Ma 4/S/01.10"
+                }
+            ],
+            "Monday": [
+                {
+                    "begin": "09:00",
+                    "end": "12:15",
+                    "summary": "JenAll_Koch: JenALL/Vorkurs Ing. Ma 4/S/01.1"
+                },
+                {
+                    "begin": "13:00",
+                    "end": "16:15",
+                    "summary": "JenAll_Koch: JenALL/Vorkurs Ing. Ma 4/S/01.6"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "09:00",
+                    "end": "12:15",
+                    "summary": "JenAll_Koch: JenALL/Vorkurs Ing. Ma 4/S/01.3"
+                },
+                {
+                    "begin": "13:00",
+                    "end": "16:15",
+                    "summary": "JenAll_Koch: JenALL/Vorkurs Ing. Ma 4/S/01.8"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "begin": "09:00",
+                    "end": "12:15",
+                    "summary": "JenAll_Koch: JenALL/Vorkurs Ing. Ma 4/S/01.2"
+                },
+                {
+                    "begin": "13:00",
+                    "end": "16:15",
+                    "summary": "JenAll_Koch: JenALL/Vorkurs Ing. Ma 4/S/01.7"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "09:00",
+                    "end": "12:15",
+                    "summary": "JenAll_Koch: JenALL/Vorkurs Ing. Ma 4/S/01.4"
+                },
+                {
+                    "begin": "13:00",
+                    "end": "16:15",
+                    "summary": "JenAll_Koch: JenALL/Vorkurs Ing. Ma 4/S/01.9"
+                }
+            ]
+        }
+    },
+    "04.-1.01(Aula)": {
+        "days": {
+            "Thursday": [
+                {
+                    "begin": "12:00",
+                    "end": "16:00",
+                    "summary": "ZVM: 12.10._Tag d.gesunden Arbeit"
+                }
+            ]
+        }
+    },
+    "05.03.37 (HS2)": {
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "14:45",
+                    "end": "16:30",
+                    "summary": "Schumann: StET_MT/S/01.2"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "begin": "09:00",
+                    "end": "11:00",
+                    "summary": "Bartmann-Fischer, Braungart, Bresack, DÃ¶ge, Felkl, Fritzsche, Giesecke, Herzer, Hoffmann, Jack, Kampe, LÃ¶schner, MÃ¼ller, J., Niebel, Redlich, Reimer, Reuter, Richter, Sesselmann, VoÃ, Wolf: ET(BA)ErstsemestereinfÃ¼hrungsveranstaltung/S/01"
+                }
+            ]
+        }
+    },
+    "01.03.11(GP)": {
+        "days": {
+            "Saturday": [
+                {
+                    "begin": "08:30",
+                    "end": "15:45",
+                    "summary": "RÃ¤del-Ablass: GP/Samstags-LV/S/04"
+                }
+            ]
+        }
+    },
+    "05.03.32": {
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "09:30",
+                    "end": "18:30",
+                    "summary": "Assfalg(BW): BW(BA)ABWL UPS/S/02.1"
+                }
+            ],
+            "Friday": [
+                {
+                    "begin": "09:30",
+                    "end": "18:30",
+                    "summary": "Assfalg(BW): BW(BA)ABWL UPS/S/02.3"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "09:30",
+                    "end": "18:30",
+                    "summary": "Assfalg(BW): BW(BA)ABWL UPS/S/02.2"
+                }
+            ]
+        }
+    },
+    "05.03.36": {
+        "days": {
+            "Monday": [
+                {
+                    "begin": "08:00",
+                    "end": "15:00",
+                    "summary": "Degle (SciTec): JenALL/AO-Binosehen 2017/18/S/01.04"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "09:30",
+                    "end": "18:30",
+                    "summary": "Assfalg(BW): BW(BA)ABWL UPS/S/02.1"
+                }
+            ],
+            "Friday": [
+                {
+                    "begin": "09:30",
+                    "end": "18:30",
+                    "summary": "Assfalg(BW): BW(BA)ABWL UPS/S/02.3"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "09:30",
+                    "end": "18:30",
+                    "summary": "Assfalg(BW): BW(BA)ABWL UPS/S/02.2"
+                }
+            ]
+        }
+    },
+    "05.03.203": {
+        "days": {
+            "Monday": [
+                {
+                    "begin": "11:15",
+                    "end": "12:45",
+                    "summary": "Reichelt, J.: NFS(BA)LV/S/01.1"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "14:30",
+                    "end": "16:00",
+                    "summary": "Klaus: StET_BW/S/02"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "begin": "09:30",
+                    "end": "16:45",
+                    "summary": "Hollfelder: PFD(BA)Pfege VI/S/01"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "09:30",
+                    "end": "15:00",
+                    "summary": "Jocham: PFD(BA)Pfege VII/S/01"
+                }
+            ]
+        }
+    },
+    "05.03.11(SW)": {
+        "days": {
+            "Saturday": [
+                {
+                    "begin": "08:30",
+                    "end": "17:30",
+                    "summary": "SW: 14.10._SW(Ma)_Coaching u.Fhrg."
+                }
+            ]
+        }
+    },
+    "05.01.44": {
+        "days": {
+            "Monday": [
+                {
+                    "begin": "09:00",
+                    "end": "18:00",
+                    "summary": "Fastnacht(BW): BW(BA)DATEV M.Th./S/01"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "09:00",
+                    "end": "18:00",
+                    "summary": "Fastnacht(BW): BW(BA)DATEV M.Th./S/03"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "begin": "09:00",
+                    "end": "18:00",
+                    "summary": "Fastnacht(BW): BW(BA)DATEV M.Th./S/02"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "08:00",
+                    "end": "17:00",
+                    "summary": ": ERP-Schuhlung"
+                }
+            ]
+        }
+    },
+    "04.03.11": {
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "10:00",
+                    "end": "14:00",
+                    "summary": "Fleck: StET_LOT/S/01.1"
+                },
+                {
+                    "begin": "15:30",
+                    "end": "16:30",
+                    "summary": "Fleck: StET_LOT/S/01.2"
+                }
+            ],
+            "Friday": [
+                {
+                    "begin": "09:00",
+                    "end": "13:00",
+                    "summary": "WeiÃ: 13.10._WeiÃ_Tutoren-EinfÃ¼rungsveranstaltung"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "12:00",
+                    "end": "16:00",
+                    "summary": "ZVM: 12.10._Tag d.gesunden Arbeit"
+                }
+            ]
+        }
+    },
+    "05.00.02": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "13:00",
+                    "end": "16:15",
+                    "summary": "JenAll_Hundt: JenALL/Vorkurs BW Eng 1/S/02.5"
+                }
+            ],
+            "Monday": [
+                {
+                    "begin": "13:00",
+                    "end": "16:15",
+                    "summary": "JenAll_Hundt: JenALL/Vorkurs BW Eng 1/S/02.1"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "13:00",
+                    "end": "16:15",
+                    "summary": "JenAll_Hundt: JenALL/Vorkurs BW Eng 1/S/02.3"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "begin": "13:00",
+                    "end": "16:15",
+                    "summary": "JenAll_Hundt: JenALL/Vorkurs BW Eng 1/S/02.2"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "13:00",
+                    "end": "16:15",
+                    "summary": "JenAll_Hundt: JenALL/Vorkurs BW Eng 1/S/02.4"
+                }
+            ]
+        }
+    },
+    "01.01.11": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "10:00",
+                    "end": "12:00",
+                    "summary": "GroÃe: 13.10._GroÃe Tutorenschulugn"
+                }
+            ]
+        }
+    },
+    "04.00.02 (HS7)": {
+        "days": {
+            "Monday": [
+                {
+                    "begin": "08:00",
+                    "end": "12:00",
+                    "summary": "Garzke: StET_MB/S/01"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "09:00",
+                    "end": "11:00",
+                    "summary": "Schumann: BT/MT(BA)EinfÃ¼hrungsveranstaltung/S/01"
+                }
+            ]
+        }
+    }
+}

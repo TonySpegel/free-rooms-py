@@ -1,0 +1,976 @@
+{
+    "04.02.15": {
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "Feller: AG_Feller"
+                }
+            ]
+        }
+    },
+    "05.-1.217": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "08:00",
+                    "end": "18:00",
+                    "summary": "Kolbe(SciTec), Kunert, K.: 22.09._AO_Reservierung"
+                }
+            ]
+        }
+    },
+    "05.-1.220": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "08:00",
+                    "end": "18:00",
+                    "summary": "Kolbe(SciTec), Kunert, K.: 22.09._AO_Reservierung"
+                }
+            ]
+        }
+    },
+    "05.03.229": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "08:00",
+                    "end": "13:00",
+                    "summary": "Dorschner, Frank: 22.09._GP_mdl.Prf."
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "08:00",
+                    "end": "16:00",
+                    "summary": "Dorschner, Frank: 21.09._GP_mdl.Prf."
+                }
+            ]
+        }
+    },
+    "05.00.04": {
+        "days": {
+            "Sunday": [
+                {
+                    "begin": "08:00",
+                    "end": "18:00",
+                    "summary": "Degle: JenALL/AO-Optometr. 2016/17/S/01.11"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "begin": "09:00",
+                    "end": "12:15",
+                    "summary": "JenAll_MÃ¼ller: JenALL/Vorkurs Ing. Ma 1/S/01.2"
+                },
+                {
+                    "begin": "13:00",
+                    "end": "16:15",
+                    "summary": "JenAll_MÃ¼ller: JenALL/Vorkurs Ing. Ma 2/S/01.2"
+                }
+            ],
+            "Saturday": [
+                {
+                    "begin": "08:00",
+                    "end": "18:00",
+                    "summary": "Degle: JenALL/AO-Optometr. 2016/17/S/01.10"
+                }
+            ],
+            "Monday": [
+                {
+                    "begin": "09:00",
+                    "end": "12:15",
+                    "summary": "JenAll_MÃ¼ller: JenALL/Vorkurs Ing. Ma 1/S/01.1"
+                },
+                {
+                    "begin": "13:00",
+                    "end": "16:15",
+                    "summary": "JenAll_MÃ¼ller: JenALL/Vorkurs Ing. Ma 2/S/01.1"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "09:00",
+                    "end": "12:15",
+                    "summary": "JenAll_MÃ¼ller: JenALL/Vorkurs Ing. Ma 1/S/01.3"
+                },
+                {
+                    "begin": "13:00",
+                    "end": "16:15",
+                    "summary": "JenAll_MÃ¼ller: JenALL/Vorkurs Ing. Ma 2/S/01.3"
+                }
+            ],
+            "Friday": [
+                {
+                    "begin": "09:00",
+                    "end": "12:15",
+                    "summary": "JenAll_MÃ¼ller: JenALL/Vorkurs Ing. Ma 1/S/01.5"
+                },
+                {
+                    "begin": "13:00",
+                    "end": "16:15",
+                    "summary": "JenAll_MÃ¼ller: JenALL/Vorkurs Ing. Ma 2/S/01.5"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "09:00",
+                    "end": "12:15",
+                    "summary": "JenAll_MÃ¼ller: JenALL/Vorkurs Ing. Ma 1/S/01.4"
+                },
+                {
+                    "begin": "13:00",
+                    "end": "16:15",
+                    "summary": "JenAll_MÃ¼ller: JenALL/Vorkurs Ing. Ma 2/S/01.4"
+                }
+            ]
+        }
+    },
+    "05.00.06": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "09:00",
+                    "end": "12:15",
+                    "summary": "JenAll_Weitz: JenALL/Vorkurs Ing.Wiss. Arb. 1/S/01.5"
+                }
+            ],
+            "Monday": [
+                {
+                    "begin": "09:00",
+                    "end": "12:15",
+                    "summary": "JenAll_Weitz: JenALL/Vorkurs Ing.Wiss. Arb. 1/S/01.1"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "09:00",
+                    "end": "12:15",
+                    "summary": "JenAll_Weitz: JenALL/Vorkurs Ing.Wiss. Arb. 1/S/01.3"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "begin": "09:00",
+                    "end": "12:15",
+                    "summary": "JenAll_Weitz: JenALL/Vorkurs Ing.Wiss. Arb. 1/S/01.2"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "09:00",
+                    "end": "12:15",
+                    "summary": "JenAll_Weitz: JenALL/Vorkurs Ing.Wiss. Arb. 1/S/01.4"
+                }
+            ]
+        }
+    },
+    "04.03.07": {
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "09:30",
+                    "end": "17:30",
+                    "summary": "LautenschlÃ¤ger: BW(BA)ABWL UPS easyStartUp!/S/01.1"
+                }
+            ],
+            "Friday": [
+                {
+                    "begin": "09:30",
+                    "end": "17:30",
+                    "summary": "LautenschlÃ¤ger: BW(BA)ABWL UPS easyStartUp!/S/01.3"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "09:30",
+                    "end": "17:30",
+                    "summary": "LautenschlÃ¤ger: BW(BA)ABWL UPS easyStartUp!/S/01.2"
+                }
+            ]
+        }
+    },
+    "05.00.11": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "08:00",
+                    "end": "18:00",
+                    "summary": "Kolbe(SciTec), Kunert, K.: 22.09._AO_Reservierung"
+                }
+            ]
+        }
+    },
+    "04.00.08(CIM)": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "08:30",
+                    "end": "17:30",
+                    "summary": "Claus (SciTec): SciTec_Testsimmulation/05"
+                }
+            ],
+            "Monday": [
+                {
+                    "begin": "08:30",
+                    "end": "17:30",
+                    "summary": "Claus (SciTec): SciTec_Testsimmulation/01"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "08:30",
+                    "end": "17:30",
+                    "summary": "Claus (SciTec): SciTec_Testsimmulation/03"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "begin": "08:30",
+                    "end": "17:30",
+                    "summary": "Claus (SciTec): SciTec_Testsimmulation/02"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "08:30",
+                    "end": "17:30",
+                    "summary": "Claus (SciTec): SciTec_Testsimmulation/04"
+                }
+            ]
+        }
+    },
+    "05.02.54": {
+        "days": {
+            "Monday": [
+                {
+                    "begin": "13:00",
+                    "end": "14:30",
+                    "summary": "JenAll_2: JenALL/Vorkurs ET ETPr/LÃ¶t/S/01.1"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "13:00",
+                    "end": "14:30",
+                    "summary": "JenAll_2: JenALL/Vorkurs ET ETPr/LÃ¶t/S/01.3"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "begin": "13:00",
+                    "end": "14:30",
+                    "summary": "JenAll_2: JenALL/Vorkurs ET ETPr/LÃ¶t/S/01.2"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "13:00",
+                    "end": "14:30",
+                    "summary": "JenAll_2: JenALL/Vorkurs ET ETPr/LÃ¶t/S/01.4"
+                }
+            ]
+        }
+    },
+    "05.-1.221": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "08:00",
+                    "end": "18:00",
+                    "summary": "Kolbe(SciTec), Kunert, K.: 22.09._AO_Reservierung"
+                }
+            ]
+        }
+    },
+    "01.02.14": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "16:00",
+                    "end": "17:30",
+                    "summary": "Neumann, Hoechstetter: 22.09._MT_Vertdg."
+                }
+            ]
+        }
+    },
+    "05.00.03": {
+        "days": {
+            "Tuesday": [
+                {
+                    "begin": "09:00",
+                    "end": "12:15",
+                    "summary": "Hopp: JenALL/Vorkurs Ing. Chemie 1/S/01.2"
+                }
+            ],
+            "Saturday": [
+                {
+                    "begin": "09:00",
+                    "end": "10:30",
+                    "summary": "Herbst, U.: JenALL/FTPM 2016/APL/03"
+                },
+                {
+                    "begin": "11:00",
+                    "end": "12:30",
+                    "summary": "KrauÃlach: JenALL/FTPM 2017/APL/03"
+                }
+            ],
+            "Monday": [
+                {
+                    "begin": "09:00",
+                    "end": "12:15",
+                    "summary": "Hopp: JenALL/Vorkurs Ing. Chemie 1/S/01.1"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "09:00",
+                    "end": "12:15",
+                    "summary": "Hopp: JenALL/Vorkurs Ing. Chemie 1/S/01.3"
+                }
+            ],
+            "Friday": [
+                {
+                    "begin": "09:00",
+                    "end": "12:15",
+                    "summary": "Hopp: JenALL/Vorkurs Ing. Chemie 1/S/01.5"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "09:00",
+                    "end": "12:15",
+                    "summary": "Hopp: JenALL/Vorkurs Ing. Chemie 1/S/01.4"
+                }
+            ]
+        }
+    },
+    "05.00.10": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "12:00",
+                    "end": "20:00",
+                    "summary": "Kirchner: 22.09._Kichner_Kooperationspartnertreffen"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "begin": "10:00",
+                    "end": "11:30",
+                    "summary": "Meyer: 19.09._MT_Koll."
+                }
+            ]
+        }
+    },
+    "04.00.01(HS6)": {
+        "days": {
+            "Monday": [
+                {
+                    "begin": "08:30",
+                    "end": "09:30",
+                    "summary": "ZVM: 18.09._Marketg./Kindergarten-Besichtigung"
+                }
+            ]
+        }
+    },
+    "05.01.43": {
+        "days": {
+            "Saturday": [
+                {
+                    "begin": "09:00",
+                    "end": "14:30",
+                    "summary": "JenAll: JenALL/HCM 2016/S/01.12"
+                }
+            ],
+            "Friday": [
+                {
+                    "begin": "13:00",
+                    "end": "19:30",
+                    "summary": "JenAll: JenALL/HCM 2016/S/01.11"
+                }
+            ]
+        }
+    },
+    "04.03.10": {
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "09:30",
+                    "end": "17:30",
+                    "summary": "LautenschlÃ¤ger: BW(BA)ABWL UPS easyStartUp!/S/01.1"
+                }
+            ],
+            "Friday": [
+                {
+                    "begin": "09:30",
+                    "end": "17:30",
+                    "summary": "LautenschlÃ¤ger: BW(BA)ABWL UPS easyStartUp!/S/01.3"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "09:30",
+                    "end": "17:30",
+                    "summary": "LautenschlÃ¤ger: BW(BA)ABWL UPS easyStartUp!/S/01.2"
+                }
+            ]
+        }
+    },
+    "01.02.12": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "08:00",
+                    "end": "20:00",
+                    "summary": ": AG Bliedtner_3D Drucker Test_V"
+                }
+            ],
+            "Monday": [
+                {
+                    "begin": "08:00",
+                    "end": "20:00",
+                    "summary": ": AG Bliedtner_3D Drucker Test_I"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "08:00",
+                    "end": "20:00",
+                    "summary": ": AG Bliedtner_3D Drucker Test_III"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "begin": "08:00",
+                    "end": "20:00",
+                    "summary": ": AG Bliedtner_3D Drucker Test_II"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "08:00",
+                    "end": "20:00",
+                    "summary": ": AG Bliedtner_3D Drucker Test_IV"
+                }
+            ]
+        }
+    },
+    "05.03.01": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "13:00",
+                    "end": "16:15",
+                    "summary": "HÃ¼bner: JenALL/Vorkurs Ing. Phy 1/S/01.5"
+                }
+            ],
+            "Monday": [
+                {
+                    "begin": "13:00",
+                    "end": "16:15",
+                    "summary": "HÃ¼bner: JenALL/Vorkurs Ing. Phy 1/S/01.1"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "13:00",
+                    "end": "16:15",
+                    "summary": "HÃ¼bner: JenALL/Vorkurs Ing. Phy 1/S/01.3"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "begin": "13:00",
+                    "end": "16:15",
+                    "summary": "HÃ¼bner: JenALL/Vorkurs Ing. Phy 1/S/01.2"
+                },
+                {
+                    "begin": "18:00",
+                    "end": "20:00",
+                    "summary": ": AG Fotoklub 78/S/01"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "13:00",
+                    "end": "16:15",
+                    "summary": "HÃ¼bner: JenALL/Vorkurs Ing. Phy 1/S/01.4"
+                }
+            ]
+        }
+    },
+    "05.00.12": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "08:00",
+                    "end": "18:00",
+                    "summary": "Kolbe(SciTec), Kunert, K.: 22.09._AO_Reservierung"
+                }
+            ]
+        }
+    },
+    "04.03.12": {
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "09:30",
+                    "end": "11:30",
+                    "summary": "Dienerowitz: 20.09.SciTec_Vertdg."
+                }
+            ]
+        }
+    },
+    "05.02.15": {
+        "days": {
+            "Monday": [
+                {
+                    "begin": "13:00",
+                    "end": "14:30",
+                    "summary": "JenAll_2: JenALL/Vorkurs ET ETPr/LÃ¶t/S/01.1"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "13:00",
+                    "end": "14:30",
+                    "summary": "JenAll_2: JenALL/Vorkurs ET ETPr/LÃ¶t/S/01.3"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "begin": "13:00",
+                    "end": "14:30",
+                    "summary": "JenAll_2: JenALL/Vorkurs ET ETPr/LÃ¶t/S/01.2"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "13:00",
+                    "end": "14:30",
+                    "summary": "JenAll_2: JenALL/Vorkurs ET ETPr/LÃ¶t/S/01.4"
+                }
+            ]
+        }
+    },
+    "04.00.34": {
+        "days": {
+            "Tuesday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:00",
+                    "summary": "ZSB: STET_Lager/Packen Erstsem.beutel/02"
+                }
+            ],
+            "Saturday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:00",
+                    "summary": "ZSB: STET_Lager/Packen Erstsem.beutel/06"
+                }
+            ],
+            "Monday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:00",
+                    "summary": "ZSB: STET_Lager/Packen Erstsem.beutel/01"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:00",
+                    "summary": "ZSB: STET_Lager/Packen Erstsem.beutel/03"
+                }
+            ],
+            "Friday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:00",
+                    "summary": "ZSB: STET_Lager/Packen Erstsem.beutel/05"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:00",
+                    "summary": "ZSB: STET_Lager/Packen Erstsem.beutel/04"
+                }
+            ]
+        }
+    },
+    "04.02.10": {
+        "days": {
+            "Thursday": [
+                {
+                    "begin": "08:00",
+                    "end": "18:00",
+                    "summary": "Fleck: JenALL/TO/S/01.4"
+                }
+            ]
+        }
+    },
+    "01.02.11": {
+        "days": {
+            "Tuesday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:30",
+                    "summary": ": Ref 4/Stuhllager/Senat/05"
+                }
+            ],
+            "Saturday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:30",
+                    "summary": ": Ref 4/Stuhllager/Senat/03"
+                }
+            ],
+            "Monday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:30",
+                    "summary": ": Ref 4/Stuhllager/Senat/04"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:30",
+                    "summary": ": Ref 4/Stuhllager/Senat/06"
+                }
+            ],
+            "Friday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:30",
+                    "summary": ": Ref 4/Stuhllager/Senat/02"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:30",
+                    "summary": ": Ref 4/Stuhllager/Senat/01"
+                }
+            ]
+        }
+    },
+    "05.03.202": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "09:00",
+                    "end": "12:15",
+                    "summary": "JenAll_Anacker: JenALL/Vorkurs BW Mathe 5/S/01.5"
+                },
+                {
+                    "begin": "13:00",
+                    "end": "16:15",
+                    "summary": "JenAll_Anacker: JenALL/Vorkurs BW Mathe 6/S/01.5"
+                }
+            ],
+            "Monday": [
+                {
+                    "begin": "09:00",
+                    "end": "12:15",
+                    "summary": "JenAll_Anacker: JenALL/Vorkurs BW Mathe 5/S/01.1"
+                },
+                {
+                    "begin": "13:00",
+                    "end": "16:15",
+                    "summary": "JenAll_Anacker: JenALL/Vorkurs BW Mathe 6/S/01.1"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "09:00",
+                    "end": "12:15",
+                    "summary": "JenAll_Anacker: JenALL/Vorkurs BW Mathe 5/S/01.3"
+                },
+                {
+                    "begin": "13:00",
+                    "end": "16:15",
+                    "summary": "JenAll_Anacker: JenALL/Vorkurs BW Mathe 6/S/01.3"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "begin": "09:00",
+                    "end": "12:15",
+                    "summary": "JenAll_Anacker: JenALL/Vorkurs BW Mathe 5/S/01.2"
+                },
+                {
+                    "begin": "13:00",
+                    "end": "16:15",
+                    "summary": "JenAll_Anacker: JenALL/Vorkurs BW Mathe 6/S/01.2"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "09:00",
+                    "end": "12:15",
+                    "summary": "JenAll_Anacker: JenALL/Vorkurs BW Mathe 5/S/01.4"
+                },
+                {
+                    "begin": "13:00",
+                    "end": "16:15",
+                    "summary": "JenAll_Anacker: JenALL/Vorkurs BW Mathe 6/S/01.4"
+                }
+            ]
+        }
+    },
+    "05.03.224": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "08:00",
+                    "end": "13:00",
+                    "summary": "Dorschner, Frank: 22.09._GP_mdl.Prf."
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "08:00",
+                    "end": "16:00",
+                    "summary": "Dorschner, Frank: 21.09._GP_mdl.Prf."
+                }
+            ]
+        }
+    },
+    "04.-1.01(Aula)": {
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "09:30",
+                    "end": "17:30",
+                    "summary": "LautenschlÃ¤ger: BW(BA)ABWL UPS easyStartUp!/S/01.1"
+                }
+            ],
+            "Friday": [
+                {
+                    "begin": "09:30",
+                    "end": "17:30",
+                    "summary": "LautenschlÃ¤ger: BW(BA)ABWL UPS easyStartUp!/S/01.3"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "09:30",
+                    "end": "17:30",
+                    "summary": "LautenschlÃ¤ger: BW(BA)ABWL UPS easyStartUp!/S/01.2"
+                }
+            ]
+        }
+    },
+    "05.02.52": {
+        "days": {
+            "Tuesday": [
+                {
+                    "begin": "10:30",
+                    "end": "12:00",
+                    "summary": "JenAll_2: JenALL/Vorkurs ET MP/S/01"
+                }
+            ]
+        }
+    },
+    "05.03.36": {
+        "days": {
+            "Sunday": [
+                {
+                    "begin": "08:00",
+                    "end": "18:00",
+                    "summary": "Degle: JenALL/AO-Optometr. 2016/17/S/01.11"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "begin": "08:00",
+                    "end": "18:00",
+                    "summary": "Fleck: JenALL/TO/S/01.2"
+                }
+            ],
+            "Saturday": [
+                {
+                    "begin": "08:00",
+                    "end": "18:00",
+                    "summary": "Degle: JenALL/AO-Optometr. 2016/17/S/01.10"
+                }
+            ],
+            "Monday": [
+                {
+                    "begin": "08:00",
+                    "end": "18:00",
+                    "summary": "Fleck: JenALL/TO/S/01.1"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "08:00",
+                    "end": "18:00",
+                    "summary": "Fleck: JenALL/TO/S/01.3"
+                }
+            ],
+            "Friday": [
+                {
+                    "begin": "08:00",
+                    "end": "18:00",
+                    "summary": "Degle: JenALL/AO-Optometr. 2016/17/S/01.09"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "08:00",
+                    "end": "18:00",
+                    "summary": "Degle: JenALL/AO-Optometr. 2016/17/S/01.08"
+                }
+            ]
+        }
+    },
+    "05.-1.232": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "08:00",
+                    "end": "18:00",
+                    "summary": "Kolbe(SciTec), Kunert, K.: 22.09._AO_Reservierung"
+                }
+            ]
+        }
+    },
+    "05.-1.216": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "08:00",
+                    "end": "18:00",
+                    "summary": "Kolbe(SciTec), Kunert, K.: 22.09._AO_Reservierung"
+                }
+            ]
+        }
+    },
+    "05.01.42": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "09:00",
+                    "end": "12:15",
+                    "summary": "Fritsche(GW): JenALL/Vorkurs BW Info 4/S/01.5"
+                },
+                {
+                    "begin": "13:00",
+                    "end": "16:15",
+                    "summary": "Fritsche(GW): JenALL/Vorkurs Ing. Info 1/S/01.5"
+                }
+            ],
+            "Monday": [
+                {
+                    "begin": "09:00",
+                    "end": "12:15",
+                    "summary": "Fritsche(GW): JenALL/Vorkurs BW Info 4/S/01.1"
+                },
+                {
+                    "begin": "13:00",
+                    "end": "16:15",
+                    "summary": "Fritsche(GW): JenALL/Vorkurs Ing. Info 1/S/01.1"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "09:00",
+                    "end": "12:15",
+                    "summary": "Fritsche(GW): JenALL/Vorkurs BW Info 4/S/01.3"
+                },
+                {
+                    "begin": "13:00",
+                    "end": "16:15",
+                    "summary": "Fritsche(GW): JenALL/Vorkurs Ing. Info 1/S/01.3"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "begin": "09:00",
+                    "end": "12:15",
+                    "summary": "Fritsche(GW): JenALL/Vorkurs BW Info 4/S/01.2"
+                },
+                {
+                    "begin": "13:00",
+                    "end": "16:15",
+                    "summary": "Fritsche(GW): JenALL/Vorkurs Ing. Info 1/S/01.2"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "09:00",
+                    "end": "12:15",
+                    "summary": "Fritsche(GW): JenALL/Vorkurs BW Info 4/S/01.4"
+                },
+                {
+                    "begin": "13:00",
+                    "end": "16:15",
+                    "summary": "Fritsche(GW): JenALL/Vorkurs Ing. Info 1/S/01.4"
+                }
+            ]
+        }
+    },
+    "05.00.02": {
+        "days": {
+            "Tuesday": [
+                {
+                    "begin": "08:30",
+                    "end": "10:00",
+                    "summary": "JenAll_2: JenALL/Vorkurs ET Phy/S/01.2"
+                }
+            ],
+            "Saturday": [
+                {
+                    "begin": "09:00",
+                    "end": "11:00",
+                    "summary": "Scheld: JenALL/GM 2017/APL/02"
+                }
+            ],
+            "Monday": [
+                {
+                    "begin": "08:30",
+                    "end": "12:00",
+                    "summary": "JenAll_2: JenALL/Vorkurs ET Phy/S/01.1"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "08:30",
+                    "end": "12:00",
+                    "summary": "JenAll_2: JenALL/Vorkurs ET Phy/S/01.3"
+                }
+            ],
+            "Friday": [
+                {
+                    "begin": "08:30",
+                    "end": "12:00",
+                    "summary": "JenAll_2: JenALL/Vorkurs ET Phy/S/01.5"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "08:30",
+                    "end": "12:00",
+                    "summary": "JenAll_2: JenALL/Vorkurs ET Phy/S/01.4"
+                }
+            ]
+        }
+    },
+    "05.02.16": {
+        "days": {
+            "Friday": [
+                {
+                    "begin": "13:00",
+                    "end": "14:30",
+                    "summary": "JenAll_2: JenALL/Vorkurs ET Info/S/01"
+                }
+            ]
+        }
+    }
+}

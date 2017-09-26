@@ -1,0 +1,163 @@
+{
+    "04.02.15": {
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "Feller: AG_Feller"
+                }
+            ]
+        }
+    },
+    "01.02.11": {
+        "days": {
+            "Saturday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:30",
+                    "summary": ": Ref 4/Stuhllager/Senat/03"
+                }
+            ],
+            "Friday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:30",
+                    "summary": ": Ref 4/Stuhllager/Senat/02"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:30",
+                    "summary": ": Ref 4/Stuhllager/Senat/01"
+                }
+            ]
+        }
+    },
+    "04.00.34": {
+        "days": {
+            "Tuesday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:00",
+                    "summary": "ZSB: STET_Lager/Packen Erstsem.beutel/02"
+                }
+            ],
+            "Saturday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:00",
+                    "summary": "ZSB: STET_Lager/Packen Erstsem.beutel/06"
+                }
+            ],
+            "Monday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:00",
+                    "summary": "ZSB: STET_Lager/Packen Erstsem.beutel/01"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:00",
+                    "summary": "ZSB: STET_Lager/Packen Erstsem.beutel/03"
+                }
+            ],
+            "Friday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:00",
+                    "summary": "ZSB: STET_Lager/Packen Erstsem.beutel/05"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:00",
+                    "summary": "ZSB: STET_Lager/Packen Erstsem.beutel/04"
+                }
+            ]
+        }
+    },
+    "05.00.10": {
+        "days": {
+            "Tuesday": [
+                {
+                    "begin": "10:00",
+                    "end": "14:00",
+                    "summary": "Pieper, Munder, Meyer, Maahs: 29.08._Meyer_Verteidigung"
+                }
+            ]
+        }
+    },
+    "05.00.04": {
+        "days": {
+            "Tuesday": [
+                {
+                    "begin": "08:00",
+                    "end": "12:00",
+                    "summary": "JenAll: JenALL/SGU/Human Resources Management/S/01"
+                }
+            ],
+            "Saturday": [
+                {
+                    "begin": "08:30",
+                    "end": "11:30",
+                    "summary": "BÃ¶sch: JenALL/GM 2016/APL/03"
+                }
+            ],
+            "Monday": [
+                {
+                    "begin": "08:00",
+                    "end": "12:00",
+                    "summary": "JenAll: JenALL/SGU/BegrÃ¼Ãungsveranstaltung/S/01"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "08:00",
+                    "end": "12:00",
+                    "summary": "Ephrosi(BW): JenALL/SGU/Organisation Management/S/01"
+                }
+            ],
+            "Friday": [
+                {
+                    "begin": "08:00",
+                    "end": "12:00",
+                    "summary": "BÃ¶sch: JenALL/SGU/Financial Management/S/01"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "08:00",
+                    "end": "12:00",
+                    "summary": "JenAll: JenALL/SGU/Corporate Management/S/01"
+                }
+            ]
+        }
+    },
+    "05.00.06": {
+        "days": {
+            "Tuesday": [
+                {
+                    "begin": "13:00",
+                    "end": "14:00",
+                    "summary": "Butzke: 29.08._Berufsschule"
+                }
+            ]
+        }
+    },
+    "01.02.12": {
+        "days": {
+            "Thursday": [
+                {
+                    "begin": "08:00",
+                    "end": "20:00",
+                    "summary": ": AG Bliedtner_3D Drucker Test_IV"
+                }
+            ]
+        }
+    }
+}
