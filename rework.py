@@ -11,10 +11,6 @@ import time
 import stat
 import datetime
 
-import base64
-from github import Github
-from github import InputGitTreeElement
-
 try:
     os.makedirs('ics')
     os.makedirs('json')
