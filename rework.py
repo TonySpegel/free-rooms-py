@@ -190,7 +190,7 @@ def init():
     save_as_json(schedule)
 
 
-# init()
+init()
 
 
 def get_work_dir():
