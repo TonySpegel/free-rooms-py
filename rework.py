@@ -12,7 +12,6 @@ import stat
 import datetime
 
 try:
-    os.makedirs('ics')
     os.makedirs('json')
 except OSError as e:
     if e.errno != errno.EEXIST:
