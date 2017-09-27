@@ -1,229 +1,46 @@
 {
-    "01.02.11": {
-        "days": {
-            "Tuesday": [
-                {
-                    "begin": "08:30",
-                    "end": "18:30",
-                    "summary": "summary text"
-                }
-            ],
-            "Friday": [
-                {
-                    "begin": "08:30",
-                    "end": "18:30",
-                    "summary": "summary text"
-                }
-            ],
-            "Saturday": [
-                {
-                    "begin": "08:30",
-                    "end": "18:30",
-                    "summary": "summary text"
-                }
-            ],
-            "Monday": [
-                {
-                    "begin": "08:30",
-                    "end": "18:30",
-                    "summary": "summary text"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "begin": "08:30",
-                    "end": "18:30",
-                    "summary": "summary text"
-                }
-            ],
-            "Thursday": [
-                {
-                    "begin": "08:30",
-                    "end": "18:30",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
-    "04.03.07": {
-        "days": {
-            "Thursday": [
-                {
-                    "begin": "08:00",
-                    "end": "18:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Monday": [
-                {
-                    "begin": "08:00",
-                    "end": "18:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "begin": "08:00",
-                    "end": "18:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "begin": "08:00",
-                    "end": "18:00",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
     "04.00.34": {
         "days": {
-            "Tuesday": [
-                {
-                    "begin": "08:30",
-                    "end": "18:00",
-                    "summary": "summary text"
-                }
-            ],
             "Friday": [
                 {
-                    "begin": "08:30",
                     "end": "18:00",
-                    "summary": "summary text"
+                    "begin": "08:30",
+                    "summary": "ZSB: STET_Lager/Packen Erstsem.beutel/05"
+                }
+            ],
+            "Monday": [
+                {
+                    "end": "18:00",
+                    "begin": "08:30",
+                    "summary": "ZSB: STET_Lager/Packen Erstsem.beutel/01"
                 }
             ],
             "Saturday": [
                 {
-                    "begin": "08:30",
                     "end": "18:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Monday": [
-                {
                     "begin": "08:30",
-                    "end": "18:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "begin": "08:30",
-                    "end": "18:00",
-                    "summary": "summary text"
+                    "summary": "ZSB: STET_Lager/Packen Erstsem.beutel/06"
                 }
             ],
             "Thursday": [
                 {
-                    "begin": "08:30",
                     "end": "18:00",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
-    "01.02.12": {
-        "days": {
-            "Friday": [
-                {
-                    "begin": "08:00",
-                    "end": "20:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Thursday": [
-                {
-                    "begin": "08:00",
-                    "end": "20:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Monday": [
-                {
-                    "begin": "08:00",
-                    "end": "20:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "begin": "08:00",
-                    "end": "20:00",
-                    "summary": "summary text"
+                    "begin": "08:30",
+                    "summary": "ZSB: STET_Lager/Packen Erstsem.beutel/04"
                 }
             ],
             "Tuesday": [
                 {
-                    "begin": "08:00",
-                    "end": "20:00",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
-    "04.02.15": {
-        "days": {
-            "Wednesday": [
-                {
-                    "begin": "09:30",
-                    "end": "11:00",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
-    "05.00.10": {
-        "days": {
-            "Friday": [
-                {
-                    "begin": "09:30",
-                    "end": "16:30",
-                    "summary": "summary text"
-                }
-            ],
-            "Thursday": [
-                {
-                    "begin": "09:30",
-                    "end": "16:30",
-                    "summary": "summary text"
-                }
-            ],
-            "Monday": [
-                {
-                    "begin": "10:00",
-                    "end": "11:30",
-                    "summary": "summary text"
+                    "end": "18:00",
+                    "begin": "08:30",
+                    "summary": "ZSB: STET_Lager/Packen Erstsem.beutel/02"
                 }
             ],
             "Wednesday": [
                 {
-                    "begin": "09:30",
-                    "end": "16:30",
-                    "summary": "summary text"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "begin": "10:00",
-                    "end": "11:30",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
-    "04.00.01(HS6)": {
-        "days": {
-            "Wednesday": [
-                {
-                    "begin": "08:00",
-                    "end": "09:00",
-                    "summary": "summary text"
-                },
-                {
-                    "begin": "09:30",
-                    "end": "11:00",
-                    "summary": "summary text"
+                    "end": "18:00",
+                    "begin": "08:30",
+                    "summary": "ZSB: STET_Lager/Packen Erstsem.beutel/03"
                 }
             ]
         }
@@ -232,27 +49,210 @@
         "days": {
             "Saturday": [
                 {
+                    "end": "12:00",
                     "begin": "09:00",
-                    "end": "11:00",
-                    "summary": "summary text"
+                    "summary": "Stoetzer: JenALL/GM 2016/APL/02"
                 }
             ],
             "Tuesday": [
                 {
-                    "begin": "10:00",
                     "end": "11:30",
-                    "summary": "summary text"
+                    "begin": "10:00",
+                    "summary": "Pollok, Munder, Nemitz: 12.09._Munder_Verteidigung"
                 }
             ]
         }
     },
-    "05.00.03": {
+    "04.03.07": {
         "days": {
+            "Thursday": [
+                {
+                    "end": "18:00",
+                    "begin": "08:00",
+                    "summary": "Bliedtner: JenALL/3-D-Druck/S/01.4"
+                }
+            ],
             "Monday": [
                 {
+                    "end": "18:00",
+                    "begin": "08:00",
+                    "summary": "Bliedtner: JenALL/3-D-Druck/S/01.1"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "18:00",
+                    "begin": "08:00",
+                    "summary": "Bliedtner: JenALL/3-D-Druck/S/01.3"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "18:00",
+                    "begin": "08:00",
+                    "summary": "Bliedtner: JenALL/3-D-Druck/S/01.2"
+                }
+            ]
+        }
+    },
+    "05.03.36": {
+        "days": {
+            "Friday": [
+                {
+                    "end": "18:00",
+                    "begin": "08:00",
+                    "summary": "Fleck: JenALL/TO/S/01.0"
+                }
+            ]
+        }
+    },
+    "05.00.10": {
+        "days": {
+            "Friday": [
+                {
+                    "end": "16:30",
                     "begin": "09:30",
-                    "end": "12:00",
-                    "summary": "summary text"
+                    "summary": "Stoetzer: BW(BA)ABWL wiss.Arb.:Info-Rech., Aufb., Zitierw./S/01.3"
+                }
+            ],
+            "Thursday": [
+                {
+                    "end": "16:30",
+                    "begin": "09:30",
+                    "summary": "Stoetzer: BW(BA)ABWL wiss.Arb.:Info-Rech., Aufb., Zitierw./S/01.2"
+                }
+            ],
+            "Monday": [
+                {
+                    "end": "11:30",
+                    "begin": "10:00",
+                    "summary": "Herrmann, Hoechstetter: 11.09._Herrmann/Vertdg."
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "16:30",
+                    "begin": "09:30",
+                    "summary": "Stoetzer: BW(BA)ABWL wiss.Arb.:Info-Rech., Aufb., Zitierw./S/01.1"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "11:30",
+                    "begin": "10:00",
+                    "summary": "Klier, Herrmann, Werner, C.: 12.09._MT_Vertdg."
+                }
+            ]
+        }
+    },
+    "01.02.11": {
+        "days": {
+            "Friday": [
+                {
+                    "end": "18:30",
+                    "begin": "08:30",
+                    "summary": ": Ref 4/Stuhllager/Senat/02"
+                }
+            ],
+            "Monday": [
+                {
+                    "end": "18:30",
+                    "begin": "08:30",
+                    "summary": ": Ref 4/Stuhllager/Senat/04"
+                }
+            ],
+            "Saturday": [
+                {
+                    "end": "18:30",
+                    "begin": "08:30",
+                    "summary": ": Ref 4/Stuhllager/Senat/03"
+                }
+            ],
+            "Thursday": [
+                {
+                    "end": "18:30",
+                    "begin": "08:30",
+                    "summary": ": Ref 4/Stuhllager/Senat/01"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "18:30",
+                    "begin": "08:30",
+                    "summary": ": Ref 4/Stuhllager/Senat/05"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "18:30",
+                    "begin": "08:30",
+                    "summary": ": Ref 4/Stuhllager/Senat/06"
+                }
+            ]
+        }
+    },
+    "04.00.01(HS6)": {
+        "days": {
+            "Wednesday": [
+                {
+                    "end": "09:00",
+                    "begin": "08:00",
+                    "summary": "Merker: 13.09._SciTec_Schüler"
+                },
+                {
+                    "end": "11:00",
+                    "begin": "09:30",
+                    "summary": ": SchülerExpress/S/06"
+                }
+            ]
+        }
+    },
+    "01.02.12": {
+        "days": {
+            "Friday": [
+                {
+                    "end": "20:00",
+                    "begin": "08:00",
+                    "summary": ": AG Bliedtner_3D Drucker Test_V"
+                }
+            ],
+            "Thursday": [
+                {
+                    "end": "20:00",
+                    "begin": "08:00",
+                    "summary": ": AG Bliedtner_3D Drucker Test_IV"
+                }
+            ],
+            "Monday": [
+                {
+                    "end": "20:00",
+                    "begin": "08:00",
+                    "summary": ": AG Bliedtner_3D Drucker Test_I"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "20:00",
+                    "begin": "08:00",
+                    "summary": ": AG Bliedtner_3D Drucker Test_III"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "20:00",
+                    "begin": "08:00",
+                    "summary": ": AG Bliedtner_3D Drucker Test_II"
+                }
+            ]
+        }
+    },
+    "04.02.15": {
+        "days": {
+            "Wednesday": [
+                {
+                    "end": "11:00",
+                    "begin": "09:30",
+                    "summary": "Feller: AG_Feller"
                 }
             ]
         }
@@ -261,9 +261,20 @@
         "days": {
             "Thursday": [
                 {
-                    "begin": "08:00",
                     "end": "18:00",
-                    "summary": "summary text"
+                    "begin": "08:00",
+                    "summary": "Bliedtner: JenALL/3-D-Druck/S/01.4"
+                }
+            ]
+        }
+    },
+    "05.00.03": {
+        "days": {
+            "Monday": [
+                {
+                    "end": "12:00",
+                    "begin": "09:30",
+                    "summary": "Hübner: 11.09._Hübner_Verteidigung"
                 }
             ]
         }

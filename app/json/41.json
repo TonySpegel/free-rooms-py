@@ -1,622 +1,18 @@
 {
-    "05.03.203": {
-        "days": {
-            "Wednesday": [
-                {
-                    "begin": "14:30",
-                    "end": "16:00",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
-    "04.03.07": {
-        "days": {
-            "Thursday": [
-                {
-                    "begin": "12:00",
-                    "end": "16:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Monday": [
-                {
-                    "begin": "08:00",
-                    "end": "18:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "begin": "08:00",
-                    "end": "18:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "begin": "08:00",
-                    "end": "18:00",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
-    "05.03.36": {
-        "days": {
-            "Friday": [
-                {
-                    "begin": "09:30",
-                    "end": "18:30",
-                    "summary": "summary text"
-                }
-            ],
-            "Monday": [
-                {
-                    "begin": "08:00",
-                    "end": "15:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "begin": "09:30",
-                    "end": "18:30",
-                    "summary": "summary text"
-                }
-            ],
-            "Thursday": [
-                {
-                    "begin": "09:30",
-                    "end": "18:30",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
-    "05.01.44": {
-        "days": {
-            "Monday": [
-                {
-                    "begin": "09:00",
-                    "end": "18:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "begin": "09:00",
-                    "end": "18:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "begin": "09:00",
-                    "end": "18:00",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
-    "01.02.12": {
-        "days": {
-            "Friday": [
-                {
-                    "begin": "08:00",
-                    "end": "20:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Thursday": [
-                {
-                    "begin": "08:00",
-                    "end": "20:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Monday": [
-                {
-                    "begin": "08:00",
-                    "end": "20:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "begin": "08:00",
-                    "end": "20:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "begin": "08:00",
-                    "end": "20:00",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
-    "05.03.43 (HS4)": {
-        "days": {
-            "Friday": [
-                {
-                    "begin": "16:00",
-                    "end": "20:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "begin": "09:30",
-                    "end": "16:45",
-                    "summary": "summary text"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "begin": "13:30",
-                    "end": "14:30",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
-    "05.03.01": {
-        "days": {
-            "Friday": [
-                {
-                    "begin": "13:00",
-                    "end": "16:15",
-                    "summary": "summary text"
-                }
-            ],
-            "Thursday": [
-                {
-                    "begin": "13:00",
-                    "end": "16:15",
-                    "summary": "summary text"
-                }
-            ],
-            "Monday": [
-                {
-                    "begin": "13:00",
-                    "end": "16:15",
-                    "summary": "summary text"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "begin": "13:00",
-                    "end": "16:15",
-                    "summary": "summary text"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "begin": "13:00",
-                    "end": "16:15",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
-    "05.03.37 (HS2)": {
-        "days": {
-            "Tuesday": [
-                {
-                    "begin": "09:00",
-                    "end": "11:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "begin": "09:30",
-                    "end": "16:45",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
-    "04.03.12": {
-        "days": {
-            "Wednesday": [
-                {
-                    "begin": "15:00",
-                    "end": "16:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Thursday": [
-                {
-                    "begin": "09:45",
-                    "end": "12:00",
-                    "summary": "summary text"
-                },
-                {
-                    "begin": "12:00",
-                    "end": "16:00",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
-    "05.03.02 (HS5)": {
-        "days": {
-            "Monday": [
-                {
-                    "begin": "09:00",
-                    "end": "10:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "begin": "09:30",
-                    "end": "11:00",
-                    "summary": "summary text"
-                },
-                {
-                    "begin": "11:00",
-                    "end": "11:30",
-                    "summary": "summary text"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "begin": "14:00",
-                    "end": "15:30",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
-    "01.02.11": {
-        "days": {
-            "Tuesday": [
-                {
-                    "begin": "08:30",
-                    "end": "18:30",
-                    "summary": "summary text"
-                }
-            ],
-            "Friday": [
-                {
-                    "begin": "08:30",
-                    "end": "18:30",
-                    "summary": "summary text"
-                }
-            ],
-            "Saturday": [
-                {
-                    "begin": "08:30",
-                    "end": "18:30",
-                    "summary": "summary text"
-                }
-            ],
-            "Monday": [
-                {
-                    "begin": "08:30",
-                    "end": "18:30",
-                    "summary": "summary text"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "begin": "08:30",
-                    "end": "18:30",
-                    "summary": "summary text"
-                }
-            ],
-            "Thursday": [
-                {
-                    "begin": "08:30",
-                    "end": "18:30",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
-    "04.03.10": {
-        "days": {
-            "Thursday": [
-                {
-                    "begin": "12:00",
-                    "end": "16:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Monday": [
-                {
-                    "begin": "08:00",
-                    "end": "18:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "begin": "08:00",
-                    "end": "18:00",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
-    "05.03.33": {
-        "days": {
-            "Friday": [
-                {
-                    "begin": "09:30",
-                    "end": "18:30",
-                    "summary": "summary text"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "begin": "09:30",
-                    "end": "18:30",
-                    "summary": "summary text"
-                }
-            ],
-            "Thursday": [
-                {
-                    "begin": "09:30",
-                    "end": "18:30",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
-    "05.03.206": {
-        "days": {
-            "Wednesday": [
-                {
-                    "begin": "14:30",
-                    "end": "16:00",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
-    "04.02.15": {
-        "days": {
-            "Wednesday": [
-                {
-                    "begin": "09:30",
-                    "end": "11:00",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
     "05.01.45": {
         "days": {
             "Friday": [
                 {
-                    "begin": "13:30",
                     "end": "19:00",
-                    "summary": "summary text"
+                    "begin": "13:30",
+                    "summary": "Hamel(BW): BW(BA)Verk.+Verh.tr./Ü/01.1"
                 }
             ],
             "Saturday": [
                 {
-                    "begin": "08:00",
                     "end": "15:00",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
-    "05.03.204": {
-        "days": {
-            "Wednesday": [
-                {
-                    "begin": "14:30",
-                    "end": "16:00",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
-    "05.03.201": {
-        "days": {
-            "Friday": [
-                {
-                    "begin": "16:00",
-                    "end": "18:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Thursday": [
-                {
-                    "begin": "14:00",
-                    "end": "16:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Monday": [
-                {
-                    "begin": "10:00",
-                    "end": "15:00",
-                    "summary": "summary text"
-                },
-                {
-                    "begin": "16:00",
-                    "end": "18:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "begin": "14:30",
-                    "end": "16:00",
-                    "summary": "summary text"
-                },
-                {
-                    "begin": "20:00",
-                    "end": "22:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "begin": "16:00",
-                    "end": "18:00",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
-    "04.00.02 (HS7)": {
-        "days": {
-            "Monday": [
-                {
                     "begin": "08:00",
-                    "end": "12:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "begin": "09:00",
-                    "end": "11:00",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
-    "04.00.01(HS6)": {
-        "days": {
-            "Wednesday": [
-                {
-                    "begin": "09:30",
-                    "end": "10:30",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
-    "04.03.11": {
-        "days": {
-            "Friday": [
-                {
-                    "begin": "09:00",
-                    "end": "13:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "begin": "10:00",
-                    "end": "14:00",
-                    "summary": "summary text"
-                },
-                {
-                    "begin": "15:30",
-                    "end": "16:30",
-                    "summary": "summary text"
-                }
-            ],
-            "Thursday": [
-                {
-                    "begin": "12:00",
-                    "end": "16:00",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
-    "05.03.40 (HS3)": {
-        "days": {
-            "Wednesday": [
-                {
-                    "begin": "08:00",
-                    "end": "11:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Thursday": [
-                {
-                    "begin": "11:00",
-                    "end": "13:30",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
-    "05.03.28": {
-        "days": {
-            "Friday": [
-                {
-                    "begin": "09:30",
-                    "end": "18:30",
-                    "summary": "summary text"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "begin": "09:30",
-                    "end": "18:30",
-                    "summary": "summary text"
-                }
-            ],
-            "Thursday": [
-                {
-                    "begin": "09:30",
-                    "end": "18:30",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
-    "04.-1.01(Aula)": {
-        "days": {
-            "Thursday": [
-                {
-                    "begin": "12:00",
-                    "end": "16:00",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
-    "05.00.02": {
-        "days": {
-            "Friday": [
-                {
-                    "begin": "13:00",
-                    "end": "16:15",
-                    "summary": "summary text"
-                }
-            ],
-            "Thursday": [
-                {
-                    "begin": "13:00",
-                    "end": "16:15",
-                    "summary": "summary text"
-                }
-            ],
-            "Monday": [
-                {
-                    "begin": "13:00",
-                    "end": "16:15",
-                    "summary": "summary text"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "begin": "13:00",
-                    "end": "16:15",
-                    "summary": "summary text"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "begin": "13:00",
-                    "end": "16:15",
-                    "summary": "summary text"
+                    "summary": "Hamel(BW): BW(BA)Verk.+Verh.tr./Ü/01.2"
                 }
             ]
         }
@@ -625,45 +21,55 @@
         "days": {
             "Saturday": [
                 {
-                    "begin": "08:30",
                     "end": "17:30",
-                    "summary": "summary text"
+                    "begin": "08:30",
+                    "summary": "SW: 14.10._SW(Ma)_Coaching u.Fhrg."
                 }
             ]
         }
     },
-    "05.03.202": {
-        "days": {
-            "Wednesday": [
-                {
-                    "begin": "14:30",
-                    "end": "16:00",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
-    "05.03.32": {
+    "01.02.11": {
         "days": {
             "Friday": [
                 {
-                    "begin": "09:30",
                     "end": "18:30",
-                    "summary": "summary text"
+                    "begin": "08:30",
+                    "summary": ": Ref 4/Stuhllager/Senat/02"
                 }
             ],
-            "Wednesday": [
+            "Monday": [
                 {
-                    "begin": "09:30",
                     "end": "18:30",
-                    "summary": "summary text"
+                    "begin": "08:30",
+                    "summary": ": Ref 4/Stuhllager/Senat/04"
+                }
+            ],
+            "Saturday": [
+                {
+                    "end": "18:30",
+                    "begin": "08:30",
+                    "summary": ": Ref 4/Stuhllager/Senat/03"
                 }
             ],
             "Thursday": [
                 {
-                    "begin": "09:30",
                     "end": "18:30",
-                    "summary": "summary text"
+                    "begin": "08:30",
+                    "summary": ": Ref 4/Stuhllager/Senat/01"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "18:30",
+                    "begin": "08:30",
+                    "summary": ": Ref 4/Stuhllager/Senat/05"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "18:30",
+                    "begin": "08:30",
+                    "summary": ": Ref 4/Stuhllager/Senat/06"
                 }
             ]
         }
@@ -672,224 +78,9 @@
         "days": {
             "Friday": [
                 {
-                    "begin": "10:00",
                     "end": "12:00",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
-    "05.00.06": {
-        "days": {
-            "Friday": [
-                {
-                    "begin": "13:00",
-                    "end": "16:15",
-                    "summary": "summary text"
-                }
-            ],
-            "Thursday": [
-                {
-                    "begin": "11:30",
-                    "end": "12:30",
-                    "summary": "summary text"
-                },
-                {
-                    "begin": "13:00",
-                    "end": "16:15",
-                    "summary": "summary text"
-                }
-            ],
-            "Monday": [
-                {
-                    "begin": "13:00",
-                    "end": "16:15",
-                    "summary": "summary text"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "begin": "14:00",
-                    "end": "16:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "begin": "13:00",
-                    "end": "16:15",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
-    "01.02.14": {
-        "days": {
-            "Tuesday": [
-                {
-                    "begin": "14:00",
-                    "end": "15:30",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
-    "05.00.03": {
-        "days": {
-            "Friday": [
-                {
-                    "begin": "09:30",
-                    "end": "17:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Thursday": [
-                {
-                    "begin": "09:30",
-                    "end": "17:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Monday": [
-                {
-                    "begin": "09:30",
-                    "end": "12:45",
-                    "summary": "summary text"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "begin": "09:30",
-                    "end": "17:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "begin": "11:15",
-                    "end": "14:45",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
-    "05.03.224": {
-        "days": {
-            "Friday": [
-                {
-                    "begin": "09:00",
-                    "end": "12:15",
-                    "summary": "summary text"
-                },
-                {
-                    "begin": "13:00",
-                    "end": "16:15",
-                    "summary": "summary text"
-                }
-            ],
-            "Thursday": [
-                {
-                    "begin": "09:00",
-                    "end": "12:15",
-                    "summary": "summary text"
-                },
-                {
-                    "begin": "13:00",
-                    "end": "16:15",
-                    "summary": "summary text"
-                }
-            ],
-            "Monday": [
-                {
-                    "begin": "09:00",
-                    "end": "12:15",
-                    "summary": "summary text"
-                },
-                {
-                    "begin": "13:00",
-                    "end": "16:15",
-                    "summary": "summary text"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "begin": "09:00",
-                    "end": "12:15",
-                    "summary": "summary text"
-                },
-                {
-                    "begin": "13:00",
-                    "end": "16:15",
-                    "summary": "summary text"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "begin": "09:00",
-                    "end": "12:15",
-                    "summary": "summary text"
-                },
-                {
-                    "begin": "13:00",
-                    "end": "16:15",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
-    "05.00.04": {
-        "days": {
-            "Friday": [
-                {
-                    "begin": "08:30",
-                    "end": "18:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Thursday": [
-                {
-                    "begin": "08:30",
-                    "end": "18:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Monday": [
-                {
-                    "begin": "08:30",
-                    "end": "18:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "begin": "08:30",
-                    "end": "18:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "begin": "08:30",
-                    "end": "18:00",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
-    "05.00.10": {
-        "days": {
-            "Tuesday": [
-                {
-                    "begin": "10:30",
-                    "end": "12:30",
-                    "summary": "summary text"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "begin": "13:00",
-                    "end": "16:15",
-                    "summary": "summary text"
+                    "begin": "10:00",
+                    "summary": "Große: 13.10._Große Tutorenschulugn"
                 }
             ]
         }
@@ -898,23 +89,848 @@
         "days": {
             "Friday": [
                 {
-                    "begin": "09:30",
                     "end": "18:30",
-                    "summary": "summary text"
-                }
-            ],
-            "Wednesday": [
-                {
                     "begin": "09:30",
-                    "end": "18:30",
-                    "summary": "summary text"
+                    "summary": "Assfalg(BW): BW(BA)ABWL UPS/S/02.3"
                 }
             ],
             "Thursday": [
                 {
-                    "begin": "09:30",
                     "end": "18:30",
-                    "summary": "summary text"
+                    "begin": "09:30",
+                    "summary": "Assfalg(BW): BW(BA)ABWL UPS/S/02.2"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "18:30",
+                    "begin": "09:30",
+                    "summary": "Assfalg(BW): BW(BA)ABWL UPS/S/02.1"
+                }
+            ]
+        }
+    },
+    "05.03.28": {
+        "days": {
+            "Friday": [
+                {
+                    "end": "18:30",
+                    "begin": "09:30",
+                    "summary": "Assfalg(BW): BW(BA)ABWL UPS/S/02.3"
+                }
+            ],
+            "Thursday": [
+                {
+                    "end": "18:30",
+                    "begin": "09:30",
+                    "summary": "Assfalg(BW): BW(BA)ABWL UPS/S/02.2"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "18:30",
+                    "begin": "09:30",
+                    "summary": "Assfalg(BW): BW(BA)ABWL UPS/S/02.1"
+                }
+            ]
+        }
+    },
+    "04.02.15": {
+        "days": {
+            "Wednesday": [
+                {
+                    "end": "11:00",
+                    "begin": "09:30",
+                    "summary": "Feller: AG_Feller"
+                }
+            ]
+        }
+    },
+    "05.03.02 (HS5)": {
+        "days": {
+            "Monday": [
+                {
+                    "end": "10:00",
+                    "begin": "09:00",
+                    "summary": "Mitte: StET_SW/S/01"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "11:00",
+                    "begin": "09:30",
+                    "summary": "Trenczek: StET_SW/S/03"
+                },
+                {
+                    "end": "11:30",
+                    "begin": "11:00",
+                    "summary": "Lampert: StET_SW_StuWe/S/01"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "15:30",
+                    "begin": "14:00",
+                    "summary": "Mitte: StET_SW/S/02"
+                }
+            ]
+        }
+    },
+    "05.03.224": {
+        "days": {
+            "Friday": [
+                {
+                    "end": "12:15",
+                    "begin": "09:00",
+                    "summary": "JenAll_Koch: JenALL/Vorkurs Ing. Ma 4/S/01.5"
+                },
+                {
+                    "end": "16:15",
+                    "begin": "13:00",
+                    "summary": "JenAll_Koch: JenALL/Vorkurs Ing. Ma 4/S/01.10"
+                }
+            ],
+            "Thursday": [
+                {
+                    "end": "12:15",
+                    "begin": "09:00",
+                    "summary": "JenAll_Koch: JenALL/Vorkurs Ing. Ma 4/S/01.4"
+                },
+                {
+                    "end": "16:15",
+                    "begin": "13:00",
+                    "summary": "JenAll_Koch: JenALL/Vorkurs Ing. Ma 4/S/01.9"
+                }
+            ],
+            "Monday": [
+                {
+                    "end": "12:15",
+                    "begin": "09:00",
+                    "summary": "JenAll_Koch: JenALL/Vorkurs Ing. Ma 4/S/01.1"
+                },
+                {
+                    "end": "16:15",
+                    "begin": "13:00",
+                    "summary": "JenAll_Koch: JenALL/Vorkurs Ing. Ma 4/S/01.6"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "12:15",
+                    "begin": "09:00",
+                    "summary": "JenAll_Koch: JenALL/Vorkurs Ing. Ma 4/S/01.3"
+                },
+                {
+                    "end": "16:15",
+                    "begin": "13:00",
+                    "summary": "JenAll_Koch: JenALL/Vorkurs Ing. Ma 4/S/01.8"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "12:15",
+                    "begin": "09:00",
+                    "summary": "JenAll_Koch: JenALL/Vorkurs Ing. Ma 4/S/01.2"
+                },
+                {
+                    "end": "16:15",
+                    "begin": "13:00",
+                    "summary": "JenAll_Koch: JenALL/Vorkurs Ing. Ma 4/S/01.7"
+                }
+            ]
+        }
+    },
+    "05.03.203": {
+        "days": {
+            "Wednesday": [
+                {
+                    "end": "16:00",
+                    "begin": "14:30",
+                    "summary": "Klaus: StET_BW/S/02"
+                }
+            ]
+        }
+    },
+    "04.03.10": {
+        "days": {
+            "Thursday": [
+                {
+                    "end": "16:00",
+                    "begin": "12:00",
+                    "summary": "ZVM: 12.10._Tag d.gesunden Arbeit"
+                }
+            ],
+            "Monday": [
+                {
+                    "end": "18:00",
+                    "begin": "08:00",
+                    "summary": "Kaiser(SciTec): JenALL/Dünne Schichten/S/01.1"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "18:00",
+                    "begin": "08:00",
+                    "summary": "Kaiser(SciTec): JenALL/Dünne Schichten/S/01.2"
+                }
+            ]
+        }
+    },
+    "05.03.201": {
+        "days": {
+            "Friday": [
+                {
+                    "end": "18:00",
+                    "begin": "16:00",
+                    "summary": ": 13.10._ALOTA"
+                }
+            ],
+            "Thursday": [
+                {
+                    "end": "16:00",
+                    "begin": "14:00",
+                    "summary": ": 12.10._ALOTA"
+                }
+            ],
+            "Monday": [
+                {
+                    "end": "15:00",
+                    "begin": "10:00",
+                    "summary": "StuRa: StuRa-Prf.beratg/01.11"
+                },
+                {
+                    "end": "18:00",
+                    "begin": "16:00",
+                    "summary": ": 09.10._ALOTA"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "16:00",
+                    "begin": "14:30",
+                    "summary": "Klaus: StET_BW/S/02"
+                },
+                {
+                    "end": "22:00",
+                    "begin": "20:00",
+                    "summary": ": 11.10._ALOTA"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "18:00",
+                    "begin": "16:00",
+                    "summary": ": 10.10._ALOTA"
+                }
+            ]
+        }
+    },
+    "05.00.10": {
+        "days": {
+            "Wednesday": [
+                {
+                    "end": "16:15",
+                    "begin": "13:00",
+                    "summary": "JenAll_Weitz: JenALL/Vorkurs BW Wiss. Arb. 3/S/01.3"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "12:30",
+                    "begin": "10:30",
+                    "summary": "Jack: StET_ET/S/01"
+                },
+                {
+                    "end": "14:30",
+                    "begin": "13:00",
+                    "summary": "Hübner: 10.10._AO_Vertdg."
+                }
+            ]
+        }
+    },
+    "05.03.206": {
+        "days": {
+            "Wednesday": [
+                {
+                    "end": "16:00",
+                    "begin": "14:30",
+                    "summary": "Klaus: StET_BW/S/02"
+                }
+            ]
+        }
+    },
+    "04.00.01(HS6)": {
+        "days": {
+            "Wednesday": [
+                {
+                    "end": "10:30",
+                    "begin": "09:30",
+                    "summary": "Schröck: SciTec(BA))Einführungsveranstaltung/S/01"
+                }
+            ]
+        }
+    },
+    "05.03.01": {
+        "days": {
+            "Friday": [
+                {
+                    "end": "16:15",
+                    "begin": "13:00",
+                    "summary": "JenAll_Vater: JenALL/Vorkurs Ing. Phy 5/S/01.5"
+                }
+            ],
+            "Thursday": [
+                {
+                    "end": "16:15",
+                    "begin": "13:00",
+                    "summary": "JenAll_Vater: JenALL/Vorkurs Ing. Phy 5/S/01.4"
+                }
+            ],
+            "Monday": [
+                {
+                    "end": "16:15",
+                    "begin": "13:00",
+                    "summary": "JenAll_Vater: JenALL/Vorkurs Ing. Phy 5/S/01.1"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "16:15",
+                    "begin": "13:00",
+                    "summary": "JenAll_Vater: JenALL/Vorkurs Ing. Phy 5/S/01.3"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "16:15",
+                    "begin": "13:00",
+                    "summary": "JenAll_Vater: JenALL/Vorkurs Ing. Phy 5/S/01.2"
+                }
+            ]
+        }
+    },
+    "04.00.02 (HS7)": {
+        "days": {
+            "Monday": [
+                {
+                    "end": "12:00",
+                    "begin": "08:00",
+                    "summary": "Garzke: StET_MB/S/01"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "11:00",
+                    "begin": "09:00",
+                    "summary": "Schumann: BT/MT(BA)Einführungsveranstaltung/S/01"
+                }
+            ]
+        }
+    },
+    "04.03.11": {
+        "days": {
+            "Friday": [
+                {
+                    "end": "13:00",
+                    "begin": "09:00",
+                    "summary": "Weiß: 13.10._Weiß_Tutoren-Einfürungsveranstaltung"
+                }
+            ],
+            "Thursday": [
+                {
+                    "end": "16:00",
+                    "begin": "12:00",
+                    "summary": "ZVM: 12.10._Tag d.gesunden Arbeit"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "14:00",
+                    "begin": "10:00",
+                    "summary": "Fleck: StET_LOT/S/01.1"
+                },
+                {
+                    "end": "16:30",
+                    "begin": "15:30",
+                    "summary": "Fleck: StET_LOT/S/01.2"
+                }
+            ]
+        }
+    },
+    "01.02.12": {
+        "days": {
+            "Friday": [
+                {
+                    "end": "20:00",
+                    "begin": "08:00",
+                    "summary": ": AG Bliedtner_3D Drucker Test_V"
+                }
+            ],
+            "Thursday": [
+                {
+                    "end": "20:00",
+                    "begin": "08:00",
+                    "summary": ": AG Bliedtner_3D Drucker Test_IV"
+                }
+            ],
+            "Monday": [
+                {
+                    "end": "20:00",
+                    "begin": "08:00",
+                    "summary": ": AG Bliedtner_3D Drucker Test_I"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "20:00",
+                    "begin": "08:00",
+                    "summary": ": AG Bliedtner_3D Drucker Test_III"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "20:00",
+                    "begin": "08:00",
+                    "summary": ": AG Bliedtner_3D Drucker Test_II"
+                }
+            ]
+        }
+    },
+    "04.-1.01(Aula)": {
+        "days": {
+            "Thursday": [
+                {
+                    "end": "16:00",
+                    "begin": "12:00",
+                    "summary": "ZVM: 12.10._Tag d.gesunden Arbeit"
+                }
+            ]
+        }
+    },
+    "05.01.44": {
+        "days": {
+            "Monday": [
+                {
+                    "end": "18:00",
+                    "begin": "09:00",
+                    "summary": "Fastnacht(BW): BW(BA)DATEV M.Th./S/01"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "18:00",
+                    "begin": "09:00",
+                    "summary": "Fastnacht(BW): BW(BA)DATEV M.Th./S/03"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "18:00",
+                    "begin": "09:00",
+                    "summary": "Fastnacht(BW): BW(BA)DATEV M.Th./S/02"
+                }
+            ]
+        }
+    },
+    "04.03.07": {
+        "days": {
+            "Thursday": [
+                {
+                    "end": "16:00",
+                    "begin": "12:00",
+                    "summary": "ZVM: 12.10._Tag d.gesunden Arbeit"
+                }
+            ],
+            "Monday": [
+                {
+                    "end": "18:00",
+                    "begin": "08:00",
+                    "summary": "Bliedtner: JenALL/OT/S/01.1"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "18:00",
+                    "begin": "08:00",
+                    "summary": "Bliedtner: JenALL/OT/S/01.3"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "18:00",
+                    "begin": "08:00",
+                    "summary": "Bliedtner: JenALL/OT/S/01.2"
+                }
+            ]
+        }
+    },
+    "05.03.40 (HS3)": {
+        "days": {
+            "Thursday": [
+                {
+                    "end": "13:30",
+                    "begin": "11:00",
+                    "summary": "Klaus: StET_BW/S/03"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "11:00",
+                    "begin": "08:00",
+                    "summary": "Klaus: StET_BW/S/01"
+                }
+            ]
+        }
+    },
+    "04.03.12": {
+        "days": {
+            "Thursday": [
+                {
+                    "end": "12:00",
+                    "begin": "09:45",
+                    "summary": "Wartenberger: SciTec(BA))Einführungsveranstaltung Vorstellung FBfür FT/S/01"
+                },
+                {
+                    "end": "16:00",
+                    "begin": "12:00",
+                    "summary": "ZVM: 12.10._Tag d.gesunden Arbeit"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "16:00",
+                    "begin": "15:00",
+                    "summary": "Wartenberger: SciTec(BA))Einführungsveranstaltung Kennenlernrunde FT/S/01"
+                }
+            ]
+        }
+    },
+    "01.02.14": {
+        "days": {
+            "Tuesday": [
+                {
+                    "end": "15:30",
+                    "begin": "14:00",
+                    "summary": "Schumann: 10.10._MT_Vertdg"
+                }
+            ]
+        }
+    },
+    "05.03.204": {
+        "days": {
+            "Wednesday": [
+                {
+                    "end": "16:00",
+                    "begin": "14:30",
+                    "summary": "Klaus: StET_BW/S/02"
+                }
+            ]
+        }
+    },
+    "05.00.02": {
+        "days": {
+            "Friday": [
+                {
+                    "end": "16:15",
+                    "begin": "13:00",
+                    "summary": "JenAll_Hundt: JenALL/Vorkurs BW Eng 1/S/02.5"
+                }
+            ],
+            "Thursday": [
+                {
+                    "end": "16:15",
+                    "begin": "13:00",
+                    "summary": "JenAll_Hundt: JenALL/Vorkurs BW Eng 1/S/02.4"
+                }
+            ],
+            "Monday": [
+                {
+                    "end": "16:15",
+                    "begin": "13:00",
+                    "summary": "JenAll_Hundt: JenALL/Vorkurs BW Eng 1/S/02.1"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "16:15",
+                    "begin": "13:00",
+                    "summary": "JenAll_Hundt: JenALL/Vorkurs BW Eng 1/S/02.3"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "16:15",
+                    "begin": "13:00",
+                    "summary": "JenAll_Hundt: JenALL/Vorkurs BW Eng 1/S/02.2"
+                }
+            ]
+        }
+    },
+    "05.03.33": {
+        "days": {
+            "Friday": [
+                {
+                    "end": "18:30",
+                    "begin": "09:30",
+                    "summary": "Assfalg(BW): BW(BA)ABWL UPS/S/02.3"
+                }
+            ],
+            "Thursday": [
+                {
+                    "end": "18:30",
+                    "begin": "09:30",
+                    "summary": "Assfalg(BW): BW(BA)ABWL UPS/S/02.2"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "18:30",
+                    "begin": "09:30",
+                    "summary": "Assfalg(BW): BW(BA)ABWL UPS/S/02.1"
+                }
+            ]
+        }
+    },
+    "05.03.37 (HS2)": {
+        "days": {
+            "Wednesday": [
+                {
+                    "end": "16:45",
+                    "begin": "09:30",
+                    "summary": "GP: StET_GP/S/02"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "11:00",
+                    "begin": "09:00",
+                    "summary": "Bartmann-Fischer, Braungart, Bresack, Döge, Felkl, Fritzsche, Giesecke, Herzer, Hoffmann, Jack, Kampe, Löschner, Müller, J., Niebel, Redlich, Reimer, Reuter, Richter, Sesselmann, Voß, Wolf: ET(BA)Erstsemestereinführungsveranstaltung/S/01"
+                }
+            ]
+        }
+    },
+    "05.00.06": {
+        "days": {
+            "Friday": [
+                {
+                    "end": "16:15",
+                    "begin": "13:00",
+                    "summary": "JenAll_Weitz: JenALL/Vorkurs BW Wiss. Arb. 3/S/01.5"
+                }
+            ],
+            "Thursday": [
+                {
+                    "end": "12:30",
+                    "begin": "11:30",
+                    "summary": "Butzke: StET_AO/S/01.2"
+                },
+                {
+                    "end": "16:15",
+                    "begin": "13:00",
+                    "summary": "JenAll_Weitz: JenALL/Vorkurs BW Wiss. Arb. 3/S/01.4"
+                }
+            ],
+            "Monday": [
+                {
+                    "end": "16:15",
+                    "begin": "13:00",
+                    "summary": "JenAll_Weitz: JenALL/Vorkurs BW Wiss. Arb. 3/S/01.1"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "16:00",
+                    "begin": "14:00",
+                    "summary": "Butzke: StET_AO/S/01.1"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "16:15",
+                    "begin": "13:00",
+                    "summary": "JenAll_Weitz: JenALL/Vorkurs BW Wiss. Arb. 3/S/01.2"
+                }
+            ]
+        }
+    },
+    "05.00.04": {
+        "days": {
+            "Friday": [
+                {
+                    "end": "18:00",
+                    "begin": "08:30",
+                    "summary": "ZSB: STET_Thoskaausgabe/05"
+                }
+            ],
+            "Thursday": [
+                {
+                    "end": "18:00",
+                    "begin": "08:30",
+                    "summary": "ZSB: STET_Thoskaausgabe/04"
+                }
+            ],
+            "Monday": [
+                {
+                    "end": "18:00",
+                    "begin": "08:30",
+                    "summary": "ZSB: STET_Thoskaausgabe/01"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "18:00",
+                    "begin": "08:30",
+                    "summary": "ZSB: STET_Thoskaausgabe/03"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "18:00",
+                    "begin": "08:30",
+                    "summary": "ZSB: STET_Thoskaausgabe/02"
+                }
+            ]
+        }
+    },
+    "05.03.43 (HS4)": {
+        "days": {
+            "Friday": [
+                {
+                    "end": "20:00",
+                    "begin": "16:00",
+                    "summary": "Voß: 13.10._ET_Absolvententreffen"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "14:30",
+                    "begin": "13:30",
+                    "summary": "Schumann: StET_MT/S/01"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "16:45",
+                    "begin": "09:30",
+                    "summary": "GP: StET_GP/S/01"
+                }
+            ]
+        }
+    },
+    "05.03.36": {
+        "days": {
+            "Friday": [
+                {
+                    "end": "18:30",
+                    "begin": "09:30",
+                    "summary": "Assfalg(BW): BW(BA)ABWL UPS/S/02.3"
+                }
+            ],
+            "Thursday": [
+                {
+                    "end": "18:30",
+                    "begin": "09:30",
+                    "summary": "Assfalg(BW): BW(BA)ABWL UPS/S/02.2"
+                }
+            ],
+            "Monday": [
+                {
+                    "end": "15:00",
+                    "begin": "08:00",
+                    "summary": "Degle (SciTec): JenALL/AO-Binosehen 2017/18/S/01.04"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "18:30",
+                    "begin": "09:30",
+                    "summary": "Assfalg(BW): BW(BA)ABWL UPS/S/02.1"
+                }
+            ]
+        }
+    },
+    "05.03.32": {
+        "days": {
+            "Friday": [
+                {
+                    "end": "18:30",
+                    "begin": "09:30",
+                    "summary": "Assfalg(BW): BW(BA)ABWL UPS/S/02.3"
+                }
+            ],
+            "Thursday": [
+                {
+                    "end": "18:30",
+                    "begin": "09:30",
+                    "summary": "Assfalg(BW): BW(BA)ABWL UPS/S/02.2"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "18:30",
+                    "begin": "09:30",
+                    "summary": "Assfalg(BW): BW(BA)ABWL UPS/S/02.1"
+                }
+            ]
+        }
+    },
+    "05.03.202": {
+        "days": {
+            "Wednesday": [
+                {
+                    "end": "16:00",
+                    "begin": "14:30",
+                    "summary": "Klaus: StET_BW/S/02"
+                }
+            ]
+        }
+    },
+    "01.03.11(GP)": {
+        "days": {
+            "Saturday": [
+                {
+                    "end": "15:45",
+                    "begin": "08:30",
+                    "summary": "Rädel-Ablass: GP/Samstags-LV/S/04"
+                }
+            ]
+        }
+    },
+    "05.00.03": {
+        "days": {
+            "Friday": [
+                {
+                    "end": "17:00",
+                    "begin": "09:30",
+                    "summary": "Stoetzer: BW(BA)ABWL Wiss.Arb./S/01.3"
+                }
+            ],
+            "Thursday": [
+                {
+                    "end": "17:00",
+                    "begin": "09:30",
+                    "summary": "Stoetzer: BW(BA)ABWL Wiss.Arb./S/01.2"
+                }
+            ],
+            "Monday": [
+                {
+                    "end": "12:45",
+                    "begin": "09:30",
+                    "summary": "Bonk(GW): GHHK(BA)EAP/Ü/01"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "17:00",
+                    "begin": "09:30",
+                    "summary": "Stoetzer: BW(BA)ABWL Wiss.Arb./S/01.1"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "14:45",
+                    "begin": "11:15",
+                    "summary": "Bonk(GW): GHHK(BA)EAP/Ü/02"
                 }
             ]
         }

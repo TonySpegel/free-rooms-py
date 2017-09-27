@@ -1,72 +1,25 @@
 {
-    "05.03.203": {
+    "05.03.28": {
         "days": {
-            "Friday": [
-                {
-                    "begin": "09:30",
-                    "end": "12:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Thursday": [
-                {
-                    "begin": "09:30",
-                    "end": "17:30",
-                    "summary": "summary text"
-                }
-            ],
             "Monday": [
                 {
-                    "begin": "08:30",
-                    "end": "16:00",
-                    "summary": "summary text"
+                    "end": "17:00",
+                    "begin": "09:00",
+                    "summary": "Assfalg(BW): BW(BA)ABWL UPS/S/01.1"
                 }
             ],
             "Wednesday": [
                 {
-                    "begin": "15:15",
-                    "end": "17:30",
-                    "summary": "summary text"
+                    "end": "17:00",
+                    "begin": "09:00",
+                    "summary": "Assfalg(BW): BW(BA)ABWL UPS/S/01.3"
                 }
             ],
             "Tuesday": [
                 {
-                    "begin": "08:30",
-                    "end": "16:00",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
-    "05.00.10": {
-        "days": {
-            "Wednesday": [
-                {
-                    "begin": "08:30",
-                    "end": "16:00",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
-    "04.03.12": {
-        "days": {
-            "Thursday": [
-                {
-                    "begin": "09:30",
-                    "end": "10:30",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
-    "05.03.02 (HS5)": {
-        "days": {
-            "Friday": [
-                {
-                    "begin": "12:00",
-                    "end": "17:30",
-                    "summary": "summary text"
+                    "end": "17:00",
+                    "begin": "09:00",
+                    "summary": "Assfalg(BW): BW(BA)ABWL UPS/S/01.2"
                 }
             ]
         }
@@ -75,110 +28,23 @@
         "days": {
             "Friday": [
                 {
-                    "begin": "09:30",
                     "end": "12:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "begin": "15:15",
-                    "end": "17:30",
-                    "summary": "summary text"
+                    "begin": "09:30",
+                    "summary": "Geyer: BW(BA)ABWL BPS/S/01.4"
                 }
             ],
             "Thursday": [
                 {
-                    "begin": "09:30",
                     "end": "17:30",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
-    "05.03.36": {
-        "days": {
-            "Friday": [
-                {
-                    "begin": "13:00",
-                    "end": "19:30",
-                    "summary": "summary text"
-                }
-            ],
-            "Saturday": [
-                {
-                    "begin": "09:00",
-                    "end": "14:30",
-                    "summary": "summary text"
-                }
-            ],
-            "Monday": [
-                {
-                    "begin": "09:00",
-                    "end": "17:00",
-                    "summary": "summary text"
+                    "begin": "09:30",
+                    "summary": "Geyer: BW(BA)ABWL BPS/S/01.3"
                 }
             ],
             "Wednesday": [
                 {
-                    "begin": "09:00",
-                    "end": "17:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "begin": "09:00",
-                    "end": "17:00",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
-    "05.03.33": {
-        "days": {
-            "Monday": [
-                {
-                    "begin": "09:00",
-                    "end": "17:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "begin": "09:00",
-                    "end": "17:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "begin": "09:00",
-                    "end": "17:00",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
-    "01.02.14": {
-        "days": {
-            "Tuesday": [
-                {
-                    "begin": "10:30",
-                    "end": "12:00",
-                    "summary": "summary text"
-                },
-                {
-                    "begin": "15:00",
-                    "end": "16:30",
-                    "summary": "summary text"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "begin": "10:00",
-                    "end": "11:30",
-                    "summary": "summary text"
+                    "end": "17:30",
+                    "begin": "15:15",
+                    "summary": "Geyer: BW(BA)ABWL BPS/S/01.2"
                 }
             ]
         }
@@ -187,333 +53,20 @@
         "days": {
             "Wednesday": [
                 {
-                    "begin": "09:30",
                     "end": "11:00",
-                    "summary": "summary text"
+                    "begin": "09:30",
+                    "summary": "Feller: AG_Feller"
                 }
             ]
         }
     },
-    "05.03.204": {
+    "05.03.02 (HS5)": {
         "days": {
             "Friday": [
                 {
-                    "begin": "09:30",
-                    "end": "12:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Thursday": [
-                {
-                    "begin": "09:30",
                     "end": "17:30",
-                    "summary": "summary text"
-                }
-            ],
-            "Monday": [
-                {
-                    "begin": "08:30",
-                    "end": "16:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "begin": "15:15",
-                    "end": "17:30",
-                    "summary": "summary text"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "begin": "08:30",
-                    "end": "16:00",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
-    "05.03.206": {
-        "days": {
-            "Friday": [
-                {
-                    "begin": "09:30",
-                    "end": "12:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Thursday": [
-                {
-                    "begin": "09:30",
-                    "end": "17:30",
-                    "summary": "summary text"
-                }
-            ],
-            "Monday": [
-                {
-                    "begin": "08:30",
-                    "end": "16:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "begin": "15:15",
-                    "end": "17:30",
-                    "summary": "summary text"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "begin": "08:30",
-                    "end": "16:00",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
-    "05.-1.208(CAD3)": {
-        "days": {
-            "Friday": [
-                {
-                    "begin": "08:00",
-                    "end": "20:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Thursday": [
-                {
-                    "begin": "08:00",
-                    "end": "20:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Monday": [
-                {
-                    "begin": "08:00",
-                    "end": "20:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "begin": "08:00",
-                    "end": "20:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "begin": "08:00",
-                    "end": "20:00",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
-    "05.01.42": {
-        "days": {
-            "Wednesday": [
-                {
-                    "begin": "09:30",
-                    "end": "15:00",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
-    "05.03.28": {
-        "days": {
-            "Monday": [
-                {
-                    "begin": "09:00",
-                    "end": "17:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "begin": "09:00",
-                    "end": "17:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "begin": "09:00",
-                    "end": "17:00",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
-    "04.-1.01(Aula)": {
-        "days": {
-            "Friday": [
-                {
-                    "begin": "08:30",
-                    "end": "16:30",
-                    "summary": "summary text"
-                }
-            ],
-            "Saturday": [
-                {
-                    "begin": "08:30",
-                    "end": "16:30",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
-    "05.03.202": {
-        "days": {
-            "Friday": [
-                {
-                    "begin": "09:30",
-                    "end": "12:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Thursday": [
-                {
-                    "begin": "09:30",
-                    "end": "17:30",
-                    "summary": "summary text"
-                }
-            ],
-            "Monday": [
-                {
-                    "begin": "08:30",
-                    "end": "16:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "begin": "15:15",
-                    "end": "17:30",
-                    "summary": "summary text"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "begin": "08:30",
-                    "end": "16:00",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
-    "05.03.32": {
-        "days": {
-            "Monday": [
-                {
-                    "begin": "09:00",
-                    "end": "17:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "begin": "09:00",
-                    "end": "17:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "begin": "09:00",
-                    "end": "17:00",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
-    "04.00.34": {
-        "days": {
-            "Tuesday": [
-                {
-                    "begin": "08:30",
-                    "end": "18:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Friday": [
-                {
-                    "begin": "08:30",
-                    "end": "18:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Saturday": [
-                {
-                    "begin": "08:30",
-                    "end": "18:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Monday": [
-                {
-                    "begin": "08:30",
-                    "end": "18:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "begin": "08:30",
-                    "end": "18:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Thursday": [
-                {
-                    "begin": "08:30",
-                    "end": "18:00",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
-    "05.01.43": {
-        "days": {
-            "Friday": [
-                {
-                    "begin": "13:00",
-                    "end": "19:30",
-                    "summary": "summary text"
-                }
-            ],
-            "Saturday": [
-                {
-                    "begin": "09:00",
-                    "end": "12:15",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
-    "05.03.29": {
-        "days": {
-            "Monday": [
-                {
-                    "begin": "09:00",
-                    "end": "17:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "begin": "09:00",
-                    "end": "17:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "begin": "09:00",
-                    "end": "17:00",
-                    "summary": "summary text"
+                    "begin": "12:00",
+                    "summary": "Geyer: BW(BA)ABWL BPS/S/01.5"
                 }
             ]
         }
@@ -522,85 +75,145 @@
         "days": {
             "Friday": [
                 {
-                    "begin": "09:30",
                     "end": "12:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "begin": "15:15",
-                    "end": "17:30",
-                    "summary": "summary text"
+                    "begin": "09:30",
+                    "summary": "Geyer: BW(BA)ABWL BPS/S/01.4"
                 }
             ],
             "Thursday": [
                 {
-                    "begin": "09:30",
                     "end": "17:30",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
-    "05.00.04": {
-        "days": {
-            "Saturday": [
-                {
-                    "begin": "09:00",
-                    "end": "14:30",
-                    "summary": "summary text"
+                    "begin": "09:30",
+                    "summary": "Geyer: BW(BA)ABWL BPS/S/01.3"
                 }
             ],
             "Wednesday": [
                 {
-                    "begin": "13:15",
-                    "end": "14:15",
-                    "summary": "summary text"
+                    "end": "17:30",
+                    "begin": "15:15",
+                    "summary": "Geyer: BW(BA)ABWL BPS/S/01.2"
                 }
             ]
         }
     },
-    "05.03.201": {
+    "05.03.203": {
         "days": {
             "Friday": [
                 {
-                    "begin": "09:30",
                     "end": "12:00",
-                    "summary": "summary text"
+                    "begin": "09:30",
+                    "summary": "Geyer: BW(BA)ABWL BPS/S/01.4"
                 }
             ],
             "Thursday": [
                 {
-                    "begin": "09:30",
                     "end": "17:30",
-                    "summary": "summary text"
+                    "begin": "09:30",
+                    "summary": "Geyer: BW(BA)ABWL BPS/S/01.3"
                 }
             ],
             "Monday": [
                 {
-                    "begin": "08:30",
                     "end": "16:00",
-                    "summary": "summary text"
-                },
-                {
-                    "begin": "17:30",
-                    "end": "19:00",
-                    "summary": "summary text"
+                    "begin": "08:30",
+                    "summary": "Lautenschläger: BW(BA)ABWL TOPSIM-Startup!DL/S/02.1"
                 }
             ],
             "Wednesday": [
                 {
-                    "begin": "15:15",
                     "end": "17:30",
-                    "summary": "summary text"
+                    "begin": "15:15",
+                    "summary": "Geyer: BW(BA)ABWL BPS/S/01.2"
                 }
             ],
             "Tuesday": [
                 {
-                    "begin": "08:30",
                     "end": "16:00",
-                    "summary": "summary text"
+                    "begin": "08:30",
+                    "summary": "Lautenschläger: BW(BA)ABWL TOPSIM-Startup!DL/S/02.2"
+                }
+            ]
+        }
+    },
+    "05.03.29": {
+        "days": {
+            "Monday": [
+                {
+                    "end": "17:00",
+                    "begin": "09:00",
+                    "summary": "Assfalg(BW): BW(BA)ABWL UPS/S/01.1"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "17:00",
+                    "begin": "09:00",
+                    "summary": "Assfalg(BW): BW(BA)ABWL UPS/S/01.3"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "17:00",
+                    "begin": "09:00",
+                    "summary": "Assfalg(BW): BW(BA)ABWL UPS/S/01.2"
+                }
+            ]
+        }
+    },
+    "05.00.10": {
+        "days": {
+            "Wednesday": [
+                {
+                    "end": "16:00",
+                    "begin": "08:30",
+                    "summary": "Lautenschläger: BW(BA)ABWL TOPSIM-Startup!DL/S/02.3"
+                }
+            ]
+        }
+    },
+    "05.01.43": {
+        "days": {
+            "Friday": [
+                {
+                    "end": "19:30",
+                    "begin": "13:00",
+                    "summary": "JenAll: JenALL/HCM 2016/S/01.09"
+                }
+            ],
+            "Saturday": [
+                {
+                    "end": "12:15",
+                    "begin": "09:00",
+                    "summary": "JenAll: JenALL/HCM 2016/S/01.10"
+                }
+            ]
+        }
+    },
+    "04.03.12": {
+        "days": {
+            "Thursday": [
+                {
+                    "end": "10:30",
+                    "begin": "09:30",
+                    "summary": "Dienerowitz, Pfaff SciTec: 10.08._SciTec_Vertdg."
+                }
+            ]
+        }
+    },
+    "04.-1.01(Aula)": {
+        "days": {
+            "Friday": [
+                {
+                    "end": "16:30",
+                    "begin": "08:30",
+                    "summary": "ZVM: 11.08._Südschule_Vorb.Einsch."
+                }
+            ],
+            "Saturday": [
+                {
+                    "end": "16:30",
+                    "begin": "08:30",
+                    "summary": "ZVM: 12.08._Südschule_Einsch."
                 }
             ]
         }
@@ -609,23 +222,410 @@
         "days": {
             "Friday": [
                 {
-                    "begin": "09:30",
                     "end": "12:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "begin": "15:15",
-                    "end": "17:30",
-                    "summary": "summary text"
+                    "begin": "09:30",
+                    "summary": "Geyer: BW(BA)ABWL BPS/S/01.4"
                 }
             ],
             "Thursday": [
                 {
-                    "begin": "09:30",
                     "end": "17:30",
-                    "summary": "summary text"
+                    "begin": "09:30",
+                    "summary": "Geyer: BW(BA)ABWL BPS/S/01.3"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "17:30",
+                    "begin": "15:15",
+                    "summary": "Geyer: BW(BA)ABWL BPS/S/01.2"
+                }
+            ]
+        }
+    },
+    "05.03.32": {
+        "days": {
+            "Monday": [
+                {
+                    "end": "17:00",
+                    "begin": "09:00",
+                    "summary": "Assfalg(BW): BW(BA)ABWL UPS/S/01.1"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "17:00",
+                    "begin": "09:00",
+                    "summary": "Assfalg(BW): BW(BA)ABWL UPS/S/01.3"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "17:00",
+                    "begin": "09:00",
+                    "summary": "Assfalg(BW): BW(BA)ABWL UPS/S/01.2"
+                }
+            ]
+        }
+    },
+    "04.00.34": {
+        "days": {
+            "Friday": [
+                {
+                    "end": "18:00",
+                    "begin": "08:30",
+                    "summary": "ZSB: STET_Lager/Packen Erstsem.beutel/05"
+                }
+            ],
+            "Monday": [
+                {
+                    "end": "18:00",
+                    "begin": "08:30",
+                    "summary": "ZSB: STET_Lager/Packen Erstsem.beutel/01"
+                }
+            ],
+            "Saturday": [
+                {
+                    "end": "18:00",
+                    "begin": "08:30",
+                    "summary": "ZSB: STET_Lager/Packen Erstsem.beutel/06"
+                }
+            ],
+            "Thursday": [
+                {
+                    "end": "18:00",
+                    "begin": "08:30",
+                    "summary": "ZSB: STET_Lager/Packen Erstsem.beutel/04"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "18:00",
+                    "begin": "08:30",
+                    "summary": "ZSB: STET_Lager/Packen Erstsem.beutel/02"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "18:00",
+                    "begin": "08:30",
+                    "summary": "ZSB: STET_Lager/Packen Erstsem.beutel/03"
+                }
+            ]
+        }
+    },
+    "01.02.14": {
+        "days": {
+            "Wednesday": [
+                {
+                    "end": "11:30",
+                    "begin": "10:00",
+                    "summary": "Hopp: BT(BA)UBT II/V/01.4"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "12:00",
+                    "begin": "10:30",
+                    "summary": "Hopp: BT(BA)UBT II/V/01.2"
+                },
+                {
+                    "end": "16:30",
+                    "begin": "15:00",
+                    "summary": "Hopp: BT(BA)UBT II/V/01.3"
+                }
+            ]
+        }
+    },
+    "05.03.204": {
+        "days": {
+            "Friday": [
+                {
+                    "end": "12:00",
+                    "begin": "09:30",
+                    "summary": "Geyer: BW(BA)ABWL BPS/S/01.4"
+                }
+            ],
+            "Thursday": [
+                {
+                    "end": "17:30",
+                    "begin": "09:30",
+                    "summary": "Geyer: BW(BA)ABWL BPS/S/01.3"
+                }
+            ],
+            "Monday": [
+                {
+                    "end": "16:00",
+                    "begin": "08:30",
+                    "summary": "Lautenschläger: BW(BA)ABWL TOPSIM-Startup!DL/S/02.1"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "17:30",
+                    "begin": "15:15",
+                    "summary": "Geyer: BW(BA)ABWL BPS/S/01.2"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "16:00",
+                    "begin": "08:30",
+                    "summary": "Lautenschläger: BW(BA)ABWL TOPSIM-Startup!DL/S/02.2"
+                }
+            ]
+        }
+    },
+    "05.03.33": {
+        "days": {
+            "Monday": [
+                {
+                    "end": "17:00",
+                    "begin": "09:00",
+                    "summary": "Assfalg(BW): BW(BA)ABWL UPS/S/01.1"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "17:00",
+                    "begin": "09:00",
+                    "summary": "Assfalg(BW): BW(BA)ABWL UPS/S/01.3"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "17:00",
+                    "begin": "09:00",
+                    "summary": "Assfalg(BW): BW(BA)ABWL UPS/S/01.2"
+                }
+            ]
+        }
+    },
+    "05.03.206": {
+        "days": {
+            "Friday": [
+                {
+                    "end": "12:00",
+                    "begin": "09:30",
+                    "summary": "Geyer: BW(BA)ABWL BPS/S/01.4"
+                }
+            ],
+            "Thursday": [
+                {
+                    "end": "17:30",
+                    "begin": "09:30",
+                    "summary": "Geyer: BW(BA)ABWL BPS/S/01.3"
+                }
+            ],
+            "Monday": [
+                {
+                    "end": "16:00",
+                    "begin": "08:30",
+                    "summary": "Lautenschläger: BW(BA)ABWL TOPSIM-Startup!DL/S/02.1"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "17:30",
+                    "begin": "15:15",
+                    "summary": "Geyer: BW(BA)ABWL BPS/S/01.2"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "16:00",
+                    "begin": "08:30",
+                    "summary": "Lautenschläger: BW(BA)ABWL TOPSIM-Startup!DL/S/02.2"
+                }
+            ]
+        }
+    },
+    "05.03.201": {
+        "days": {
+            "Friday": [
+                {
+                    "end": "12:00",
+                    "begin": "09:30",
+                    "summary": "Geyer: BW(BA)ABWL BPS/S/01.4"
+                }
+            ],
+            "Thursday": [
+                {
+                    "end": "17:30",
+                    "begin": "09:30",
+                    "summary": "Geyer: BW(BA)ABWL BPS/S/01.3"
+                }
+            ],
+            "Monday": [
+                {
+                    "end": "16:00",
+                    "begin": "08:30",
+                    "summary": "Lautenschläger: BW(BA)ABWL TOPSIM-Startup!DL/S/02.1"
+                },
+                {
+                    "end": "19:00",
+                    "begin": "17:30",
+                    "summary": "Hopp: BT(BA)UBT II/V/01.1"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "17:30",
+                    "begin": "15:15",
+                    "summary": "Geyer: BW(BA)ABWL BPS/S/01.2"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "16:00",
+                    "begin": "08:30",
+                    "summary": "Lautenschläger: BW(BA)ABWL TOPSIM-Startup!DL/S/02.2"
+                }
+            ]
+        }
+    },
+    "05.00.04": {
+        "days": {
+            "Saturday": [
+                {
+                    "end": "14:30",
+                    "begin": "09:00",
+                    "summary": "Scheld: JenALL/GM 2017/S/01.10"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "14:15",
+                    "begin": "13:15",
+                    "summary": "Assfalg(BW): BW(BA)ABWL UPS/APL/01"
+                }
+            ]
+        }
+    },
+    "05.01.42": {
+        "days": {
+            "Wednesday": [
+                {
+                    "end": "15:00",
+                    "begin": "09:30",
+                    "summary": "Geyer: BW(BA)ABWL BPS/S/01.1"
+                }
+            ]
+        }
+    },
+    "05.03.36": {
+        "days": {
+            "Friday": [
+                {
+                    "end": "19:30",
+                    "begin": "13:00",
+                    "summary": "Scheld, Lautenschläger: JenALL/GM 2017/S/01.09"
+                }
+            ],
+            "Monday": [
+                {
+                    "end": "17:00",
+                    "begin": "09:00",
+                    "summary": "Assfalg(BW): BW(BA)ABWL UPS/S/01.1"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "17:00",
+                    "begin": "09:00",
+                    "summary": "Assfalg(BW): BW(BA)ABWL UPS/S/01.3"
+                }
+            ],
+            "Saturday": [
+                {
+                    "end": "14:30",
+                    "begin": "09:00",
+                    "summary": "Scheld: JenALL/GM 2017/S/01.10"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "17:00",
+                    "begin": "09:00",
+                    "summary": "Assfalg(BW): BW(BA)ABWL UPS/S/01.2"
+                }
+            ]
+        }
+    },
+    "05.-1.208(CAD3)": {
+        "days": {
+            "Friday": [
+                {
+                    "end": "20:00",
+                    "begin": "08:00",
+                    "summary": ": MB_Wartung_V"
+                }
+            ],
+            "Thursday": [
+                {
+                    "end": "20:00",
+                    "begin": "08:00",
+                    "summary": ": MB_Wartung_IV"
+                }
+            ],
+            "Monday": [
+                {
+                    "end": "20:00",
+                    "begin": "08:00",
+                    "summary": ": MB_Wartung_I"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "20:00",
+                    "begin": "08:00",
+                    "summary": ": MB_Wartung_III"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "20:00",
+                    "begin": "08:00",
+                    "summary": ": MB_Wartung_II"
+                }
+            ]
+        }
+    },
+    "05.03.202": {
+        "days": {
+            "Friday": [
+                {
+                    "end": "12:00",
+                    "begin": "09:30",
+                    "summary": "Geyer: BW(BA)ABWL BPS/S/01.4"
+                }
+            ],
+            "Thursday": [
+                {
+                    "end": "17:30",
+                    "begin": "09:30",
+                    "summary": "Geyer: BW(BA)ABWL BPS/S/01.3"
+                }
+            ],
+            "Monday": [
+                {
+                    "end": "16:00",
+                    "begin": "08:30",
+                    "summary": "Lautenschläger: BW(BA)ABWL TOPSIM-Startup!DL/S/02.1"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "17:30",
+                    "begin": "15:15",
+                    "summary": "Geyer: BW(BA)ABWL BPS/S/01.2"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "16:00",
+                    "begin": "08:30",
+                    "summary": "Lautenschläger: BW(BA)ABWL TOPSIM-Startup!DL/S/02.2"
                 }
             ]
         }
@@ -634,9 +634,9 @@
         "days": {
             "Tuesday": [
                 {
-                    "begin": "14:00",
                     "end": "16:00",
-                    "summary": "summary text"
+                    "begin": "14:00",
+                    "summary": ": 08.08._Schäf_Tutor Training"
                 }
             ]
         }

@@ -1,1095 +1,11 @@
 {
-    "05.03.40 (HS3)": {
-        "days": {
-            "Thursday": [
-                {
-                    "begin": "12:00",
-                    "end": "15:00",
-                    "summary": "summary text"
-                },
-                {
-                    "begin": "15:15",
-                    "end": "16:45",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
-    "05.03.203": {
-        "days": {
-            "Friday": [
-                {
-                    "begin": "08:30",
-                    "end": "17:30",
-                    "summary": "summary text"
-                }
-            ],
-            "Thursday": [
-                {
-                    "begin": "08:30",
-                    "end": "17:30",
-                    "summary": "summary text"
-                }
-            ],
-            "Monday": [
-                {
-                    "begin": "08:30",
-                    "end": "17:30",
-                    "summary": "summary text"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "begin": "08:30",
-                    "end": "17:30",
-                    "summary": "summary text"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "begin": "08:30",
-                    "end": "17:30",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
-    "05.03.37 (HS2)": {
-        "days": {
-            "Tuesday": [
-                {
-                    "begin": "13:00",
-                    "end": "14:30",
-                    "summary": "summary text"
-                }
-            ],
-            "Thursday": [
-                {
-                    "begin": "12:00",
-                    "end": "14:00",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
-    "05.00.10": {
-        "days": {
-            "Friday": [
-                {
-                    "begin": "10:00",
-                    "end": "11:00",
-                    "summary": "summary text"
-                },
-                {
-                    "begin": "14:00",
-                    "end": "15:30",
-                    "summary": "summary text"
-                }
-            ],
-            "Monday": [
-                {
-                    "begin": "08:00",
-                    "end": "10:00",
-                    "summary": "summary text"
-                },
-                {
-                    "begin": "10:00",
-                    "end": "10:30",
-                    "summary": "summary text"
-                },
-                {
-                    "begin": "16:00",
-                    "end": "17:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "begin": "08:00",
-                    "end": "11:00",
-                    "summary": "summary text"
-                },
-                {
-                    "begin": "12:00",
-                    "end": "13:30",
-                    "summary": "summary text"
-                },
-                {
-                    "begin": "13:30",
-                    "end": "14:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "begin": "09:00",
-                    "end": "12:30",
-                    "summary": "summary text"
-                },
-                {
-                    "begin": "14:00",
-                    "end": "15:30",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
-    "01.02.12": {
-        "days": {
-            "Friday": [
-                {
-                    "begin": "09:30",
-                    "end": "10:00",
-                    "summary": "summary text"
-                },
-                {
-                    "begin": "12:00",
-                    "end": "13:30",
-                    "summary": "summary text"
-                }
-            ],
-            "Thursday": [
-                {
-                    "begin": "12:00",
-                    "end": "15:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Monday": [
-                {
-                    "begin": "08:00",
-                    "end": "09:30",
-                    "summary": "summary text"
-                },
-                {
-                    "begin": "08:00",
-                    "end": "09:30",
-                    "summary": "summary text"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "begin": "10:00",
-                    "end": "11:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "begin": "10:00",
-                    "end": "11:30",
-                    "summary": "summary text"
-                },
-                {
-                    "begin": "16:00",
-                    "end": "17:30",
-                    "summary": "summary text"
-                },
-                {
-                    "begin": "18:00",
-                    "end": "19:30",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
-    "05.03.43 (HS4)": {
-        "days": {
-            "Thursday": [
-                {
-                    "begin": "12:00",
-                    "end": "15:00",
-                    "summary": "summary text"
-                },
-                {
-                    "begin": "16:00",
-                    "end": "17:30",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
     "05.03.09(SW)": {
         "days": {
             "Wednesday": [
                 {
-                    "begin": "10:00",
                     "end": "12:00",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
-    "05.03.01": {
-        "days": {
-            "Tuesday": [
-                {
-                    "begin": "08:00",
-                    "end": "09:30",
-                    "summary": "summary text"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "begin": "12:00",
-                    "end": "13:30",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
-    "04.03.07": {
-        "days": {
-            "Friday": [
-                {
-                    "begin": "08:00",
-                    "end": "09:30",
-                    "summary": "summary text"
-                },
-                {
                     "begin": "10:00",
-                    "end": "11:30",
-                    "summary": "summary text"
-                }
-            ],
-            "Thursday": [
-                {
-                    "begin": "08:00",
-                    "end": "09:30",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
-    "04.03.12": {
-        "days": {
-            "Thursday": [
-                {
-                    "begin": "10:00",
-                    "end": "11:30",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
-    "05.00.06": {
-        "days": {
-            "Friday": [
-                {
-                    "begin": "16:00",
-                    "end": "17:30",
-                    "summary": "summary text"
-                }
-            ],
-            "Monday": [
-                {
-                    "begin": "08:00",
-                    "end": "09:30",
-                    "summary": "summary text"
-                },
-                {
-                    "begin": "08:00",
-                    "end": "10:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "begin": "10:00",
-                    "end": "11:30",
-                    "summary": "summary text"
-                },
-                {
-                    "begin": "14:00",
-                    "end": "15:30",
-                    "summary": "summary text"
-                }
-            ],
-            "Thursday": [
-                {
-                    "begin": "09:00",
-                    "end": "10:30",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
-    "01.02.11": {
-        "days": {
-            "Friday": [
-                {
-                    "begin": "08:00",
-                    "end": "09:00",
-                    "summary": "summary text"
-                },
-                {
-                    "begin": "09:00",
-                    "end": "09:15",
-                    "summary": "summary text"
-                },
-                {
-                    "begin": "10:00",
-                    "end": "11:30",
-                    "summary": "summary text"
-                },
-                {
-                    "begin": "14:00",
-                    "end": "16:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Monday": [
-                {
-                    "begin": "08:00",
-                    "end": "09:30",
-                    "summary": "summary text"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "begin": "08:00",
-                    "end": "10:00",
-                    "summary": "summary text"
-                },
-                {
-                    "begin": "16:00",
-                    "end": "17:30",
-                    "summary": "summary text"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "begin": "08:00",
-                    "end": "09:30",
-                    "summary": "summary text"
-                },
-                {
-                    "begin": "08:00",
-                    "end": "09:30",
-                    "summary": "summary text"
-                },
-                {
-                    "begin": "12:00",
-                    "end": "13:30",
-                    "summary": "summary text"
-                },
-                {
-                    "begin": "16:00",
-                    "end": "17:30",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
-    "04.03.10": {
-        "days": {
-            "Friday": [
-                {
-                    "begin": "10:00",
-                    "end": "11:30",
-                    "summary": "summary text"
-                },
-                {
-                    "begin": "12:30",
-                    "end": "15:30",
-                    "summary": "summary text"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "begin": "11:00",
-                    "end": "12:30",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
-    "05.03.33": {
-        "days": {
-            "Tuesday": [
-                {
-                    "begin": "08:00",
-                    "end": "11:00",
-                    "summary": "summary text"
-                },
-                {
-                    "begin": "16:00",
-                    "end": "17:30",
-                    "summary": "summary text"
-                }
-            ],
-            "Thursday": [
-                {
-                    "begin": "10:00",
-                    "end": "11:30",
-                    "summary": "summary text"
-                },
-                {
-                    "begin": "12:00",
-                    "end": "13:30",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
-    "04.02.15": {
-        "days": {
-            "Friday": [
-                {
-                    "begin": "12:00",
-                    "end": "13:30",
-                    "summary": "summary text"
-                },
-                {
-                    "begin": "14:00",
-                    "end": "15:30",
-                    "summary": "summary text"
-                }
-            ],
-            "Monday": [
-                {
-                    "begin": "12:00",
-                    "end": "14:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Thursday": [
-                {
-                    "begin": "08:00",
-                    "end": "10:00",
-                    "summary": "summary text"
-                },
-                {
-                    "begin": "10:00",
-                    "end": "10:30",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
-    "05.03.204": {
-        "days": {
-            "Friday": [
-                {
-                    "begin": "08:30",
-                    "end": "17:30",
-                    "summary": "summary text"
-                }
-            ],
-            "Thursday": [
-                {
-                    "begin": "08:30",
-                    "end": "17:30",
-                    "summary": "summary text"
-                }
-            ],
-            "Monday": [
-                {
-                    "begin": "08:30",
-                    "end": "17:30",
-                    "summary": "summary text"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "begin": "08:30",
-                    "end": "17:30",
-                    "summary": "summary text"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "begin": "08:30",
-                    "end": "17:30",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
-    "03.03.01(HS1)": {
-        "days": {
-            "Monday": [
-                {
-                    "begin": "10:30",
-                    "end": "12:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "begin": "12:00",
-                    "end": "14:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "begin": "08:00",
-                    "end": "15:00",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
-    "04.00.02 (HS7)": {
-        "days": {
-            "Friday": [
-                {
-                    "begin": "08:00",
-                    "end": "09:30",
-                    "summary": "summary text"
-                }
-            ],
-            "Monday": [
-                {
-                    "begin": "08:00",
-                    "end": "10:00",
-                    "summary": "summary text"
-                },
-                {
-                    "begin": "11:00",
-                    "end": "13:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Thursday": [
-                {
-                    "begin": "08:00",
-                    "end": "09:30",
-                    "summary": "summary text"
-                },
-                {
-                    "begin": "12:00",
-                    "end": "13:30",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
-    "04.00.01(HS6)": {
-        "days": {
-            "Friday": [
-                {
-                    "begin": "08:00",
-                    "end": "09:30",
-                    "summary": "summary text"
-                }
-            ],
-            "Thursday": [
-                {
-                    "begin": "08:00",
-                    "end": "09:30",
-                    "summary": "summary text"
-                },
-                {
-                    "begin": "12:00",
-                    "end": "13:30",
-                    "summary": "summary text"
-                },
-                {
-                    "begin": "12:00",
-                    "end": "13:30",
-                    "summary": "summary text"
-                }
-            ],
-            "Monday": [
-                {
-                    "begin": "08:00",
-                    "end": "10:00",
-                    "summary": "summary text"
-                },
-                {
-                    "begin": "11:00",
-                    "end": "13:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "begin": "08:00",
-                    "end": "09:30",
-                    "summary": "summary text"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "begin": "12:00",
-                    "end": "13:30",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
-    "04.03.11": {
-        "days": {
-            "Friday": [
-                {
-                    "begin": "10:00",
-                    "end": "12:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Monday": [
-                {
-                    "begin": "12:00",
-                    "end": "13:30",
-                    "summary": "summary text"
-                },
-                {
-                    "begin": "14:00",
-                    "end": "15:30",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
-    "01.03.13": {
-        "days": {
-            "Wednesday": [
-                {
-                    "begin": "10:00",
-                    "end": "11:30",
-                    "summary": "summary text"
-                }
-            ],
-            "Thursday": [
-                {
-                    "begin": "14:30",
-                    "end": "16:00",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
-    "05.03.28": {
-        "days": {
-            "Monday": [
-                {
-                    "begin": "10:00",
-                    "end": "12:00",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
-    "04.-1.01(Aula)": {
-        "days": {
-            "Friday": [
-                {
-                    "begin": "08:00",
-                    "end": "09:30",
-                    "summary": "summary text"
-                },
-                {
-                    "begin": "10:00",
-                    "end": "11:30",
-                    "summary": "summary text"
-                }
-            ],
-            "Thursday": [
-                {
-                    "begin": "08:00",
-                    "end": "10:00",
-                    "summary": "summary text"
-                },
-                {
-                    "begin": "12:00",
-                    "end": "13:30",
-                    "summary": "summary text"
-                },
-                {
-                    "begin": "14:00",
-                    "end": "15:30",
-                    "summary": "summary text"
-                }
-            ],
-            "Monday": [
-                {
-                    "begin": "08:00",
-                    "end": "09:30",
-                    "summary": "summary text"
-                },
-                {
-                    "begin": "12:00",
-                    "end": "13:30",
-                    "summary": "summary text"
-                },
-                {
-                    "begin": "14:00",
-                    "end": "15:30",
-                    "summary": "summary text"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "begin": "08:00",
-                    "end": "09:30",
-                    "summary": "summary text"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "begin": "08:00",
-                    "end": "09:30",
-                    "summary": "summary text"
-                },
-                {
-                    "begin": "10:00",
-                    "end": "12:00",
-                    "summary": "summary text"
-                },
-                {
-                    "begin": "12:00",
-                    "end": "12:30",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
-    "05.00.02": {
-        "days": {
-            "Saturday": [
-                {
-                    "begin": "10:00",
-                    "end": "16:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Monday": [
-                {
-                    "begin": "14:00",
-                    "end": "17:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "begin": "09:30",
-                    "end": "11:00",
-                    "summary": "summary text"
-                },
-                {
-                    "begin": "11:30",
-                    "end": "16:30",
-                    "summary": "summary text"
-                }
-            ],
-            "Thursday": [
-                {
-                    "begin": "10:00",
-                    "end": "11:30",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
-    "05.00.24(Büro)": {
-        "days": {
-            "Wednesday": [
-                {
-                    "begin": "08:30",
-                    "end": "14:30",
-                    "summary": "summary text"
-                }
-            ],
-            "Thursday": [
-                {
-                    "begin": "08:30",
-                    "end": "14:30",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
-    "05.03.202": {
-        "days": {
-            "Friday": [
-                {
-                    "begin": "08:30",
-                    "end": "17:30",
-                    "summary": "summary text"
-                }
-            ],
-            "Thursday": [
-                {
-                    "begin": "08:30",
-                    "end": "17:30",
-                    "summary": "summary text"
-                }
-            ],
-            "Monday": [
-                {
-                    "begin": "08:30",
-                    "end": "17:30",
-                    "summary": "summary text"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "begin": "08:30",
-                    "end": "17:30",
-                    "summary": "summary text"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "begin": "08:30",
-                    "end": "17:30",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
-    "01.01.11": {
-        "days": {
-            "Monday": [
-                {
-                    "begin": "10:00",
-                    "end": "11:30",
-                    "summary": "summary text"
-                },
-                {
-                    "begin": "12:00",
-                    "end": "13:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "begin": "10:00",
-                    "end": "11:30",
-                    "summary": "summary text"
-                },
-                {
-                    "begin": "12:00",
-                    "end": "13:30",
-                    "summary": "summary text"
-                }
-            ],
-            "Thursday": [
-                {
-                    "begin": "10:00",
-                    "end": "11:30",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
-    "04.00.09(CAM)": {
-        "days": {
-            "Friday": [
-                {
-                    "begin": "08:30",
-                    "end": "17:30",
-                    "summary": "summary text"
-                }
-            ],
-            "Thursday": [
-                {
-                    "begin": "08:30",
-                    "end": "17:30",
-                    "summary": "summary text"
-                }
-            ],
-            "Monday": [
-                {
-                    "begin": "08:30",
-                    "end": "17:30",
-                    "summary": "summary text"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "begin": "08:30",
-                    "end": "17:30",
-                    "summary": "summary text"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "begin": "08:30",
-                    "end": "17:30",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
-    "01.02.14": {
-        "days": {
-            "Friday": [
-                {
-                    "begin": "12:00",
-                    "end": "13:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Monday": [
-                {
-                    "begin": "08:00",
-                    "end": "09:30",
-                    "summary": "summary text"
-                },
-                {
-                    "begin": "12:00",
-                    "end": "13:30",
-                    "summary": "summary text"
-                }
-            ],
-            "Thursday": [
-                {
-                    "begin": "10:00",
-                    "end": "11:30",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
-    "05.00.23(Büro)": {
-        "days": {
-            "Tuesday": [
-                {
-                    "begin": "08:30",
-                    "end": "15:30",
-                    "summary": "summary text"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "begin": "08:30",
-                    "end": "15:30",
-                    "summary": "summary text"
-                }
-            ],
-            "Thursday": [
-                {
-                    "begin": "12:00",
-                    "end": "15:00",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
-    "05.00.03": {
-        "days": {
-            "Monday": [
-                {
-                    "begin": "08:00",
-                    "end": "09:30",
-                    "summary": "summary text"
-                },
-                {
-                    "begin": "13:00",
-                    "end": "14:30",
-                    "summary": "summary text"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "begin": "14:00",
-                    "end": "18:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Thursday": [
-                {
-                    "begin": "10:00",
-                    "end": "11:30",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
-    "05.01.43": {
-        "days": {
-            "Saturday": [
-                {
-                    "begin": "09:00",
-                    "end": "14:30",
-                    "summary": "summary text"
-                }
-            ]
-        }
-    },
-    "05.00.04": {
-        "days": {
-            "Friday": [
-                {
-                    "begin": "12:00",
-                    "end": "13:30",
-                    "summary": "summary text"
-                }
-            ],
-            "Thursday": [
-                {
-                    "begin": "12:00",
-                    "end": "14:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Monday": [
-                {
-                    "begin": "08:00",
-                    "end": "09:30",
-                    "summary": "summary text"
-                },
-                {
-                    "begin": "10:00",
-                    "end": "11:30",
-                    "summary": "summary text"
-                },
-                {
-                    "begin": "16:00",
-                    "end": "17:30",
-                    "summary": "summary text"
-                },
-                {
-                    "begin": "17:30",
-                    "end": "18:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "begin": "08:00",
-                    "end": "09:30",
-                    "summary": "summary text"
-                },
-                {
-                    "begin": "09:30",
-                    "end": "10:00",
-                    "summary": "summary text"
-                },
-                {
-                    "begin": "11:00",
-                    "end": "12:00",
-                    "summary": "summary text"
-                },
-                {
-                    "begin": "17:00",
-                    "end": "18:00",
-                    "summary": "summary text"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "begin": "10:00",
-                    "end": "11:30",
-                    "summary": "summary text"
-                },
-                {
-                    "begin": "12:00",
-                    "end": "13:30",
-                    "summary": "summary text"
-                },
-                {
-                    "begin": "14:00",
-                    "end": "15:30",
-                    "summary": "summary text"
-                },
-                {
-                    "begin": "16:00",
-                    "end": "17:00",
-                    "summary": "summary text"
+                    "summary": ": SA(BA)Ges.wiss./PL/01"
                 }
             ]
         }
@@ -1098,9 +14,123 @@
         "days": {
             "Wednesday": [
                 {
-                    "begin": "12:00",
                     "end": "13:30",
-                    "summary": "summary text"
+                    "begin": "12:00",
+                    "summary": "Pollok: PBT(MA)Enzymtech./Wdh.-Prfg./01"
+                }
+            ]
+        }
+    },
+    "05.01.43": {
+        "days": {
+            "Saturday": [
+                {
+                    "end": "14:30",
+                    "begin": "09:00",
+                    "summary": "Fritzsche(MB): JenALL/PIW 2015/S/01.06"
+                }
+            ]
+        }
+    },
+    "05.03.28": {
+        "days": {
+            "Monday": [
+                {
+                    "end": "12:00",
+                    "begin": "10:00",
+                    "summary": "Angstmann(BW): BW(BA)AdA/mdl.Prf./05"
+                }
+            ]
+        }
+    },
+    "05.03.204": {
+        "days": {
+            "Friday": [
+                {
+                    "end": "17:30",
+                    "begin": "08:30",
+                    "summary": ": Lernraum/05"
+                }
+            ],
+            "Thursday": [
+                {
+                    "end": "17:30",
+                    "begin": "08:30",
+                    "summary": ": Lernraum/04"
+                }
+            ],
+            "Monday": [
+                {
+                    "end": "17:30",
+                    "begin": "08:30",
+                    "summary": ": Lernraum/01"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "17:30",
+                    "begin": "08:30",
+                    "summary": ": Lernraum/03"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "17:30",
+                    "begin": "08:30",
+                    "summary": ": Lernraum/02"
+                }
+            ]
+        }
+    },
+    "05.00.24(Büro)": {
+        "days": {
+            "Thursday": [
+                {
+                    "end": "14:30",
+                    "begin": "08:30",
+                    "summary": "Huonker(MT), Wicher: AO(MA)Phys.vis.Sys./mdl.Prf./02"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "14:30",
+                    "begin": "08:30",
+                    "summary": "Huonker(MT), Wicher: AO(MA)Phys.vis.Sys./mdl.Prf./01"
+                }
+            ]
+        }
+    },
+    "04.02.15": {
+        "days": {
+            "Friday": [
+                {
+                    "end": "13:30",
+                    "begin": "12:00",
+                    "summary": "Giesecke: ET(BA)Dig. Audiotech./PL/01"
+                },
+                {
+                    "end": "15:30",
+                    "begin": "14:00",
+                    "summary": "Grabow: ME(BA)TM III/Wdh.-Prfg./01"
+                }
+            ],
+            "Thursday": [
+                {
+                    "end": "10:00",
+                    "begin": "08:00",
+                    "summary": "Planer: WI/WIEC(BA)Angew. Ma/OR/PL/01"
+                },
+                {
+                    "end": "10:30",
+                    "begin": "10:00",
+                    "summary": "Planer: WI/WIEC(BA)Angew. Ma/OR ZV/PL/01"
+                }
+            ],
+            "Monday": [
+                {
+                    "end": "14:00",
+                    "begin": "12:00",
+                    "summary": "Manns, Reger-Wagner: WI(BA)BWL/Wdh.-Prfg./01"
                 }
             ]
         }
@@ -1109,65 +139,1035 @@
         "days": {
             "Friday": [
                 {
-                    "begin": "12:00",
                     "end": "14:00",
-                    "summary": "summary text"
+                    "begin": "12:00",
+                    "summary": "Pfeifroth: WI(BA)Fert./PL/01"
                 },
                 {
-                    "begin": "14:00",
                     "end": "14:30",
-                    "summary": "summary text"
+                    "begin": "14:00",
+                    "summary": "Pfeifroth: WI(BA)Fert. ZV/PL/01"
                 }
             ],
             "Monday": [
                 {
-                    "begin": "10:00",
                     "end": "11:30",
-                    "summary": "summary text"
+                    "begin": "10:00",
+                    "summary": "Fleck: FT/LOT/PT/WT(BA)Phy II/PL/01"
                 },
                 {
-                    "begin": "11:30",
                     "end": "12:00",
-                    "summary": "summary text"
+                    "begin": "11:30",
+                    "summary": "Fleck: FT/LOT/PT/WT(BA)Phy II/PL/NTA/01"
                 },
                 {
-                    "begin": "14:00",
                     "end": "15:30",
-                    "summary": "summary text"
+                    "begin": "14:00",
+                    "summary": "Rädel-Ablass: GPF(BA)Komm. /PL/01"
                 }
             ],
             "Wednesday": [
                 {
-                    "begin": "10:00",
                     "end": "11:30",
-                    "summary": "summary text"
+                    "begin": "10:00",
+                    "summary": "Rädel-Ablass: GPF(BA)Qual. i. d. Pfl./PL/01"
                 },
                 {
-                    "begin": "12:00",
                     "end": "13:30",
-                    "summary": "summary text"
+                    "begin": "12:00",
+                    "summary": "Scupin: GPF(MA)Caseman. I/PL/01"
                 },
                 {
-                    "begin": "14:00",
                     "end": "15:30",
-                    "summary": "summary text"
+                    "begin": "14:00",
+                    "summary": "Rädel-Ablass: GPF(MA)Pflegeforsch. II/PL/01"
                 }
             ],
             "Tuesday": [
                 {
-                    "begin": "08:00",
                     "end": "09:30",
-                    "summary": "summary text"
+                    "begin": "08:00",
+                    "summary": "Wiedemann: ET(BA)Tech.Eng/PL/01"
                 },
                 {
-                    "begin": "10:00",
                     "end": "11:30",
-                    "summary": "summary text"
+                    "begin": "10:00",
+                    "summary": "Scupin: GPF(BA)Pflege i. Ges.-Sys./PL/01"
                 },
                 {
-                    "begin": "12:00",
                     "end": "13:30",
-                    "summary": "summary text"
+                    "begin": "12:00",
+                    "summary": "Dorschner: GPF(BA)Pflegeforsch./PL/01"
+                }
+            ]
+        }
+    },
+    "05.03.203": {
+        "days": {
+            "Friday": [
+                {
+                    "end": "17:30",
+                    "begin": "08:30",
+                    "summary": ": Lernraum/05"
+                }
+            ],
+            "Thursday": [
+                {
+                    "end": "17:30",
+                    "begin": "08:30",
+                    "summary": ": Lernraum/04"
+                }
+            ],
+            "Monday": [
+                {
+                    "end": "17:30",
+                    "begin": "08:30",
+                    "summary": ": Lernraum/01"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "17:30",
+                    "begin": "08:30",
+                    "summary": ": Lernraum/03"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "17:30",
+                    "begin": "08:30",
+                    "summary": ": Lernraum/02"
+                }
+            ]
+        }
+    },
+    "04.03.10": {
+        "days": {
+            "Friday": [
+                {
+                    "end": "11:30",
+                    "begin": "10:00",
+                    "summary": "Zscheckel(SciTec): LOT(MA)Opt.Wst./APL/01"
+                },
+                {
+                    "end": "15:30",
+                    "begin": "12:30",
+                    "summary": "Tutor Aatir(GW): BT/MT(BA)Ma II/T/02.6"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "12:30",
+                    "begin": "11:00",
+                    "summary": "Tutor Winter(GW): 19.07._Videointerview"
+                }
+            ]
+        }
+    },
+    "05.00.10": {
+        "days": {
+            "Friday": [
+                {
+                    "end": "11:00",
+                    "begin": "10:00",
+                    "summary": "Buerke: BW(MA)Int.Marktg./Int.Entrep./PL/01"
+                },
+                {
+                    "end": "15:30",
+                    "begin": "14:00",
+                    "summary": "Dahse(MT): MT/PBT(MA)Biophys.II/Kon/01"
+                }
+            ],
+            "Monday": [
+                {
+                    "end": "10:00",
+                    "begin": "08:00",
+                    "summary": "Engelmann: WI(BA)Masch.elem./PL/01"
+                },
+                {
+                    "end": "10:30",
+                    "begin": "10:00",
+                    "summary": "Engelmann: WI(BA)Masch.elem. ZV/PL/01"
+                },
+                {
+                    "end": "17:00",
+                    "begin": "16:00",
+                    "summary": "Buerke: BW(MA)Adv.Marktg-Tech./PL/01"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "11:00",
+                    "begin": "08:00",
+                    "summary": "Enders, Hinkelthein(BW): BW(BA)GL WR/PL/01"
+                },
+                {
+                    "end": "13:30",
+                    "begin": "12:00",
+                    "summary": "Giesecke: ET(BA)SST/Sign.-verarb./PL/01"
+                },
+                {
+                    "end": "14:00",
+                    "begin": "13:30",
+                    "summary": "Giesecke: ET(BA)SST/Sign.-verarb. ZV/PL/01"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "12:30",
+                    "begin": "09:00",
+                    "summary": "Tutorin Bitterlich(GW): AO(BA)Phy II/T/01.5"
+                },
+                {
+                    "end": "15:30",
+                    "begin": "14:00",
+                    "summary": "Enders: BW(BA)Recht II/Wdh.-Prf./01"
+                }
+            ]
+        }
+    },
+    "04.00.01(HS6)": {
+        "days": {
+            "Friday": [
+                {
+                    "end": "09:30",
+                    "begin": "08:00",
+                    "summary": "Bernartz, Stodolka (BW): BW(BA)ERP/IKT-Syt./PL/01"
+                }
+            ],
+            "Thursday": [
+                {
+                    "end": "09:30",
+                    "begin": "08:00",
+                    "summary": "Enders: BW(BA)gew.RS/PL/01"
+                },
+                {
+                    "end": "13:30",
+                    "begin": "12:00",
+                    "summary": "Dörschel: MT(BA)BMT Vf.Diag./Vf.Ther./PL/Wdh.-Prf/01"
+                },
+                {
+                    "end": "13:30",
+                    "begin": "12:00",
+                    "summary": "Dörschel: MT(MA)Spez.Vf.Diagn.+Th./PL/01"
+                }
+            ],
+            "Monday": [
+                {
+                    "end": "10:00",
+                    "begin": "08:00",
+                    "summary": "Stoetzer: BW(BA)VWL III angew.WiPo/PL/01"
+                },
+                {
+                    "end": "13:00",
+                    "begin": "11:00",
+                    "summary": "Lehmann (BW): BW(BA)Jahresabschl./PL/01"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "09:30",
+                    "begin": "08:00",
+                    "summary": "Hoechstetter: BT/MT(BA)Phy I/PL/01"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "13:30",
+                    "begin": "12:00",
+                    "summary": "Hopp: BT(BA)UBT I/PL/01"
+                }
+            ]
+        }
+    },
+    "05.03.01": {
+        "days": {
+            "Wednesday": [
+                {
+                    "end": "13:30",
+                    "begin": "12:00",
+                    "summary": "Bernartz: BW(BA)Softw.ent./Wdh.-Prfg./01"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "09:30",
+                    "begin": "08:00",
+                    "summary": "Wiedemann: ET(BA)Tech.Eng/PL/01"
+                }
+            ]
+        }
+    },
+    "04.00.02 (HS7)": {
+        "days": {
+            "Friday": [
+                {
+                    "end": "09:30",
+                    "begin": "08:00",
+                    "summary": "Bernartz, Stodolka (BW): BW(BA)ERP/IKT-Syt./PL/01"
+                }
+            ],
+            "Thursday": [
+                {
+                    "end": "09:30",
+                    "begin": "08:00",
+                    "summary": "Enders: BW(BA)gew.RS/PL/01"
+                },
+                {
+                    "end": "13:30",
+                    "begin": "12:00",
+                    "summary": "Berkholz: BT(BA)BVT-FT/PL/01"
+                }
+            ],
+            "Monday": [
+                {
+                    "end": "10:00",
+                    "begin": "08:00",
+                    "summary": "Stoetzer: BW(BA)VWL III angew.WiPo/PL/01"
+                },
+                {
+                    "end": "13:00",
+                    "begin": "11:00",
+                    "summary": "Lehmann (BW): BW(BA)Jahresabschl./PL/01"
+                }
+            ]
+        }
+    },
+    "04.03.11": {
+        "days": {
+            "Friday": [
+                {
+                    "end": "12:00",
+                    "begin": "10:00",
+                    "summary": "Grabow: ME(BA)TM II/PL/01"
+                }
+            ],
+            "Monday": [
+                {
+                    "end": "13:30",
+                    "begin": "12:00",
+                    "summary": "Fleck: AO(BA)Phy.Opt./PL/01"
+                },
+                {
+                    "end": "15:30",
+                    "begin": "14:00",
+                    "summary": "Brunner: AO(BA)Geom.Opt./PL/01"
+                }
+            ]
+        }
+    },
+    "01.02.12": {
+        "days": {
+            "Friday": [
+                {
+                    "end": "10:00",
+                    "begin": "09:30",
+                    "summary": "Pfeifroth: WIEC(BA)Einf. ind. Prod. ZV/PL/01"
+                },
+                {
+                    "end": "13:30",
+                    "begin": "12:00",
+                    "summary": "Pollok: PBT(MA)Prot.Eng./PL/01"
+                }
+            ],
+            "Thursday": [
+                {
+                    "end": "15:00",
+                    "begin": "12:00",
+                    "summary": "Buerke, Magerhans: BW(BA)Marktg.ana/-instr./PL/01"
+                }
+            ],
+            "Monday": [
+                {
+                    "end": "09:30",
+                    "begin": "08:00",
+                    "summary": "Walluks: MT(BA)MPR/PL/01"
+                },
+                {
+                    "end": "09:30",
+                    "begin": "08:00",
+                    "summary": "Walluks: BT(BA)GL Elektr./Wdh.-Prfg./01"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "11:00",
+                    "begin": "10:00",
+                    "summary": "Kraußlach: BW(MA)Int.Perso-man./PL/01"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "11:30",
+                    "begin": "10:00",
+                    "summary": "Schwabe: MB(MA)Betriebsf./PL/01"
+                },
+                {
+                    "end": "17:30",
+                    "begin": "16:00",
+                    "summary": "Kriegel (SciTec): WT(BA)ANW/PL/01"
+                },
+                {
+                    "end": "19:30",
+                    "begin": "18:00",
+                    "summary": "Merker: WT(BA)Metalle II/Kon/01"
+                }
+            ]
+        }
+    },
+    "04.-1.01(Aula)": {
+        "days": {
+            "Friday": [
+                {
+                    "end": "09:30",
+                    "begin": "08:00",
+                    "summary": "Wieczorek: BT/MT(BA)Info/PL/01"
+                },
+                {
+                    "end": "11:30",
+                    "begin": "10:00",
+                    "summary": "Giesecke: ET(BA)ET II/PL/01"
+                }
+            ],
+            "Thursday": [
+                {
+                    "end": "10:00",
+                    "begin": "08:00",
+                    "summary": "Planer: WI/WIEC(BA)Angew. Ma/OR/PL/01"
+                },
+                {
+                    "end": "13:30",
+                    "begin": "12:00",
+                    "summary": "Teichert: SI/WT(MA)Adv.Charact.Met./PL/01"
+                },
+                {
+                    "end": "15:30",
+                    "begin": "14:00",
+                    "summary": "Dittrich(ET): ET/FT/MB/ME(BA)El. Antr./PL/01"
+                }
+            ],
+            "Monday": [
+                {
+                    "end": "09:30",
+                    "begin": "08:00",
+                    "summary": ": 17.07._Einrichtung Prf."
+                },
+                {
+                    "end": "13:30",
+                    "begin": "12:00",
+                    "summary": "Manns, Reger-Wagner: UT/UTE/WI/WIEC(BA)Marketing/PL/Wdh.-Prfg./01"
+                },
+                {
+                    "end": "15:30",
+                    "begin": "14:00",
+                    "summary": "Schleicher: SI(MA)Gas Sens./PL/01"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "09:30",
+                    "begin": "08:00",
+                    "summary": "Hoechstetter: BT/MT(BA)Phy I/PL/01"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "09:30",
+                    "begin": "08:00",
+                    "summary": "Weiß: MB/ME(BA)Ma II/PL/01"
+                },
+                {
+                    "end": "12:00",
+                    "begin": "10:00",
+                    "summary": "Eibner, Rönsch: WI/WIEC(BA)Einf. WiWi/PL/01"
+                },
+                {
+                    "end": "12:30",
+                    "begin": "12:00",
+                    "summary": "Rönsch: WI/WIEC(BA)Einf. WiWi ZV/PL/01"
+                }
+            ]
+        }
+    },
+    "05.03.40 (HS3)": {
+        "days": {
+            "Thursday": [
+                {
+                    "end": "15:00",
+                    "begin": "12:00",
+                    "summary": ": SA(BA)Psych 1/PL/01"
+                },
+                {
+                    "end": "16:45",
+                    "begin": "15:15",
+                    "summary": "SW: 20.07._SW_Info Berf.-P"
+                }
+            ]
+        }
+    },
+    "03.03.01(HS1)": {
+        "days": {
+            "Monday": [
+                {
+                    "end": "12:00",
+                    "begin": "10:30",
+                    "summary": "Peter: MT(BA)Ma II/Kon/01/02/03"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "14:00",
+                    "begin": "12:00",
+                    "summary": "Schirmer: WI(MA)Inst.-man./PL/01"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "15:00",
+                    "begin": "08:00",
+                    "summary": "Eibner, Schuhmann: WI(MA)Int. Bus./S/01.5"
+                }
+            ]
+        }
+    },
+    "04.03.07": {
+        "days": {
+            "Friday": [
+                {
+                    "end": "09:30",
+                    "begin": "08:00",
+                    "summary": "Wieczorek: BT/MT(BA)Info/PL/01"
+                },
+                {
+                    "end": "11:30",
+                    "begin": "10:00",
+                    "summary": "Tutor Koch(SciTec): FT/LOT/PT/WT(BA)TM II/Kon/01"
+                }
+            ],
+            "Thursday": [
+                {
+                    "end": "09:30",
+                    "begin": "08:00",
+                    "summary": "Berkholz: BT(BA)BVT-AT/Wdh.-Prfg./01"
+                }
+            ]
+        }
+    },
+    "04.00.09(CAM)": {
+        "days": {
+            "Friday": [
+                {
+                    "end": "17:30",
+                    "begin": "08:30",
+                    "summary": ": SciTec_Wartung/04"
+                }
+            ],
+            "Thursday": [
+                {
+                    "end": "17:30",
+                    "begin": "08:30",
+                    "summary": ": SciTec_Wartung/03"
+                }
+            ],
+            "Monday": [
+                {
+                    "end": "17:30",
+                    "begin": "08:30",
+                    "summary": ": SciTec_Wartung/05"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "17:30",
+                    "begin": "08:30",
+                    "summary": ": SciTec_Wartung/02"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "17:30",
+                    "begin": "08:30",
+                    "summary": ": SciTec_Wartung/01"
+                }
+            ]
+        }
+    },
+    "05.03.37 (HS2)": {
+        "days": {
+            "Thursday": [
+                {
+                    "end": "14:00",
+                    "begin": "12:00",
+                    "summary": "Dienerowitz: FT/LOT/PT/WT(BA)TM II/Kon/01"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "14:30",
+                    "begin": "13:00",
+                    "summary": "Richter: ET(BA)MT II/Kon/01"
+                }
+            ]
+        }
+    },
+    "04.03.12": {
+        "days": {
+            "Thursday": [
+                {
+                    "end": "11:30",
+                    "begin": "10:00",
+                    "summary": "Fleck: LOT(BA)TO/PL/01"
+                }
+            ]
+        }
+    },
+    "01.02.14": {
+        "days": {
+            "Friday": [
+                {
+                    "end": "13:00",
+                    "begin": "12:00",
+                    "summary": "Hoechstetter: BT/MT(BA)Phy II/Wdh.-Prfg./01"
+                }
+            ],
+            "Thursday": [
+                {
+                    "end": "11:30",
+                    "begin": "10:00",
+                    "summary": "Merker: WT(BA)Wst.prf./PL/01"
+                }
+            ],
+            "Monday": [
+                {
+                    "end": "09:30",
+                    "begin": "08:00",
+                    "summary": "Walluks: MT(BA)MPR/PL/01"
+                },
+                {
+                    "end": "13:30",
+                    "begin": "12:00",
+                    "summary": "Burse (MT): MiBi/PBT(MA)Mol.Zellbio./PL/01"
+                }
+            ]
+        }
+    },
+    "01.01.11": {
+        "days": {
+            "Thursday": [
+                {
+                    "end": "11:30",
+                    "begin": "10:00",
+                    "summary": "Bellemann: PT(BA)Ion.Strahlg./PL/01"
+                }
+            ],
+            "Monday": [
+                {
+                    "end": "11:30",
+                    "begin": "10:00",
+                    "summary": "Kunert, M.: WT(MA)Phys.GL Met.II/PL/01"
+                },
+                {
+                    "end": "13:00",
+                    "begin": "12:00",
+                    "summary": "Fritzsche(MT): BT/MT(BA)DB/Wdh.-Prfg./01"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "11:30",
+                    "begin": "10:00",
+                    "summary": "Schleicher: UT(BA)Env. a. ProC. Metr./Wdh.-Prfg./01"
+                },
+                {
+                    "end": "13:30",
+                    "begin": "12:00",
+                    "summary": "Driesch(MT): BT(BA)BG biotech.Anl./Wdh.-Prfg./01"
+                }
+            ]
+        }
+    },
+    "05.00.02": {
+        "days": {
+            "Thursday": [
+                {
+                    "end": "11:30",
+                    "begin": "10:00",
+                    "summary": "Heßler (SciTec): AO(BA)Opto VI/APL/01"
+                }
+            ],
+            "Monday": [
+                {
+                    "end": "17:00",
+                    "begin": "14:00",
+                    "summary": "Tutor Chwojka(ET): ET(BA)ET II/Probekl."
+                }
+            ],
+            "Saturday": [
+                {
+                    "end": "16:00",
+                    "begin": "10:00",
+                    "summary": "Tutorin Gräfe(GW): ET(BA)Ana II/T/01.4"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "11:00",
+                    "begin": "09:30",
+                    "summary": "Giesecke: ET(BA)ET II/Kon/01"
+                },
+                {
+                    "end": "16:30",
+                    "begin": "11:30",
+                    "summary": "Tutor Seitz (WI): WI/WIEC(BA)OR/Ma II/T/01.5"
+                }
+            ]
+        }
+    },
+    "05.03.33": {
+        "days": {
+            "Thursday": [
+                {
+                    "end": "11:30",
+                    "begin": "10:00",
+                    "summary": "Döge: ME/RE(MA)Opt. Strg.- u. Reg./PL/01"
+                },
+                {
+                    "end": "13:30",
+                    "begin": "12:00",
+                    "summary": "Richter: ET/LOT(BA)Sensorik/Kon/01"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "11:00",
+                    "begin": "08:00",
+                    "summary": "Leitzgen: BW(BA)Vf.+Bew.R/PL/01"
+                },
+                {
+                    "end": "17:30",
+                    "begin": "16:00",
+                    "summary": "Rodner(ET): ET(BA)/ME(MA)Bildanalyse/Mustererk./PL/01"
+                }
+            ]
+        }
+    },
+    "01.02.11": {
+        "days": {
+            "Friday": [
+                {
+                    "end": "09:00",
+                    "begin": "08:00",
+                    "summary": "Pfeifroth: WI(BA)Einf. ind. Prod./PL/01"
+                },
+                {
+                    "end": "09:15",
+                    "begin": "09:00",
+                    "summary": "Pfeifroth: WI(BA)Einf. ind. Prod. ZV/PL/01"
+                },
+                {
+                    "end": "11:30",
+                    "begin": "10:00",
+                    "summary": "Merker: WT(BA)Metalle II/PL/01"
+                },
+                {
+                    "end": "16:00",
+                    "begin": "14:00",
+                    "summary": "Schirmer: UT/UTE/WI(BA)Energie-Tech. u. -Wirtsch./Wdh.-Prfg./01"
+                }
+            ],
+            "Monday": [
+                {
+                    "end": "09:30",
+                    "begin": "08:00",
+                    "summary": "Rudolph: UT/UTE(BA)Chem. Anal./PL/01"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "10:00",
+                    "begin": "08:00",
+                    "summary": "Schirmer: UT/UTE/WI(BA)Vf.techn./PL/01"
+                },
+                {
+                    "end": "17:30",
+                    "begin": "16:00",
+                    "summary": "Neumann: MiBi/MT(MA)SSA/BSV/PL/01"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "09:30",
+                    "begin": "08:00",
+                    "summary": "Pfaff MT: MT(BA)GL RT/Wdh.-Prfg./01"
+                },
+                {
+                    "end": "09:30",
+                    "begin": "08:00",
+                    "summary": "Pfaff MT: BT(BA)Biopr.MSR-T/Wdh.-Prfg./01"
+                },
+                {
+                    "end": "13:30",
+                    "begin": "12:00",
+                    "summary": "Bellemann: MT(MA)Med.Phys./PL/01"
+                },
+                {
+                    "end": "17:30",
+                    "begin": "16:00",
+                    "summary": "Müller (MT): MT(BA)Med.Infosys./Wdh.-Prfg./01"
+                }
+            ]
+        }
+    },
+    "05.00.06": {
+        "days": {
+            "Friday": [
+                {
+                    "end": "17:30",
+                    "begin": "16:00",
+                    "summary": "Kunert, M.: BT/MT(BA)Biomat./Wdh.-Prfg./01"
+                }
+            ],
+            "Thursday": [
+                {
+                    "end": "10:30",
+                    "begin": "09:00",
+                    "summary": "Reimer: AO(BA)GL ET/Kon/01"
+                }
+            ],
+            "Monday": [
+                {
+                    "end": "09:30",
+                    "begin": "08:00",
+                    "summary": "Möller: UT/UTE(BA)Umw.-man./Ökobil./Wdh.-Prfg./01"
+                },
+                {
+                    "end": "10:00",
+                    "begin": "08:00",
+                    "summary": "Möller, Schmager: WI(BA)Umw.-man./PL/01"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "11:30",
+                    "begin": "10:00",
+                    "summary": "Ephrosi(BW): AO(BA)BWL V/APL/01"
+                },
+                {
+                    "end": "15:30",
+                    "begin": "14:00",
+                    "summary": "Giesecke: ME/MT(BA)Sign.+Syst.I/SSA/Wdh.-Prfg./01"
+                }
+            ]
+        }
+    },
+    "05.00.04": {
+        "days": {
+            "Friday": [
+                {
+                    "end": "13:30",
+                    "begin": "12:00",
+                    "summary": "Glück: MB(BA)StröL II/PL/01"
+                }
+            ],
+            "Thursday": [
+                {
+                    "end": "14:00",
+                    "begin": "12:00",
+                    "summary": "Stämmler(WI): WI/WIEC(BA)Wirt.-R/PL/01"
+                }
+            ],
+            "Monday": [
+                {
+                    "end": "09:30",
+                    "begin": "08:00",
+                    "summary": "Reuter: ET/ME(BA)Analoge ST/El II/PL/01"
+                },
+                {
+                    "end": "11:30",
+                    "begin": "10:00",
+                    "summary": "Schwabe: MB(BA)MD/PL/01"
+                },
+                {
+                    "end": "17:30",
+                    "begin": "16:00",
+                    "summary": "Schroeter(ET): BT/ET/ME/MT(BA)DBV I/PL/Wdh.-Prf./01"
+                },
+                {
+                    "end": "18:00",
+                    "begin": "17:30",
+                    "summary": "Schroeter(ET): BT/ET/ME/MT(BA)DBV I/PL ZV/Wdh.-Prf./01"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "09:30",
+                    "begin": "08:00",
+                    "summary": "Döge: ET/ME(BA)Dig. Reg.sys./PL/01"
+                },
+                {
+                    "end": "10:00",
+                    "begin": "09:30",
+                    "summary": "Döge: ET/ME(BA)Dig. Reg.sys. ZV/PL/01"
+                },
+                {
+                    "end": "12:00",
+                    "begin": "11:00",
+                    "summary": "StuRa: 19.07._StuRa_Sitzg."
+                },
+                {
+                    "end": "18:00",
+                    "begin": "17:00",
+                    "summary": "Scheffel(BW), Buntfuß(BW): BW(BA)Info-Tech./PL/01"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "11:30",
+                    "begin": "10:00",
+                    "summary": "Felkl: FT/LOT/PT(BA)Elektron. 2 (Ana. ST)/PL/01"
+                },
+                {
+                    "end": "13:30",
+                    "begin": "12:00",
+                    "summary": "Walluks: MT(BA)TeSi/QS/PL/01"
+                },
+                {
+                    "end": "15:30",
+                    "begin": "14:00",
+                    "summary": "Wilde: LOT(MA)Num.Ma/PL/01"
+                },
+                {
+                    "end": "17:00",
+                    "begin": "16:00",
+                    "summary": "Ostermaier: WI(BA)Contr.II/PL/01"
+                }
+            ]
+        }
+    },
+    "05.03.43 (HS4)": {
+        "days": {
+            "Thursday": [
+                {
+                    "end": "15:00",
+                    "begin": "12:00",
+                    "summary": ": SA(BA)Psych 1/PL/01"
+                },
+                {
+                    "end": "17:30",
+                    "begin": "16:00",
+                    "summary": "Wilde: UT/UTE(BA)Ma I/Wdh.-Prfg./01"
+                }
+            ]
+        }
+    },
+    "05.00.23(Büro)": {
+        "days": {
+            "Thursday": [
+                {
+                    "end": "15:00",
+                    "begin": "12:00",
+                    "summary": "Degle: AO(BA)Opto IV/mdl.Prf./03"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "15:30",
+                    "begin": "08:30",
+                    "summary": "Degle: AO(BA)Opto IV/mdl.Prf./02"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "15:30",
+                    "begin": "08:30",
+                    "summary": "Degle: AO(BA)Opto IV/mdl.Prf./01"
+                }
+            ]
+        }
+    },
+    "01.03.13": {
+        "days": {
+            "Thursday": [
+                {
+                    "end": "16:00",
+                    "begin": "14:30",
+                    "summary": "Möller, Pfeifroth, Schirmer, Rönsch, Herbst, U.: WI(BA)Info Schwerpkt./S/01"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "11:30",
+                    "begin": "10:00",
+                    "summary": "Schirmer: 19.07._Schimer_Kolloquium"
+                }
+            ]
+        }
+    },
+    "05.03.202": {
+        "days": {
+            "Friday": [
+                {
+                    "end": "17:30",
+                    "begin": "08:30",
+                    "summary": ": Lernraum/05"
+                }
+            ],
+            "Thursday": [
+                {
+                    "end": "17:30",
+                    "begin": "08:30",
+                    "summary": ": Lernraum/04"
+                }
+            ],
+            "Monday": [
+                {
+                    "end": "17:30",
+                    "begin": "08:30",
+                    "summary": ": Lernraum/01"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "17:30",
+                    "begin": "08:30",
+                    "summary": ": Lernraum/03"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "17:30",
+                    "begin": "08:30",
+                    "summary": ": Lernraum/02"
+                }
+            ]
+        }
+    },
+    "05.00.03": {
+        "days": {
+            "Thursday": [
+                {
+                    "end": "11:30",
+                    "begin": "10:00",
+                    "summary": "Niebel: ET(BA)Feldbusse/Wdh.-Prfg./01"
+                }
+            ],
+            "Monday": [
+                {
+                    "end": "09:30",
+                    "begin": "08:00",
+                    "summary": "Reuter: ET/ME(BA)Analoge ST/El II/PL/01"
+                },
+                {
+                    "end": "14:30",
+                    "begin": "13:00",
+                    "summary": "Merker: WT(BA)Wst.prf./Kon/01"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "18:00",
+                    "begin": "14:00",
+                    "summary": "Tutor Schädlich(ET): ET(BA)MT II/T/01.8"
                 }
             ]
         }
