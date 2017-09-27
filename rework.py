@@ -34,7 +34,7 @@ ROOM_NAME_INDEX = 5
 SUMMARY_INDEX = 6
 
 
-def digest_room_website():
+def get_room_meta_data():
     eah_rooms_website = urllib.request.urlopen(EAH_ROOMS_BASE_URL)
     eah_rooms_website_soup = BeautifulSoup(eah_rooms_website, "lxml")
     eah_rooms_options_list = eah_rooms_website_soup.select('select[id=id] > option')
@@ -43,16 +43,16 @@ def digest_room_website():
 
     # Select drop down and add its elements to a list
     for option in eah_rooms_options_list:
-        option_value = option['value']  # SPLUSA8CFB5 - a rooms ID
+        room_id = option['value']  # SPLUSA8CFB5 - a rooms ID
 
-        # Test if first char is a digit do exclude rooms such as:
+        # Test if first char is a digit do exclude rooms such as 'Siemens Rudolstadt'
         if option.text[0].isdigit():
-            option_text = option.text  # 05.00.03
+            room_name = option.text  # 05.00.03
 
             # Build download-link using ICS_BASE_LINK and option_value
-            ics_link = '{}{}'.format(ICS_BASE_LINK, option_value)
+            room_ics_link = '{}{}'.format(ICS_BASE_LINK, room_id)
 
-            ics_list.append([option_value, option_text, ics_link])
+            ics_list.append([room_id, room_name, room_ics_link])
 
     return ics_list
 
@@ -64,8 +64,6 @@ def parse_ics_data(ics_data):
     i = 0
 
     start = time.time()
-
-    # print('download_ics took {}'.format(end - start))
 
     for ics in ics_data:
         room_id = ics[0]
@@ -118,12 +116,6 @@ def parse_ics_data(ics_data):
     return extracted_info_sorted
 
 
-room_list = [
-    ['SPLUSB70893', '01.-1.13(SZB)', 'http://stundenplanung.eah-jena.de/ical/raum/?id=SPLUSB70893'],
-    ['SPLUSDE238B', '04.00.15/FT', 'http://stundenplanung.eah-jena.de/ical/raum/?id=SPLUSDE238B']
-]
-
-
 def get_file_age(path):
     file_template = './json/{}.json'.format(path)
     file_age = ((time.time() - os.stat(file_template)[stat.ST_MTIME]) / 60) / 60
@@ -153,46 +145,6 @@ def create_schedule_dictionary(parsed_data):
     return grouped
 
 
-def save_as_json(schedule_dictionary):
-    file_template = './json/{}.json'
-    json_file_data = []
-
-    for room in schedule_dictionary:
-        schedule_data = schedule_dictionary[room]
-
-        with open(file_template.format(room), 'w') as fout:
-            json.dump(schedule_dictionary[room], fout, ensure_ascii=False)
-
-        # with open(file_template.format(room)) as json_data:
-            # json_file_data = json.load(json_data)
-
-            # if schedule_data != json_file_data:
-                # print('{}.json has been changed'.format(room))
-
-                # with open(file_template.format(room), 'w') as fout:
-                    # json.dump(schedule_dictionary[room], fout, ensure_ascii=False)
-
-
-def init():
-    # if get_file_age('dump') >= 3:
-    room_online_data = digest_room_website()
-    try:
-        parsed_ics_data = parse_ics_data(room_online_data)
-    except ValueError:
-        with open('./json/log.json', 'w') as fout:
-            json.dump('{"04.00.02 (HS7)": {}}', fout, indent=4, ensure_ascii=False)
-
-    # else:
-    #    with open('./json/dump.json') as data_dump:
-    #        parsed_ics_data = json.load(data_dump)
-
-    schedule = create_schedule_dictionary(parsed_ics_data)
-    save_as_json(schedule)
-
-
-init()
-
-
 def get_work_dir():
     current_file = __file__
     real_path = os.path.realpath(current_file)  # /home/tony/PycharmProjects/free-rooms/rework.py
@@ -200,3 +152,26 @@ def get_work_dir():
 
     return dir_path
 
+
+def save_as_json(schedule_dictionary):
+    working_directory = get_work_dir()
+    file_template = '{}/json/{}.json'
+
+    for room in schedule_dictionary:
+        with open(file_template.format(working_directory, room), 'w') as fout:
+            json.dump(schedule_dictionary[room], fout, ensure_ascii=False)
+
+
+def init():
+    room_online_data = get_room_meta_data()
+    try:
+        parsed_ics_data = parse_ics_data(room_online_data)
+    except ValueError:
+        with open('./json/log.json', 'w') as fout:
+            json.dump('{"04.00.02 (HS7)": {}}', fout, indent=4, ensure_ascii=False)
+
+    schedule = create_schedule_dictionary(parsed_ics_data)
+    save_as_json(schedule)
+
+
+init()
