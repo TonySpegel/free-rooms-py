@@ -1,3 +1,31 @@
+body.color--deep-space {
+  background: #000;
+  background: linear-gradient(to left, #000, #434343); }
+
+body.color--frost {
+  background: #000428;
+  background: linear-gradient(to left, #000428, #004e92); }
+
+body.color--graydient {
+  background: #bdc3c7;
+  background: linear-gradient(to left, #bdc3c7, #2c3e50); }
+
+body.color--royal {
+  background: #141E30;
+  background: linear-gradient(to left, #141E30, #243B55); }
+
+body.color--mirage {
+  background: #16222A;
+  background: linear-gradient(to left, #16222A, #3A6073); }
+
+body.color--nighthawk {
+  background: #2980b9;
+  background: linear-gradient(to left, #2980b9, #2c3e50); }
+
+body.color--purple-paradise {
+  background: #1D2B64;
+  background: linear-gradient(to left, #1D2B64, #F8CDDA); }
+
 .mdc-card {
   margin-bottom: 20px;
   width: 450px;

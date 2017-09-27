@@ -9,12 +9,12 @@
 
 // Test-presets
 // TODO: implement offset_time
-let building_number_input;
-let floor_number_input;
-let today            = 'Friday'; 
+let building_number_input = '05'; 
+let floor_number_input = '02';
+let today            = 'Wednesday'; 
 let offset_time      = '00:30';  // At least this much time should be available
 let upper_time_limit = '20:00';
-let calendar_week    = '14';
+let calendar_week    = '20';
 let free_room_flag   = false; 
 let debug_flag       = false;    // Used to show console.log();
 let free_rooms       = [];
@@ -30,8 +30,21 @@ let times = [
     '15:15'
 ];
 
+const BG_COLOR = [
+    'color--deep-space',
+    'color--frost',
+    'color--graydient',
+    'color--royal',
+    'color--mirage',
+    'color--nighthawk',
+    'color--purple-paradise'
+];
+
 window.onload = () => {
-    const MAIN_WRAPPER = document.querySelector('#target'); 
+    const MAIN_WRAPPER = document.querySelector('#target');
+    let bg_class = BG_COLOR[pickRandomNumber(0, BG_COLOR.length - 1)];
+    document.querySelector('body').classList.add(bg_class);
+
     fetch_calendar_week_json(calendar_week).then(result => {
         times.forEach(time => {
             console.log(
@@ -575,4 +588,15 @@ function split_room_string(room_str) {
     let room_nr       = room_str.slice(room_nr_index, room_str.length);
     
     return [building, floor, room_nr];
+}
+
+
+/**
+ * Picks a random number
+ *
+ * @param {Integer} min [lower limit]
+ * @param {Integer} max [upper limit]
+ */
+function pickRandomNumber(min, max) {
+    return Math.floor(Math.random() * (max - min + 1)) + min;
 }
