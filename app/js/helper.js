@@ -31,13 +31,12 @@ let times = [
 ];
 
 const BG_COLOR = [
-    'color--deep-space',
     'color--frost',
-    'color--graydient',
     'color--royal',
     'color--mirage',
     'color--nighthawk',
-    'color--purple-paradise'
+    'color--eternal-constance',
+    'color--midnight-bloom'
 ];
 
 window.onload = () => {
@@ -246,7 +245,7 @@ function check_time_in_between(lecture_begin, lecture_end, current_time) {
 function list_free_rooms(all_rooms, room, time_param, room_id) {
     let room_object            = all_rooms[room];
     let lectures               = room_object.days[today];
-    let display_text           = `${room} is available (no lectures today)`;
+    let display_text           = `No lectures today`;
     [building, floor, room_nr] = split_room_string(room);
     
     // No lectures this day
@@ -269,7 +268,8 @@ function list_free_rooms(all_rooms, room, time_param, room_id) {
             room_nr,
             'minutes' : undefined,
             display_text,
-            'room_id' : undefined
+            'room_id' : undefined,
+            'available_for' : Infinity
         });
         
         return false;
@@ -325,7 +325,7 @@ function list_free_rooms(all_rooms, room, time_param, room_id) {
                     'available_in'  : end_time - current_time,
                     'available_for' : Infinity,
                     'summary'       : lecture.summary,
-                    'display_text'  : `Available in ${available_in} (rest of the day)`,
+                    'display_text'  : `Available in ${available_in} for the rest of the day`,
                     room_id
                 });
                 
