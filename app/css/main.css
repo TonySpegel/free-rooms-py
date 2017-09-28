@@ -1,54 +1,73 @@
-body.color--deep-space {
-  background: #000;
-  background: linear-gradient(to left, #000, #434343); }
+/* fallback */
+@font-face {
+  font-family: 'Material Icons';
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/Material-Icons.woff2") format("woff2"); }
 
-body.color--frost {
-  background: #000428;
-  background: linear-gradient(to left, #000428, #004e92); }
+.material-icons {
+  font-family: 'Material Icons';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 24px;
+  line-height: 1;
+  letter-spacing: normal;
+  text-transform: none;
+  display: inline-block;
+  white-space: nowrap;
+  word-wrap: normal;
+  direction: ltr;
+  -webkit-font-feature-settings: 'liga';
+  -webkit-font-smoothing: antialiased; }
 
-body.color--graydient {
-  background: #bdc3c7;
-  background: linear-gradient(to left, #bdc3c7, #2c3e50); }
-
-body.color--royal {
-  background: #141E30;
-  background: linear-gradient(to left, #141E30, #243B55); }
-
-body.color--mirage {
-  background: #16222A;
-  background: linear-gradient(to left, #16222A, #3A6073); }
-
-body.color--nighthawk {
-  background: #2980b9;
-  background: linear-gradient(to left, #2980b9, #2c3e50); }
-
-body.color--purple-paradise {
-  background: #1D2B64;
-  background: linear-gradient(to left, #1D2B64, #F8CDDA); }
+body {
+  background-attachment: fixed; }
+  body.color--frost {
+    background: #000428;
+    background: linear-gradient(to left, #000428, #004e92); }
+  body.color--royal {
+    background: #141E30;
+    background: linear-gradient(to left, #141E30, #243B55); }
+  body.color--mirage {
+    background: #16222A;
+    background: linear-gradient(to left, #16222A, #3A6073); }
+  body.color--nighthawk {
+    background: #2980b9;
+    background: linear-gradient(to left, #2980b9, #2c3e50); }
+  body.color--eternal-constance {
+    background-image: linear-gradient(to top, #09203f 0%, #537895 100%); }
+  body.color--midnight-bloom {
+    background-image: linear-gradient(-20deg, #2b5876 0%, #4e4376 100%); }
 
 .mdc-card {
   margin-bottom: 20px;
   width: 450px;
-  background-color: #4CAF50;
-  color: white; }
+  background-color: #efefef;
+  border-left: 5px solid #4CAF50; }
   @media (max-width: 768px) {
     .mdc-card {
       width: 100%; } }
   .mdc-card.mdc-card--room-occupied {
-    background-color: #f44336; }
+    background-color: #efefef;
+    border-left-color: #f44336; }
     .mdc-card.mdc-card--room-occupied .mdc-card__primary > *,
     .mdc-card.mdc-card--room-occupied .mdc-card__actions > * {
-      color: white; }
+      color: #414141; }
+    .mdc-card.mdc-card--room-occupied .mdc-card__available-time .material-icons {
+      color: #f44336; }
   .mdc-card .mdc-card__available-time {
     margin-top: 10px;
     padding-top: 5px;
-    border-top: 1px solid white; }
+    border-top: 1px solid #414141; }
+    .mdc-card .mdc-card__available-time .material-icons {
+      color: #4CAF50; }
   .mdc-card .mdc-card__supporting-text {
     display: flex;
-    justify-content: space-around; }
+    justify-content: space-around;
+    color: #414141; }
   .mdc-card .mdc-card__primary > *,
   .mdc-card .mdc-card__actions > * {
-    color: white; }
+    color: #414141; }
   .mdc-card .mdc-card__primary span {
     display: flex;
     align-items: center;
