@@ -13,7 +13,7 @@
  * @return {String|HTML}
  */
 function create_room_html(
-    free, 
+    free,
     room, 
     building, 
     floor, 
@@ -49,7 +49,7 @@ function create_room_html(
             ${display_text}
         </span>
     </section>
-    <section class="mdc-card__supporting-text mdc-theme--text-primary-on-primary">
+    <section class="mdc-card__supporting-text">
         <span>Building: ${building}</span>
         <span>Floor: ${floor}</span>
         <span>Room: ${room_nr}</span>
