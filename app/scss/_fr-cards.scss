@@ -1,4 +1,5 @@
 @import '_viewports';
+@import '_variables';
 
 .mdc-card {
     margin-bottom: 20px;
@@ -9,32 +10,41 @@
     }
     
     &.mdc-card--room-occupied {
-        background-color: #f44336;
+        background-color: $card-bg-color;
+        border-left-color: $occupied-color;
         
         .mdc-card__primary > *, 
         .mdc-card__actions > * {
-            color: white;
+            color: $primary-text-color;
         }
         
+        .mdc-card__available-time .material-icons {
+            color: $occupied-color;
+        }
     }
-    
-    background-color: #4CAF50;
-    color: white;
+
+    background-color: $card-bg-color;
+    border-left: 5px solid $available-color;
     
     .mdc-card__available-time {
         margin-top: 10px;
         padding-top: 5px;
-        border-top: 1px solid white;
+        border-top: 1px solid $primary-text-color;
+
+        .material-icons {
+            color: $available-color;
+        }
     }
     
     .mdc-card__supporting-text {
         display: flex;
         justify-content: space-around;
+        color: $primary-text-color;
     }
     
     .mdc-card__primary > *, 
     .mdc-card__actions > * {
-        color: white;
+        color: $primary-text-color;
     }
     
     .mdc-card__primary {
