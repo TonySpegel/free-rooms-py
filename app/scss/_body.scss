@@ -1,17 +1,9 @@
 body {
-    &.color--deep-space {
-        background: #000;
-        background: linear-gradient(to left, #000 , #434343);
-    }
+    background-attachment: fixed;
 
     &.color--frost {
         background: #000428;
         background: linear-gradient(to left, #000428 , #004e92);
-    }
-
-    &.color--graydient {
-        background: #bdc3c7;
-        background: linear-gradient(to left, #bdc3c7 , #2c3e50);
     }
 
     &.color--royal {
@@ -29,8 +21,11 @@ body {
         background: linear-gradient(to left, #2980b9 , #2c3e50);
     }
 
-    &.color--purple-paradise {
-        background: #1D2B64;
-        background: linear-gradient(to left, #1D2B64 , #F8CDDA);
+    &.color--eternal-constance {
+        background-image: linear-gradient(to top, #09203f 0%, #537895 100%);
+    }
+
+    &.color--midnight-bloom {
+        background-image: linear-gradient(-20deg, #2b5876 0%, #4e4376 100%);
     }
 }
