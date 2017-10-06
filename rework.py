@@ -155,7 +155,7 @@ def get_work_dir():
 
 def save_as_json(schedule_dictionary):
     working_directory = get_work_dir()
-    file_template = '{}/json/{}.json'
+    file_template = '{}/app/json/{}.json'
 
     for room in schedule_dictionary:
         with open(file_template.format(working_directory, room), 'w') as fout:
