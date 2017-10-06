@@ -1,0 +1,31 @@
+body {
+    background-attachment: fixed;
+
+    &.color--frost {
+        background: #000428;
+        background: linear-gradient(to left, #000428 , #004e92);
+    }
+
+    &.color--royal {
+        background: #141E30;
+        background: linear-gradient(to left, #141E30 , #243B55);
+    }
+
+    &.color--mirage {
+        background: #16222A;
+        background: linear-gradient(to left, #16222A , #3A6073);
+    }
+
+    &.color--nighthawk {
+        background: #2980b9;
+        background: linear-gradient(to left, #2980b9 , #2c3e50);
+    }
+
+    &.color--eternal-constance {
+        background-image: linear-gradient(to top, #09203f 0%, #537895 100%);
+    }
+
+    &.color--midnight-bloom {
+        background-image: linear-gradient(-20deg, #2b5876 0%, #4e4376 100%);
+    }
+}

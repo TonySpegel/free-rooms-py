@@ -1,0 +1,225 @@
+{
+    "04.-1.01(Aula)": {
+        "days": {
+            "Friday": [
+                {
+                    "end": "17:00",
+                    "begin": "09:00",
+                    "summary": "ZVM: 18.08._Conventus_Conference/Vorb."
+                }
+            ]
+        }
+    },
+    "04.03.07": {
+        "days": {
+            "Friday": [
+                {
+                    "end": "17:00",
+                    "begin": "09:00",
+                    "summary": "ZVM: 18.08._Conventus_Conference/Vorb."
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "10:30",
+                    "begin": "08:30",
+                    "summary": "Garzke: FT/MB(BA)ME I/Wdh.-Prfg./01"
+                }
+            ]
+        }
+    },
+    "04.02.15": {
+        "days": {
+            "Wednesday": [
+                {
+                    "end": "11:00",
+                    "begin": "09:30",
+                    "summary": "Feller: AG_Feller"
+                }
+            ]
+        }
+    },
+    "04.00.34": {
+        "days": {
+            "Friday": [
+                {
+                    "end": "18:00",
+                    "begin": "08:30",
+                    "summary": "ZSB: STET_Lager/Packen Erstsem.beutel/05"
+                }
+            ],
+            "Monday": [
+                {
+                    "end": "18:00",
+                    "begin": "08:30",
+                    "summary": "ZSB: STET_Lager/Packen Erstsem.beutel/01"
+                }
+            ],
+            "Saturday": [
+                {
+                    "end": "18:00",
+                    "begin": "08:30",
+                    "summary": "ZSB: STET_Lager/Packen Erstsem.beutel/06"
+                }
+            ],
+            "Thursday": [
+                {
+                    "end": "18:00",
+                    "begin": "08:30",
+                    "summary": "ZSB: STET_Lager/Packen Erstsem.beutel/04"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "18:00",
+                    "begin": "08:30",
+                    "summary": "ZSB: STET_Lager/Packen Erstsem.beutel/02"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "18:00",
+                    "begin": "08:30",
+                    "summary": "ZSB: STET_Lager/Packen Erstsem.beutel/03"
+                }
+            ]
+        }
+    },
+    "04.03.10": {
+        "days": {
+            "Friday": [
+                {
+                    "end": "17:00",
+                    "begin": "09:00",
+                    "summary": "ZVM: 18.08._Conventus_Conference/Vorb."
+                }
+            ]
+        }
+    },
+    "05.03.201": {
+        "days": {
+            "Monday": [
+                {
+                    "end": "17:00",
+                    "begin": "13:00",
+                    "summary": "StuRa: StuRa-Prf.beratg/01.9"
+                }
+            ]
+        }
+    },
+    "05.00.04": {
+        "days": {
+            "Saturday": [
+                {
+                    "end": "14:30",
+                    "begin": "09:00",
+                    "summary": "Stoetzer: JenALL/GM 2016/S/01.06"
+                }
+            ]
+        }
+    },
+    "04.00.01(HS6)": {
+        "days": {
+            "Friday": [
+                {
+                    "end": "17:00",
+                    "begin": "09:00",
+                    "summary": "ZVM: 18.08._Conventus_Conference/Vorb."
+                }
+            ]
+        }
+    },
+    "05.01.43": {
+        "days": {
+            "Friday": [
+                {
+                    "end": "19:30",
+                    "begin": "13:00",
+                    "summary": "Stoetzer: JenALL/GM 2016/S/01.05"
+                }
+            ],
+            "Saturday": [
+                {
+                    "end": "14:30",
+                    "begin": "09:00",
+                    "summary": "Stoetzer: JenALL/GM 2016/S/01.06"
+                }
+            ]
+        }
+    },
+    "04.00.02 (HS7)": {
+        "days": {
+            "Friday": [
+                {
+                    "end": "17:00",
+                    "begin": "09:00",
+                    "summary": "ZVM: 18.08._Conventus_Conference/Vorb."
+                }
+            ]
+        }
+    },
+    "04.03.11": {
+        "days": {
+            "Friday": [
+                {
+                    "end": "20:00",
+                    "begin": "08:00",
+                    "summary": ": 18.08._Gordalla_Conventus"
+                }
+            ],
+            "Thursday": [
+                {
+                    "end": "20:00",
+                    "begin": "08:00",
+                    "summary": ": 17.08._Gordalla_Conventus"
+                }
+            ],
+            "Saturday": [
+                {
+                    "end": "20:00",
+                    "begin": "08:00",
+                    "summary": ": 19.08._Gordalla_Conventus"
+                }
+            ]
+        }
+    },
+    "05.-1.208(CAD3)": {
+        "days": {
+            "Friday": [
+                {
+                    "end": "20:00",
+                    "begin": "08:00",
+                    "summary": ": MB_Wartung_V"
+                }
+            ],
+            "Thursday": [
+                {
+                    "end": "20:00",
+                    "begin": "08:00",
+                    "summary": ": MB_Wartung_IV"
+                }
+            ],
+            "Monday": [
+                {
+                    "end": "20:00",
+                    "begin": "08:00",
+                    "summary": ": MB_Wartung_I"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "20:00",
+                    "begin": "08:00",
+                    "summary": ": MB_Wartung_III"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "20:00",
+                    "begin": "08:00",
+                    "summary": ": MB_Wartung_II"
+                }
+            ]
+        }
+    }
+}

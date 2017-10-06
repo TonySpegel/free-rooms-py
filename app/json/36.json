@@ -1,0 +1,276 @@
+{
+    "05.01.43": {
+        "days": {
+            "Friday": [
+                {
+                    "end": "19:30",
+                    "begin": "13:30",
+                    "summary": "Enders: JenALL/HCM 2016/S/01.01"
+                }
+            ],
+            "Saturday": [
+                {
+                    "end": "14:30",
+                    "begin": "09:00",
+                    "summary": "Enders: JenALL/HCM 2016/S/01.02"
+                }
+            ]
+        }
+    },
+    "05.03.37 (HS2)": {
+        "days": {
+            "Monday": [
+                {
+                    "end": "13:00",
+                    "begin": "11:30",
+                    "summary": ": SchülerExpress/S/04"
+                }
+            ]
+        }
+    },
+    "01.02.11": {
+        "days": {
+            "Friday": [
+                {
+                    "end": "18:30",
+                    "begin": "08:30",
+                    "summary": ": Ref 4/Stuhllager/Senat/02"
+                }
+            ],
+            "Monday": [
+                {
+                    "end": "18:30",
+                    "begin": "08:30",
+                    "summary": ": Ref 4/Stuhllager/Senat/04"
+                }
+            ],
+            "Saturday": [
+                {
+                    "end": "18:30",
+                    "begin": "08:30",
+                    "summary": ": Ref 4/Stuhllager/Senat/03"
+                }
+            ],
+            "Thursday": [
+                {
+                    "end": "18:30",
+                    "begin": "08:30",
+                    "summary": ": Ref 4/Stuhllager/Senat/01"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "18:30",
+                    "begin": "08:30",
+                    "summary": ": Ref 4/Stuhllager/Senat/05"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "18:30",
+                    "begin": "08:30",
+                    "summary": ": Ref 4/Stuhllager/Senat/06"
+                }
+            ]
+        }
+    },
+    "04.02.15": {
+        "days": {
+            "Wednesday": [
+                {
+                    "end": "11:00",
+                    "begin": "09:30",
+                    "summary": "Feller: AG_Feller"
+                }
+            ]
+        }
+    },
+    "05.00.02": {
+        "days": {
+            "Saturday": [
+                {
+                    "end": "13:00",
+                    "begin": "08:00",
+                    "summary": "Patz: JenALL/FTPM 2017/APL/02"
+                }
+            ]
+        }
+    },
+    "04.00.34": {
+        "days": {
+            "Friday": [
+                {
+                    "end": "18:00",
+                    "begin": "08:30",
+                    "summary": "ZSB: STET_Lager/Packen Erstsem.beutel/05"
+                }
+            ],
+            "Monday": [
+                {
+                    "end": "18:00",
+                    "begin": "08:30",
+                    "summary": "ZSB: STET_Lager/Packen Erstsem.beutel/01"
+                }
+            ],
+            "Saturday": [
+                {
+                    "end": "18:00",
+                    "begin": "08:30",
+                    "summary": "ZSB: STET_Lager/Packen Erstsem.beutel/06"
+                }
+            ],
+            "Thursday": [
+                {
+                    "end": "18:00",
+                    "begin": "08:30",
+                    "summary": "ZSB: STET_Lager/Packen Erstsem.beutel/04"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "18:00",
+                    "begin": "08:30",
+                    "summary": "ZSB: STET_Lager/Packen Erstsem.beutel/02"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "18:00",
+                    "begin": "08:30",
+                    "summary": "ZSB: STET_Lager/Packen Erstsem.beutel/03"
+                }
+            ]
+        }
+    },
+    "05.00.06": {
+        "days": {
+            "Wednesday": [
+                {
+                    "end": "16:30",
+                    "begin": "08:30",
+                    "summary": "ZVM: 06.09._FAW_Seminar"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "16:30",
+                    "begin": "08:30",
+                    "summary": "ZVM: 05.09._FAW_Seminar"
+                }
+            ]
+        }
+    },
+    "05.00.04": {
+        "days": {
+            "Saturday": [
+                {
+                    "end": "11:00",
+                    "begin": "09:00",
+                    "summary": "Kraußlach: JenALL/GM 2017/S/01.13"
+                }
+            ]
+        }
+    },
+    "04.00.01(HS6)": {
+        "days": {
+            "Monday": [
+                {
+                    "end": "15:00",
+                    "begin": "13:30",
+                    "summary": ": SchülerExpress/S/05"
+                }
+            ]
+        }
+    },
+    "04.03.12": {
+        "days": {
+            "Monday": [
+                {
+                    "end": "14:00",
+                    "begin": "12:30",
+                    "summary": "Rüb: 04.09._Rüb_Vertdg."
+                }
+            ]
+        }
+    },
+    "05.00.03": {
+        "days": {
+            "Monday": [
+                {
+                    "end": "18:00",
+                    "begin": "08:00",
+                    "summary": "Staupendahl(SciTec): JenALL/LS-Beauftr. 2017/S/01.1"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "13:00",
+                    "begin": "08:00",
+                    "summary": "Staupendahl(SciTec): JenALL/LS-Beauftr. 2017/S/01.3"
+                },
+                {
+                    "end": "14:30",
+                    "begin": "13:00",
+                    "summary": "Döge: 06.09._Döge_Berufungskommission"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "18:00",
+                    "begin": "08:00",
+                    "summary": "Staupendahl(SciTec): JenALL/LS-Beauftr. 2017/S/01.2"
+                }
+            ]
+        }
+    },
+    "05.03.01": {
+        "days": {
+            "Tuesday": [
+                {
+                    "end": "20:00",
+                    "begin": "18:00",
+                    "summary": ": AG Fotoklub 78/S/01"
+                }
+            ]
+        }
+    },
+    "01.02.12": {
+        "days": {
+            "Friday": [
+                {
+                    "end": "20:00",
+                    "begin": "08:00",
+                    "summary": ": AG Bliedtner_3D Drucker Test_V"
+                }
+            ],
+            "Thursday": [
+                {
+                    "end": "20:00",
+                    "begin": "08:00",
+                    "summary": ": AG Bliedtner_3D Drucker Test_IV"
+                }
+            ],
+            "Monday": [
+                {
+                    "end": "20:00",
+                    "begin": "08:00",
+                    "summary": ": AG Bliedtner_3D Drucker Test_I"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "20:00",
+                    "begin": "08:00",
+                    "summary": ": AG Bliedtner_3D Drucker Test_III"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "20:00",
+                    "begin": "08:00",
+                    "summary": ": AG Bliedtner_3D Drucker Test_II"
+                }
+            ]
+        }
+    }
+}
