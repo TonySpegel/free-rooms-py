@@ -9,12 +9,12 @@
 
 // Test-presets
 // TODO: implement offset_time
-let building_number_input = '05'; 
-let floor_number_input = '02';
+let building_number_input = '03'; 
+let floor_number_input = '00';
 let today            = 'Wednesday'; 
 let offset_time      = '00:30';  // At least this much time should be available
 let upper_time_limit = '20:00';
-let calendar_week    = '20';
+let calendar_week    = '43';
 let free_room_flag   = false; 
 let debug_flag       = false;    // Used to show console.log();
 let free_rooms       = [];
