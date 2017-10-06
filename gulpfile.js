@@ -1,8 +1,8 @@
 // Plugins
 var gulp        = require('gulp');
-var browserSync = require('../node_modules/browser-sync').create();
-var sass        = require('../node_modules/gulp-sass');
-var babel       = require('../node_modules/gulp-babel');
+var browserSync = require('./node_modules/browser-sync').create();
+var sass        = require('./node_modules/gulp-sass');
+var babel       = require('./node_modules/gulp-babel');
 var reload      = browserSync.reload;
 
 // Directories
