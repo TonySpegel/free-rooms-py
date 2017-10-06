@@ -5,3 +5,5 @@ outputfile.json
 **/.idea/workspace.xml
 **/.idea/tasks.xml
 \.idea/
+
+node_modules
