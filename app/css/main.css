@@ -21,7 +21,8 @@
   -webkit-font-smoothing: antialiased; }
 
 body {
-  background-attachment: fixed; }
+  margin: 0 8px;
+  background-color: #dadada; }
   body.color--frost {
     background: #000428;
     background: linear-gradient(to left, #000428, #004e92); }
@@ -58,13 +59,15 @@ body {
   .mdc-card .mdc-card__available-time {
     margin-top: 10px;
     padding-top: 5px;
-    border-top: 1px solid #414141; }
+    border-top: 1px solid #414141;
+    font-size: 14px; }
     .mdc-card .mdc-card__available-time .material-icons {
       color: #4CAF50; }
   .mdc-card .mdc-card__supporting-text {
     display: flex;
     justify-content: space-around;
-    color: #414141; }
+    color: #414141;
+    font-size: 14px; }
   .mdc-card .mdc-card__primary > *,
   .mdc-card .mdc-card__actions > * {
     color: #414141; }
@@ -76,6 +79,8 @@ body {
     margin-right: 10px; }
   .mdc-card .mdc-card__actions {
     justify-content: flex-end; }
+    .mdc-card .mdc-card__actions button:disabled {
+      color: #c2c2c2; }
   .mdc-card a.mdc-card__action {
     display: flex;
     align-items: center;
@@ -109,15 +114,114 @@ body {
     .tsp-card--info.--announcement img {
       width: 50px; }
 
+.flr {
+  display: none; }
+  .flr.--visible {
+    display: inline-block !important; }
+
+.mdl-select-wrapper {
+  float: left;
+  width: 100px; }
+  .mdl-select-wrapper .mdl-textfield--floating-label.is-dirty .mdl-textfield__label {
+    color: #ff4081; }
+  .mdl-select-wrapper .mdl-textfield__input {
+    color: white;
+    border-bottom: 1px solid rgba(255, 64, 129, 0.3); }
+  .mdl-select-wrapper .mdl-textfield__label:after {
+    background-color: #ff4081; }
+
+.mdl-menu__item {
+  height: 36px;
+  line-height: 36px; }
+
+.notification-area {
+  display: flex;
+  border-radius: 2px;
+  height: 290px;
+  width: calc(100% - 16px);
+  max-width: 400px;
+  position: fixed;
+  bottom: 16px;
+  overflow: hidden; }
+  .notification-area .filter-box {
+    margin-left: 70px;
+    margin-top: 5px; }
+    .notification-area .filter-box .--building {
+      margin-right: 10px; }
+  .notification-area #btn-menu-opener .mdc-fab__icon.--search {
+    display: none; }
+  .notification-area.notification-area--expanded {
+    pointer-events: auto; }
+    .notification-area.notification-area--expanded .notification-ripple {
+      transform: scale(1) translate(30%, -30%); }
+    .notification-area.notification-area--expanded .notification-content {
+      transform: translateY(0); }
+    .notification-area.notification-area--expanded #btn-menu-opener .mdc-fab__icon.--search {
+      display: block; }
+    .notification-area.notification-area--expanded #btn-menu-opener .mdc-fab__icon.--filter {
+      display: none; }
+    .notification-area.notification-area--expanded #btn-menu-close {
+      bottom: 70px; }
+  .notification-area .notification-ripple {
+    position: absolute;
+    left: -392px;
+    bottom: -392px;
+    border-radius: 50%;
+    width: 848px;
+    height: 848px;
+    background: #313131;
+    backface-visibility: hidden;
+    will-change: transform;
+    transform: scale(0.056);
+    transform-origin: 50% 50%;
+    transition: transform 0.3s cubic-bezier(0, 0, 0.3, 1); }
+  .notification-area .notification-content {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    transform: translateY(100%) translate(0, -64px);
+    transition: transform 255ms cubic-bezier(0, 0, 0.3, 1);
+    backface-visibility: hidden;
+    overflow: hidden; }
+  .notification-area .notification-toggle-button {
+    width: 48px;
+    height: 48px;
+    border: none;
+    padding: 0;
+    border-radius: 24px;
+    outline: 0;
+    flex: 0 0 auto;
+    pointer-events: auto;
+    margin-right: 8px;
+    cursor: pointer;
+    position: relative; }
+
+#btn-menu-opener {
+  position: absolute;
+  bottom: 5px;
+  left: 5px;
+  z-index: 10; }
+
+#btn-menu-close {
+  position: absolute;
+  left: 5px;
+  bottom: 5px;
+  z-index: 1;
+  box-shadow: none;
+  background-color: transparent;
+  transition: bottom 0.3s cubic-bezier(0.4, 0, 0.2, 1); }
+
 @font-face {
   font-family: 'Roboto';
   font-style: normal;
   font-weight: 400;
   src: local("Roboto"), local("Roboto-Regular"), url("../fonts/roboto-regular.woff2") format("woff2") url("../fonts/roboto-regular.woff") format("woff"); }
 
-main {
+main#target {
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  width: 100%; }
+  width: calc(100% - 16px); }
