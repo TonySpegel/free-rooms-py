@@ -15,8 +15,12 @@
         <link rel="icon" type="image/png" href="./img/ic_today_black_48dp_2x.png" sizes="96x96"> 
         <script src="./js/card-template.js"></script>
         <script src="./js/lib/clipboard.js"></script>
+        <script defer src="./js/lib/MDL/material.min.js"></script>
+        <script defer src="./js/lib/MDL/getmdl-select.min.js"></script>
         <script src="./js/helper.js"></script>
         <link rel="stylesheet" href="./css/material-components-web.min.css">
+        <link rel="stylesheet" href="./css/MDL/material.min.css">
+        <link rel="stylesheet" href="./css/MDL/getmdl-select.min.css">
         <link rel="stylesheet" href="./css/main.css">
 
         <meta name="description" content="Tool to find unoccupied rooms">
@@ -25,7 +29,110 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
     </head>
     <body>
+        <div class="filter-box">
+            <button 
+                id="mdl-btn--filter"
+                class="
+                    mdl-button 
+                    mdl-js-button 
+                    mdl-button--fab 
+                    mdl-js-ripple-effect 
+                    mdl-button--colored"
+                >
+                <i class="material-icons">search</i>
+            </button>
+        </div>
+
         <main id="target"></main>
+
+        <section id="cg-notification-area" class="notification-area notification-area--expanded">
+            <div class="notification-ripple"></div>
+            <button id="btn-menu-opener" class="mdc-fab material-icons" aria-label="Filter">
+                <span class="mdc-fab__icon --filter"> 
+                    filter_list
+                </span>
+
+                <span class="mdc-fab__icon --search"> 
+                    search
+                </span>
+            </button>
+
+            <button id="btn-menu-close" class="mdc-fab material-icons" aria-label="Search">
+                <span class="mdc-fab__icon"> 
+                    close
+                </span>
+            </button>
+
+            <div class="notification-content">
+                <div class="filter-box">
+                    <div class="mdl-select-wrapper --building">
+                        <div 
+                            class="
+                                mdl-textfield 
+                                mdl-js-textfield 
+                                mdl-textfield--floating-label 
+                                getmdl-select
+                                getmdl-select__fullwidth"
+                        >
+                            <input 
+                                id="building" 
+                                class="mdl-textfield__input" 
+                                name="building" 
+                                value="all" 
+                                type="text" 
+                                readonly 
+                                tabIndex="-1" 
+                                data-val="all"
+                            />
+                            <label class="mdl-textfield__label" for="building">Building</label>
+                            <ul class="mdl-menu mdl-menu--bottom-left mdl-js-menu" for="building">
+                                <li class="mdl-menu__item" data-val="all">all</li>
+                                <li class="mdl-menu__item" data-val="01">01</li>
+                                <li class="mdl-menu__item" data-val="02">02</li>
+                                <li class="mdl-menu__item" data-val="03">03</li>
+                                <li class="mdl-menu__item" data-val="04">04</li>
+                                <li class="mdl-menu__item" data-val="05">05</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="mdl-select-wrapper">
+                        <div 
+                            class="
+                                flr
+                                mdl-textfield 
+                                mdl-js-textfield 
+                                mdl-textfield--floating-label 
+                                getmdl-select
+                                getmdl-select__fullwidth"
+                        >
+                            <input 
+                                id="floor" 
+                                class="mdl-textfield__input" 
+                                name="floor" 
+                                value="all" 
+                                type="text" 
+                                readonly 
+                                tabIndex="-1" 
+                                data-val="all"
+                            />
+                            <label class="mdl-textfield__label" for="floor">Floor</label>
+                            <ul 
+                                id="floor-list-wrapper"
+                                class="mdl-menu mdl-menu--bottom-left mdl-js-menu" for="floor"
+                            >
+                                <li class="mdl-menu__item" data-val="">all</li>
+                                <li class="mdl-menu__item" data-val="-1">-01</li>
+                                <li class="mdl-menu__item" data-val="00">00</li>
+                                <li class="mdl-menu__item" data-val="01">01</li>
+                                <li class="mdl-menu__item" data-val="02">02</li>
+                                <li class="mdl-menu__item" data-val="03">03</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
             
         <script src="./js/lib/material-components-web.min.js"></script>
         <script>window.mdc.autoInit();</script>
