@@ -59,7 +59,9 @@ function create_room_html(
         
         <button 
             title="Add to Calendar"
-            class="mdc-button mdc-card__action material-icons">
+            class="mdc-button mdc-card__action material-icons"
+            disabled
+        >
             date_range
         </button>
         
