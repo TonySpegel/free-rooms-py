@@ -9,8 +9,8 @@
 
 // Test-presets
 // TODO: implement offset_time
-let building_number_input = '03'; 
-let floor_number_input = '00';
+var building_number_input; 
+var floor_number_input;
 let today            = 'Wednesday'; 
 let offset_time      = '00:30';  // At least this much time should be available
 let upper_time_limit = '20:00';
@@ -39,26 +39,33 @@ const BG_COLOR = [
     'color--midnight-bloom'
 ];
 
+Date.prototype.getWeekNumber = function(){
+    var d = new Date(Date.UTC(this.getFullYear(), this.getMonth(), this.getDate()));
+    var dayNum = d.getUTCDay() || 7;
+    d.setUTCDate(d.getUTCDate() + 4 - dayNum);
+    var yearStart = new Date(Date.UTC(d.getUTCFullYear(),0,1));
+    return Math.ceil((((d - yearStart) / 86400000) + 1)/7)
+};
+
 window.onload = () => {
     const MAIN_WRAPPER = document.querySelector('#target');
     let bg_class = BG_COLOR[pickRandomNumber(0, BG_COLOR.length - 1)];
-    document.querySelector('body').classList.add(bg_class);
+    // document.querySelector('body').classList.add(bg_class);
 
-    fetch_calendar_week_json(calendar_week).then(result => {
-        times.forEach(time => {
-            console.log(
-                `%cTEST: ${time}`,
-                'background-color: #109; color: #9e9e9e; font-size: 15pt; padding: 3pt'
-            );
-            
-            MAIN_WRAPPER.insertAdjacentHTML(
-                'beforeend', 
-                `<div class="tsp-card--info">
-                    Test: ${today}, Week: ${calendar_week}, ${time}
-                </div>`
-            );
-            
-            find_available_rooms(result, time);
+    const current_week_number = new Date().getWeekNumber().toString();
+    const current_time        = `${new Date().getHours()}:${new Date().getMinutes()}`;
+
+    document.querySelector('#mdl-btn--filter').addEventListener('click', () => {
+        const selected_building = document.querySelector('#building').dataset.val;
+        const selected_floor    = document.querySelector('#floor').dataset.val;
+        
+        building_number_input   = selected_building === 'all' ? undefined : selected_building;
+        floor_number_input      = selected_floor === 'all' ? undefined : selected_floor;
+        console.log(building_number_input)
+        console.log(floor_number_input)
+        
+        fetch_calendar_week_json(current_week_number).then(result => {
+            find_available_rooms(result, '09:30');
             
             let free_rooms_sorted = free_rooms.sort((x, y) => {
                 return y.available_for - x.available_for;
@@ -76,7 +83,9 @@ window.onload = () => {
                 ...occupied_rooms_sorted
             ];
             
-            console.table(all_rooms_list);
+            if (debug_flag) {
+                console.table(all_rooms_list);
+            }
             
             all_rooms_list.forEach(entry => {
                 all_rooms_html += create_room_html(
@@ -90,19 +99,87 @@ window.onload = () => {
                     entry.room_id
                 );
             });
+
+            MAIN_WRAPPER.innerHTML = '';
             
             MAIN_WRAPPER.insertAdjacentHTML(
                 'beforeend', all_rooms_html
             );
-
+    
             free_rooms     = [];
             occupied_rooms = [];
-            all_rooms_html = '';
+            all_rooms_html = '';  
         });
+    });
+
+    document.querySelector('#building').addEventListener('change', () => {
+        let sel = document.querySelector('#building');
+        select_handler(sel);
+    });
+
+    document.querySelector('#btn-menu-opener').addEventListener('click', () => {
+        let area = document.querySelector('#cg-notification-area');
+        area.classList.toggle('notification-area--expanded');
     });
 
     new Clipboard('.tsp-btn-copy');
 };
+
+function build_floor_select_list(floors = [], target_element) {
+    let select_items = '';
+    let target       = document.querySelector(target_element)
+    
+    floors.forEach(floor => {
+        select_items = select_items + `<li class="mdl-menu__item" data-val="${floor}">${floor}</li>`
+    });
+
+    target.innerHTML = '';
+
+    target.insertAdjacentHTML(
+        'beforeend',
+        select_items
+    );
+
+    getmdlSelect.init('.flr');
+}
+
+function select_handler(selected_item) {
+    let selected_item_value = selected_item.dataset.val;
+    let floor_list_elements = [];
+    const floor_list_html = document.querySelector('.flr');
+    
+    floor_list_html.classList.add('--visible');
+    
+    switch(selected_item_value) {
+        case 'all':
+            floor_list_html.classList.remove('--visible');
+            floor_number_input = undefined;
+            break;
+        case '01':
+            floor_list_elements = [];
+            floor_list_elements = [...['all', '01', '02', '03']];
+
+            build_floor_select_list(floor_list_elements, '#floor-list-wrapper');
+            break;
+        case '02':
+            floor_list_elements = [];
+            floor_list_elements = [...['all', '02', '03']];
+
+            build_floor_select_list(floor_list_elements, '#floor-list-wrapper');
+            break;
+        case '03':
+        case '04':
+        case '05':
+            floor_list_elements = [];
+            floor_list_elements = [...['all', '-1', '00', '01', '02', '03']];
+            
+            build_floor_select_list(floor_list_elements, '#floor-list-wrapper');
+            break;
+    }
+
+
+    return selected_item_value;
+}
 
 
 /**
@@ -114,7 +191,7 @@ window.onload = () => {
  *                              for one specific calendar-week
  */
 async function fetch_calendar_week_json(cw) {
-    let response      = await fetch(`./json/${cw}.json`);
+    let response      = await fetch(`../json/42.json`);
     let response_json = await response.json();
     return response_json;
 }
@@ -170,7 +247,10 @@ function test_building_only(building_number, rooms, time) {
         
         // If building is the same as the users input
         if (building === building_number) {
-            console.log(`Building only: ${building} → ${key}`);
+            if (debug_flag) {
+                console.log(`Building only: ${building} → ${key}`);
+            }
+
             list_free_rooms(rooms, key, time);
         }
     });
@@ -194,10 +274,12 @@ function test_building_and_floor(building_number, floor_number, rooms, time) {
         
         // If both building and floor are the same as the users input
         if (building === building_number && floor === floor_number) {
-            console.log(
-                `Building: ${building} & floor: ${floor} → ${key}
-                `
-            );
+            if (debug_flag) {
+                console.log(
+                    `Building: ${building} & floor: ${floor} → ${key}
+                    `
+                );
+            }
             list_free_rooms(rooms, key, time);
         }
     });
