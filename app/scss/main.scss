@@ -3,6 +3,8 @@
 @import '_body';
 @import '_fr-cards';
 @import '_viewports';
+@import '_mdl-select';
+@import '_menu';
 
 $mdc-theme-accent: #f44336;
 @font-face {
@@ -14,10 +16,10 @@ $mdc-theme-accent: #f44336;
         url('../fonts/roboto-regular.woff') format('woff');
 }
 
-main {
+main#target {
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    width: 100%;
+    width: calc(100% - 16px);
 }
