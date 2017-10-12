@@ -54,15 +54,32 @@ window.onload = () => {
 
     const current_week_number = new Date().getWeekNumber().toString();
     const current_time        = `${new Date().getHours()}:${new Date().getMinutes()}`;
+    const BTN_MENU_OPENER     = document.querySelector('#btn-menu-opener');
+    const BTN_MENU_CLOSE      = document.querySelector('#btn-menu-close');
 
-    document.querySelector('#mdl-btn--filter').addEventListener('click', () => {
+    document.querySelector('#building').addEventListener('change', () => {
+        let sel = document.querySelector('#building');
+        select_handler(sel);
+    });
+
+    BTN_MENU_OPENER.addEventListener('click', (e) => {
+        let btn_element_mode = e.currentTarget.dataset.mode;
+        handle_menu();
+
+        if (btn_element_mode === 'open') {
+            e.currentTarget.dataset.mode = 'filter';
+            console.log(btn_element_mode);
+        
+            return false;
+        }
+
+        e.currentTarget.dataset.mode = 'open';
+
         const selected_building = document.querySelector('#building').dataset.val;
         const selected_floor    = document.querySelector('#floor').dataset.val;
         
         building_number_input   = selected_building === 'all' ? undefined : selected_building;
         floor_number_input      = selected_floor === 'all' ? undefined : selected_floor;
-        console.log(building_number_input)
-        console.log(floor_number_input)
         
         fetch_calendar_week_json(current_week_number).then(result => {
             find_available_rooms(result, '09:30');
@@ -110,20 +127,21 @@ window.onload = () => {
             occupied_rooms = [];
             all_rooms_html = '';  
         });
+
     });
 
-    document.querySelector('#building').addEventListener('change', () => {
-        let sel = document.querySelector('#building');
-        select_handler(sel);
-    });
-
-    document.querySelector('#btn-menu-opener').addEventListener('click', () => {
-        let area = document.querySelector('#cg-notification-area');
-        area.classList.toggle('notification-area--expanded');
+    BTN_MENU_CLOSE.addEventListener('click', (e) => {
+        handle_menu();
+        BTN_MENU_OPENER.dataset.mode = 'open';
     });
 
     new Clipboard('.tsp-btn-copy');
 };
+
+function handle_menu() {
+    let area = document.querySelector('#cg-notification-area');
+    area.classList.toggle('notification-area--expanded');
+}
 
 function build_floor_select_list(floors = [], target_element) {
     let select_items = '';
@@ -140,7 +158,9 @@ function build_floor_select_list(floors = [], target_element) {
         select_items
     );
 
+    document.querySelector('#floor').dataset.val = 'all';
     getmdlSelect.init('.flr');
+    document.querySelector('#floor-list-wrapper li').click();
 }
 
 function select_handler(selected_item) {
@@ -176,7 +196,6 @@ function select_handler(selected_item) {
             build_floor_select_list(floor_list_elements, '#floor-list-wrapper');
             break;
     }
-
 
     return selected_item_value;
 }
