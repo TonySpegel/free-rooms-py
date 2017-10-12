@@ -29,25 +29,20 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
     </head>
     <body>
-        <div class="filter-box">
-            <button 
-                id="mdl-btn--filter"
-                class="
-                    mdl-button 
-                    mdl-js-button 
-                    mdl-button--fab 
-                    mdl-js-ripple-effect 
-                    mdl-button--colored"
-                >
-                <i class="material-icons">search</i>
-            </button>
-        </div>
-
         <main id="target"></main>
 
-        <section id="cg-notification-area" class="notification-area notification-area--expanded">
+        <section 
+            id="cg-notification-area" 
+            class="notification-area"
+        >
             <div class="notification-ripple"></div>
-            <button id="btn-menu-opener" class="mdc-fab material-icons" aria-label="Filter">
+            
+            <button 
+                id="btn-menu-opener" 
+                class="mdc-fab material-icons" 
+                aria-label="Filter"
+                data-mode="open"
+            >
                 <span class="mdc-fab__icon --filter"> 
                     filter_list
                 </span>
@@ -62,6 +57,16 @@
                     close
                 </span>
             </button>
+
+            <!--
+            <label class="mdl-switch mdl-js-switch mdl-js-ripple-effect" for="switch-1">
+                <input type="checkbox" id="switch-1" class="mdl-switch__input" checked>
+                <span class="mdl-switch__label"></span>
+            </label>
+            -->
+
+            <!-- Numeric Textfield with Floating Label -->
+
 
             <div class="notification-content">
                 <div class="filter-box">
@@ -130,6 +135,14 @@
                             </ul>
                         </div>
                     </div>
+                    <!--
+                    <form action="#">
+                        <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
+                            <input class="mdl-textfield__input" type="text" pattern="-?[0-9]*(\.[0-9]+)?" id="sample4">
+                            <label class="mdl-textfield__label" for="sample4">Week...</label>
+                            <span class="mdl-textfield__error">Number between 1 & 51</span>
+                        </div>
+                    </form>-->
                 </div>
             </div>
         </section>
