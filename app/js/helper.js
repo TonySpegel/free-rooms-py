@@ -80,7 +80,8 @@ window.onload = () => {
         
         building_number_input   = selected_building === 'all' ? undefined : selected_building;
         floor_number_input      = selected_floor === 'all' ? undefined : selected_floor;
-        
+        console.log(building_number_input);
+        console.log(floor_number_input);
         fetch_calendar_week_json(current_week_number).then(result => {
             find_available_rooms(result, '09:30');
             
@@ -174,6 +175,10 @@ function select_handler(selected_item) {
         case 'all':
             floor_list_html.classList.remove('--visible');
             floor_number_input = undefined;
+            floor_list_elements = [];
+            floor_list_elements = [...['all']];
+
+            build_floor_select_list(floor_list_elements, '#floor-list-wrapper');
             break;
         case '01':
             floor_list_elements = [];
@@ -210,7 +215,7 @@ function select_handler(selected_item) {
  *                              for one specific calendar-week
  */
 async function fetch_calendar_week_json(cw) {
-    let deploy = true;
+    let deploy = false;
     let path = deploy ? 'app/' : '';
     let response      = await fetch(`../${path}json/42.json`);
     let response_json = await response.json();
