@@ -215,8 +215,8 @@ function select_handler(selected_item) {
  *                              for one specific calendar-week
  */
 async function fetch_calendar_week_json(cw) {
-    let deploy = true;
-    let path = deploy ? 'app/' : '';
+    let path   = document.URL.includes('github') ? 'app/' : '';
+
     let response      = await fetch(`../${path}json/42.json`);
     let response_json = await response.json();
     return response_json;
