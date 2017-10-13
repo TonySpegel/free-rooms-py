@@ -25,7 +25,7 @@
 
         <meta name="description" content="Tool to find unoccupied rooms">
         <meta name="author" content="Tony Spegel">
-        <meta name="theme-color" content="#607d8b">
+        <meta name="theme-color" content="#313131">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
     </head>
     <body>
@@ -66,7 +66,6 @@
             -->
 
             <!-- Numeric Textfield with Floating Label -->
-
 
             <div class="notification-content">
                 <div class="filter-box">
@@ -136,7 +135,7 @@
                         </div>
                     </div>
                     
-                    <div 
+                    <div
                         style="float: left; margin-right: 10px;"
                         id=""
                         class="
@@ -180,6 +179,46 @@
                             </ul>
                         </div>
                     </div>
+
+                    <div
+                        style="float: left; margin-right: 10px;"
+                        id=""
+                        class="
+                            mdl-textfield 
+                            mdl-textfield--number
+                            mdl-js-textfield 
+                            mdl-textfield--floating-label
+                        "
+                    >
+                        <input class="mdl-textfield__input" type="text" id="sample4">
+                        <label class="mdl-textfield__label" for="sample4">Time</label>
+                        <span class="mdl-textfield__error">hh:mm</span>
+                    </div>
+
+                    <div
+                        style="float: left;"
+                        id=""
+                        class="
+                            mdl-textfield 
+                            mdl-textfield--number
+                            mdl-js-textfield 
+                            mdl-textfield--floating-label
+                        "
+                    >
+                        <input class="mdl-textfield__input" type="text" pattern="-?[0-9]*(\.[0-9]+)?" id="sample4">
+                        <label class="mdl-textfield__label" for="sample4">Min Minutes</label>
+                        <span class="mdl-textfield__error">Numbers only</span>
+                    </div>
+
+                    <label class="mdl-switch mdl-js-switch mdl-js-ripple-effect" for="switch-current-time">
+                        <input type="checkbox" id="switch-current-time" class="mdl-switch__input" checked>
+                        <span class="mdl-switch__label">Use current time</span>
+                    </label>
+
+                    <label class="mdl-switch mdl-js-switch mdl-js-ripple-effect" for="switch-instant-search">
+                        <input type="checkbox" id="switch-instant-search" class="mdl-switch__input" checked>
+                        <span class="mdl-switch__label">Instant Search</span>
+                    </label>
                 </div>
             </div>
         </section>
