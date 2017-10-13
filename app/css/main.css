@@ -142,7 +142,7 @@ body {
   display: flex;
   border-radius: 2px;
   margin-left: 16px;
-  height: 325px;
+  height: 330px;
   width: calc(100% - 32px);
   max-width: 400px;
   position: fixed;
@@ -160,11 +160,10 @@ body {
     opacity: 0;
     transition: opacity 0.5s cubic-bezier(0.4, 0, 0.2, 1); }
   .notification-area .mdl-switch {
-    position: absolute;
-    bottom: 5px;
-    right: 5px;
     opacity: 0;
     transition: opacity 0.5s cubic-bezier(0.4, 0, 0.2, 1); }
+    .notification-area .mdl-switch:last-child {
+      margin-top: 5px; }
     .notification-area .mdl-switch.is-checked .mdl-switch__thumb {
       background: #ff4081; }
     .notification-area .mdl-switch.is-checked .mdl-switch__track {
