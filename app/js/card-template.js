@@ -54,24 +54,6 @@ function create_room_html(
         <span>Floor: ${floor}</span>
         <span>Room: ${room_nr}</span>
     </section>
-    <section class="mdc-card__actions">
-        ${external_link}
-        
-        <button 
-            title="Add to Calendar"
-            class="mdc-button mdc-card__action material-icons"
-            disabled
-        >
-            date_range
-        </button>
-        
-        <button 
-            title="Copy Lecture"
-            data-clipboard-text="${room}: ${display_text_lowercase}"
-            class="mdc-button mdc-card__action material-icons tsp-btn-copy">
-            content_copy
-        </button>
-    </section>
 </div>`;
 return template;
 }
