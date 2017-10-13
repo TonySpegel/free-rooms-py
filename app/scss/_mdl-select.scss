@@ -9,6 +9,12 @@
     }
 }
 
+.filter-box {
+    width: 200px;
+}
+.mdl-menu {
+    min-width: inherit;
+}
 .mdl-select-wrapper {
     float: left;
     width: 95px;
@@ -30,4 +36,6 @@
 .mdl-menu__item {
     height: 36px;
     line-height: 36px;
+    padding: 0 8px;
+    text-align: center;
 }
