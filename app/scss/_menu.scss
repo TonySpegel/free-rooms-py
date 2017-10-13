@@ -5,7 +5,7 @@
     display: flex;
     border-radius: 2px;
     margin-left: 16px;
-    height: 290px;
+    height: 325px;
     width: calc(100% - 32px);
     max-width: 400px;
 
@@ -50,19 +50,42 @@
         }
     }
 
+    .mdl-textfield {
+        width: 95px;
+    }
+
+    input[type="text"] {
+        -webkit-appearance: none;
+        -webkit-border-radius: 0; 
+                border-radius: 0;
+    }
+
     .mdl-textfield__input {
         color: white;
+        border-bottom: 1px solid $highlight-color;
 
+        &.is-focused {
+            .mdl-textfield__label {
+                color: $highlight-color;
+            }
+        }
     }
     
     .mdl-textfield__label {
         &:after {
             background-color: $highlight-color;
         }
+
+        color: white;
     }
 
-    .mdl-textfield--floating-label.is-dirty .mdl-textfield__label {
-        color: $highlight-color;
+    .mdl-textfield--floating-label {
+        &.is-dirty, 
+        &.is-focused {
+            .mdl-textfield__label {
+                color: $highlight-color;
+            }
+        } 
     }
 
     color: $highlight-color;
