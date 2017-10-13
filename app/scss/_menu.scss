@@ -5,7 +5,7 @@
     display: flex;
     border-radius: 2px;
     margin-left: 16px;
-    height: 325px;
+    height: 330px;
     width: calc(100% - 32px);
     max-width: 400px;
 
@@ -32,9 +32,9 @@
     }
 
     .mdl-switch  {
-        position: absolute;
-        bottom: 5px;
-        right: 5px;
+        &:last-child {
+            margin-top: 5px;
+        }
         opacity: 0;
 
         @include standard-curve(opacity, 0.5s);
@@ -89,6 +89,7 @@
     }
 
     color: $highlight-color;
+
     &.notification-area--expanded {
         pointer-events: auto;
 
