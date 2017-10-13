@@ -136,13 +136,50 @@
                         </div>
                     </div>
                     
-                    <form action="#">
-                        <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
-                            <input class="mdl-textfield__input" type="text" pattern="-?[0-9]*(\.[0-9]+)?" id="sample4">
-                            <label class="mdl-textfield__label" for="sample4">Week...</label>
-                            <span class="mdl-textfield__error">Number between 1 & 51</span>
+                    <div 
+                        style="float: left; margin-right: 10px;"
+                        id=""
+                        class="
+                            mdl-textfield 
+                            mdl-textfield--number
+                            mdl-js-textfield 
+                            mdl-textfield--floating-label
+                        "
+                    >
+                        <input class="mdl-textfield__input" type="text" pattern="-?[0-9]*(\.[0-9]+)?" id="sample4">
+                        <label class="mdl-textfield__label" for="sample4">Week (1-51)</label>
+                        <span class="mdl-textfield__error">Week between 1 & 51</span>
+                    </div>
+
+                    <div class="mdl-select-wrapper">
+                        <div 
+                            class="
+                                mdl-textfield 
+                                mdl-js-textfield 
+                                mdl-textfield--floating-label 
+                                getmdl-select
+                                getmdl-select__fullwidth"
+                        >
+                            <input 
+                                id="day" 
+                                class="mdl-textfield__input" 
+                                name="day" 
+                                value="Monday" 
+                                type="text" 
+                                readonly 
+                                tabIndex="-1" 
+                                data-val="all"
+                            />
+                            <label class="mdl-textfield__label" for="day">Day</label>
+                            <ul class="mdl-menu mdl-menu--bottom-left mdl-js-menu" for="day">
+                                <li class="mdl-menu__item" data-val="Monday">Monday</li>
+                                <li class="mdl-menu__item" data-val="Tuesday">Tuesday</li>
+                                <li class="mdl-menu__item" data-val="Wednesday">Wednesday</li>
+                                <li class="mdl-menu__item" data-val="Thursday">Thursday</li>
+                                <li class="mdl-menu__item" data-val="Friday">Friday</li>
+                            </ul>
                         </div>
-                    </form>
+                    </div>
                 </div>
             </div>
         </section>
