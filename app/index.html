@@ -33,7 +33,7 @@
 
         <section 
             id="cg-notification-area" 
-            class="notification-area"
+            class="notification-area --current-time"
         >
             <div class="notification-ripple"></div>
             
@@ -67,7 +67,7 @@
 
             <!-- Numeric Textfield with Floating Label -->
 
-            <div class="notification-content">
+            <div class="notification-content --current-time">
                 <div class="filter-box">
                     <div class="mdl-select-wrapper --building">
                         <div 
@@ -135,66 +135,69 @@
                         </div>
                     </div>
                     
-                    <div
-                        style="float: left; margin-right: 10px;"
-                        id=""
-                        class="
-                            mdl-textfield 
-                            mdl-textfield--number
-                            mdl-js-textfield 
-                            mdl-textfield--floating-label
-                        "
-                    >
-                        <input class="mdl-textfield__input" type="text" pattern="-?[0-9]*(\.[0-9]+)?" id="sample4">
-                        <label class="mdl-textfield__label" for="sample4">Week (1-51)</label>
-                        <span class="mdl-textfield__error">Week between 1 & 51</span>
-                    </div>
-
-                    <div class="mdl-select-wrapper">
-                        <div 
+                    <div class="input-wrapper">
+                        <div
+                            style="float: left; margin-right: 10px;"
+                            id="input-week"
                             class="
                                 mdl-textfield 
+                                mdl-textfield--number
                                 mdl-js-textfield 
-                                mdl-textfield--floating-label 
-                                getmdl-select
-                                getmdl-select__fullwidth"
+                                mdl-textfield--floating-label
+                            "
                         >
-                            <input 
-                                id="day" 
-                                class="mdl-textfield__input" 
-                                name="day" 
-                                value="Monday" 
-                                type="text" 
-                                readonly 
-                                tabIndex="-1" 
-                                data-val="all"
-                            />
-                            <label class="mdl-textfield__label" for="day">Day</label>
-                            <ul class="mdl-menu mdl-menu--bottom-left mdl-js-menu" for="day">
-                                <li class="mdl-menu__item" data-val="Monday">Monday</li>
-                                <li class="mdl-menu__item" data-val="Tuesday">Tuesday</li>
-                                <li class="mdl-menu__item" data-val="Wednesday">Wednesday</li>
-                                <li class="mdl-menu__item" data-val="Thursday">Thursday</li>
-                                <li class="mdl-menu__item" data-val="Friday">Friday</li>
-                            </ul>
+                            <input class="mdl-textfield__input" type="text" pattern="-?[0-9]*(\.[0-9]+)?" id="sample4">
+                            <label class="mdl-textfield__label" for="sample4">Week (1-51)</label>
+                            <span class="mdl-textfield__error">Week between 1 & 51</span>
+                        </div>
+
+                        <div class="mdl-select-wrapper">
+                            <div 
+                                class="
+                                    mdl-textfield 
+                                    mdl-js-textfield 
+                                    mdl-textfield--floating-label 
+                                    getmdl-select
+                                    getmdl-select__fullwidth"
+                            >
+                                <input 
+                                    id="day" 
+                                    class="mdl-textfield__input" 
+                                    name="day" 
+                                    value="Monday" 
+                                    type="text" 
+                                    readonly 
+                                    tabIndex="-1" 
+                                    data-val="all"
+                                />
+                                <label class="mdl-textfield__label" for="day">Day</label>
+                                <ul class="mdl-menu mdl-menu--bottom-left mdl-js-menu" for="day">
+                                    <li class="mdl-menu__item" data-val="Monday">Monday</li>
+                                    <li class="mdl-menu__item" data-val="Tuesday">Tuesday</li>
+                                    <li class="mdl-menu__item" data-val="Wednesday">Wednesday</li>
+                                    <li class="mdl-menu__item" data-val="Thursday">Thursday</li>
+                                    <li class="mdl-menu__item" data-val="Friday">Friday</li>
+                                </ul>
+                            </div>
+                        </div>
+                    
+                        <div
+                            style="float: left; margin-right: 10px;"
+                            id="current-time-input"
+                            class="
+                                mdl-textfield 
+                                mdl-textfield--number
+                                mdl-js-textfield 
+                                mdl-textfield--floating-label
+                            "
+                        >
+                            <input class="mdl-textfield__input" type="text" id="sample4">
+                            <label class="mdl-textfield__label" for="sample4">Time</label>
+                            <span class="mdl-textfield__error">hh:mm</span>
                         </div>
                     </div>
 
-                    <div
-                        style="float: left; margin-right: 10px;"
-                        id=""
-                        class="
-                            mdl-textfield 
-                            mdl-textfield--number
-                            mdl-js-textfield 
-                            mdl-textfield--floating-label
-                        "
-                    >
-                        <input class="mdl-textfield__input" type="text" id="sample4">
-                        <label class="mdl-textfield__label" for="sample4">Time</label>
-                        <span class="mdl-textfield__error">hh:mm</span>
-                    </div>
-
+                    <!--
                     <div
                         style="float: left;"
                         id=""
@@ -209,16 +212,20 @@
                         <label class="mdl-textfield__label" for="sample4">Min Minutes</label>
                         <span class="mdl-textfield__error">Numbers only</span>
                     </div>
+                    -->
 
-                    <label class="mdl-switch mdl-js-switch mdl-js-ripple-effect" for="switch-current-time">
-                        <input type="checkbox" id="switch-current-time" class="mdl-switch__input" checked>
-                        <span class="mdl-switch__label">Use current time</span>
-                    </label>
+                    <div style="position: absolute; bottom: 7px;">
+                        <label class="mdl-switch mdl-js-switch mdl-js-ripple-effect" for="switch-current-time">
+                            <input type="checkbox" id="switch-current-time" class="mdl-switch__input" checked>
+                            <span class="mdl-switch__label">Use current time</span>
+                        </label>
+    
+                        <label class="mdl-switch mdl-js-switch mdl-js-ripple-effect" for="switch-instant-search">
+                            <input type="checkbox" id="switch-instant-search" class="mdl-switch__input" checked>
+                            <span class="mdl-switch__label">Instant Search</span>
+                        </label>
 
-                    <label class="mdl-switch mdl-js-switch mdl-js-ripple-effect" for="switch-instant-search">
-                        <input type="checkbox" id="switch-instant-search" class="mdl-switch__input" checked>
-                        <span class="mdl-switch__label">Instant Search</span>
-                    </label>
+                    </div>
                 </div>
             </div>
         </section>
