@@ -159,7 +159,7 @@ def save_as_json(schedule_dictionary):
 
     for room in schedule_dictionary:
         with open(file_template.format(working_directory, room), 'w') as fout:
-            json.dump(schedule_dictionary[room], fout, ensure_ascii=False)
+            json.dump(schedule_dictionary[room], fout, ensure_ascii=False, indent=4)
 
 
 def init():
