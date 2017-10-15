@@ -11,7 +11,7 @@
 // TODO: implement offset_time
 var building_number_input; 
 var floor_number_input;
-let today            = 'Wednesday'; 
+let today            = 'Monday'; 
 let offset_time      = '00:30';  // At least this much time should be available
 let upper_time_limit = '20:00';
 let calendar_week    = '43';
@@ -48,12 +48,9 @@ Date.prototype.getWeekNumber = function(){
 };
 
 window.onload = () => {
-    const MAIN_WRAPPER = document.querySelector('#target');
     let bg_class = BG_COLOR[pickRandomNumber(0, BG_COLOR.length - 1)];
     // document.querySelector('body').classList.add(bg_class);
 
-    const current_week_number = new Date().getWeekNumber().toString();
-    const current_time        = `${new Date().getHours()}:${new Date().getMinutes()}`;
     const BTN_MENU_OPENER     = document.querySelector('#btn-menu-opener');
     const BTN_MENU_CLOSE      = document.querySelector('#btn-menu-close');
 
@@ -61,6 +58,28 @@ window.onload = () => {
         let sel = document.querySelector('#building');
         select_handler(sel);
     });
+
+    document.querySelector('#switch-current-time')
+        .addEventListener('click', (e) => {
+            let input_week         = document.querySelector('#input-week .mdl-textfield__input');
+            let current_time_input = document.querySelector('#current-time-input .mdl-textfield__input');
+            let day                = document.querySelector('#day');
+            let notification_box   = document.querySelector('#cg-notification-area');
+            let checked            = e.target.checked;
+
+            notification_box.classList.toggle('--current-time');
+
+            if (checked) {
+                input_week.disabled = true;
+                current_time_input.disabled = true;
+                day.disabled = true;
+            }
+            else {
+                input_week.disabled = false;
+                current_time_input.disabled = false;
+                day.disabled = false;
+            }
+        });
 
     BTN_MENU_OPENER.addEventListener('click', (e) => {
         let btn_element_mode = e.currentTarget.dataset.mode;
@@ -75,60 +94,7 @@ window.onload = () => {
 
         e.currentTarget.dataset.mode = 'open';
 
-        const selected_building = document.querySelector('#building').dataset.val;
-        const selected_floor    = document.querySelector('#floor').dataset.val;
-        
-        building_number_input   = selected_building === 'all' ? undefined : selected_building;
-        floor_number_input      = selected_floor === 'all' ? undefined : selected_floor;
-        console.log(building_number_input);
-        console.log(floor_number_input);
-        fetch_calendar_week_json(current_week_number).then(result => {
-            find_available_rooms(result, '09:30');
-            
-            let free_rooms_sorted = free_rooms.sort((x, y) => {
-                return y.available_for - x.available_for;
-            });
-            
-            let occupied_rooms_sorted = sort_by_multiple_keys(
-                occupied_rooms,
-                'available_in',
-                'available_for'
-            );
-    
-            // Combine free and occupied rooms
-            all_rooms_list = [
-                ...free_rooms_sorted,
-                ...occupied_rooms_sorted
-            ];
-            
-            if (debug_flag) {
-                console.table(all_rooms_list);
-            }
-            
-            all_rooms_list.forEach(entry => {
-                all_rooms_html += create_room_html(
-                    entry.free,
-                    entry.room,
-                    entry.building,
-                    entry.floor,
-                    entry.room_nr,
-                    entry.summary,
-                    entry.display_text,
-                    entry.room_id
-                );
-            });
-
-            MAIN_WRAPPER.innerHTML = '';
-            
-            MAIN_WRAPPER.insertAdjacentHTML(
-                'beforeend', all_rooms_html
-            );
-    
-            free_rooms     = [];
-            occupied_rooms = [];
-            all_rooms_html = '';  
-        });
-
+        handle_search();
     });
 
     BTN_MENU_CLOSE.addEventListener('click', (e) => {
@@ -142,6 +108,78 @@ window.onload = () => {
 function handle_menu() {
     let area = document.querySelector('#cg-notification-area');
     area.classList.toggle('notification-area--expanded');
+}
+
+function handle_search() {
+    const selected_building   = document.querySelector('#building').dataset.val;
+    const selected_floor      = document.querySelector('#floor').dataset.val;
+    const MAIN_WRAPPER        = document.querySelector('#target');
+    const current_week_number = new Date().getWeekNumber().toString();
+    let current_time
+
+    const CURRENT_TIME_SWITCH = document.querySelector('#switch-current-time');
+    const CURRENT_TIME_INPUT  = document.querySelector('#current-time-input');
+    
+    if (CURRENT_TIME_SWITCH.checked) {
+        mins = ('0' + new Date().getMinutes()).slice(-2);
+        current_time = `${new Date().getHours()}:${mins}`;
+    }
+    else {
+        current_time = CURRENT_TIME_INPUT.MaterialTextfield.element_.MaterialTextfield.input_.value;
+    }
+
+    building_number_input     = selected_building === 'all' ? undefined : selected_building;
+    floor_number_input        = selected_floor === 'all' ? undefined : selected_floor;
+    
+    console.log(building_number_input);
+    console.log(floor_number_input);
+    fetch_calendar_week_json(current_week_number).then(result => {
+        console.log(current_time, 'hihi');
+        find_available_rooms(result, current_time);
+        
+        let free_rooms_sorted = free_rooms.sort((x, y) => {
+            return y.available_for - x.available_for;
+        });
+        
+        let occupied_rooms_sorted = sort_by_multiple_keys(
+            occupied_rooms,
+            'available_in',
+            'available_for'
+        );
+
+        // Combine free and occupied rooms
+        all_rooms_list = [
+            ...free_rooms_sorted,
+            ...occupied_rooms_sorted
+        ];
+        
+        if (debug_flag) {
+            console.table(all_rooms_list);
+        }
+        
+        all_rooms_list.forEach(entry => {
+            all_rooms_html += create_room_html(
+                entry.free,
+                entry.room,
+                entry.building,
+                entry.floor,
+                entry.room_nr,
+                entry.summary,
+                entry.display_text,
+                entry.room_id
+            );
+        });
+
+        MAIN_WRAPPER.innerHTML = '';
+        
+        MAIN_WRAPPER.insertAdjacentHTML(
+            'beforeend', all_rooms_html
+        );
+
+        free_rooms     = [];
+        occupied_rooms = [];
+        all_rooms_html = '';  
+    });
 }
 
 function build_floor_select_list(floors = [], target_element) {
