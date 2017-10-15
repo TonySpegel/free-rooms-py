@@ -22,6 +22,16 @@
         }
     }
 
+    &.--current-time {
+        .mdl-textfield__label {
+            color: $disabled-color;
+        }
+
+        .mdl-textfield__input {
+            border-bottom-color: $disabled-color;
+        }
+    }
+
     #btn-menu-opener .mdc-fab__icon.--search {
         display: none;
     }
