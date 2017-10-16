@@ -135,6 +135,7 @@
                         </div>
                     </div>
                     
+                    <!-- Week -->
                     <div class="input-wrapper">
                         <div
                             style="float: left; margin-right: 10px;"
@@ -146,13 +147,20 @@
                                 mdl-textfield--floating-label
                             "
                         >
-                            <input class="mdl-textfield__input" type="text" pattern="-?[0-9]*(\.[0-9]+)?" id="sample4">
+                            <input 
+                                id="sample4"
+                                class="mdl-textfield__input" 
+                                type="text" 
+                                pattern="-?[0-9]*(\.[0-9]+)?"
+                                disabled
+                            >
                             <label class="mdl-textfield__label" for="sample4">Week (1-51)</label>
                             <span class="mdl-textfield__error">Week between 1 & 51</span>
                         </div>
 
                         <div class="mdl-select-wrapper">
                             <div 
+                                id="select-day-wrapper"
                                 class="
                                     mdl-textfield 
                                     mdl-js-textfield 
@@ -161,7 +169,7 @@
                                     getmdl-select__fullwidth"
                             >
                                 <input 
-                                    id="day" 
+                                    id="select-day" 
                                     class="mdl-textfield__input" 
                                     name="day" 
                                     value="Monday" 
@@ -169,9 +177,10 @@
                                     readonly 
                                     tabIndex="-1" 
                                     data-val="all"
+                                    disabled
                                 />
                                 <label class="mdl-textfield__label" for="day">Day</label>
-                                <ul class="mdl-menu mdl-menu--bottom-left mdl-js-menu" for="day">
+                                <ul class="mdl-menu mdl-menu--bottom-left mdl-js-menu" for="select-day">
                                     <li class="mdl-menu__item" data-val="Monday">Monday</li>
                                     <li class="mdl-menu__item" data-val="Tuesday">Tuesday</li>
                                     <li class="mdl-menu__item" data-val="Wednesday">Wednesday</li>
@@ -197,24 +206,7 @@
                         </div>
                     </div>
 
-                    <!--
-                    <div
-                        style="float: left;"
-                        id=""
-                        class="
-                            mdl-textfield 
-                            mdl-textfield--number
-                            mdl-js-textfield 
-                            mdl-textfield--floating-label
-                        "
-                    >
-                        <input class="mdl-textfield__input" type="text" pattern="-?[0-9]*(\.[0-9]+)?" id="sample4">
-                        <label class="mdl-textfield__label" for="sample4">Min Minutes</label>
-                        <span class="mdl-textfield__error">Numbers only</span>
-                    </div>
-                    -->
-
-                    <div style="position: absolute; bottom: 7px;">
+                    <div class="switch-wrapper">
                         <label class="mdl-switch mdl-js-switch mdl-js-ripple-effect" for="switch-current-time">
                             <input type="checkbox" id="switch-current-time" class="mdl-switch__input" checked>
                             <span class="mdl-switch__label">Use current time</span>
@@ -224,7 +216,6 @@
                             <input type="checkbox" id="switch-instant-search" class="mdl-switch__input" checked>
                             <span class="mdl-switch__label">Instant Search</span>
                         </label>
-
                     </div>
                 </div>
             </div>
