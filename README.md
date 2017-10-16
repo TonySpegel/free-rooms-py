@@ -1,9 +1,6 @@
 # Purpose of this project
 
-This script is used to download and handle ics-calendar files provided by
-the Ernst-Abbe-Hochschule Jena to process them into JSON files.
-These JSON-files are the backbone of a Web-App to show users available
-rooms at this university
+This project acts as a frontend to search for available rooms at the University of applied Sciences Jena (EAH Jena). Until recently there was no possibility of finding available rooms that don't have classes being held. Even though there's now a way (there wasn't one when I've started this project), this project is to be seen as an improved solution that offers more information in less clicks and more possible filtering options of the results while being more aesthetically pleasing.
 
 # Why?
 
