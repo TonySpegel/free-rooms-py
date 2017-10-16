@@ -28,4 +28,8 @@ body {
     &.color--midnight-bloom {
         background-image: linear-gradient(-20deg, #2b5876 0%, #4e4376 100%);
     }
+
+    &.color--vicious-stance {
+        background-image: linear-gradient(60deg, #29323c 0%, #485563 100%);
+    }
 }
