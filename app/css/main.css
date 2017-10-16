@@ -38,6 +38,8 @@ body {
     background-image: linear-gradient(to top, #09203f 0%, #537895 100%); }
   body.color--midnight-bloom {
     background-image: linear-gradient(-20deg, #2b5876 0%, #4e4376 100%); }
+  body.color--vicious-stance {
+    background-image: linear-gradient(60deg, #29323c 0%, #485563 100%); }
 
 .mdc-card {
   margin-bottom: 20px;
@@ -139,15 +141,15 @@ body {
   text-align: center; }
 
 .notification-area {
-  display: flex;
   border-radius: 2px;
-  margin-left: 16px;
-  height: 330px;
-  width: calc(100% - 32px);
-  max-width: 400px;
-  position: fixed;
   bottom: 16px;
+  display: flex;
+  height: 330px;
+  margin-left: 16px;
+  max-width: 400px;
   overflow: hidden;
+  position: fixed;
+  width: calc(100% - 32px);
   color: #ff4081; }
   .notification-area .filter-box {
     margin-left: 70px;
@@ -158,6 +160,8 @@ body {
     color: #676767; }
   .notification-area.--current-time .mdl-textfield__input {
     border-bottom-color: #676767; }
+  .notification-area.--current-time .mdl-textfield.is-disabled.is-disabled .mdl-textfield__label {
+    color: #676767; }
   .notification-area #btn-menu-opener .mdc-fab__icon.--search {
     display: none; }
   .notification-area .mdl-select-wrapper {
@@ -167,7 +171,7 @@ body {
     opacity: 0;
     transition: opacity 0.5s cubic-bezier(0.4, 0, 0.2, 1); }
     .notification-area .mdl-switch:last-child {
-      margin-top: 5px; }
+      margin-top: 8px; }
     .notification-area .mdl-switch.is-checked .mdl-switch__thumb {
       background: #ff4081; }
     .notification-area .mdl-switch.is-checked .mdl-switch__track {
@@ -181,6 +185,9 @@ body {
   .notification-area .mdl-textfield__input {
     color: white;
     border-bottom: 1px solid #ff4081; }
+    .notification-area .mdl-textfield__input:disabled {
+      cursor: inherit;
+      color: #676767; }
     .notification-area .mdl-textfield__input.is-focused .mdl-textfield__label {
       color: #ff4081; }
   .notification-area .mdl-textfield__label {
@@ -242,19 +249,25 @@ body {
     position: relative; }
 
 #btn-menu-opener {
-  position: absolute;
   bottom: 5px;
   left: 5px;
+  position: absolute;
   z-index: 10; }
 
 #btn-menu-close {
-  position: absolute;
-  left: 5px;
-  bottom: 5px;
-  z-index: 1;
-  box-shadow: none;
+  transition: bottom 0.3s cubic-bezier(0.4, 0, 0.2, 1);
   background-color: transparent;
-  transition: bottom 0.3s cubic-bezier(0.4, 0, 0.2, 1); }
+  bottom: 5px;
+  box-shadow: none;
+  left: 5px;
+  position: absolute;
+  z-index: 1; }
+
+.switch-wrapper {
+  bottom: 7px;
+  position: absolute; }
+  .switch-wrapper .mdl-switch__ripple-container .mdl-ripple {
+    background: #ff4081; }
 
 @font-face {
   font-family: 'Roboto';
