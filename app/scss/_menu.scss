@@ -2,16 +2,15 @@
 @import '_variables';
 
 .notification-area {
-    display: flex;
     border-radius: 2px;
-    margin-left: 16px;
-    height: 330px;
-    width: calc(100% - 32px);
-    max-width: 400px;
-
-    position: fixed;
     bottom: 16px;
+    display: flex;
+    height: 330px;
+    margin-left: 16px;
+    max-width: 400px;
     overflow: hidden;
+    position: fixed;
+    width: calc(100% - 32px);
 
     .filter-box {
         margin-left: 70px;
@@ -30,6 +29,10 @@
         .mdl-textfield__input {
             border-bottom-color: $disabled-color;
         }
+
+        .mdl-textfield.is-disabled.is-disabled .mdl-textfield__label {
+            color: $disabled-color;
+        }
     }
 
     #btn-menu-opener .mdc-fab__icon.--search {
@@ -43,7 +46,7 @@
 
     .mdl-switch  {
         &:last-child {
-            margin-top: 5px;
+            margin-top: 8px;
         }
         opacity: 0;
 
@@ -71,6 +74,11 @@
     }
 
     .mdl-textfield__input {
+        &:disabled {
+            cursor: inherit;
+            color: $disabled-color;
+        }
+
         color: white;
         border-bottom: 1px solid $highlight-color;
 
@@ -177,18 +185,27 @@
 }
 
 #btn-menu-opener {
-    position: absolute;
     bottom: 5px;
     left: 5px;
+    position: absolute;
     z-index: 10;
 }
 
 #btn-menu-close {
-    position: absolute;
-    left: 5px;
-    bottom: 5px;
-    z-index: 1;
-    box-shadow: none;
-    background-color: rgba(0, 0, 0, 0);
     @include standard-curve(bottom, 0.3s);
+    background-color: rgba(0, 0, 0, 0);
+    bottom: 5px;
+    box-shadow: none;
+    left: 5px;
+    position: absolute;
+    z-index: 1;
+}
+
+.switch-wrapper {
+    bottom: 7px;
+    position: absolute;
+
+    .mdl-switch__ripple-container .mdl-ripple {
+        background: $highlight-color;
+    }
 }
