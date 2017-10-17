@@ -214,6 +214,11 @@ body {
       display: block; }
     .notification-area.notification-area--expanded #btn-menu-opener .mdc-fab__icon.--filter {
       display: none; }
+    .notification-area.notification-area--expanded #btn-menu-opener:disabled {
+      background-color: #676767; }
+      .notification-area.notification-area--expanded #btn-menu-opener:disabled:hover, .notification-area.notification-area--expanded #btn-menu-opener:disabled:focus {
+        color: #676767;
+        background-color: #676767; }
     .notification-area.notification-area--expanded #btn-menu-close {
       bottom: 70px; }
   .notification-area .notification-ripple {
