@@ -31,13 +31,18 @@ let times = [
 ];
 
 const BG_COLOR = [
+    'color--cloudy-knoxville',
+    'color--eternal-constance',
     'color--frost',
-    'color--royal',
+    'color--heavy-rain',
+    'color--midnight-bloom',
     'color--mirage',
     'color--nighthawk',
-    'color--eternal-constance',
-    'color--midnight-bloom'
+    'color--royal',
+    'color--vicious-stance',
 ];
+
+let querySel = document.querySelector.bind(document);
 
 Date.prototype.getWeekNumber = function(){
     var d = new Date(Date.UTC(this.getFullYear(), this.getMonth(), this.getDate()));
@@ -49,37 +54,41 @@ Date.prototype.getWeekNumber = function(){
 
 window.onload = () => {
     let bg_class = BG_COLOR[pickRandomNumber(0, BG_COLOR.length - 1)];
-    // document.querySelector('body').classList.add(bg_class);
+    document.querySelector('body').classList.add(bg_class);
 
-    const BTN_MENU_OPENER     = document.querySelector('#btn-menu-opener');
-    const BTN_MENU_CLOSE      = document.querySelector('#btn-menu-close');
+    const BTN_MENU_OPENER     = querySel('#btn-menu-opener');
+    const BTN_MENU_CLOSE      = querySel('#btn-menu-close');
+    const SWITCH_CURRENT_TIME = querySel('#switch-current-time');
 
-    document.querySelector('#building').addEventListener('change', () => {
-        let sel = document.querySelector('#building');
+    querySel('#building').addEventListener('change', () => {
+        let sel = querySel('#building');
         select_handler(sel);
     });
 
-    document.querySelector('#switch-current-time')
-        .addEventListener('click', (e) => {
-            let input_week         = document.querySelector('#input-week .mdl-textfield__input');
-            let current_time_input = document.querySelector('#current-time-input .mdl-textfield__input');
-            let day                = document.querySelector('#day');
-            let notification_box   = document.querySelector('#cg-notification-area');
-            let checked            = e.target.checked;
+    SWITCH_CURRENT_TIME.addEventListener('click', e => {
+        let input_week_wrapper = querySel('#input-week')
+        let input_week_input   = querySel('#input-week .mdl-textfield__input');
+        let current_time_input = querySel('#current-time-input .mdl-textfield__input');
+        let select_day_wrapper = querySel('#select-day-wrapper');
+        let select_day         = querySel('#select-day');
+        let notification_box   = querySel('#cg-notification-area');
+        let checked            = e.target.checked;
 
-            notification_box.classList.toggle('--current-time');
+        notification_box.classList.toggle('--current-time');
+        input_week_wrapper.classList.toggle('is-disabled');
+        select_day_wrapper.classList.toggle('is-disabled');
 
-            if (checked) {
-                input_week.disabled = true;
-                current_time_input.disabled = true;
-                day.disabled = true;
-            }
-            else {
-                input_week.disabled = false;
-                current_time_input.disabled = false;
-                day.disabled = false;
-            }
-        });
+        if (checked) {
+            input_week_input.disabled   = true;
+            current_time_input.disabled = true;
+            select_day.disabled         = true;
+        }
+        else {
+            input_week_input.disabled   = false;
+            current_time_input.disabled = false;
+            select_day.disabled         = false;
+        }
+    });
 
     BTN_MENU_OPENER.addEventListener('click', (e) => {
         let btn_element_mode = e.currentTarget.dataset.mode;

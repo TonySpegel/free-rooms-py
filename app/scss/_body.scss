@@ -28,4 +28,16 @@ body {
     &.color--midnight-bloom {
         background-image: linear-gradient(-20deg, #2b5876 0%, #4e4376 100%);
     }
+
+    &.color--vicious-stance {
+        background-image: linear-gradient(60deg, #29323c 0%, #485563 100%);
+    }
+
+    &.color--heavy-rain {
+        background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
+    }
+
+    &.color--cloudy-knoxville {
+        background-image: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%);
+    }
 }
