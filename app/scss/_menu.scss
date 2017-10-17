@@ -135,6 +135,16 @@
             .mdc-fab__icon.--filter {
                 display: none;
             }
+
+            &:disabled {
+                background-color: $disabled-color;
+
+                &:hover,
+                &:focus {
+                    color: $disabled-color;
+                    background-color: $disabled-color;
+                }
+            }
         }
 
         #btn-menu-close {
