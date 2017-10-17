@@ -40,6 +40,13 @@ body {
     background-image: linear-gradient(-20deg, #2b5876 0%, #4e4376 100%); }
   body.color--vicious-stance {
     background-image: linear-gradient(60deg, #29323c 0%, #485563 100%); }
+  body.color--sharp-glass {
+    background: #C9CCD3;
+    background-image: linear-gradient(-180deg, rgba(255, 255, 255, 0.5) 0%, rgba(0, 0, 0, 0.5) 100%);
+    background-blend-mode: lighten; }
+  body.color--racoon-back {
+    background: linear-gradient(-180deg, #BCC5CE 0%, #929EAD 98%), radial-gradient(at top left, rgba(255, 255, 255, 0.3) 0%, rgba(0, 0, 0, 0.3) 100%);
+    background-blend-mode: screen; }
 
 .mdc-card {
   margin-bottom: 20px;

@@ -31,13 +31,15 @@ let times = [
 ];
 
 const BG_COLOR = [
+    'color--eternal-constance',
     'color--frost',
-    'color--royal',
+    'color--midnight-bloom',
     'color--mirage',
     'color--nighthawk',
-    'color--eternal-constance',
-    'color--midnight-bloom',
-    'color--vicious-stance'
+    'color--racoon-back',
+    'color--royal',
+    'color--sharp-glass',
+    'color--vicious-stance',
 ];
 
 let querySel = document.querySelector.bind(document);
