@@ -1,43 +1,25 @@
 {
-    "05.00.03": {
-        "days": {
-            "Saturday": [
-                {
-                    "summary": "Degle, S.: JenALL/HCM 2017/S/01.12",
-                    "end": "14:30",
-                    "begin": "09:00"
-                }
-            ],
-            "Friday": [
-                {
-                    "summary": "Degle, S.: JenALL/HCM 2017/S/01.11",
-                    "end": "19:30",
-                    "begin": "13:00"
-                }
-            ]
-        }
-    },
     "05.00.02": {
         "days": {
             "Sunday": [
                 {
-                    "summary": "Degle, S.: JenALL/BW f.AO 2017/S/01.1",
+                    "begin": "08:00",
                     "end": "18:00",
-                    "begin": "08:00"
+                    "summary": "Degle, S.: JenALL/BW f.AO 2017/S/01.1"
                 }
             ],
             "Saturday": [
                 {
-                    "summary": "Degle, S.: JenALL/HCM 2017/S/01.12",
+                    "begin": "09:00",
                     "end": "14:30",
-                    "begin": "09:00"
+                    "summary": "Degle, S.: JenALL/HCM 2017/S/01.12"
                 }
             ],
             "Friday": [
                 {
-                    "summary": "Degle, S.: JenALL/HCM 2017/S/01.11",
+                    "begin": "13:00",
                     "end": "19:30",
-                    "begin": "13:00"
+                    "summary": "Degle, S.: JenALL/HCM 2017/S/01.11"
                 }
             ]
         }
@@ -46,34 +28,16 @@
         "days": {
             "Saturday": [
                 {
-                    "summary": "Degle, S.: JenALL/HCM 2017/S/01.12",
+                    "begin": "09:00",
                     "end": "14:30",
-                    "begin": "09:00"
+                    "summary": "Degle, S.: JenALL/HCM 2017/S/01.12"
                 }
             ],
             "Friday": [
                 {
-                    "summary": "Degle, S.: JenALL/HCM 2017/S/01.11",
+                    "begin": "13:00",
                     "end": "19:30",
-                    "begin": "13:00"
-                }
-            ]
-        }
-    },
-    "05.00.04": {
-        "days": {
-            "Sunday": [
-                {
-                    "summary": "Degle, S.: JenALL/BW f.AO 2017/S/01.1",
-                    "end": "18:00",
-                    "begin": "08:00"
-                }
-            ],
-            "Saturday": [
-                {
-                    "summary": "Stoetzer, Patz: JenALL/GM/FTPM 2016/17/APL/01",
-                    "end": "10:30",
-                    "begin": "09:00"
+                    "summary": "Degle, S.: JenALL/HCM 2017/S/01.11"
                 }
             ]
         }
@@ -82,9 +46,45 @@
         "days": {
             "Saturday": [
                 {
-                    "summary": "SW 1: SW(MA)Spiel-+Medienpäd./S/01.1",
+                    "begin": "08:00",
                     "end": "18:00",
-                    "begin": "08:00"
+                    "summary": "SW 1: SW(MA)Spiel-+Medienpäd./S/01.1"
+                }
+            ]
+        }
+    },
+    "05.00.04": {
+        "days": {
+            "Sunday": [
+                {
+                    "begin": "08:00",
+                    "end": "18:00",
+                    "summary": "Degle, S.: JenALL/BW f.AO 2017/S/01.1"
+                }
+            ],
+            "Saturday": [
+                {
+                    "begin": "09:00",
+                    "end": "10:30",
+                    "summary": "Stoetzer, Patz: JenALL/GM/FTPM 2016/17/APL/01"
+                }
+            ]
+        }
+    },
+    "05.00.03": {
+        "days": {
+            "Saturday": [
+                {
+                    "begin": "09:00",
+                    "end": "14:30",
+                    "summary": "Degle, S.: JenALL/HCM 2017/S/01.12"
+                }
+            ],
+            "Friday": [
+                {
+                    "begin": "13:00",
+                    "end": "19:30",
+                    "summary": "Degle, S.: JenALL/HCM 2017/S/01.11"
                 }
             ]
         }
@@ -93,9 +93,9 @@
         "days": {
             "Monday": [
                 {
-                    "summary": "Degle, S.: JenALL/AO-Optom.2018/S/01.5",
+                    "begin": "08:00",
                     "end": "18:00",
-                    "begin": "08:00"
+                    "summary": "Degle, S.: JenALL/AO-Optom.2018/S/01.5"
                 }
             ]
         }
