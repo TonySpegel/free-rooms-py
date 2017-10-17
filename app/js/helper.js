@@ -11,7 +11,7 @@
 // TODO: implement offset_time
 var building_number_input; 
 var floor_number_input;
-let today            = 'Monday'; 
+let today; 
 let offset_time      = '00:30';  // At least this much time should be available
 let upper_time_limit = '20:00';
 let calendar_week    = '43';
@@ -31,15 +31,15 @@ let times = [
 ];
 
 const BG_COLOR = [
-    'color--cloudy-knoxville',
-    'color--eternal-constance',
-    'color--frost',
-    'color--heavy-rain',
-    'color--midnight-bloom',
-    'color--mirage',
-    'color--nighthawk',
-    'color--royal',
-    'color--vicious-stance',
+    ['color--cloudy-knoxville', '#ebedee'],
+    ['color--eternal-constance', '#537895'],
+    ['color--frost', '#004e92'],
+    ['color--heavy-rain', '#cfd9df'],
+    ['color--midnight-bloom', '#4e4376'],
+    ['color--mirage', '#3A6073'],
+    ['color--nighthawk', '#2c3e50'],
+    ['color--royal','#243B55'],
+    ['color--vicious-stance', '#485563']
 ];
 
 let querySel = document.querySelector.bind(document);
@@ -53,12 +53,18 @@ Date.prototype.getWeekNumber = function(){
 };
 
 window.onload = () => {
-    let bg_class = BG_COLOR[pickRandomNumber(0, BG_COLOR.length - 1)];
+    let index            = pickRandomNumber(0, BG_COLOR.length - 1);
+    let bg_class         = BG_COLOR[index][0];
+    let primary          = BG_COLOR[index][1];
+    let meta_theme_color = querySel('meta[name=theme-color]');
+    meta_theme_color.setAttribute('content', primary);
     document.querySelector('body').classList.add(bg_class);
 
     const BTN_MENU_OPENER     = querySel('#btn-menu-opener');
     const BTN_MENU_CLOSE      = querySel('#btn-menu-close');
     const SWITCH_CURRENT_TIME = querySel('#switch-current-time');
+    const current_week_input  = querySel('#input-current-week');
+    let current_time_input    = querySel('#current-time-input .mdl-textfield__input');
 
     querySel('#building').addEventListener('change', () => {
         let sel = querySel('#building');
@@ -72,6 +78,7 @@ window.onload = () => {
         let select_day_wrapper = querySel('#select-day-wrapper');
         let select_day         = querySel('#select-day');
         let notification_box   = querySel('#cg-notification-area');
+        let search_button      = querySel('#btn-menu-opener');
         let checked            = e.target.checked;
 
         notification_box.classList.toggle('--current-time');
@@ -96,7 +103,6 @@ window.onload = () => {
 
         if (btn_element_mode === 'open') {
             e.currentTarget.dataset.mode = 'filter';
-            console.log(btn_element_mode);
         
             return false;
         }
@@ -111,39 +117,96 @@ window.onload = () => {
         BTN_MENU_OPENER.dataset.mode = 'open';
     });
 
+    current_week_input.addEventListener('keyup', () => {
+        validateFormFields();
+    });
+
+    current_time_input.addEventListener('keyup', () => {
+        validateFormFields();
+    });
+
     new Clipboard('.tsp-btn-copy');
 };
 
+function getDayOfWeek(date) {
+    var dayOfWeek = new Date(date).getDay();    
+    return isNaN(dayOfWeek) ? null : ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'][dayOfWeek];
+  }
+
 function handle_menu() {
-    let area = document.querySelector('#cg-notification-area');
+    let area = querySel('#cg-notification-area');
     area.classList.toggle('notification-area--expanded');
 }
 
-function handle_search() {
-    const selected_building   = document.querySelector('#building').dataset.val;
-    const selected_floor      = document.querySelector('#floor').dataset.val;
-    const MAIN_WRAPPER        = document.querySelector('#target');
-    const current_week_number = new Date().getWeekNumber().toString();
-    let current_time
 
-    const CURRENT_TIME_SWITCH = document.querySelector('#switch-current-time');
-    const CURRENT_TIME_INPUT  = document.querySelector('#current-time-input');
+function validateFormFields() {
+    let input_current_week = querySel('#input-current-week');
+    let current_time_input = querySel('#current-time-input .mdl-textfield__input');
+    let search_button = querySel('#btn-menu-opener');
+    let reg = /^-?\d+\.?\d*$/
+    week_value = input_current_week.value;
+    time_value = current_time_input.value;
+
+    let valid_week = reg.test(week_value);
+    
+    [hours, minutes] = time_value.split(':');
+    
+    hours = parseInt(hours);
+    minutes = parseInt(minutes);
+
+    console.log(hours, minutes);
+
+    if (
+        (valid_week === true) &&
+        (
+            (hours < 24 && hours !== NaN) && 
+            (minutes < 60 && minutes !== NaN)
+        )
+
+    ) {
+        console.log('aktivieren');
+        search_button.disabled = false;
+    }
+    else {
+        console.log('deaktivieren');
+        search_button.disabled = true;
+    }
+}
+
+
+function handle_search() {
+    const selected_building   = querySel('#building').dataset.val;
+    const selected_floor      = querySel('#floor').dataset.val;
+    const select_day          = querySel('#select-day');
+    const MAIN_WRAPPER        = querySel('#target');
+    const current_week_input  = querySel('#input-current-week');
+    let current_week_number   = '';
+    let current_time;
+
+    const CURRENT_TIME_SWITCH = querySel('#switch-current-time');
+    const CURRENT_TIME_INPUT  = querySel('#current-time-input');
     
     if (CURRENT_TIME_SWITCH.checked) {
         mins = ('0' + new Date().getMinutes()).slice(-2);
         current_time = `${new Date().getHours()}:${mins}`;
+        current_week_number = new Date().getWeekNumber().toString();
+        console.log('Calendar Week: ', current_week_number);
+        today = getDayOfWeek(new Date());
     }
     else {
         current_time = CURRENT_TIME_INPUT.MaterialTextfield.element_.MaterialTextfield.input_.value;
+        current_week_number = current_week_input.value.toString();
+        today = select_day.dataset.val;
     }
 
-    building_number_input     = selected_building === 'all' ? undefined : selected_building;
-    floor_number_input        = selected_floor === 'all' ? undefined : selected_floor;
+    console.log('Time:', current_time);
+
+    building_number_input = selected_building === 'all' ? undefined : selected_building;
+    floor_number_input    = selected_floor === 'all' ? undefined : selected_floor;
     
-    console.log(building_number_input);
-    console.log(floor_number_input);
+    console.log('Building:', building_number_input === undefined ? 'all' : building_number_input);
+    console.log('Floor:', floor_number_input === undefined ? 'all' : floor_number_input);
     fetch_calendar_week_json(current_week_number).then(result => {
-        console.log(current_time, 'hihi');
         find_available_rooms(result, current_time);
         
         let free_rooms_sorted = free_rooms.sort((x, y) => {
@@ -264,7 +327,7 @@ function select_handler(selected_item) {
 async function fetch_calendar_week_json(cw) {
     let path   = document.URL.includes('github') ? 'app/' : '';
 
-    let response      = await fetch(`../${path}json/42.json`);
+    let response      = await fetch(`../${path}json/${cw}.json`);
     let response_json = await response.json();
     return response_json;
 }
