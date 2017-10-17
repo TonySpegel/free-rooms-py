@@ -31,14 +31,14 @@ let times = [
 ];
 
 const BG_COLOR = [
+    'color--cloudy-knoxville',
     'color--eternal-constance',
     'color--frost',
+    'color--heavy-rain',
     'color--midnight-bloom',
     'color--mirage',
     'color--nighthawk',
-    'color--racoon-back',
     'color--royal',
-    'color--sharp-glass',
     'color--vicious-stance',
 ];
 

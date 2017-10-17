@@ -21,7 +21,7 @@
         }
     }
 
-    &.--current-time {
+    &.--current-time .input-wrapper {
         .mdl-textfield__label {
             color: $disabled-color;
         }
