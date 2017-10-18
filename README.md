@@ -8,3 +8,7 @@ I was not satisfied with the current solution provided by my university
 and took this as a opportunity to learn Python among other things.
 Therefore: my Code wont be that good as I have little to no experience using Python.
 Feel free to raise any bugs or suggestions for improvement.
+
+# Screenshots
+![Snegon](https://i.imgur.com/h9lnd56.png | width=300)
+![Snegon Menu Open](https://i.imgur.com/aLQp5pP.png | width=300)
