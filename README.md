@@ -10,5 +10,5 @@ Therefore: my Code wont be that good as I have little to no experience using Pyt
 Feel free to raise any bugs or suggestions for improvement.
 
 # Screenshots
-![Snegon](https://i.imgur.com/h9lnd56.png | width=300)
-![Snegon Menu Open](https://i.imgur.com/aLQp5pP.png | width=300)
+![Snegon](https://i.imgur.com/h9lnd56.png)
+![Snegon Menu Open](https://i.imgur.com/aLQp5pP.png)
