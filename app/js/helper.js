@@ -33,7 +33,6 @@ let times = [
 const BG_COLOR = [
     ['color--cloudy-knoxville', '#ebedee'],
     ['color--eternal-constance', '#537895'],
-    ['color--frost', '#004e92'],
     ['color--heavy-rain', '#cfd9df'],
     ['color--midnight-bloom', '#4e4376'],
     ['color--mirage', '#3A6073'],
@@ -60,11 +59,12 @@ window.onload = () => {
     meta_theme_color.setAttribute('content', primary);
     document.querySelector('body').classList.add(bg_class);
 
-    const BTN_MENU_OPENER     = querySel('#btn-menu-opener');
-    const BTN_MENU_CLOSE      = querySel('#btn-menu-close');
-    const SWITCH_CURRENT_TIME = querySel('#switch-current-time');
-    const current_week_input  = querySel('#input-current-week');
-    let current_time_input    = querySel('#current-time-input .mdl-textfield__input');
+    const BTN_MENU_OPENER       = querySel('#btn-menu-opener');
+    const BTN_MENU_CLOSE        = querySel('#btn-menu-close');
+    const SWITCH_CURRENT_TIME   = querySel('#switch-current-time');
+    const SWITCH_INSTANT_SEARCH = querySel('#switch-instant-search');
+    const current_week_input    = querySel('#input-current-week');
+    let current_time_input      = querySel('#current-time-input .mdl-textfield__input');
 
     querySel('#building').addEventListener('change', () => {
         let sel = querySel('#building');
@@ -125,7 +125,7 @@ window.onload = () => {
         validateFormFields();
     });
 
-    new Clipboard('.tsp-btn-copy');
+    handle_search();
 };
 
 function getDayOfWeek(date) {
@@ -185,6 +185,7 @@ function handle_search() {
 
     const CURRENT_TIME_SWITCH = querySel('#switch-current-time');
     const CURRENT_TIME_INPUT  = querySel('#current-time-input');
+    querySel('.loading-spinner-wrapper').classList.add('loading-spinner-wrapper--visible');
     
     if (CURRENT_TIME_SWITCH.checked) {
         mins = ('0' + new Date().getMinutes()).slice(-2);
@@ -247,6 +248,8 @@ function handle_search() {
         MAIN_WRAPPER.insertAdjacentHTML(
             'beforeend', all_rooms_html
         );
+
+        querySel('.loading-spinner-wrapper').classList.remove('loading-spinner-wrapper--visible');
 
         free_rooms     = [];
         occupied_rooms = [];
