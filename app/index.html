@@ -29,6 +29,10 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
     </head>
     <body>
+        <div class="loading-spinner-wrapper loading-spinner-wrapper--visible">
+            <div class="mdl-spinner mdl-js-spinner is-active"></div>
+            <span>Searching for free rooms</span>
+        </div>
         <main id="target"></main>
 
         <section 
@@ -212,10 +216,10 @@
                             <span class="mdl-switch__label">Use current time</span>
                         </label>
     
-                        <label class="mdl-switch mdl-js-switch mdl-js-ripple-effect" for="switch-instant-search">
+                        <!-- <label class="mdl-switch mdl-js-switch mdl-js-ripple-effect" for="switch-instant-search">
                             <input type="checkbox" id="switch-instant-search" class="mdl-switch__input" checked>
                             <span class="mdl-switch__label">Instant Search</span>
-                        </label>
+                        </label> -->
                     </div>
                 </div>
             </div>
