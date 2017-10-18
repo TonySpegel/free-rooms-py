@@ -1,4 +1,15 @@
 {
+    "05.03.01": {
+        "days": {
+            "Tuesday": [
+                {
+                    "begin": "18:00",
+                    "summary": ": AG Fotoklub 78/V/01",
+                    "end": "20:00"
+                }
+            ]
+        }
+    },
     "05.03.36": {
         "days": {
             "Monday": [
@@ -10,82 +21,7 @@
             ]
         }
     },
-    "04.-1.01(Aula)": {
-        "days": {
-            "Saturday": [
-                {
-                    "begin": "08:30",
-                    "summary": "ZVM: 24.03._WI_e-Comm.Camp.",
-                    "end": "16:30"
-                }
-            ],
-            "Friday": [
-                {
-                    "begin": "08:30",
-                    "summary": "ZVM: 23.03._WI_e-Comm.Camp.",
-                    "end": "16:30"
-                }
-            ]
-        }
-    },
-    "05.00.10": {
-        "days": {
-            "Tuesday": [
-                {
-                    "begin": "09:00",
-                    "summary": "Wolfrum (SciTec): SciTec/Soft Skills/Gespr.fhrg../S/01.2",
-                    "end": "15:00"
-                }
-            ],
-            "Monday": [
-                {
-                    "begin": "09:00",
-                    "summary": "Wolfrum (SciTec): SciTec/Soft Skills/Gespr.fhrg../S/01.1",
-                    "end": "15:00"
-                }
-            ],
-            "Friday": [
-                {
-                    "begin": "09:00",
-                    "summary": "Wolfrum (SciTec): SciTec/Soft Skills/Gespr.fhrg../S/01.5",
-                    "end": "15:00"
-                }
-            ],
-            "Thursday": [
-                {
-                    "begin": "09:00",
-                    "summary": "Wolfrum (SciTec): SciTec/Soft Skills/Gespr.fhrg../S/01.4",
-                    "end": "15:00"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "begin": "09:00",
-                    "summary": "Wolfrum (SciTec): SciTec/Soft Skills/Gespr.fhrg../S/01.3",
-                    "end": "15:00"
-                }
-            ]
-        }
-    },
-    "04.00.01 (HS6)": {
-        "days": {
-            "Saturday": [
-                {
-                    "begin": "08:30",
-                    "summary": "ZVM: 24.03._WI_e-Comm.Camp.",
-                    "end": "16:30"
-                }
-            ],
-            "Friday": [
-                {
-                    "begin": "08:30",
-                    "summary": "ZVM: 23.03._WI_e-Comm.Camp.",
-                    "end": "16:30"
-                }
-            ]
-        }
-    },
-    "04.03.07": {
+    "04.03.11": {
         "days": {
             "Saturday": [
                 {
@@ -114,18 +50,43 @@
             ]
         }
     },
-    "05.03.01": {
+    "04.03.07": {
         "days": {
-            "Tuesday": [
+            "Saturday": [
                 {
-                    "begin": "18:00",
-                    "summary": ": AG Fotoklub 78/V/01",
-                    "end": "20:00"
+                    "begin": "08:30",
+                    "summary": "ZVM: 24.03._WI_e-Comm.Camp.",
+                    "end": "16:30"
+                }
+            ],
+            "Friday": [
+                {
+                    "begin": "08:30",
+                    "summary": "ZVM: 23.03._WI_e-Comm.Camp.",
+                    "end": "16:30"
                 }
             ]
         }
     },
-    "04.03.11": {
+    "04.00.01 (HS6)": {
+        "days": {
+            "Saturday": [
+                {
+                    "begin": "08:30",
+                    "summary": "ZVM: 24.03._WI_e-Comm.Camp.",
+                    "end": "16:30"
+                }
+            ],
+            "Friday": [
+                {
+                    "begin": "08:30",
+                    "summary": "ZVM: 23.03._WI_e-Comm.Camp.",
+                    "end": "16:30"
+                }
+            ]
+        }
+    },
+    "04.-1.01(Aula)": {
         "days": {
             "Saturday": [
                 {
@@ -175,6 +136,45 @@
                     "begin": "08:30",
                     "summary": "ZVM: 23.03._WI_e-Comm.Camp.",
                     "end": "16:30"
+                }
+            ]
+        }
+    },
+    "05.00.10": {
+        "days": {
+            "Thursday": [
+                {
+                    "begin": "09:00",
+                    "summary": "Wolfrum (SciTec): SciTec/Soft Skills/Gespr.fhrg../S/01.4",
+                    "end": "15:00"
+                }
+            ],
+            "Monday": [
+                {
+                    "begin": "09:00",
+                    "summary": "Wolfrum (SciTec): SciTec/Soft Skills/Gespr.fhrg../S/01.1",
+                    "end": "15:00"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "begin": "09:00",
+                    "summary": "Wolfrum (SciTec): SciTec/Soft Skills/Gespr.fhrg../S/01.2",
+                    "end": "15:00"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "09:00",
+                    "summary": "Wolfrum (SciTec): SciTec/Soft Skills/Gespr.fhrg../S/01.3",
+                    "end": "15:00"
+                }
+            ],
+            "Friday": [
+                {
+                    "begin": "09:00",
+                    "summary": "Wolfrum (SciTec): SciTec/Soft Skills/Gespr.fhrg../S/01.5",
+                    "end": "15:00"
                 }
             ]
         }

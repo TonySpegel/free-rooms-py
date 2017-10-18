@@ -1,5 +1,5 @@
 {
-    "05.03.36": {
+    "05.00.04": {
         "days": {
             "Saturday": [
                 {
@@ -12,27 +12,6 @@
                 {
                     "begin": "08:00",
                     "summary": "Degle, S.: JenALL/AO-Optom.2018/S/01.4",
-                    "end": "18:00"
-                }
-            ],
-            "Monday": [
-                {
-                    "begin": "08:00",
-                    "summary": "Degle, S.: JenALL/AO-Klin.Optom.2017/S/01.04",
-                    "end": "18:00"
-                }
-            ],
-            "Friday": [
-                {
-                    "begin": "08:00",
-                    "summary": "Degle, S.: JenALL/AO-Optom.2018/S/01.2",
-                    "end": "18:00"
-                }
-            ],
-            "Thursday": [
-                {
-                    "begin": "08:00",
-                    "summary": "Degle, S.: JenALL/AO-Optom.2018/S/01.1",
                     "end": "18:00"
                 }
             ]
@@ -49,7 +28,7 @@
             ]
         }
     },
-    "05.00.04": {
+    "05.03.36": {
         "days": {
             "Saturday": [
                 {
@@ -58,10 +37,31 @@
                     "end": "18:00"
                 }
             ],
+            "Monday": [
+                {
+                    "begin": "08:00",
+                    "summary": "Degle, S.: JenALL/AO-Klin.Optom.2017/S/01.04",
+                    "end": "18:00"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "08:00",
+                    "summary": "Degle, S.: JenALL/AO-Optom.2018/S/01.1",
+                    "end": "18:00"
+                }
+            ],
             "Sunday": [
                 {
                     "begin": "08:00",
                     "summary": "Degle, S.: JenALL/AO-Optom.2018/S/01.4",
+                    "end": "18:00"
+                }
+            ],
+            "Friday": [
+                {
+                    "begin": "08:00",
+                    "summary": "Degle, S.: JenALL/AO-Optom.2018/S/01.2",
                     "end": "18:00"
                 }
             ]
