@@ -46,7 +46,7 @@
 
     .mdl-switch  {
         &:last-child {
-            margin-top: 8px;
+            margin-top: -35px;
         }
         opacity: 0;
 
@@ -159,7 +159,7 @@
         border-radius: 50%;
         width: 848px;
         height: 848px;
-        background: #313131;
+        background: $menu-color;
         backface-visibility: hidden;
         will-change: transform;
         transform: scale(.056);
