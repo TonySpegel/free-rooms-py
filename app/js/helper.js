@@ -59,6 +59,8 @@ window.onload = () => {
     meta_theme_color.setAttribute('content', primary);
     document.querySelector('body').classList.add(bg_class);
 
+    console.log('Visit this project at: https://github.com/TonySpegel/free-rooms-py');
+
     const BTN_MENU_OPENER       = querySel('#btn-menu-opener');
     const BTN_MENU_CLOSE        = querySel('#btn-menu-close');
     const SWITCH_CURRENT_TIME   = querySel('#switch-current-time');
@@ -84,11 +86,13 @@ window.onload = () => {
         notification_box.classList.toggle('--current-time');
         input_week_wrapper.classList.toggle('is-disabled');
         select_day_wrapper.classList.toggle('is-disabled');
+        validateFormFields();
 
         if (checked) {
             input_week_input.disabled   = true;
             current_time_input.disabled = true;
             select_day.disabled         = true;
+            BTN_MENU_OPENER.disabled    = false;
         }
         else {
             input_week_input.disabled   = false;
@@ -103,7 +107,10 @@ window.onload = () => {
 
         if (btn_element_mode === 'open') {
             e.currentTarget.dataset.mode = 'filter';
-        
+            if (SWITCH_CURRENT_TIME.checked === false) {
+                validateFormFields();
+            }
+
             return false;
         }
 
@@ -115,6 +122,7 @@ window.onload = () => {
     BTN_MENU_CLOSE.addEventListener('click', (e) => {
         handle_menu();
         BTN_MENU_OPENER.dataset.mode = 'open';
+        BTN_MENU_OPENER.disabled = false;
     });
 
     current_week_input.addEventListener('keyup', () => {
@@ -129,9 +137,9 @@ window.onload = () => {
 };
 
 function getDayOfWeek(date) {
-    var dayOfWeek = new Date(date).getDay();    
+    let dayOfWeek = new Date(date).getDay();    
     return isNaN(dayOfWeek) ? null : ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'][dayOfWeek];
-  }
+}
 
 function handle_menu() {
     let area = querySel('#cg-notification-area');
