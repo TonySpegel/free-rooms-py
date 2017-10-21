@@ -566,7 +566,8 @@ function list_free_rooms(all_rooms, room, time_param, room_id) {
                 
                 return false;
             }
-            
+            let end = lectures[index].end;
+            let begin = lectures[index].begin;
             let next_lecture   = index + 1;
             begin_next_lecture = parse_time_to_minutes(lectures[next_lecture].begin);
             minutes            = begin_next_lecture - end_time;
