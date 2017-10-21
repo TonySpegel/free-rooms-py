@@ -1,143 +1,44 @@
 {
-    "04.-1.01(Aula)": {
-        "days": {
-            "Thursday": [
-                {
-                    "end": "16:30",
-                    "begin": "08:30",
-                    "summary": "ZVM: 15.03._Südschule"
-                }
-            ]
-        }
-    },
-    "05.03.43 (HS 4)": {
-        "days": {
-            "Tuesday": [
-                {
-                    "end": "17:30",
-                    "begin": "08:30",
-                    "summary": "Adler: 13.03._SW_Fundraisingtag"
-                }
-            ]
-        }
-    },
     "05.03.36": {
         "days": {
-            "Saturday": [
-                {
-                    "end": "18:00",
-                    "begin": "08:00",
-                    "summary": "Degle, S.: JenALL/AO-Optom.2018/S/01.8"
-                }
-            ],
-            "Friday": [
-                {
-                    "end": "18:00",
-                    "begin": "08:00",
-                    "summary": "Degle, S.: JenALL/AO-Optom.2018/S/01.7"
-                }
-            ],
             "Thursday": [
                 {
                     "end": "12:00",
-                    "begin": "08:00",
-                    "summary": "Degle, S.: JenALL/AO-Optom.2018/APL/01"
+                    "summary": "Degle, S.: JenALL/AO-Optom.2018/APL/01",
+                    "begin": "08:00"
                 },
                 {
                     "end": "19:45",
-                    "begin": "13:00",
-                    "summary": "Degle, S.: JenALL/AO-Optom.2018/S/01.6"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "end": "17:30",
-                    "begin": "08:30",
-                    "summary": "Adler: 13.03._SW_Fundraisingtag"
+                    "summary": "Degle, S.: JenALL/AO-Optom.2018/S/01.6",
+                    "begin": "13:00"
                 }
             ],
             "Sunday": [
                 {
                     "end": "18:00",
-                    "begin": "08:00",
-                    "summary": "Degle, S.: JenALL/AO-Optom.2018/S/01.9"
+                    "summary": "Degle, S.: JenALL/AO-Optom.2018/S/01.9",
+                    "begin": "08:00"
                 }
-            ]
-        }
-    },
-    "05.03.28": {
-        "days": {
+            ],
             "Tuesday": [
                 {
                     "end": "17:30",
-                    "begin": "08:30",
-                    "summary": "Adler: 13.03._SW_Fundraisingtag"
+                    "summary": "Adler: 13.03._SW_Fundraisingtag",
+                    "begin": "08:30"
                 }
-            ]
-        }
-    },
-    "05.03.224": {
-        "days": {
-            "Tuesday": [
+            ],
+            "Friday": [
                 {
-                    "end": "17:30",
-                    "begin": "08:30",
-                    "summary": "Adler: 13.03._SW_Fundraisingtag"
+                    "end": "18:00",
+                    "summary": "Degle, S.: JenALL/AO-Optom.2018/S/01.7",
+                    "begin": "08:00"
                 }
-            ]
-        }
-    },
-    "05.03.02 (HS 5)": {
-        "days": {
-            "Tuesday": [
+            ],
+            "Saturday": [
                 {
-                    "end": "17:30",
-                    "begin": "08:30",
-                    "summary": "Adler: 13.03._SW_Fundraisingtag"
-                }
-            ]
-        }
-    },
-    "05.03.225": {
-        "days": {
-            "Tuesday": [
-                {
-                    "end": "17:30",
-                    "begin": "08:30",
-                    "summary": "Adler: 13.03._SW_Fundraisingtag"
-                }
-            ]
-        }
-    },
-    "05.03.32": {
-        "days": {
-            "Tuesday": [
-                {
-                    "end": "17:30",
-                    "begin": "08:30",
-                    "summary": "Adler: 13.03._SW_Fundraisingtag"
-                }
-            ]
-        }
-    },
-    "05.03.206": {
-        "days": {
-            "Tuesday": [
-                {
-                    "end": "17:30",
-                    "begin": "08:30",
-                    "summary": "Adler: 13.03._SW_Fundraisingtag"
-                }
-            ]
-        }
-    },
-    "05.03.229": {
-        "days": {
-            "Tuesday": [
-                {
-                    "end": "17:30",
-                    "begin": "08:30",
-                    "summary": "Adler: 13.03._SW_Fundraisingtag"
+                    "end": "18:00",
+                    "summary": "Degle, S.: JenALL/AO-Optom.2018/S/01.8",
+                    "begin": "08:00"
                 }
             ]
         }
@@ -147,8 +48,70 @@
             "Tuesday": [
                 {
                     "end": "17:30",
-                    "begin": "08:30",
-                    "summary": "Adler: 13.03._SW_Fundraisingtag"
+                    "summary": "Adler: 13.03._SW_Fundraisingtag",
+                    "begin": "08:30"
+                }
+            ]
+        }
+    },
+    "05.03.43 (HS 4)": {
+        "days": {
+            "Tuesday": [
+                {
+                    "end": "17:30",
+                    "summary": "Adler: 13.03._SW_Fundraisingtag",
+                    "begin": "08:30"
+                }
+            ]
+        }
+    },
+    "05.03.225": {
+        "days": {
+            "Tuesday": [
+                {
+                    "end": "17:30",
+                    "summary": "Adler: 13.03._SW_Fundraisingtag",
+                    "begin": "08:30"
+                }
+            ]
+        }
+    },
+    "04.-1.01(Aula)": {
+        "days": {
+            "Thursday": [
+                {
+                    "end": "16:30",
+                    "summary": "ZVM: 15.03._Südschule",
+                    "begin": "08:30"
+                }
+            ]
+        }
+    },
+    "05.00.04": {
+        "days": {
+            "Sunday": [
+                {
+                    "end": "18:00",
+                    "summary": "Degle, S.: JenALL/AO-Optom.2018/S/01.9",
+                    "begin": "08:00"
+                }
+            ],
+            "Saturday": [
+                {
+                    "end": "11:00",
+                    "summary": "Buerke: JenALL/GM 2017/APL/01",
+                    "begin": "09:00"
+                }
+            ]
+        }
+    },
+    "05.03.224": {
+        "days": {
+            "Tuesday": [
+                {
+                    "end": "17:30",
+                    "summary": "Adler: 13.03._SW_Fundraisingtag",
+                    "begin": "08:30"
                 }
             ]
         }
@@ -158,37 +121,52 @@
             "Tuesday": [
                 {
                     "end": "17:30",
-                    "begin": "08:30",
-                    "summary": "Adler: 13.03._SW_Fundraisingtag"
+                    "summary": "Adler: 13.03._SW_Fundraisingtag",
+                    "begin": "08:30"
                 }
             ]
         }
     },
-    "05.03.01": {
+    "05.03.32": {
         "days": {
             "Tuesday": [
                 {
                     "end": "17:30",
-                    "begin": "08:30",
-                    "summary": "Adler: 13.03._SW_Fundraisingtag"
+                    "summary": "Adler: 13.03._SW_Fundraisingtag",
+                    "begin": "08:30"
                 }
             ]
         }
     },
-    "05.00.04": {
+    "05.03.28": {
         "days": {
-            "Saturday": [
+            "Tuesday": [
                 {
-                    "end": "11:00",
-                    "begin": "09:00",
-                    "summary": "Buerke: JenALL/GM 2017/APL/01"
+                    "end": "17:30",
+                    "summary": "Adler: 13.03._SW_Fundraisingtag",
+                    "begin": "08:30"
                 }
-            ],
-            "Sunday": [
+            ]
+        }
+    },
+    "05.03.206": {
+        "days": {
+            "Tuesday": [
                 {
-                    "end": "18:00",
-                    "begin": "08:00",
-                    "summary": "Degle, S.: JenALL/AO-Optom.2018/S/01.9"
+                    "end": "17:30",
+                    "summary": "Adler: 13.03._SW_Fundraisingtag",
+                    "begin": "08:30"
+                }
+            ]
+        }
+    },
+    "05.03.02 (HS 5)": {
+        "days": {
+            "Tuesday": [
+                {
+                    "end": "17:30",
+                    "summary": "Adler: 13.03._SW_Fundraisingtag",
+                    "begin": "08:30"
                 }
             ]
         }
@@ -198,8 +176,30 @@
             "Tuesday": [
                 {
                     "end": "17:30",
-                    "begin": "08:30",
-                    "summary": "Adler: 13.03._SW_Fundraisingtag"
+                    "summary": "Adler: 13.03._SW_Fundraisingtag",
+                    "begin": "08:30"
+                }
+            ]
+        }
+    },
+    "05.03.229": {
+        "days": {
+            "Tuesday": [
+                {
+                    "end": "17:30",
+                    "summary": "Adler: 13.03._SW_Fundraisingtag",
+                    "begin": "08:30"
+                }
+            ]
+        }
+    },
+    "05.03.01": {
+        "days": {
+            "Tuesday": [
+                {
+                    "end": "17:30",
+                    "summary": "Adler: 13.03._SW_Fundraisingtag",
+                    "begin": "08:30"
                 }
             ]
         }
