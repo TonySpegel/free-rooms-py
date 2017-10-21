@@ -20,10 +20,13 @@ function create_room_html(
     room_nr, 
     summary, 
     display_text,
-    room_id
+    room_id,
+    begin,
+    end
 ) {
     if (free) {
         external_link = '';
+        begin_end = ''
     } 
     else {
         external_link = 
@@ -34,11 +37,13 @@ function create_room_html(
             class="mdc-button mdc-card__action material-icons">
             open_in_new
         </a>`;
+        begin_end = `<span class="begin-end-label">${begin} / ${end}</span>`
     }
     
     let display_text_lowercase = display_text.charAt(0).toLowerCase() + display_text.slice(1);
     let template =
 `<div class="mdc-card ${free ? '' : 'mdc-card--room-occupied'}">
+    ${begin_end}
     <section class="mdc-card__primary">
         <h1 class="mdc-card__title mdc-card__title--large">${room}</h1>
         ${free ? '' : `<h2 class="mdc-card__subtitle">${summary}</h2>`}

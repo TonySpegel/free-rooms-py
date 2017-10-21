@@ -47,11 +47,17 @@ body {
 .mdc-card {
   margin-bottom: 20px;
   width: 450px;
+  position: relative;
   background-color: #efefef;
   border-left: 5px solid #4CAF50; }
   @media (max-width: 768px) {
     .mdc-card {
       width: 100%; } }
+  .mdc-card .begin-end-label {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    color: #aeaeae; }
   .mdc-card.mdc-card--room-occupied {
     background-color: #efefef;
     border-left-color: #f44336; }

@@ -4,9 +4,17 @@
 .mdc-card {
     margin-bottom: 20px;
     width: 450px;
+    position: relative;
     
     @include till-tablet { 
         width: 100%;
+    }
+
+    .begin-end-label {
+        position: absolute;
+        top: 5px;
+        right: 5px;
+        color: $time-label-color ;
     }
     
     &.mdc-card--room-occupied {

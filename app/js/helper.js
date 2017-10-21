@@ -247,7 +247,9 @@ function handle_search() {
                 entry.room_nr,
                 entry.summary,
                 entry.display_text,
-                entry.room_id
+                entry.room_id,
+                entry.begin,
+                entry.end
             );
         });
 
@@ -531,6 +533,8 @@ function list_free_rooms(all_rooms, room, time_param, room_id) {
                 
                 minutes = upper_time_limit - end_time;
                 available_time = minutes_to_hours(minutes);
+                let end = lectures[index].end;
+                let begin = lectures[index].begin;
                 
                 if (debug_flag) {
                     console.log(
@@ -555,9 +559,10 @@ function list_free_rooms(all_rooms, room, time_param, room_id) {
                     'available_for' : Infinity,
                     'summary'       : lecture.summary,
                     'display_text'  : `Available in ${available_in} for the rest of the day`,
-                    room_id
+                    room_id,
+                    begin,
+                    end,
                 });
-                
                 
                 return false;
             }
@@ -585,7 +590,9 @@ function list_free_rooms(all_rooms, room, time_param, room_id) {
                 'available_for' : minutes,
                 'summary'       : lecture.summary,
                 display_text,
-                room_id
+                room_id,
+                begin,
+                end,
             });
             
             free_room_flag = true;
