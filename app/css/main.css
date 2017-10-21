@@ -116,9 +116,11 @@ body {
 
 .flr {
   opacity: 0;
+  display: none;
   transition: opacity 0.3s cubic-bezier(0.4, 0, 0.2, 1); }
   .flr.--visible {
-    opacity: 1; }
+    opacity: 1;
+    display: block; }
 
 .filter-box {
   width: 200px; }
@@ -147,7 +149,7 @@ body {
   border-radius: 2px;
   bottom: 16px;
   display: flex;
-  height: 330px;
+  height: 362px;
   margin-left: 16px;
   max-width: 400px;
   overflow: hidden;

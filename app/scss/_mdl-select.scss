@@ -2,10 +2,12 @@
 
 .flr {
     opacity: 0;
+    display: none;
     @include standard-curve(opacity, 0.3s);
     
     &.--visible {
         opacity: 1;
+        display: block;
     }
 }
 
