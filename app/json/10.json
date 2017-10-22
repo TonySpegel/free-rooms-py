@@ -1,224 +1,6 @@
 {
-    "05.03.36": {
-        "days": {
-            "Tuesday": [
-                {
-                    "end": "18:30",
-                    "summary": "Assfalg(BW): BW(BA)ABWL-UPS/S/01.2",
-                    "begin": "09:30"
-                }
-            ],
-            "Monday": [
-                {
-                    "end": "18:30",
-                    "summary": "Assfalg(BW): BW(BA)ABWL-UPS/S/01.1",
-                    "begin": "09:30"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "end": "18:30",
-                    "summary": "Assfalg(BW): BW(BA)ABWL-UPS/S/01.3",
-                    "begin": "09:30"
-                }
-            ]
-        }
-    },
-    "05.03.202": {
-        "days": {
-            "Tuesday": [
-                {
-                    "end": "17:30",
-                    "summary": "Geyer: BW(BA)ABWL-BPS/S/01.2",
-                    "begin": "09:00"
-                }
-            ],
-            "Monday": [
-                {
-                    "end": "17:30",
-                    "summary": "Geyer: BW(BA)ABWL-BPS/S/01.1",
-                    "begin": "09:00"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "end": "17:30",
-                    "summary": "Geyer: BW(BA)ABWL-BPS/S/01.3",
-                    "begin": "09:00"
-                }
-            ]
-        }
-    },
-    "05.03.225": {
-        "days": {
-            "Tuesday": [
-                {
-                    "end": "17:30",
-                    "summary": "Geyer: BW(BA)ABWL-BPS/S/01.2",
-                    "begin": "09:00"
-                }
-            ],
-            "Monday": [
-                {
-                    "end": "17:30",
-                    "summary": "Geyer: BW(BA)ABWL-BPS/S/01.1",
-                    "begin": "09:00"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "end": "17:30",
-                    "summary": "Geyer: BW(BA)ABWL-BPS/S/01.3",
-                    "begin": "09:00"
-                }
-            ]
-        }
-    },
-    "04.-1.01(Aula)": {
-        "days": {
-            "Wednesday": [
-                {
-                    "end": "16:30",
-                    "summary": "Bliedtner: 07.03._3D-Druckforum",
-                    "begin": "08:30"
-                }
-            ]
-        }
-    },
-    "05.03.224": {
-        "days": {
-            "Tuesday": [
-                {
-                    "end": "17:30",
-                    "summary": "Geyer: BW(BA)ABWL-BPS/S/01.2",
-                    "begin": "09:00"
-                }
-            ],
-            "Monday": [
-                {
-                    "end": "17:30",
-                    "summary": "Geyer: BW(BA)ABWL-BPS/S/01.1",
-                    "begin": "09:00"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "end": "17:30",
-                    "summary": "Geyer: BW(BA)ABWL-BPS/S/01.3",
-                    "begin": "09:00"
-                }
-            ]
-        }
-    },
-    "05.03.203": {
-        "days": {
-            "Tuesday": [
-                {
-                    "end": "17:30",
-                    "summary": "Geyer: BW(BA)ABWL-BPS/S/01.2",
-                    "begin": "09:00"
-                }
-            ],
-            "Monday": [
-                {
-                    "end": "17:30",
-                    "summary": "Geyer: BW(BA)ABWL-BPS/S/01.1",
-                    "begin": "09:00"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "end": "17:30",
-                    "summary": "Geyer: BW(BA)ABWL-BPS/S/01.3",
-                    "begin": "09:00"
-                }
-            ]
-        }
-    },
-    "05.03.32": {
-        "days": {
-            "Tuesday": [
-                {
-                    "end": "18:30",
-                    "summary": "Assfalg(BW): BW(BA)ABWL-UPS/S/01.2",
-                    "begin": "09:30"
-                }
-            ],
-            "Monday": [
-                {
-                    "end": "18:30",
-                    "summary": "Assfalg(BW): BW(BA)ABWL-UPS/S/01.1",
-                    "begin": "09:30"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "end": "18:30",
-                    "summary": "Assfalg(BW): BW(BA)ABWL-UPS/S/01.3",
-                    "begin": "09:30"
-                }
-            ]
-        }
-    },
-    "05.03.28": {
-        "days": {
-            "Tuesday": [
-                {
-                    "end": "18:30",
-                    "summary": "Assfalg(BW): BW(BA)ABWL-UPS/S/01.2",
-                    "begin": "09:30"
-                }
-            ],
-            "Monday": [
-                {
-                    "end": "18:30",
-                    "summary": "Assfalg(BW): BW(BA)ABWL-UPS/S/01.1",
-                    "begin": "09:30"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "end": "18:30",
-                    "summary": "Assfalg(BW): BW(BA)ABWL-UPS/S/01.3",
-                    "begin": "09:30"
-                }
-            ]
-        }
-    },
-    "05.03.29": {
-        "days": {
-            "Tuesday": [
-                {
-                    "end": "18:30",
-                    "summary": "Assfalg(BW): BW(BA)ABWL-UPS/S/01.2",
-                    "begin": "09:30"
-                }
-            ],
-            "Monday": [
-                {
-                    "end": "18:30",
-                    "summary": "Assfalg(BW): BW(BA)ABWL-UPS/S/01.1",
-                    "begin": "09:30"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "end": "18:30",
-                    "summary": "Assfalg(BW): BW(BA)ABWL-UPS/S/01.3",
-                    "begin": "09:30"
-                }
-            ]
-        }
-    },
     "05.03.206": {
         "days": {
-            "Tuesday": [
-                {
-                    "end": "17:30",
-                    "summary": "Geyer: BW(BA)ABWL-BPS/S/01.2",
-                    "begin": "09:00"
-                }
-            ],
             "Monday": [
                 {
                     "end": "17:30",
@@ -232,79 +14,11 @@
                     "summary": "Geyer: BW(BA)ABWL-BPS/S/01.3",
                     "begin": "09:00"
                 }
-            ]
-        }
-    },
-    "05.03.204": {
-        "days": {
+            ],
             "Tuesday": [
                 {
                     "end": "17:30",
                     "summary": "Geyer: BW(BA)ABWL-BPS/S/01.2",
-                    "begin": "09:00"
-                }
-            ],
-            "Monday": [
-                {
-                    "end": "17:30",
-                    "summary": "Geyer: BW(BA)ABWL-BPS/S/01.1",
-                    "begin": "09:00"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "end": "17:30",
-                    "summary": "Geyer: BW(BA)ABWL-BPS/S/01.3",
-                    "begin": "09:00"
-                }
-            ]
-        }
-    },
-    "05.03.33": {
-        "days": {
-            "Tuesday": [
-                {
-                    "end": "18:30",
-                    "summary": "Assfalg(BW): BW(BA)ABWL-UPS/S/01.2",
-                    "begin": "09:30"
-                }
-            ],
-            "Monday": [
-                {
-                    "end": "18:30",
-                    "summary": "Assfalg(BW): BW(BA)ABWL-UPS/S/01.1",
-                    "begin": "09:30"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "end": "18:30",
-                    "summary": "Assfalg(BW): BW(BA)ABWL-UPS/S/01.3",
-                    "begin": "09:30"
-                }
-            ]
-        }
-    },
-    "05.03.201": {
-        "days": {
-            "Tuesday": [
-                {
-                    "end": "17:30",
-                    "summary": "Geyer: BW(BA)ABWL-BPS/S/01.2",
-                    "begin": "09:00"
-                }
-            ],
-            "Monday": [
-                {
-                    "end": "17:30",
-                    "summary": "Geyer: BW(BA)ABWL-BPS/S/01.1",
-                    "begin": "09:00"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "end": "17:30",
-                    "summary": "Geyer: BW(BA)ABWL-BPS/S/01.3",
                     "begin": "09:00"
                 }
             ]
@@ -321,15 +35,58 @@
             ]
         }
     },
-    "05.03.229": {
+    "05.03.32": {
         "days": {
-            "Tuesday": [
+            "Monday": [
                 {
-                    "end": "17:30",
-                    "summary": "Geyer: BW(BA)ABWL-BPS/S/01.2",
-                    "begin": "09:00"
+                    "end": "18:30",
+                    "summary": "Assfalg(BW): BW(BA)ABWL-UPS/S/01.1",
+                    "begin": "09:30"
                 }
             ],
+            "Wednesday": [
+                {
+                    "end": "18:30",
+                    "summary": "Assfalg(BW): BW(BA)ABWL-UPS/S/01.3",
+                    "begin": "09:30"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "18:30",
+                    "summary": "Assfalg(BW): BW(BA)ABWL-UPS/S/01.2",
+                    "begin": "09:30"
+                }
+            ]
+        }
+    },
+    "05.03.29": {
+        "days": {
+            "Monday": [
+                {
+                    "end": "18:30",
+                    "summary": "Assfalg(BW): BW(BA)ABWL-UPS/S/01.1",
+                    "begin": "09:30"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "18:30",
+                    "summary": "Assfalg(BW): BW(BA)ABWL-UPS/S/01.3",
+                    "begin": "09:30"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "18:30",
+                    "summary": "Assfalg(BW): BW(BA)ABWL-UPS/S/01.2",
+                    "begin": "09:30"
+                }
+            ]
+        }
+    },
+    "05.03.225": {
+        "days": {
             "Monday": [
                 {
                     "end": "17:30",
@@ -341,6 +98,249 @@
                 {
                     "end": "17:30",
                     "summary": "Geyer: BW(BA)ABWL-BPS/S/01.3",
+                    "begin": "09:00"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "17:30",
+                    "summary": "Geyer: BW(BA)ABWL-BPS/S/01.2",
+                    "begin": "09:00"
+                }
+            ]
+        }
+    },
+    "05.03.28": {
+        "days": {
+            "Monday": [
+                {
+                    "end": "18:30",
+                    "summary": "Assfalg(BW): BW(BA)ABWL-UPS/S/01.1",
+                    "begin": "09:30"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "18:30",
+                    "summary": "Assfalg(BW): BW(BA)ABWL-UPS/S/01.3",
+                    "begin": "09:30"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "18:30",
+                    "summary": "Assfalg(BW): BW(BA)ABWL-UPS/S/01.2",
+                    "begin": "09:30"
+                }
+            ]
+        }
+    },
+    "05.03.204": {
+        "days": {
+            "Monday": [
+                {
+                    "end": "17:30",
+                    "summary": "Geyer: BW(BA)ABWL-BPS/S/01.1",
+                    "begin": "09:00"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "17:30",
+                    "summary": "Geyer: BW(BA)ABWL-BPS/S/01.3",
+                    "begin": "09:00"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "17:30",
+                    "summary": "Geyer: BW(BA)ABWL-BPS/S/01.2",
+                    "begin": "09:00"
+                }
+            ]
+        }
+    },
+    "05.03.33": {
+        "days": {
+            "Monday": [
+                {
+                    "end": "18:30",
+                    "summary": "Assfalg(BW): BW(BA)ABWL-UPS/S/01.1",
+                    "begin": "09:30"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "18:30",
+                    "summary": "Assfalg(BW): BW(BA)ABWL-UPS/S/01.3",
+                    "begin": "09:30"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "18:30",
+                    "summary": "Assfalg(BW): BW(BA)ABWL-UPS/S/01.2",
+                    "begin": "09:30"
+                }
+            ]
+        }
+    },
+    "05.03.202": {
+        "days": {
+            "Monday": [
+                {
+                    "end": "17:30",
+                    "summary": "Geyer: BW(BA)ABWL-BPS/S/01.1",
+                    "begin": "09:00"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "17:30",
+                    "summary": "Geyer: BW(BA)ABWL-BPS/S/01.3",
+                    "begin": "09:00"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "17:30",
+                    "summary": "Geyer: BW(BA)ABWL-BPS/S/01.2",
+                    "begin": "09:00"
+                }
+            ]
+        }
+    },
+    "05.03.224": {
+        "days": {
+            "Monday": [
+                {
+                    "end": "17:30",
+                    "summary": "Geyer: BW(BA)ABWL-BPS/S/01.1",
+                    "begin": "09:00"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "17:30",
+                    "summary": "Geyer: BW(BA)ABWL-BPS/S/01.3",
+                    "begin": "09:00"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "17:30",
+                    "summary": "Geyer: BW(BA)ABWL-BPS/S/01.2",
+                    "begin": "09:00"
+                }
+            ]
+        }
+    },
+    "05.03.201": {
+        "days": {
+            "Monday": [
+                {
+                    "end": "17:30",
+                    "summary": "Geyer: BW(BA)ABWL-BPS/S/01.1",
+                    "begin": "09:00"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "17:30",
+                    "summary": "Geyer: BW(BA)ABWL-BPS/S/01.3",
+                    "begin": "09:00"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "17:30",
+                    "summary": "Geyer: BW(BA)ABWL-BPS/S/01.2",
+                    "begin": "09:00"
+                }
+            ]
+        }
+    },
+    "05.03.36": {
+        "days": {
+            "Monday": [
+                {
+                    "end": "18:30",
+                    "summary": "Assfalg(BW): BW(BA)ABWL-UPS/S/01.1",
+                    "begin": "09:30"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "18:30",
+                    "summary": "Assfalg(BW): BW(BA)ABWL-UPS/S/01.3",
+                    "begin": "09:30"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "18:30",
+                    "summary": "Assfalg(BW): BW(BA)ABWL-UPS/S/01.2",
+                    "begin": "09:30"
+                }
+            ]
+        }
+    },
+    "05.03.203": {
+        "days": {
+            "Monday": [
+                {
+                    "end": "17:30",
+                    "summary": "Geyer: BW(BA)ABWL-BPS/S/01.1",
+                    "begin": "09:00"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "17:30",
+                    "summary": "Geyer: BW(BA)ABWL-BPS/S/01.3",
+                    "begin": "09:00"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "17:30",
+                    "summary": "Geyer: BW(BA)ABWL-BPS/S/01.2",
+                    "begin": "09:00"
+                }
+            ]
+        }
+    },
+    "04.-1.01(Aula)": {
+        "days": {
+            "Wednesday": [
+                {
+                    "end": "16:30",
+                    "summary": "Bliedtner: 07.03._3D-Druckforum",
+                    "begin": "08:30"
+                }
+            ]
+        }
+    },
+    "05.03.229": {
+        "days": {
+            "Monday": [
+                {
+                    "end": "17:30",
+                    "summary": "Geyer: BW(BA)ABWL-BPS/S/01.1",
+                    "begin": "09:00"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "17:30",
+                    "summary": "Geyer: BW(BA)ABWL-BPS/S/01.3",
+                    "begin": "09:00"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "17:30",
+                    "summary": "Geyer: BW(BA)ABWL-BPS/S/01.2",
                     "begin": "09:00"
                 }
             ]
