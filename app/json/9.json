@@ -1,16 +1,48 @@
 {
-    "05.03.11(SW)": {
+    "05.00.02": {
         "days": {
             "Saturday": [
                 {
+                    "end": "14:30",
+                    "summary": "Degle, S.: JenALL/HCM 2017/S/01.12",
+                    "begin": "09:00"
+                }
+            ],
+            "Sunday": [
+                {
                     "end": "18:00",
-                    "summary": "SW 1: SW(MA)Spiel-+Medienpäd./S/01.1",
+                    "summary": "Degle, S.: JenALL/BW f.AO 2017/S/01.1",
                     "begin": "08:00"
+                }
+            ],
+            "Friday": [
+                {
+                    "end": "19:30",
+                    "summary": "Degle, S.: JenALL/HCM 2017/S/01.11",
+                    "begin": "13:00"
                 }
             ]
         }
     },
     "05.00.06": {
+        "days": {
+            "Saturday": [
+                {
+                    "end": "14:30",
+                    "summary": "Degle, S.: JenALL/HCM 2017/S/01.12",
+                    "begin": "09:00"
+                }
+            ],
+            "Friday": [
+                {
+                    "end": "19:30",
+                    "summary": "Degle, S.: JenALL/HCM 2017/S/01.11",
+                    "begin": "13:00"
+                }
+            ]
+        }
+    },
+    "05.00.03": {
         "days": {
             "Saturday": [
                 {
@@ -46,49 +78,6 @@
             ]
         }
     },
-    "05.00.02": {
-        "days": {
-            "Saturday": [
-                {
-                    "end": "14:30",
-                    "summary": "Degle, S.: JenALL/HCM 2017/S/01.12",
-                    "begin": "09:00"
-                }
-            ],
-            "Friday": [
-                {
-                    "end": "19:30",
-                    "summary": "Degle, S.: JenALL/HCM 2017/S/01.11",
-                    "begin": "13:00"
-                }
-            ],
-            "Sunday": [
-                {
-                    "end": "18:00",
-                    "summary": "Degle, S.: JenALL/BW f.AO 2017/S/01.1",
-                    "begin": "08:00"
-                }
-            ]
-        }
-    },
-    "05.00.03": {
-        "days": {
-            "Saturday": [
-                {
-                    "end": "14:30",
-                    "summary": "Degle, S.: JenALL/HCM 2017/S/01.12",
-                    "begin": "09:00"
-                }
-            ],
-            "Friday": [
-                {
-                    "end": "19:30",
-                    "summary": "Degle, S.: JenALL/HCM 2017/S/01.11",
-                    "begin": "13:00"
-                }
-            ]
-        }
-    },
     "05.03.36": {
         "days": {
             "Monday": [
@@ -96,6 +85,35 @@
                     "end": "18:00",
                     "summary": "Degle, S.: JenALL/AO-Optom.2018/S/01.5",
                     "begin": "08:00"
+                }
+            ]
+        }
+    },
+    "05.03.11(SW)": {
+        "days": {
+            "Saturday": [
+                {
+                    "end": "18:00",
+                    "summary": "SW 1: SW(MA)Spiel-+Medienpäd./S/01.1",
+                    "begin": "08:00"
+                }
+            ]
+        }
+    },
+    "04.-1.01(Aula)": {
+        "days": {
+            "Saturday": [
+                {
+                    "end": "18:00",
+                    "summary": "Garzke: 03.03._Garzke_Prf. Ma",
+                    "begin": "09:00"
+                }
+            ],
+            "Friday": [
+                {
+                    "end": "18:00",
+                    "summary": "Garzke: 02.03._Garzke_Prf. Ma",
+                    "begin": "12:00"
                 }
             ]
         }
