@@ -1,27 +1,17 @@
 {
+    "05.03.01": {
+        "days": {
+            "Tuesday": [
+                {
+                    "end": "20:00",
+                    "summary": ": AG Fotoklub 78/V/01",
+                    "begin": "18:00"
+                }
+            ]
+        }
+    },
     "05.03.36": {
         "days": {
-            "Saturday": [
-                {
-                    "end": "18:00",
-                    "summary": "Degle, S.: JenALL/AO-Optom.2018/S/01.3",
-                    "begin": "08:00"
-                }
-            ],
-            "Sunday": [
-                {
-                    "end": "18:00",
-                    "summary": "Degle, S.: JenALL/AO-Optom.2018/S/01.4",
-                    "begin": "08:00"
-                }
-            ],
-            "Thursday": [
-                {
-                    "end": "18:00",
-                    "summary": "Degle, S.: JenALL/AO-Optom.2018/S/01.1",
-                    "begin": "08:00"
-                }
-            ],
             "Monday": [
                 {
                     "end": "18:00",
@@ -35,15 +25,18 @@
                     "summary": "Degle, S.: JenALL/AO-Optom.2018/S/01.2",
                     "begin": "08:00"
                 }
-            ]
-        }
-    },
-    "05.00.04": {
-        "days": {
+            ],
             "Saturday": [
                 {
                     "end": "18:00",
                     "summary": "Degle, S.: JenALL/AO-Optom.2018/S/01.3",
+                    "begin": "08:00"
+                }
+            ],
+            "Thursday": [
+                {
+                    "end": "18:00",
+                    "summary": "Degle, S.: JenALL/AO-Optom.2018/S/01.1",
                     "begin": "08:00"
                 }
             ],
@@ -56,6 +49,24 @@
             ]
         }
     },
+    "05.00.04": {
+        "days": {
+            "Sunday": [
+                {
+                    "end": "18:00",
+                    "summary": "Degle, S.: JenALL/AO-Optom.2018/S/01.4",
+                    "begin": "08:00"
+                }
+            ],
+            "Saturday": [
+                {
+                    "end": "18:00",
+                    "summary": "Degle, S.: JenALL/AO-Optom.2018/S/01.3",
+                    "begin": "08:00"
+                }
+            ]
+        }
+    },
     "05.00.02": {
         "days": {
             "Saturday": [
@@ -63,17 +74,6 @@
                     "end": "11:00",
                     "summary": "JenAll: JenALL/PIW 2016/APL/02",
                     "begin": "09:00"
-                }
-            ]
-        }
-    },
-    "05.03.01": {
-        "days": {
-            "Tuesday": [
-                {
-                    "end": "20:00",
-                    "summary": ": AG Fotoklub 78/V/01",
-                    "begin": "18:00"
                 }
             ]
         }
