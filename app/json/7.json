@@ -1,86 +1,18 @@
 {
-    "04.00.34": {
-        "days": {
-            "Monday": [
-                {
-                    "summary": "Herbst, U.: WI(MA)Lean Prod./S/P/01.1",
-                    "end": "20:00",
-                    "begin": "12:00"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "summary": "Herbst, U.: WI(MA)Lean Prod./S/P/01.2",
-                    "end": "20:00",
-                    "begin": "08:00"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "summary": "Herbst, U.: WI(MA)Lean Prod./S/P/01.3",
-                    "end": "17:00",
-                    "begin": "08:00"
-                }
-            ]
-        }
-    },
-    "05.03.36": {
-        "days": {
-            "Sunday": [
-                {
-                    "summary": "Degle, S.: JenALL/AO-Klin.Optom.2017/S/01.03",
-                    "end": "18:00",
-                    "begin": "08:00"
-                }
-            ],
-            "Friday": [
-                {
-                    "summary": "Degle, S.: JenALL/AO-Klin.Optom.2017/S/01.01",
-                    "end": "18:00",
-                    "begin": "08:00"
-                }
-            ],
-            "Saturday": [
-                {
-                    "summary": "Degle, S.: JenALL/AO-Klin.Optom.2017/S/01.02",
-                    "end": "18:00",
-                    "begin": "08:00"
-                }
-            ]
-        }
-    },
     "05.00.10": {
         "days": {
-            "Tuesday": [
-                {
-                    "summary": "ZVM: 13.02._Stoy-Schule/Vorträge",
-                    "end": "17:30",
-                    "begin": "08:30"
-                }
-            ],
             "Thursday": [
                 {
-                    "summary": "ZVM: 15.02._Stoy-Schule/Vorträge",
                     "end": "17:30",
+                    "summary": "ZVM: 15.02._Stoy-Schule/Vorträge",
                     "begin": "08:30"
                 }
-            ]
-        }
-    },
-    "05.00.04": {
-        "days": {
-            "Sunday": [
-                {
-                    "summary": "Degle, S.: JenALL/AO-Klin.Optom.2017/S/01.03",
-                    "end": "18:00",
-                    "begin": "08:00"
-                }
             ],
-            "Saturday": [
+            "Tuesday": [
                 {
-                    "summary": "Stoetzer, Enders, Haase: JenALL/GM/PIW 2017/APL/01",
-                    "end": "11:00",
-                    "begin": "09:00"
+                    "end": "17:30",
+                    "summary": "ZVM: 13.02._Stoy-Schule/Vorträge",
+                    "begin": "08:30"
                 }
             ]
         }
@@ -89,9 +21,34 @@
         "days": {
             "Saturday": [
                 {
-                    "summary": "SW: SW_UMA/S/01.3",
                     "end": "17:00",
+                    "summary": "SW: SW_UMA/S/01.3",
                     "begin": "08:00"
+                }
+            ]
+        }
+    },
+    "04.00.34": {
+        "days": {
+            "Wednesday": [
+                {
+                    "end": "17:00",
+                    "summary": "Herbst, U.: WI(MA)Lean Prod./S/P/01.3",
+                    "begin": "08:00"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "20:00",
+                    "summary": "Herbst, U.: WI(MA)Lean Prod./S/P/01.2",
+                    "begin": "08:00"
+                }
+            ],
+            "Monday": [
+                {
+                    "end": "20:00",
+                    "summary": "Herbst, U.: WI(MA)Lean Prod./S/P/01.1",
+                    "begin": "12:00"
                 }
             ]
         }
@@ -100,8 +57,8 @@
         "days": {
             "Saturday": [
                 {
-                    "summary": "Scheld: JenALL/HCM 2017/APL/02",
                     "end": "12:00",
+                    "summary": "Scheld: JenALL/HCM 2017/APL/02",
                     "begin": "09:00"
                 }
             ]
@@ -109,25 +66,68 @@
     },
     "04.00.28": {
         "days": {
-            "Monday": [
+            "Wednesday": [
                 {
-                    "summary": "Herbst, U.: WI(MA)Lean Prod./S/P/01.1",
-                    "end": "20:00",
-                    "begin": "12:00"
+                    "end": "17:00",
+                    "summary": "Herbst, U.: WI(MA)Lean Prod./S/P/01.3",
+                    "begin": "08:00"
                 }
             ],
             "Tuesday": [
                 {
-                    "summary": "Herbst, U.: WI(MA)Lean Prod./S/P/01.2",
                     "end": "20:00",
+                    "summary": "Herbst, U.: WI(MA)Lean Prod./S/P/01.2",
                     "begin": "08:00"
                 }
             ],
-            "Wednesday": [
+            "Monday": [
                 {
-                    "summary": "Herbst, U.: WI(MA)Lean Prod./S/P/01.3",
-                    "end": "17:00",
+                    "end": "20:00",
+                    "summary": "Herbst, U.: WI(MA)Lean Prod./S/P/01.1",
+                    "begin": "12:00"
+                }
+            ]
+        }
+    },
+    "05.03.36": {
+        "days": {
+            "Sunday": [
+                {
+                    "end": "18:00",
+                    "summary": "Degle, S.: JenALL/AO-Klin.Optom.2017/S/01.03",
                     "begin": "08:00"
+                }
+            ],
+            "Friday": [
+                {
+                    "end": "18:00",
+                    "summary": "Degle, S.: JenALL/AO-Klin.Optom.2017/S/01.01",
+                    "begin": "08:00"
+                }
+            ],
+            "Saturday": [
+                {
+                    "end": "18:00",
+                    "summary": "Degle, S.: JenALL/AO-Klin.Optom.2017/S/01.02",
+                    "begin": "08:00"
+                }
+            ]
+        }
+    },
+    "05.00.04": {
+        "days": {
+            "Sunday": [
+                {
+                    "end": "18:00",
+                    "summary": "Degle, S.: JenALL/AO-Klin.Optom.2017/S/01.03",
+                    "begin": "08:00"
+                }
+            ],
+            "Saturday": [
+                {
+                    "end": "11:00",
+                    "summary": "Stoetzer, Enders, Haase: JenALL/GM/PIW 2017/APL/01",
+                    "begin": "09:00"
                 }
             ]
         }
