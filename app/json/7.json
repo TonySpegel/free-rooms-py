@@ -1,11 +1,18 @@
 {
-    "05.01.32/33(SW)": {
+    "05.00.10": {
         "days": {
-            "Saturday": [
+            "Thursday": [
                 {
-                    "summary": "SW: SW_UMA/S/01.3",
-                    "begin": "08:00",
-                    "end": "17:00"
+                    "end": "17:30",
+                    "summary": "ZVM: 15.02._Stoy-Schule/Vorträge",
+                    "begin": "08:30"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "17:30",
+                    "summary": "ZVM: 13.02._Stoy-Schule/Vorträge",
+                    "begin": "08:30"
                 }
             ]
         }
@@ -14,16 +21,16 @@
         "days": {
             "Saturday": [
                 {
+                    "end": "11:00",
                     "summary": "Stoetzer, Enders, Haase: JenALL/GM/PIW 2017/APL/01",
-                    "begin": "09:00",
-                    "end": "11:00"
+                    "begin": "09:00"
                 }
             ],
             "Sunday": [
                 {
+                    "end": "18:00",
                     "summary": "Degle, S.: JenALL/AO-Klin.Optom.2017/S/01.03",
-                    "begin": "08:00",
-                    "end": "18:00"
+                    "begin": "08:00"
                 }
             ]
         }
@@ -32,23 +39,23 @@
         "days": {
             "Wednesday": [
                 {
+                    "end": "17:00",
                     "summary": "Herbst, U.: WI(MA)Lean Prod./S/P/01.3",
-                    "begin": "08:00",
-                    "end": "17:00"
-                }
-            ],
-            "Monday": [
-                {
-                    "summary": "Herbst, U.: WI(MA)Lean Prod./S/P/01.1",
-                    "begin": "12:00",
-                    "end": "20:00"
+                    "begin": "08:00"
                 }
             ],
             "Tuesday": [
                 {
+                    "end": "20:00",
                     "summary": "Herbst, U.: WI(MA)Lean Prod./S/P/01.2",
-                    "begin": "08:00",
-                    "end": "20:00"
+                    "begin": "08:00"
+                }
+            ],
+            "Monday": [
+                {
+                    "end": "20:00",
+                    "summary": "Herbst, U.: WI(MA)Lean Prod./S/P/01.1",
+                    "begin": "12:00"
                 }
             ]
         }
@@ -57,34 +64,34 @@
         "days": {
             "Saturday": [
                 {
+                    "end": "18:00",
                     "summary": "Degle, S.: JenALL/AO-Klin.Optom.2017/S/01.02",
-                    "begin": "08:00",
-                    "end": "18:00"
+                    "begin": "08:00"
                 }
             ],
             "Sunday": [
                 {
+                    "end": "18:00",
                     "summary": "Degle, S.: JenALL/AO-Klin.Optom.2017/S/01.03",
-                    "begin": "08:00",
-                    "end": "18:00"
+                    "begin": "08:00"
                 }
             ],
             "Friday": [
                 {
+                    "end": "18:00",
                     "summary": "Degle, S.: JenALL/AO-Klin.Optom.2017/S/01.01",
-                    "begin": "08:00",
-                    "end": "18:00"
+                    "begin": "08:00"
                 }
             ]
         }
     },
-    "05.00.02": {
+    "05.01.32/33(SW)": {
         "days": {
             "Saturday": [
                 {
-                    "summary": "Scheld: JenALL/HCM 2017/APL/02",
-                    "begin": "09:00",
-                    "end": "12:00"
+                    "end": "17:00",
+                    "summary": "SW: SW_UMA/S/01.3",
+                    "begin": "08:00"
                 }
             ]
         }
@@ -93,41 +100,34 @@
         "days": {
             "Wednesday": [
                 {
+                    "end": "17:00",
                     "summary": "Herbst, U.: WI(MA)Lean Prod./S/P/01.3",
-                    "begin": "08:00",
-                    "end": "17:00"
+                    "begin": "08:00"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "20:00",
+                    "summary": "Herbst, U.: WI(MA)Lean Prod./S/P/01.2",
+                    "begin": "08:00"
                 }
             ],
             "Monday": [
                 {
+                    "end": "20:00",
                     "summary": "Herbst, U.: WI(MA)Lean Prod./S/P/01.1",
-                    "begin": "12:00",
-                    "end": "20:00"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "summary": "Herbst, U.: WI(MA)Lean Prod./S/P/01.2",
-                    "begin": "08:00",
-                    "end": "20:00"
+                    "begin": "12:00"
                 }
             ]
         }
     },
-    "05.00.10": {
+    "05.00.02": {
         "days": {
-            "Thursday": [
+            "Saturday": [
                 {
-                    "summary": "ZVM: 15.02._Stoy-Schule/Vorträge",
-                    "begin": "08:30",
-                    "end": "17:30"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "summary": "ZVM: 13.02._Stoy-Schule/Vorträge",
-                    "begin": "08:30",
-                    "end": "17:30"
+                    "end": "12:00",
+                    "summary": "Scheld: JenALL/HCM 2017/APL/02",
+                    "begin": "09:00"
                 }
             ]
         }
