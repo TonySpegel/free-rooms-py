@@ -1,99 +1,24 @@
 {
-    "05.03.201": {
-        "days": {
-            "Wednesday": [
-                {
-                    "end": "16:30",
-                    "summary": "Lautenschläger: BW(BA)GPS TOPSIM easyStartUp!/S/01.3",
-                    "begin": "09:30"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "end": "16:30",
-                    "summary": "Lautenschläger: BW(BA)GPS TOPSIM easyStartUp!/S/01.2",
-                    "begin": "09:30"
-                }
-            ],
-            "Monday": [
-                {
-                    "end": "16:30",
-                    "summary": "Lautenschläger: BW(BA)GPS TOPSIM easyStartUp!/S/01.1",
-                    "begin": "09:30"
-                }
-            ]
-        }
-    },
     "05.03.203": {
         "days": {
-            "Wednesday": [
+            "Monday": [
                 {
+                    "summary": "Lautenschläger: BW(BA)GPS TOPSIM easyStartUp!/S/01.1",
                     "end": "16:30",
-                    "summary": "Lautenschläger: BW(BA)GPS TOPSIM easyStartUp!/S/01.3",
                     "begin": "09:30"
                 }
             ],
             "Tuesday": [
                 {
-                    "end": "16:30",
                     "summary": "Lautenschläger: BW(BA)GPS TOPSIM easyStartUp!/S/01.2",
+                    "end": "16:30",
                     "begin": "09:30"
                 }
             ],
-            "Monday": [
-                {
-                    "end": "16:30",
-                    "summary": "Lautenschläger: BW(BA)GPS TOPSIM easyStartUp!/S/01.1",
-                    "begin": "09:30"
-                }
-            ]
-        }
-    },
-    "05.03.206": {
-        "days": {
             "Wednesday": [
                 {
-                    "end": "16:30",
                     "summary": "Lautenschläger: BW(BA)GPS TOPSIM easyStartUp!/S/01.3",
-                    "begin": "09:30"
-                }
-            ],
-            "Tuesday": [
-                {
                     "end": "16:30",
-                    "summary": "Lautenschläger: BW(BA)GPS TOPSIM easyStartUp!/S/01.2",
-                    "begin": "09:30"
-                }
-            ],
-            "Monday": [
-                {
-                    "end": "16:30",
-                    "summary": "Lautenschläger: BW(BA)GPS TOPSIM easyStartUp!/S/01.1",
-                    "begin": "09:30"
-                }
-            ]
-        }
-    },
-    "05.03.202": {
-        "days": {
-            "Wednesday": [
-                {
-                    "end": "16:30",
-                    "summary": "Lautenschläger: BW(BA)GPS TOPSIM easyStartUp!/S/01.3",
-                    "begin": "09:30"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "end": "16:30",
-                    "summary": "Lautenschläger: BW(BA)GPS TOPSIM easyStartUp!/S/01.2",
-                    "begin": "09:30"
-                }
-            ],
-            "Monday": [
-                {
-                    "end": "16:30",
-                    "summary": "Lautenschläger: BW(BA)GPS TOPSIM easyStartUp!/S/01.1",
                     "begin": "09:30"
                 }
             ]
@@ -101,24 +26,99 @@
     },
     "05.03.204": {
         "days": {
-            "Wednesday": [
+            "Monday": [
                 {
+                    "summary": "Lautenschläger: BW(BA)GPS TOPSIM easyStartUp!/S/01.1",
                     "end": "16:30",
-                    "summary": "Lautenschläger: BW(BA)GPS TOPSIM easyStartUp!/S/01.3",
                     "begin": "09:30"
                 }
             ],
             "Tuesday": [
                 {
-                    "end": "16:30",
                     "summary": "Lautenschläger: BW(BA)GPS TOPSIM easyStartUp!/S/01.2",
+                    "end": "16:30",
                     "begin": "09:30"
                 }
             ],
+            "Wednesday": [
+                {
+                    "summary": "Lautenschläger: BW(BA)GPS TOPSIM easyStartUp!/S/01.3",
+                    "end": "16:30",
+                    "begin": "09:30"
+                }
+            ]
+        }
+    },
+    "05.03.202": {
+        "days": {
             "Monday": [
                 {
-                    "end": "16:30",
                     "summary": "Lautenschläger: BW(BA)GPS TOPSIM easyStartUp!/S/01.1",
+                    "end": "16:30",
+                    "begin": "09:30"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "summary": "Lautenschläger: BW(BA)GPS TOPSIM easyStartUp!/S/01.2",
+                    "end": "16:30",
+                    "begin": "09:30"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "summary": "Lautenschläger: BW(BA)GPS TOPSIM easyStartUp!/S/01.3",
+                    "end": "16:30",
+                    "begin": "09:30"
+                }
+            ]
+        }
+    },
+    "05.03.206": {
+        "days": {
+            "Monday": [
+                {
+                    "summary": "Lautenschläger: BW(BA)GPS TOPSIM easyStartUp!/S/01.1",
+                    "end": "16:30",
+                    "begin": "09:30"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "summary": "Lautenschläger: BW(BA)GPS TOPSIM easyStartUp!/S/01.2",
+                    "end": "16:30",
+                    "begin": "09:30"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "summary": "Lautenschläger: BW(BA)GPS TOPSIM easyStartUp!/S/01.3",
+                    "end": "16:30",
+                    "begin": "09:30"
+                }
+            ]
+        }
+    },
+    "05.03.201": {
+        "days": {
+            "Monday": [
+                {
+                    "summary": "Lautenschläger: BW(BA)GPS TOPSIM easyStartUp!/S/01.1",
+                    "end": "16:30",
+                    "begin": "09:30"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "summary": "Lautenschläger: BW(BA)GPS TOPSIM easyStartUp!/S/01.2",
+                    "end": "16:30",
+                    "begin": "09:30"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "summary": "Lautenschläger: BW(BA)GPS TOPSIM easyStartUp!/S/01.3",
+                    "end": "16:30",
                     "begin": "09:30"
                 }
             ]
