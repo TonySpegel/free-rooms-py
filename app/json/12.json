@@ -1,86 +1,29 @@
 {
-    "04.-1.01(Aula)": {
+    "05.03.01": {
         "days": {
-            "Friday": [
-                {
-                    "summary": "ZVM: 23.03._WI_e-Comm.Camp.",
-                    "end": "16:30",
-                    "begin": "08:30"
-                }
-            ],
-            "Saturday": [
-                {
-                    "summary": "ZVM: 24.03._WI_e-Comm.Camp.",
-                    "end": "16:30",
-                    "begin": "08:30"
-                }
-            ]
-        }
-    },
-    "01.02.11": {
-        "days": {
-            "Monday": [
-                {
-                    "summary": "Wolfrum (SciTec): SciTec/Soft Skills/Gespr.fhrg../S/01.1",
-                    "end": "15:00",
-                    "begin": "09:00"
-                }
-            ],
-            "Thursday": [
-                {
-                    "summary": "Wolfrum (SciTec): SciTec/Soft Skills/Gespr.fhrg../S/01.4",
-                    "end": "15:00",
-                    "begin": "09:00"
-                }
-            ],
-            "Friday": [
-                {
-                    "summary": "Wolfrum (SciTec): SciTec/Soft Skills/Gespr.fhrg../S/01.5",
-                    "end": "15:00",
-                    "begin": "09:00"
-                }
-            ],
             "Tuesday": [
                 {
-                    "summary": "Wolfrum (SciTec): SciTec/Soft Skills/Gespr.fhrg../S/01.2",
-                    "end": "15:00",
-                    "begin": "09:00"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "summary": "Wolfrum (SciTec): SciTec/Soft Skills/Gespr.fhrg../S/01.3",
-                    "end": "15:00",
-                    "begin": "09:00"
+                    "summary": ": AG Fotoklub 78/V/01",
+                    "begin": "18:00",
+                    "end": "20:00"
                 }
             ]
         }
     },
-    "04.03.07": {
+    "04.03.12": {
         "days": {
-            "Friday": [
-                {
-                    "summary": "ZVM: 23.03._WI_e-Comm.Camp.",
-                    "end": "16:30",
-                    "begin": "08:30"
-                }
-            ],
             "Saturday": [
                 {
                     "summary": "ZVM: 24.03._WI_e-Comm.Camp.",
-                    "end": "16:30",
-                    "begin": "08:30"
+                    "begin": "08:30",
+                    "end": "16:30"
                 }
-            ]
-        }
-    },
-    "05.03.11(SW)": {
-        "days": {
-            "Saturday": [
+            ],
+            "Friday": [
                 {
-                    "summary": "SW 1: SW(MA)Spiel-+Medienpäd./S/01.1",
-                    "end": "18:00",
-                    "begin": "08:00"
+                    "summary": "ZVM: 23.03._WI_e-Comm.Camp.",
+                    "begin": "08:30",
+                    "end": "16:30"
                 }
             ]
         }
@@ -90,91 +33,148 @@
             "Monday": [
                 {
                     "summary": "Degle, S.: JenALL/AO-Optom.2018/S/01.9a",
-                    "end": "18:00",
-                    "begin": "08:00"
+                    "begin": "08:00",
+                    "end": "18:00"
                 }
             ]
         }
     },
-    "04.03.10": {
+    "01.02.11": {
         "days": {
-            "Friday": [
+            "Wednesday": [
                 {
-                    "summary": "ZVM: 23.03._WI_e-Comm.Camp.",
-                    "end": "16:30",
-                    "begin": "08:30"
+                    "summary": "Wolfrum (SciTec): SciTec/Soft Skills/Gespr.fhrg../S/01.3",
+                    "begin": "09:00",
+                    "end": "15:00"
                 }
             ],
-            "Saturday": [
-                {
-                    "summary": "ZVM: 24.03._WI_e-Comm.Camp.",
-                    "end": "16:30",
-                    "begin": "08:30"
-                }
-            ]
-        }
-    },
-    "05.03.01": {
-        "days": {
             "Tuesday": [
                 {
-                    "summary": ": AG Fotoklub 78/V/01",
-                    "end": "20:00",
-                    "begin": "18:00"
-                }
-            ]
-        }
-    },
-    "04.00.01 (HS6)": {
-        "days": {
-            "Friday": [
-                {
-                    "summary": "ZVM: 23.03._WI_e-Comm.Camp.",
-                    "end": "16:30",
-                    "begin": "08:30"
+                    "summary": "Wolfrum (SciTec): SciTec/Soft Skills/Gespr.fhrg../S/01.2",
+                    "begin": "09:00",
+                    "end": "15:00"
                 }
             ],
-            "Saturday": [
+            "Monday": [
                 {
-                    "summary": "ZVM: 24.03._WI_e-Comm.Camp.",
-                    "end": "16:30",
-                    "begin": "08:30"
+                    "summary": "Wolfrum (SciTec): SciTec/Soft Skills/Gespr.fhrg../S/01.1",
+                    "begin": "09:00",
+                    "end": "15:00"
+                }
+            ],
+            "Friday": [
+                {
+                    "summary": "Wolfrum (SciTec): SciTec/Soft Skills/Gespr.fhrg../S/01.5",
+                    "begin": "09:00",
+                    "end": "15:00"
+                }
+            ],
+            "Thursday": [
+                {
+                    "summary": "Wolfrum (SciTec): SciTec/Soft Skills/Gespr.fhrg../S/01.4",
+                    "begin": "09:00",
+                    "end": "15:00"
                 }
             ]
         }
     },
     "04.03.11": {
         "days": {
-            "Friday": [
-                {
-                    "summary": "ZVM: 23.03._WI_e-Comm.Camp.",
-                    "end": "16:30",
-                    "begin": "08:30"
-                }
-            ],
             "Saturday": [
                 {
                     "summary": "ZVM: 24.03._WI_e-Comm.Camp.",
-                    "end": "16:30",
-                    "begin": "08:30"
+                    "begin": "08:30",
+                    "end": "16:30"
+                }
+            ],
+            "Friday": [
+                {
+                    "summary": "ZVM: 23.03._WI_e-Comm.Camp.",
+                    "begin": "08:30",
+                    "end": "16:30"
                 }
             ]
         }
     },
-    "04.03.12": {
+    "05.03.11(SW)": {
         "days": {
-            "Friday": [
+            "Saturday": [
                 {
-                    "summary": "ZVM: 23.03._WI_e-Comm.Camp.",
-                    "end": "16:30",
-                    "begin": "08:30"
+                    "summary": "SW 1: SW(MA)Spiel-+Medienpäd./S/01.1",
+                    "begin": "08:00",
+                    "end": "18:00"
                 }
-            ],
+            ]
+        }
+    },
+    "04.03.10": {
+        "days": {
             "Saturday": [
                 {
                     "summary": "ZVM: 24.03._WI_e-Comm.Camp.",
-                    "end": "16:30",
-                    "begin": "08:30"
+                    "begin": "08:30",
+                    "end": "16:30"
+                }
+            ],
+            "Friday": [
+                {
+                    "summary": "ZVM: 23.03._WI_e-Comm.Camp.",
+                    "begin": "08:30",
+                    "end": "16:30"
+                }
+            ]
+        }
+    },
+    "04.03.07": {
+        "days": {
+            "Saturday": [
+                {
+                    "summary": "ZVM: 24.03._WI_e-Comm.Camp.",
+                    "begin": "08:30",
+                    "end": "16:30"
+                }
+            ],
+            "Friday": [
+                {
+                    "summary": "ZVM: 23.03._WI_e-Comm.Camp.",
+                    "begin": "08:30",
+                    "end": "16:30"
+                }
+            ]
+        }
+    },
+    "04.00.01 (HS6)": {
+        "days": {
+            "Saturday": [
+                {
+                    "summary": "ZVM: 24.03._WI_e-Comm.Camp.",
+                    "begin": "08:30",
+                    "end": "16:30"
+                }
+            ],
+            "Friday": [
+                {
+                    "summary": "ZVM: 23.03._WI_e-Comm.Camp.",
+                    "begin": "08:30",
+                    "end": "16:30"
+                }
+            ]
+        }
+    },
+    "04.-1.01(Aula)": {
+        "days": {
+            "Saturday": [
+                {
+                    "summary": "ZVM: 24.03._WI_e-Comm.Camp.",
+                    "begin": "08:30",
+                    "end": "16:30"
+                }
+            ],
+            "Friday": [
+                {
+                    "summary": "ZVM: 23.03._WI_e-Comm.Camp.",
+                    "begin": "08:30",
+                    "end": "16:30"
                 }
             ]
         }
