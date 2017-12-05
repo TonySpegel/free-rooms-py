@@ -1,9 +1,45 @@
 {
-    "05.03.36": {
+    "05.03.28": {
         "days": {
+            "Wednesday": [
+                {
+                    "summary": "Leitzgen: BW(BA)ABWL-Wirtsch.Eth./PL/01",
+                    "end": "11:00",
+                    "begin": "10:00"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "summary": "Bösch: BW(BA)ABWL-Ess.FiWi/PL/01",
+                    "end": "15:00",
+                    "begin": "14:00"
+                }
+            ],
             "Friday": [
                 {
-                    "summary": "Degle, S.: JenALL/AO-Optom.2018/S/01.2",
+                    "summary": "Leitzgen: BW(BA)E/K/USt/PL/01",
+                    "end": "11:00",
+                    "begin": "08:00"
+                }
+            ]
+        }
+    },
+    "05.00.10": {
+        "days": {
+            "Monday": [
+                {
+                    "summary": "Stodolka(BW): BW(BA)Client/Server Techn./PL/01",
+                    "end": "15:00",
+                    "begin": "14:00"
+                }
+            ]
+        }
+    },
+    "05.03.36": {
+        "days": {
+            "Monday": [
+                {
+                    "summary": "Degle, S.: JenALL/AO-Klin.Optom.2017/S/01.04",
                     "end": "18:00",
                     "begin": "08:00"
                 }
@@ -15,16 +51,16 @@
                     "begin": "08:00"
                 }
             ],
-            "Monday": [
+            "Thursday": [
                 {
-                    "summary": "Degle, S.: JenALL/AO-Klin.Optom.2017/S/01.04",
+                    "summary": "Degle, S.: JenALL/AO-Optom.2018/S/01.1",
                     "end": "18:00",
                     "begin": "08:00"
                 }
             ],
-            "Thursday": [
+            "Friday": [
                 {
-                    "summary": "Degle, S.: JenALL/AO-Optom.2018/S/01.1",
+                    "summary": "Degle, S.: JenALL/AO-Optom.2018/S/01.2",
                     "end": "18:00",
                     "begin": "08:00"
                 }
@@ -38,6 +74,17 @@
             ]
         }
     },
+    "05.00.02": {
+        "days": {
+            "Saturday": [
+                {
+                    "summary": "JenAll: JenALL/PIW 2016/APL/02",
+                    "end": "11:00",
+                    "begin": "09:00"
+                }
+            ]
+        }
+    },
     "05.03.01": {
         "days": {
             "Tuesday": [
@@ -45,6 +92,24 @@
                     "summary": ": AG Fotoklub 78/V/01",
                     "end": "20:00",
                     "begin": "18:00"
+                }
+            ]
+        }
+    },
+    "05.03.33": {
+        "days": {
+            "Tuesday": [
+                {
+                    "summary": "Klaus, Enders, Bösch: BW(MA)Mergers+Acquis./PL/01",
+                    "end": "15:00",
+                    "begin": "14:00"
+                }
+            ],
+            "Friday": [
+                {
+                    "summary": "Leitzgen: BW(MA)KSR/PL/01",
+                    "end": "15:00",
+                    "begin": "14:00"
                 }
             ]
         }
@@ -67,13 +132,77 @@
             ]
         }
     },
-    "05.00.02": {
+    "04.00.01 (HS6)": {
         "days": {
-            "Saturday": [
+            "Monday": [
                 {
-                    "summary": "JenAll: JenALL/PIW 2016/APL/02",
-                    "end": "11:00",
-                    "begin": "09:00"
+                    "summary": "Watzka: BW(BA)PersoWi/PL/01",
+                    "end": "12:00",
+                    "begin": "10:00"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "summary": "Stodolka(BW): BW(BA)SWEntw.+PM/PL/01",
+                    "end": "09:30",
+                    "begin": "08:00"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "summary": "Schuhknecht, Kutzbora: BW(BA)Eng I/PL/01",
+                    "end": "10:00",
+                    "begin": "08:00"
+                }
+            ],
+            "Friday": [
+                {
+                    "summary": "Lehmann(BW): BW(BA)Buchf./PL/01",
+                    "end": "13:30",
+                    "begin": "12:00"
+                }
+            ]
+        }
+    },
+    "01.02.12": {
+        "days": {
+            "Thursday": [
+                {
+                    "summary": "Geyer, Bösch: BW(BA)Finanzth./PL/01",
+                    "end": "17:00",
+                    "begin": "14:00"
+                }
+            ]
+        }
+    },
+    "04.00.02 (HS7)": {
+        "days": {
+            "Monday": [
+                {
+                    "summary": "Watzka: BW(BA)PersoWi/PL/01",
+                    "end": "12:00",
+                    "begin": "10:00"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "summary": "Stodolka(BW): BW(BA)SWEntw.+PM/PL/01",
+                    "end": "09:30",
+                    "begin": "08:00"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "summary": "Schuhknecht, Kutzbora: BW(BA)Eng I/PL/01",
+                    "end": "10:00",
+                    "begin": "08:00"
+                }
+            ],
+            "Friday": [
+                {
+                    "summary": "Lehmann(BW): BW(BA)Buchf./PL/01",
+                    "end": "13:30",
+                    "begin": "12:00"
                 }
             ]
         }

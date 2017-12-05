@@ -1,18 +1,25 @@
 {
-    "05.00.06": {
+    "05.00.10": {
         "days": {
-            "Friday": [
+            "Monday": [
                 {
-                    "summary": "Degle, S.: JenALL/HCM 2017/S/01.11",
-                    "end": "19:30",
-                    "begin": "13:00"
+                    "summary": "Ephrosi(BW): BW(BA)ABWL-Strat.Man./PL/01",
+                    "end": "11:00",
+                    "begin": "10:00"
                 }
             ],
-            "Saturday": [
+            "Tuesday": [
                 {
-                    "summary": "Degle, S.: JenALL/HCM 2017/S/01.12",
-                    "end": "14:30",
-                    "begin": "09:00"
+                    "summary": "Görg, Enders: BW(BA)Spez.Kenntn.WR/PL/01",
+                    "end": "17:00",
+                    "begin": "14:00"
+                }
+            ],
+            "Thursday": [
+                {
+                    "summary": "Buerke: BW(BA)Marktg.ana/-instr.II/PL/01",
+                    "end": "15:00",
+                    "begin": "14:00"
                 }
             ]
         }
@@ -24,6 +31,96 @@
                     "summary": "Degle, S.: JenALL/AO-Optom.2018/S/01.5",
                     "end": "18:00",
                     "begin": "08:00"
+                }
+            ]
+        }
+    },
+    "05.00.02": {
+        "days": {
+            "Saturday": [
+                {
+                    "summary": "Degle, S.: JenALL/HCM 2017/S/01.12",
+                    "end": "14:30",
+                    "begin": "09:00"
+                }
+            ],
+            "Sunday": [
+                {
+                    "summary": "Degle, S.: JenALL/BW f.AO 2017/S/01.1",
+                    "end": "18:00",
+                    "begin": "08:00"
+                }
+            ],
+            "Friday": [
+                {
+                    "summary": "Degle, S.: JenALL/HCM 2017/S/01.11",
+                    "end": "19:30",
+                    "begin": "13:00"
+                }
+            ]
+        }
+    },
+    "04.-1.01(Aula)": {
+        "days": {
+            "Saturday": [
+                {
+                    "summary": "Garzke: 03.03._Garzke_Prf. Ma",
+                    "end": "18:00",
+                    "begin": "09:00"
+                }
+            ],
+            "Friday": [
+                {
+                    "summary": "Garzke: 02.03._Garzke_Prf. Ma",
+                    "end": "18:00",
+                    "begin": "12:00"
+                }
+            ]
+        }
+    },
+    "05.03.11(SW)": {
+        "days": {
+            "Saturday": [
+                {
+                    "summary": "SW 1: SW(MA)Spiel-+Medienpäd./S/01.1",
+                    "end": "18:00",
+                    "begin": "08:00"
+                }
+            ]
+        }
+    },
+    "05.00.06": {
+        "days": {
+            "Saturday": [
+                {
+                    "summary": "Degle, S.: JenALL/HCM 2017/S/01.12",
+                    "end": "14:30",
+                    "begin": "09:00"
+                }
+            ],
+            "Friday": [
+                {
+                    "summary": "Degle, S.: JenALL/HCM 2017/S/01.11",
+                    "end": "19:30",
+                    "begin": "13:00"
+                }
+            ]
+        }
+    },
+    "05.00.03": {
+        "days": {
+            "Saturday": [
+                {
+                    "summary": "Degle, S.: JenALL/HCM 2017/S/01.12",
+                    "end": "14:30",
+                    "begin": "09:00"
+                }
+            ],
+            "Friday": [
+                {
+                    "summary": "Degle, S.: JenALL/HCM 2017/S/01.11",
+                    "end": "19:30",
+                    "begin": "13:00"
                 }
             ]
         }
@@ -46,74 +143,63 @@
             ]
         }
     },
-    "05.00.02": {
+    "04.00.01 (HS6)": {
         "days": {
-            "Friday": [
+            "Wednesday": [
                 {
-                    "summary": "Degle, S.: JenALL/HCM 2017/S/01.11",
-                    "end": "19:30",
-                    "begin": "13:00"
-                }
-            ],
-            "Saturday": [
-                {
-                    "summary": "Degle, S.: JenALL/HCM 2017/S/01.12",
-                    "end": "14:30",
-                    "begin": "09:00"
-                }
-            ],
-            "Sunday": [
-                {
-                    "summary": "Degle, S.: JenALL/BW f.AO 2017/S/01.1",
-                    "end": "18:00",
-                    "begin": "08:00"
-                }
-            ]
-        }
-    },
-    "04.-1.01(Aula)": {
-        "days": {
-            "Friday": [
-                {
-                    "summary": "Garzke: 02.03._Garzke_Prf. Ma",
-                    "end": "18:00",
+                    "summary": "Kempka, Walther M.: BW(BA)Ma/Stat./PL/01",
+                    "end": "14:00",
                     "begin": "12:00"
                 }
             ],
-            "Saturday": [
+            "Tuesday": [
                 {
-                    "summary": "Garzke: 03.03._Garzke_Prf. Ma",
-                    "end": "18:00",
-                    "begin": "09:00"
-                }
-            ]
-        }
-    },
-    "05.03.11(SW)": {
-        "days": {
-            "Saturday": [
-                {
-                    "summary": "SW 1: SW(MA)Spiel-+Medienpäd./S/01.1",
-                    "end": "18:00",
+                    "summary": "Görg: BW(BA)Recht II/PL/01",
+                    "end": "09:30",
                     "begin": "08:00"
                 }
+            ],
+            "Thursday": [
+                {
+                    "summary": "Magerhans: BW(BA)Marktg./PL/01",
+                    "end": "11:30",
+                    "begin": "10:00"
+                }
             ]
         }
     },
-    "05.00.03": {
+    "01.02.12": {
         "days": {
-            "Friday": [
+            "Thursday": [
                 {
-                    "summary": "Degle, S.: JenALL/HCM 2017/S/01.11",
-                    "end": "19:30",
-                    "begin": "13:00"
+                    "summary": "Assfalg(BW): BW(MA)Strat.Ent.spielth.Basis/PL/01",
+                    "end": "15:00",
+                    "begin": "14:00"
+                }
+            ]
+        }
+    },
+    "04.00.02 (HS7)": {
+        "days": {
+            "Wednesday": [
+                {
+                    "summary": "Kempka, Walther M.: BW(BA)Ma/Stat./PL/01",
+                    "end": "14:00",
+                    "begin": "12:00"
                 }
             ],
-            "Saturday": [
+            "Tuesday": [
                 {
-                    "summary": "Degle, S.: JenALL/HCM 2017/S/01.12",
-                    "end": "14:30",
-                    "begin": "09:00"
+                    "summary": "Görg: BW(BA)Recht II/PL/01",
+                    "end": "09:30",
+                    "begin": "08:00"
+                }
+            ],
+            "Thursday": [
+                {
+                    "summary": "Magerhans: BW(BA)Marktg./PL/01",
+                    "end": "11:30",
+                    "begin": "10:00"
                 }
             ]
         }

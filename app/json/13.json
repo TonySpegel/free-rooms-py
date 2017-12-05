@@ -1,13 +1,6 @@
 {
     "05.03.204": {
         "days": {
-            "Tuesday": [
-                {
-                    "summary": "Lautenschläger: BW(BA)GPS TOPSIM easyStartUp!/S/01.2",
-                    "end": "16:30",
-                    "begin": "09:30"
-                }
-            ],
             "Monday": [
                 {
                     "summary": "Lautenschläger: BW(BA)GPS TOPSIM easyStartUp!/S/01.1",
@@ -21,78 +14,10 @@
                     "end": "16:30",
                     "begin": "09:30"
                 }
-            ]
-        }
-    },
-    "05.03.206": {
-        "days": {
+            ],
             "Tuesday": [
                 {
                     "summary": "Lautenschläger: BW(BA)GPS TOPSIM easyStartUp!/S/01.2",
-                    "end": "16:30",
-                    "begin": "09:30"
-                }
-            ],
-            "Monday": [
-                {
-                    "summary": "Lautenschläger: BW(BA)GPS TOPSIM easyStartUp!/S/01.1",
-                    "end": "16:30",
-                    "begin": "09:30"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "summary": "Lautenschläger: BW(BA)GPS TOPSIM easyStartUp!/S/01.3",
-                    "end": "16:30",
-                    "begin": "09:30"
-                }
-            ]
-        }
-    },
-    "05.03.201": {
-        "days": {
-            "Tuesday": [
-                {
-                    "summary": "Lautenschläger: BW(BA)GPS TOPSIM easyStartUp!/S/01.2",
-                    "end": "16:30",
-                    "begin": "09:30"
-                }
-            ],
-            "Monday": [
-                {
-                    "summary": "Lautenschläger: BW(BA)GPS TOPSIM easyStartUp!/S/01.1",
-                    "end": "16:30",
-                    "begin": "09:30"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "summary": "Lautenschläger: BW(BA)GPS TOPSIM easyStartUp!/S/01.3",
-                    "end": "16:30",
-                    "begin": "09:30"
-                }
-            ]
-        }
-    },
-    "05.03.202": {
-        "days": {
-            "Tuesday": [
-                {
-                    "summary": "Lautenschläger: BW(BA)GPS TOPSIM easyStartUp!/S/01.2",
-                    "end": "16:30",
-                    "begin": "09:30"
-                }
-            ],
-            "Monday": [
-                {
-                    "summary": "Lautenschläger: BW(BA)GPS TOPSIM easyStartUp!/S/01.1",
-                    "end": "16:30",
-                    "begin": "09:30"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "summary": "Lautenschläger: BW(BA)GPS TOPSIM easyStartUp!/S/01.3",
                     "end": "16:30",
                     "begin": "09:30"
                 }
@@ -101,13 +26,6 @@
     },
     "05.03.203": {
         "days": {
-            "Tuesday": [
-                {
-                    "summary": "Lautenschläger: BW(BA)GPS TOPSIM easyStartUp!/S/01.2",
-                    "end": "16:30",
-                    "begin": "09:30"
-                }
-            ],
             "Monday": [
                 {
                     "summary": "Lautenschläger: BW(BA)GPS TOPSIM easyStartUp!/S/01.1",
@@ -118,6 +36,88 @@
             "Wednesday": [
                 {
                     "summary": "Lautenschläger: BW(BA)GPS TOPSIM easyStartUp!/S/01.3",
+                    "end": "16:30",
+                    "begin": "09:30"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "summary": "Lautenschläger: BW(BA)GPS TOPSIM easyStartUp!/S/01.2",
+                    "end": "16:30",
+                    "begin": "09:30"
+                }
+            ]
+        }
+    },
+    "05.03.202": {
+        "days": {
+            "Monday": [
+                {
+                    "summary": "Lautenschläger: BW(BA)GPS TOPSIM easyStartUp!/S/01.1",
+                    "end": "16:30",
+                    "begin": "09:30"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "summary": "Lautenschläger: BW(BA)GPS TOPSIM easyStartUp!/S/01.3",
+                    "end": "16:30",
+                    "begin": "09:30"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "summary": "Lautenschläger: BW(BA)GPS TOPSIM easyStartUp!/S/01.2",
+                    "end": "16:30",
+                    "begin": "09:30"
+                }
+            ]
+        }
+    },
+    "05.03.201": {
+        "days": {
+            "Monday": [
+                {
+                    "summary": "Lautenschläger: BW(BA)GPS TOPSIM easyStartUp!/S/01.1",
+                    "end": "16:30",
+                    "begin": "09:30"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "summary": "Lautenschläger: BW(BA)GPS TOPSIM easyStartUp!/S/01.3",
+                    "end": "16:30",
+                    "begin": "09:30"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "summary": "Lautenschläger: BW(BA)GPS TOPSIM easyStartUp!/S/01.2",
+                    "end": "16:30",
+                    "begin": "09:30"
+                }
+            ]
+        }
+    },
+    "05.03.206": {
+        "days": {
+            "Monday": [
+                {
+                    "summary": "Lautenschläger: BW(BA)GPS TOPSIM easyStartUp!/S/01.1",
+                    "end": "16:30",
+                    "begin": "09:30"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "summary": "Lautenschläger: BW(BA)GPS TOPSIM easyStartUp!/S/01.3",
+                    "end": "16:30",
+                    "begin": "09:30"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "summary": "Lautenschläger: BW(BA)GPS TOPSIM easyStartUp!/S/01.2",
                     "end": "16:30",
                     "begin": "09:30"
                 }

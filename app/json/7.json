@@ -1,38 +1,6 @@
 {
-    "05.03.36": {
+    "04.00.34": {
         "days": {
-            "Friday": [
-                {
-                    "summary": "Degle, S.: JenALL/AO-Klin.Optom.2017/S/01.01",
-                    "end": "18:00",
-                    "begin": "08:00"
-                }
-            ],
-            "Saturday": [
-                {
-                    "summary": "Degle, S.: JenALL/AO-Klin.Optom.2017/S/01.02",
-                    "end": "18:00",
-                    "begin": "08:00"
-                }
-            ],
-            "Sunday": [
-                {
-                    "summary": "Degle, S.: JenALL/AO-Klin.Optom.2017/S/01.03",
-                    "end": "18:00",
-                    "begin": "08:00"
-                }
-            ]
-        }
-    },
-    "04.00.28": {
-        "days": {
-            "Tuesday": [
-                {
-                    "summary": "Herbst, U.: WI(MA)Lean Prod./S/P/01.2",
-                    "end": "20:00",
-                    "begin": "08:00"
-                }
-            ],
             "Monday": [
                 {
                     "summary": "Herbst, U.: WI(MA)Lean Prod./S/P/01.1",
@@ -46,6 +14,13 @@
                     "end": "17:00",
                     "begin": "08:00"
                 }
+            ],
+            "Tuesday": [
+                {
+                    "summary": "Herbst, U.: WI(MA)Lean Prod./S/P/01.2",
+                    "end": "20:00",
+                    "begin": "08:00"
+                }
             ]
         }
     },
@@ -56,6 +31,77 @@
                     "summary": "SW: SW_UMA/S/01.3",
                     "end": "17:00",
                     "begin": "08:00"
+                }
+            ]
+        }
+    },
+    "05.03.36": {
+        "days": {
+            "Saturday": [
+                {
+                    "summary": "Degle, S.: JenALL/AO-Klin.Optom.2017/S/01.02",
+                    "end": "18:00",
+                    "begin": "08:00"
+                }
+            ],
+            "Sunday": [
+                {
+                    "summary": "Degle, S.: JenALL/AO-Klin.Optom.2017/S/01.03",
+                    "end": "18:00",
+                    "begin": "08:00"
+                }
+            ],
+            "Friday": [
+                {
+                    "summary": "Degle, S.: JenALL/AO-Klin.Optom.2017/S/01.01",
+                    "end": "18:00",
+                    "begin": "08:00"
+                }
+            ]
+        }
+    },
+    "05.00.02": {
+        "days": {
+            "Saturday": [
+                {
+                    "summary": "Scheld: JenALL/HCM 2017/APL/02",
+                    "end": "12:00",
+                    "begin": "09:00"
+                }
+            ]
+        }
+    },
+    "05.00.10": {
+        "days": {
+            "Wednesday": [
+                {
+                    "summary": "Scheld, Klaus: BW(BA)RL d.Unt./PL/01",
+                    "end": "15:00",
+                    "begin": "12:00"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "summary": "Ephrosi(BW): BW(BA)ABWL-Inno-Man./PL/01",
+                    "end": "11:00",
+                    "begin": "10:00"
+                },
+                {
+                    "summary": "Stoetzer: BW(MA)Manag.Eco/PL/01",
+                    "end": "13:00",
+                    "begin": "12:00"
+                }
+            ],
+            "Thursday": [
+                {
+                    "summary": "Enders: BW(BA)Gew.RS/Wdh.-Prf./01",
+                    "end": "11:30",
+                    "begin": "10:00"
+                },
+                {
+                    "summary": "Enders: BW(BA)ABWL-EuropaR/PL/01",
+                    "end": "15:00",
+                    "begin": "14:00"
                 }
             ]
         }
@@ -78,44 +124,56 @@
             ]
         }
     },
-    "05.00.02": {
+    "04.00.01 (HS6)": {
         "days": {
-            "Saturday": [
+            "Monday": [
                 {
-                    "summary": "Scheld: JenALL/HCM 2017/APL/02",
-                    "end": "12:00",
-                    "begin": "09:00"
-                }
-            ]
-        }
-    },
-    "05.00.10": {
-        "days": {
-            "Tuesday": [
-                {
-                    "summary": "ZVM: 13.02._Stoy-Schule/Vorträge",
-                    "end": "17:30",
-                    "begin": "08:30"
+                    "summary": "Watzka: BW(BA)ABWL/PL/01",
+                    "end": "11:30",
+                    "begin": "10:00"
                 }
             ],
-            "Thursday": [
+            "Wednesday": [
                 {
-                    "summary": "ZVM: 15.02._Stoy-Schule/Vorträge",
-                    "end": "17:30",
-                    "begin": "08:30"
-                }
-            ]
-        }
-    },
-    "04.00.34": {
-        "days": {
-            "Tuesday": [
-                {
-                    "summary": "Herbst, U.: WI(MA)Lean Prod./S/P/01.2",
-                    "end": "20:00",
+                    "summary": "Leitzgen: BW(BA)Steuern I+II/Wdh.-Prf./01",
+                    "end": "10:00",
                     "begin": "08:00"
                 }
             ],
+            "Tuesday": [
+                {
+                    "summary": "Scheld: BW(BA)KLR/PL/01",
+                    "end": "15:30",
+                    "begin": "14:00"
+                }
+            ],
+            "Friday": [
+                {
+                    "summary": "Sauer: BW(BA)VWL I Makro/PL/01",
+                    "end": "10:00",
+                    "begin": "08:00"
+                },
+                {
+                    "summary": "Scheffel (BW), Buntfuss (BW): BW(BA)IKT GL+Konz./PL/01",
+                    "end": "17:00",
+                    "begin": "16:00"
+                }
+            ]
+        }
+    },
+    "01.02.12": {
+        "days": {
+            "Monday": [
+                {
+                    "summary": "Watzka, Kraußlach: BW(BA)Schnittst.-u.Unterstützungsfkt./PL/01",
+                    "end": "17:00",
+                    "begin": "14:00"
+                }
+            ]
+        }
+    },
+    "04.00.28": {
+        "days": {
             "Monday": [
                 {
                     "summary": "Herbst, U.: WI(MA)Lean Prod./S/P/01.1",
@@ -128,6 +186,43 @@
                     "summary": "Herbst, U.: WI(MA)Lean Prod./S/P/01.3",
                     "end": "17:00",
                     "begin": "08:00"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "summary": "Herbst, U.: WI(MA)Lean Prod./S/P/01.2",
+                    "end": "20:00",
+                    "begin": "08:00"
+                }
+            ]
+        }
+    },
+    "04.00.02 (HS7)": {
+        "days": {
+            "Monday": [
+                {
+                    "summary": "Watzka: BW(BA)ABWL/PL/01",
+                    "end": "11:30",
+                    "begin": "10:00"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "summary": "Scheld: BW(BA)KLR/PL/01",
+                    "end": "15:30",
+                    "begin": "14:00"
+                }
+            ],
+            "Friday": [
+                {
+                    "summary": "Sauer: BW(BA)VWL I Makro/PL/01",
+                    "end": "10:00",
+                    "begin": "08:00"
+                },
+                {
+                    "summary": "Scheffel (BW), Buntfuss (BW): BW(BA)IKT GL+Konz./PL/01",
+                    "end": "17:00",
+                    "begin": "16:00"
                 }
             ]
         }
