@@ -104,7 +104,8 @@ def parse_ics_data(ics_data):
                         start_time.strftime('%H:%M'),
                         end_time.strftime('%H:%M'),
                         room_name,
-                        summary
+                        summary,
+                        room_id
                     ])
 
                     sort = sorted(
@@ -126,12 +127,15 @@ def get_file_age(path):
 def create_schedule_dictionary(parsed_data):
     grouped = {}
 
-    for week, date, day, begin, end, room, summary in parsed_data:
+    for week, date, day, begin, end, room, summary, room_id in parsed_data:
         if week not in grouped:
             grouped[week] = {}
 
         if room not in grouped[week]:
-            grouped[week][room] = {"days": {}}
+            grouped[week][room] = {
+                "id": room_id,
+                "days": {}
+            }
 
         if day not in grouped[week][room]["days"]:
             grouped[week][room]["days"][day] = []

@@ -1,205 +1,329 @@
 {
-    "05.00.10": {
+    "05.03.43 (HS 4)": {
+        "id": "SPLUSD17C3C",
         "days": {
             "Monday": [
                 {
-                    "summary": "Ephrosi(BW): BW(BA)ABWL-Strat.Man./PL/01",
-                    "end": "11:00",
-                    "begin": "10:00"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "summary": "Görg, Enders: BW(BA)Spez.Kenntn.WR/PL/01",
-                    "end": "17:00",
-                    "begin": "14:00"
-                }
-            ],
-            "Thursday": [
-                {
-                    "summary": "Buerke: BW(BA)Marktg.ana/-instr.II/PL/01",
-                    "end": "15:00",
-                    "begin": "14:00"
-                }
-            ]
-        }
-    },
-    "05.03.36": {
-        "days": {
-            "Monday": [
-                {
-                    "summary": "Degle, S.: JenALL/AO-Optom.2018/S/01.5",
-                    "end": "18:00",
-                    "begin": "08:00"
-                }
-            ]
-        }
-    },
-    "05.00.02": {
-        "days": {
-            "Saturday": [
-                {
-                    "summary": "Degle, S.: JenALL/HCM 2017/S/01.12",
-                    "end": "14:30",
-                    "begin": "09:00"
-                }
-            ],
-            "Sunday": [
-                {
-                    "summary": "Degle, S.: JenALL/BW f.AO 2017/S/01.1",
-                    "end": "18:00",
-                    "begin": "08:00"
-                }
-            ],
-            "Friday": [
-                {
-                    "summary": "Degle, S.: JenALL/HCM 2017/S/01.11",
-                    "end": "19:30",
-                    "begin": "13:00"
-                }
-            ]
-        }
-    },
-    "04.-1.01(Aula)": {
-        "days": {
-            "Saturday": [
-                {
-                    "summary": "Garzke: 03.03._Garzke_Prf. Ma",
-                    "end": "18:00",
-                    "begin": "09:00"
-                }
-            ],
-            "Friday": [
-                {
-                    "summary": "Garzke: 02.03._Garzke_Prf. Ma",
-                    "end": "18:00",
-                    "begin": "12:00"
-                }
-            ]
-        }
-    },
-    "05.03.11(SW)": {
-        "days": {
-            "Saturday": [
-                {
-                    "summary": "SW 1: SW(MA)Spiel-+Medienpäd./S/01.1",
-                    "end": "18:00",
-                    "begin": "08:00"
-                }
-            ]
-        }
-    },
-    "05.00.06": {
-        "days": {
-            "Saturday": [
-                {
-                    "summary": "Degle, S.: JenALL/HCM 2017/S/01.12",
-                    "end": "14:30",
-                    "begin": "09:00"
-                }
-            ],
-            "Friday": [
-                {
-                    "summary": "Degle, S.: JenALL/HCM 2017/S/01.11",
-                    "end": "19:30",
-                    "begin": "13:00"
-                }
-            ]
-        }
-    },
-    "05.00.03": {
-        "days": {
-            "Saturday": [
-                {
-                    "summary": "Degle, S.: JenALL/HCM 2017/S/01.12",
-                    "end": "14:30",
-                    "begin": "09:00"
-                }
-            ],
-            "Friday": [
-                {
-                    "summary": "Degle, S.: JenALL/HCM 2017/S/01.11",
-                    "end": "19:30",
-                    "begin": "13:00"
+                    "begin": "12:00",
+                    "summary": "Kutzbora: SA(BAEng/PL/01",
+                    "end": "13:00"
                 }
             ]
         }
     },
     "05.00.04": {
+        "id": "SPLUSD17C52",
         "days": {
             "Saturday": [
                 {
+                    "begin": "09:00",
                     "summary": "Stoetzer, Patz: JenALL/GM/FTPM 2016/17/APL/01",
-                    "end": "10:30",
-                    "begin": "09:00"
+                    "end": "10:30"
                 }
             ],
             "Sunday": [
                 {
+                    "begin": "08:00",
                     "summary": "Degle, S.: JenALL/BW f.AO 2017/S/01.1",
-                    "end": "18:00",
-                    "begin": "08:00"
+                    "end": "18:00"
+                }
+            ]
+        }
+    },
+    "04.-1.01(Aula)": {
+        "id": "SPLUSCA96B6",
+        "days": {
+            "Friday": [
+                {
+                    "begin": "12:00",
+                    "summary": "Garzke: 02.03._Garzke_Prf. Ma",
+                    "end": "18:00"
+                }
+            ],
+            "Saturday": [
+                {
+                    "begin": "09:00",
+                    "summary": "Garzke: 03.03._Garzke_Prf. Ma",
+                    "end": "18:00"
+                }
+            ]
+        }
+    },
+    "05.03.36": {
+        "id": "SPLUSD17C38",
+        "days": {
+            "Monday": [
+                {
+                    "begin": "08:00",
+                    "summary": "JenAll: JenALL/AO-Optom.2018/S/01.5",
+                    "end": "18:00"
+                }
+            ]
+        }
+    },
+    "05.00.03": {
+        "id": "SPLUSA8CFB5",
+        "days": {
+            "Friday": [
+                {
+                    "begin": "13:00",
+                    "summary": "Degle, S.: JenALL/HCM 2017/S/01.11",
+                    "end": "19:30"
+                }
+            ],
+            "Saturday": [
+                {
+                    "begin": "09:00",
+                    "summary": "Degle, S.: JenALL/HCM 2017/S/01.12",
+                    "end": "14:30"
+                }
+            ]
+        }
+    },
+    "05.00.10": {
+        "id": "SPLUSD17C56",
+        "days": {
+            "Monday": [
+                {
+                    "begin": "10:00",
+                    "summary": "Ephrosi(BW): BW(BA)ABWL-Strat.Man./PL/01",
+                    "end": "11:00"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "begin": "14:00",
+                    "summary": "Görg, Enders: BW(BA)Spez.Kenntn.WR/PL/01",
+                    "end": "17:00"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "14:00",
+                    "summary": "Buerke: BW(BA)Marktg.ana/-instr.II/PL/01",
+                    "end": "15:00"
+                }
+            ]
+        }
+    },
+    "04.03.11": {
+        "id": "SPLUS9BD8AE",
+        "days": {
+            "Monday": [
+                {
+                    "begin": "14:00",
+                    "summary": "Grabow: ME(BA)TM III/PL/01",
+                    "end": "15:30"
+                }
+            ]
+        }
+    },
+    "05.03.11(SW)": {
+        "id": "SPLUS8C6346",
+        "days": {
+            "Saturday": [
+                {
+                    "begin": "08:00",
+                    "summary": "SW 1: SW(MA)Spiel-+Medienpäd./S/01.1",
+                    "end": "18:00"
+                }
+            ]
+        }
+    },
+    "05.03.40 (HS 3)": {
+        "id": "SPLUSD17C3A",
+        "days": {
+            "Monday": [
+                {
+                    "begin": "12:00",
+                    "summary": "Kutzbora: SA(BAEng/PL/01",
+                    "end": "13:00"
+                }
+            ]
+        }
+    },
+    "05.00.06": {
+        "id": "SPLUSD17C54",
+        "days": {
+            "Friday": [
+                {
+                    "begin": "08:00",
+                    "summary": "Dittrich(ET): CDHAW/ET/MB/ME(BA)El. Antr./Aktorik/Wdh.-Prfg./01",
+                    "end": "09:30"
+                },
+                {
+                    "begin": "13:00",
+                    "summary": "Degle, S.: JenALL/HCM 2017/S/01.11",
+                    "end": "19:30"
+                }
+            ],
+            "Saturday": [
+                {
+                    "begin": "09:00",
+                    "summary": "Degle, S.: JenALL/HCM 2017/S/01.12",
+                    "end": "14:30"
+                }
+            ]
+        }
+    },
+    "04.02.15": {
+        "id": "SPLUS40B574",
+        "days": {
+            "Tuesday": [
+                {
+                    "begin": "08:00",
+                    "summary": "Grabow: ME(BA)TM II/Wdh.-Prfg./01",
+                    "end": "10:00"
+                },
+                {
+                    "begin": "14:00",
+                    "summary": "Schwabe: MB(BA)MD/Wdh.-Prfg./01",
+                    "end": "15:30"
                 }
             ]
         }
     },
     "04.00.01 (HS6)": {
+        "id": "SPLUS40B576",
         "days": {
             "Wednesday": [
                 {
+                    "begin": "08:00",
+                    "summary": "Heiderich: MB(BA)TM I/PL/01",
+                    "end": "10:00"
+                },
+                {
+                    "begin": "12:00",
                     "summary": "Kempka, Walther M.: BW(BA)Ma/Stat./PL/01",
-                    "end": "14:00",
-                    "begin": "12:00"
+                    "end": "14:00"
+                }
+            ],
+            "Monday": [
+                {
+                    "begin": "14:00",
+                    "summary": "Schwabe: MB(BA)TM III/PL/01",
+                    "end": "15:30"
                 }
             ],
             "Tuesday": [
                 {
+                    "begin": "08:00",
                     "summary": "Görg: BW(BA)Recht II/PL/01",
-                    "end": "09:30",
-                    "begin": "08:00"
+                    "end": "09:30"
                 }
             ],
             "Thursday": [
                 {
+                    "begin": "10:00",
                     "summary": "Magerhans: BW(BA)Marktg./PL/01",
-                    "end": "11:30",
-                    "begin": "10:00"
+                    "end": "11:30"
+                }
+            ]
+        }
+    },
+    "04.00.34": {
+        "id": "SPLUS4833BC",
+        "days": {
+            "Tuesday": [
+                {
+                    "begin": "14:00",
+                    "summary": "Grabow: ME(BA)TM I/PL/01",
+                    "end": "15:30"
                 }
             ]
         }
     },
     "01.02.12": {
+        "id": "SPLUS9BD8B1",
         "days": {
+            "Monday": [
+                {
+                    "begin": "10:00",
+                    "summary": "Schwabe: MB(MA)GL/PL/01",
+                    "end": "11:30"
+                }
+            ],
             "Thursday": [
                 {
+                    "begin": "14:00",
                     "summary": "Assfalg(BW): BW(MA)Strat.Ent.spielth.Basis/PL/01",
-                    "end": "15:00",
-                    "begin": "14:00"
+                    "end": "15:00"
+                }
+            ]
+        }
+    },
+    "05.03.37 (HS 2)": {
+        "id": "SPLUSD17C39",
+        "days": {
+            "Monday": [
+                {
+                    "begin": "12:00",
+                    "summary": "Kutzbora: SA(BAEng/PL/01",
+                    "end": "13:00"
+                }
+            ]
+        }
+    },
+    "05.00.02": {
+        "id": "SPLUS6B85F1",
+        "days": {
+            "Friday": [
+                {
+                    "begin": "13:00",
+                    "summary": "Degle, S.: JenALL/HCM 2017/S/01.11",
+                    "end": "19:30"
+                }
+            ],
+            "Saturday": [
+                {
+                    "begin": "09:00",
+                    "summary": "Degle, S.: JenALL/HCM 2017/S/01.12",
+                    "end": "14:30"
+                }
+            ],
+            "Sunday": [
+                {
+                    "begin": "08:00",
+                    "summary": "Degle, S.: JenALL/BW f.AO 2017/S/01.1",
+                    "end": "18:00"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "08:00",
+                    "summary": "Felkl: ME(BA)El. BE/PL/01",
+                    "end": "09:30"
                 }
             ]
         }
     },
     "04.00.02 (HS7)": {
+        "id": "SPLUS412E9B",
         "days": {
             "Wednesday": [
                 {
+                    "begin": "10:00",
+                    "summary": ": SA(BA)Soz.man.1/PL/01",
+                    "end": "11:00"
+                },
+                {
+                    "begin": "12:00",
                     "summary": "Kempka, Walther M.: BW(BA)Ma/Stat./PL/01",
-                    "end": "14:00",
-                    "begin": "12:00"
+                    "end": "14:00"
                 }
             ],
             "Tuesday": [
                 {
+                    "begin": "08:00",
                     "summary": "Görg: BW(BA)Recht II/PL/01",
-                    "end": "09:30",
-                    "begin": "08:00"
+                    "end": "09:30"
                 }
             ],
             "Thursday": [
                 {
+                    "begin": "10:00",
                     "summary": "Magerhans: BW(BA)Marktg./PL/01",
-                    "end": "11:30",
-                    "begin": "10:00"
+                    "end": "11:30"
                 }
             ]
         }
