@@ -1,0 +1,26 @@
+{
+    "05.03.36": {
+        "days": {
+            "Monday": [
+                {
+                    "end": "18:00",
+                    "summary": "Sickenberger: JenALL_Kontaktlinse 2018/S/01.08",
+                    "begin": "08:00"
+                }
+            ]
+        },
+        "id": "SPLUSD17C38"
+    },
+    "04.-1.01(Aula)": {
+        "days": {
+            "Friday": [
+                {
+                    "end": "20:00",
+                    "summary": ": 14.09._DBCP Konferenz",
+                    "begin": "08:00"
+                }
+            ]
+        },
+        "id": "SPLUSCA96B6"
+    }
+}
