@@ -1,17 +1,11 @@
 {
     "04.-1.01(Aula)": {
+        "id": "SPLUSCA96B6",
         "days": {
             "Wednesday": [
                 {
                     "end": "17:30",
                     "summary": "Lautenschläger, Haase: BW(BA)UPP/S/01.3",
-                    "begin": "08:30"
-                }
-            ],
-            "Monday": [
-                {
-                    "end": "17:30",
-                    "summary": "Lautenschläger, Haase: BW(BA)UPP/S/01.1",
                     "begin": "08:30"
                 }
             ],
@@ -21,8 +15,14 @@
                     "summary": "Lautenschläger, Haase: BW(BA)UPP/S/01.2",
                     "begin": "08:30"
                 }
+            ],
+            "Monday": [
+                {
+                    "end": "17:30",
+                    "summary": "Lautenschläger, Haase: BW(BA)UPP/S/01.1",
+                    "begin": "08:30"
+                }
             ]
-        },
-        "id": "SPLUSCA96B6"
+        }
     }
 }

@@ -1,5 +1,32 @@
 {
+    "05.03.36": {
+        "id": "SPLUSD17C38",
+        "days": {
+            "Wednesday": [
+                {
+                    "end": "17:00",
+                    "summary": "Kaiser(SciTec): JenAll_Optikdes./S/01.3",
+                    "begin": "09:00"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "17:00",
+                    "summary": "Kaiser(SciTec): JenAll_Optikdes./S/01.2",
+                    "begin": "09:00"
+                }
+            ],
+            "Monday": [
+                {
+                    "end": "17:00",
+                    "summary": "Kaiser(SciTec): JenAll_Optikdes./S/01.1",
+                    "begin": "09:00"
+                }
+            ]
+        }
+    },
     "04.-1.01(Aula)": {
+        "id": "SPLUSCA96B6",
         "days": {
             "Friday": [
                 {
@@ -8,7 +35,18 @@
                     "begin": "08:30"
                 }
             ]
-        },
-        "id": "SPLUSCA96B6"
+        }
+    },
+    "05.00.02": {
+        "id": "SPLUS29A371",
+        "days": {
+            "Saturday": [
+                {
+                    "end": "10:30",
+                    "summary": "Herbst, U.: JenAll_FTPM 2017/APL/01",
+                    "begin": "09:00"
+                }
+            ]
+        }
     }
 }

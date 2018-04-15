@@ -1,18 +1,14 @@
 {
-    "04.-1.01(Aula)": {
-        "days": {
-            "Wednesday": [
-                {
-                    "end": "17:30",
-                    "summary": "Bliedtner: 05.09._AG Bliedtner 3D-Druckforum",
-                    "begin": "08:30"
-                }
-            ]
-        },
-        "id": "SPLUSCA96B6"
-    },
     "05.03.36": {
+        "id": "SPLUSD17C38",
         "days": {
+            "Sunday": [
+                {
+                    "end": "18:00",
+                    "summary": "Sickenberger: JenALL_Kontaktlinse 2018/S/01.07",
+                    "begin": "08:00"
+                }
+            ],
             "Friday": [
                 {
                     "end": "18:00",
@@ -26,27 +22,43 @@
                     "summary": "Sickenberger: JenALL_Kontaktlinse 2018/S/01.06",
                     "begin": "08:00"
                 }
-            ],
-            "Sunday": [
+            ]
+        }
+    },
+    "05.00.04": {
+        "id": "SPLUSD17C52",
+        "days": {
+            "Saturday": [
                 {
-                    "end": "18:00",
-                    "summary": "Sickenberger: JenALL_Kontaktlinse 2018/S/01.07",
-                    "begin": "08:00"
+                    "end": "11:00",
+                    "summary": "Bösch: JenAll_GM 2017/APL/01",
+                    "begin": "09:00"
                 }
             ]
-        },
-        "id": "SPLUSD17C38"
+        }
+    },
+    "04.-1.01(Aula)": {
+        "id": "SPLUSCA96B6",
+        "days": {
+            "Wednesday": [
+                {
+                    "end": "17:30",
+                    "summary": "Bliedtner: 05.09._AG Bliedtner 3D-Druckforum",
+                    "begin": "08:30"
+                }
+            ]
+        }
     },
     "05.01.43": {
+        "id": "SPLUSD17C42",
         "days": {
             "Wednesday": [
                 {
                     "end": "21:00",
-                    "summary": "JenAll: JenALL_HCM/Infoveranstaltung/S/01",
+                    "summary": "JenAll: JenAll_HCM/Infoveranstaltung/S/01",
                     "begin": "16:00"
                 }
             ]
-        },
-        "id": "SPLUSD17C42"
+        }
     }
 }
