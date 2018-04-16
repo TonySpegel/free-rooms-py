@@ -1,126 +1,126 @@
 {
-    "05.03.29": {
-        "id": "SPLUSAF012D",
+    "04.03.12": {
         "days": {
             "Wednesday": [
                 {
                     "end": "17:00",
-                    "summary": "Bischoff: JenAll_Opt.f.Einst./S/01.3",
-                    "begin": "09:00"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "end": "17:00",
-                    "summary": "Bischoff: JenAll_Opt.f.Einst./S/01.2",
-                    "begin": "09:00"
+                    "begin": "09:00",
+                    "summary": "Bliedtner: JenAll_3 D-Druck/S/01.3"
                 }
             ],
             "Monday": [
                 {
                     "end": "17:00",
-                    "summary": "Bischoff: JenAll_Opt.f.Einst./S/01.1",
-                    "begin": "09:00"
+                    "begin": "09:00",
+                    "summary": "Bliedtner: JenAll_3 D-Druck/S/01.1"
                 }
-            ]
-        }
-    },
-    "04.-1.01(Aula)": {
-        "id": "SPLUSCA96B6",
-        "days": {
-            "Friday": [
+            ],
+            "Tuesday": [
                 {
-                    "end": "20:00",
-                    "summary": ": 14.09._DBCP Konferenz",
-                    "begin": "08:00"
+                    "end": "17:00",
+                    "begin": "09:00",
+                    "summary": "Bliedtner: JenAll_3 D-Druck/S/01.2"
                 }
             ]
-        }
+        },
+        "id": "SPLUS40B570"
     },
-    "04.02.10": {
-        "id": "SPLUS66327E",
+    "04.00.08(CIM)": {
         "days": {
             "Thursday": [
                 {
                     "end": "17:00",
-                    "summary": "Bischoff: JenAll_Opt.f.Einst./S/01.4",
-                    "begin": "09:00"
+                    "begin": "09:00",
+                    "summary": "Bliedtner: JenAll_3 D-Druck/S/01.4"
                 }
             ]
-        }
+        },
+        "id": "SPLUSCA9608"
     },
     "05.03.36": {
-        "id": "SPLUSD17C38",
         "days": {
             "Monday": [
                 {
                     "end": "18:00",
-                    "summary": "Sickenberger: JenALL_Kontaktlinse 2018/S/01.08",
-                    "begin": "08:00"
+                    "begin": "08:00",
+                    "summary": "Sickenberger: JenALL_Kontaktlinse 2018/S/01.08"
                 }
             ]
-        }
+        },
+        "id": "SPLUSD17C38"
     },
-    "04.00.10": {
-        "id": "SPLUS2A78BE",
-        "days": {
-            "Thursday": [
-                {
-                    "end": "17:00",
-                    "summary": "Bliedtner: JenAll_3 D-Druck/S/01.4",
-                    "begin": "09:00"
-                }
-            ]
-        }
-    },
-    "04.03.12": {
-        "id": "SPLUS40B570",
+    "05.03.29": {
         "days": {
             "Wednesday": [
                 {
                     "end": "17:00",
-                    "summary": "Bliedtner: JenAll_3 D-Druck/S/01.3",
-                    "begin": "09:00"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "end": "17:00",
-                    "summary": "Bliedtner: JenAll_3 D-Druck/S/01.2",
-                    "begin": "09:00"
+                    "begin": "09:00",
+                    "summary": "Bischoff: JenAll_Opt.f.Einst./S/01.3"
                 }
             ],
             "Monday": [
                 {
                     "end": "17:00",
-                    "summary": "Bliedtner: JenAll_3 D-Druck/S/01.1",
-                    "begin": "09:00"
+                    "begin": "09:00",
+                    "summary": "Bischoff: JenAll_Opt.f.Einst./S/01.1"
                 }
-            ]
-        }
-    },
-    "04.00.08(CIM)": {
-        "id": "SPLUSCA9608",
-        "days": {
-            "Thursday": [
+            ],
+            "Tuesday": [
                 {
                     "end": "17:00",
-                    "summary": "Bliedtner: JenAll_3 D-Druck/S/01.4",
-                    "begin": "09:00"
+                    "begin": "09:00",
+                    "summary": "Bischoff: JenAll_Opt.f.Einst./S/01.2"
                 }
             ]
-        }
+        },
+        "id": "SPLUSAF012D"
     },
     "04.02.11": {
-        "id": "SPLUS3E9807",
         "days": {
             "Thursday": [
                 {
                     "end": "17:00",
-                    "summary": "Bischoff: JenAll_Opt.f.Einst./S/01.4",
-                    "begin": "09:00"
+                    "begin": "09:00",
+                    "summary": "Bischoff: JenAll_Opt.f.Einst./S/01.4"
                 }
             ]
-        }
+        },
+        "id": "SPLUS3E9807"
+    },
+    "04.00.10": {
+        "days": {
+            "Thursday": [
+                {
+                    "end": "17:00",
+                    "begin": "09:00",
+                    "summary": "Bliedtner: JenAll_3 D-Druck/S/01.4"
+                }
+            ]
+        },
+        "id": "SPLUS2A78BE"
+    },
+    "04.-1.01(Aula)": {
+        "days": {
+            "Friday": [
+                {
+                    "end": "20:00",
+                    "begin": "08:00",
+                    "summary": ": 14.09._DBCP Konferenz"
+                }
+            ]
+        },
+        "id": "SPLUSCA96B6"
+    },
+    "04.02.10": {
+        "days": {
+            "Thursday": [
+                {
+                    "end": "17:00",
+                    "begin": "09:00",
+                    "summary": "Bischoff: JenAll_Opt.f.Einst./S/01.4"
+                }
+            ]
+        },
+        "id": "SPLUS66327E"
     }
 }
