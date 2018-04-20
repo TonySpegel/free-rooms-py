@@ -3,22 +3,22 @@
         "days": {
             "Wednesday": [
                 {
-                    "end": "17:30",
                     "begin": "08:30",
+                    "end": "17:30",
                     "summary": "Lautenschläger, Haase: BW(BA)UPP/S/01.3"
                 }
             ],
             "Monday": [
                 {
-                    "end": "17:30",
                     "begin": "08:30",
+                    "end": "17:30",
                     "summary": "Lautenschläger, Haase: BW(BA)UPP/S/01.1"
                 }
             ],
             "Tuesday": [
                 {
-                    "end": "17:30",
                     "begin": "08:30",
+                    "end": "17:30",
                     "summary": "Lautenschläger, Haase: BW(BA)UPP/S/01.2"
                 }
             ]

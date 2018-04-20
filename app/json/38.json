@@ -1,48 +1,48 @@
 {
-    "05.00.02": {
-        "days": {
-            "Saturday": [
-                {
-                    "end": "10:30",
-                    "begin": "09:00",
-                    "summary": "Herbst, U.: JenAll_FTPM 2017/APL/01"
-                }
-            ]
-        },
-        "id": "SPLUS29A371"
-    },
     "05.03.36": {
         "days": {
             "Wednesday": [
                 {
-                    "end": "17:00",
                     "begin": "09:00",
+                    "end": "17:00",
                     "summary": "Kaiser(SciTec): JenAll_Optikdes./S/01.3"
                 }
             ],
             "Monday": [
                 {
-                    "end": "17:00",
                     "begin": "09:00",
+                    "end": "17:00",
                     "summary": "Kaiser(SciTec): JenAll_Optikdes./S/01.1"
                 }
             ],
             "Tuesday": [
                 {
-                    "end": "17:00",
                     "begin": "09:00",
+                    "end": "17:00",
                     "summary": "Kaiser(SciTec): JenAll_Optikdes./S/01.2"
                 }
             ]
         },
         "id": "SPLUSD17C38"
     },
+    "05.00.02": {
+        "days": {
+            "Saturday": [
+                {
+                    "begin": "09:00",
+                    "end": "10:30",
+                    "summary": "Herbst, U.: JenAll_FTPM 2017/APL/01"
+                }
+            ]
+        },
+        "id": "SPLUS29A371"
+    },
     "04.-1.01(Aula)": {
         "days": {
             "Friday": [
                 {
-                    "end": "17:30",
                     "begin": "08:30",
+                    "end": "17:30",
                     "summary": "GP: 21.09._GP Zeugnisübergabe"
                 }
             ]
