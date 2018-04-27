@@ -1,52 +1,52 @@
 {
     "05.03.36": {
+        "id": "SPLUSD17C38",
         "days": {
             "Wednesday": [
                 {
-                    "begin": "09:00",
                     "end": "17:00",
+                    "begin": "09:00",
                     "summary": "Kaiser(SciTec): JenAll_Optikdes./S/01.3"
-                }
-            ],
-            "Monday": [
-                {
-                    "begin": "09:00",
-                    "end": "17:00",
-                    "summary": "Kaiser(SciTec): JenAll_Optikdes./S/01.1"
                 }
             ],
             "Tuesday": [
                 {
-                    "begin": "09:00",
                     "end": "17:00",
+                    "begin": "09:00",
                     "summary": "Kaiser(SciTec): JenAll_Optikdes./S/01.2"
                 }
-            ]
-        },
-        "id": "SPLUSD17C38"
-    },
-    "05.00.02": {
-        "days": {
-            "Saturday": [
+            ],
+            "Monday": [
                 {
+                    "end": "17:00",
                     "begin": "09:00",
-                    "end": "10:30",
-                    "summary": "Herbst, U.: JenAll_FTPM 2017/APL/01"
+                    "summary": "Kaiser(SciTec): JenAll_Optikdes./S/01.1"
                 }
             ]
-        },
-        "id": "SPLUS29A371"
+        }
     },
     "04.-1.01(Aula)": {
+        "id": "SPLUSCA96B6",
         "days": {
             "Friday": [
                 {
-                    "begin": "08:30",
                     "end": "17:30",
+                    "begin": "08:30",
                     "summary": "GP: 21.09._GP Zeugnisübergabe"
                 }
             ]
-        },
-        "id": "SPLUSCA96B6"
+        }
+    },
+    "05.00.02": {
+        "id": "SPLUS29A371",
+        "days": {
+            "Saturday": [
+                {
+                    "end": "10:30",
+                    "begin": "09:00",
+                    "summary": "Herbst, U.: JenAll_FTPM 2017/APL/01"
+                }
+            ]
+        }
     }
 }

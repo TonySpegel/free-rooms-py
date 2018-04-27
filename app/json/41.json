@@ -1,28 +1,40 @@
 {
     "04.-1.01(Aula)": {
+        "id": "SPLUSCA96B6",
         "days": {
             "Wednesday": [
                 {
-                    "begin": "08:30",
                     "end": "17:30",
+                    "begin": "08:30",
                     "summary": "Lautenschläger, Haase: BW(BA)UPP/S/01.3"
-                }
-            ],
-            "Monday": [
-                {
-                    "begin": "08:30",
-                    "end": "17:30",
-                    "summary": "Lautenschläger, Haase: BW(BA)UPP/S/01.1"
                 }
             ],
             "Tuesday": [
                 {
-                    "begin": "08:30",
                     "end": "17:30",
+                    "begin": "08:30",
                     "summary": "Lautenschläger, Haase: BW(BA)UPP/S/01.2"
                 }
+            ],
+            "Monday": [
+                {
+                    "end": "17:30",
+                    "begin": "08:30",
+                    "summary": "Lautenschläger, Haase: BW(BA)UPP/S/01.1"
+                }
             ]
-        },
-        "id": "SPLUSCA96B6"
+        }
+    },
+    "04.00.01(HS6)": {
+        "id": "SPLUS40B576",
+        "days": {
+            "Monday": [
+                {
+                    "end": "12:00",
+                    "begin": "08:00",
+                    "summary": "Garzke: MB_StET/S/01"
+                }
+            ]
+        }
     }
 }
