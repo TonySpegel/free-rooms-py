@@ -78,16 +78,16 @@ def parse_ics_data(ics_data):
         current_begin = datetime.datetime.now()
 
         with urllib.request.urlopen(ics_url, timeout=10) as response:
-            ics_response = Calendar.from_ical(response.read())
+            try:
+                ics_response = Calendar.from_ical(response.read())
+            except Exception as error:
+                print(error)
+
             file_size = '{0:.2f}'.format(int(response.getheader('Content-Length')) / 1024)
 
-            current_end = datetime.datetime.now()
-            difference = (current_end - current_begin).total_seconds() * 1000
-            kibibyte_per_second = '{0:.2f}'.format((float(file_size) / float(difference)) * 1000)
-
             print(
-                ' ↓ {} {: >4}/{}   🕐 {: >5}  Size: {: >6} KiB   🚀{: >7} KiB/s'.
-                format(room_id, i, number_of_rooms, total_time, file_size, kibibyte_per_second)
+                ' ↓ {} {: >4}/{}   ⏱ {: >5}  Size: {: >6} KiB'.
+                format(room_id, i, number_of_rooms, total_time, file_size)
             )
 
             for component in ics_response.walk():

@@ -1,0 +1,64 @@
+{
+    "04.03.07": {
+        "id": "SPLUS412E9D",
+        "days": {
+            "Thursday": [
+                {
+                    "end": "10:30",
+                    "begin": "08:30",
+                    "summary": "Garzke: FT/MB(BA)ME I/Wdh.-Prfg./01"
+                }
+            ]
+        }
+    },
+    "05.00.04": {
+        "id": "SPLUSD17C52",
+        "days": {
+            "Saturday": [
+                {
+                    "end": "10:30",
+                    "begin": "09:00",
+                    "summary": "Scheld, JenAll: JenAll_HCM 2017/GM 2018/APL/01"
+                }
+            ]
+        }
+    },
+    "05.01.43": {
+        "id": "SPLUSD17C42",
+        "days": {
+            "Saturday": [
+                {
+                    "end": "12:15",
+                    "begin": "09:00",
+                    "summary": "JenAll_2: JenAll_HCM 2017/APL/03"
+                }
+            ],
+            "Friday": [
+                {
+                    "end": "19:30",
+                    "begin": "16:15",
+                    "summary": "JenAll: JenAll_HCM 2017/S/01.10"
+                }
+            ]
+        }
+    },
+    "05.03.36": {
+        "id": "SPLUSD17C38",
+        "days": {
+            "Saturday": [
+                {
+                    "end": "10:30",
+                    "begin": "09:00",
+                    "summary": "Mainka (BW): JenAll_GM 2018/APL/02"
+                }
+            ],
+            "Friday": [
+                {
+                    "end": "19:30",
+                    "begin": "14:30",
+                    "summary": "Mainka (BW): JenAll_GM 2018/S/01.11"
+                }
+            ]
+        }
+    }
+}

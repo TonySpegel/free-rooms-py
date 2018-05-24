@@ -1,26 +1,113 @@
 {
-    "04.-1.01(Aula)": {
-        "id": "SPLUSCA96B6",
+    "05.03.201": {
+        "id": "SPLUSD17C60",
         "days": {
-            "Monday": [
+            "Wednesday": [
                 {
-                    "summary": "Lautenschläger, Haase: BW(BA)UPP/S/01.1",
-                    "begin": "08:30",
-                    "end": "17:30"
+                    "end": "11:00",
+                    "begin": "09:00",
+                    "summary": "Tutor Kowalik(BW), Klaus: BW_StET/S/01"
+                }
+            ]
+        }
+    },
+    "05.03.206": {
+        "id": "SPLUS7F8D03",
+        "days": {
+            "Wednesday": [
+                {
+                    "end": "11:00",
+                    "begin": "09:00",
+                    "summary": "Tutor Kowalik(BW), Klaus: BW_StET/S/01"
+                }
+            ]
+        }
+    },
+    "05.03.40 (HS3)": {
+        "id": "SPLUSD17C3A",
+        "days": {
+            "Thursday": [
+                {
+                    "end": "12:00",
+                    "begin": "11:00",
+                    "summary": "Tutor Kowalik(BW), Klaus: BW_StET/S/02"
+                }
+            ]
+        }
+    },
+    "05.03.203": {
+        "id": "SPLUSD17C62",
+        "days": {
+            "Wednesday": [
+                {
+                    "end": "11:00",
+                    "begin": "09:00",
+                    "summary": "Tutor Kowalik(BW), Klaus: BW_StET/S/01"
+                }
+            ]
+        }
+    },
+    "05.00.10": {
+        "id": "SPLUSD17C56",
+        "days": {
+            "Thursday": [
+                {
+                    "end": "12:15",
+                    "begin": "09:00",
+                    "summary": "JenAll_4: Alle FB_Vorkurs/Ma 3/S/02.4"
+                },
+                {
+                    "end": "16:15",
+                    "begin": "13:00",
+                    "summary": "JenAll_4: Alle FB_Vorkurs/Ma 4/S/02.4"
                 }
             ],
             "Wednesday": [
                 {
-                    "summary": "Lautenschläger, Haase: BW(BA)UPP/S/01.3",
-                    "begin": "08:30",
-                    "end": "17:30"
+                    "end": "12:15",
+                    "begin": "09:00",
+                    "summary": "JenAll_4: Alle FB_Vorkurs/Ma 3/S/02.3"
+                },
+                {
+                    "end": "16:15",
+                    "begin": "13:00",
+                    "summary": "JenAll_4: Alle FB_Vorkurs/Ma 4/S/02.3"
                 }
             ],
             "Tuesday": [
                 {
-                    "summary": "Lautenschläger, Haase: BW(BA)UPP/S/01.2",
-                    "begin": "08:30",
-                    "end": "17:30"
+                    "end": "12:15",
+                    "begin": "09:00",
+                    "summary": "JenAll_4: Alle FB_Vorkurs/Ma 3/S/02.2"
+                },
+                {
+                    "end": "16:15",
+                    "begin": "13:00",
+                    "summary": "JenAll_4: Alle FB_Vorkurs/Ma 4/S/02.2"
+                }
+            ],
+            "Friday": [
+                {
+                    "end": "12:15",
+                    "begin": "09:00",
+                    "summary": "JenAll_4: Alle FB_Vorkurs/Ma 3/S/02.5"
+                },
+                {
+                    "end": "16:15",
+                    "begin": "13:00",
+                    "summary": "JenAll_4: Alle FB_Vorkurs/Ma 4/S/02.5"
+                }
+            ],
+            "Monday": [
+                {
+                    "end": "12:15",
+                    "begin": "09:00",
+                    "summary": "JenAll_4: Alle FB_Vorkurs/Ma 3/S/02.1"
+                },
+                {
+                    "end": "16:15",
+                    "begin": "13:00",
+                    "summary": "JenAll_4: Alle FB_Vorkurs/Ma 4/S/02.1"
                 }
             ]
         }
@@ -30,9 +117,59 @@
         "days": {
             "Monday": [
                 {
-                    "summary": "Garzke: MB_StET/S/01",
+                    "end": "12:00",
                     "begin": "08:00",
-                    "end": "12:00"
+                    "summary": "Garzke: MB_StET/S/01"
+                }
+            ]
+        }
+    },
+    "05.03.202": {
+        "id": "SPLUSD17C61",
+        "days": {
+            "Wednesday": [
+                {
+                    "end": "11:00",
+                    "begin": "09:00",
+                    "summary": "Tutor Kowalik(BW), Klaus: BW_StET/S/01"
+                }
+            ]
+        }
+    },
+    "04.-1.01(Aula)": {
+        "id": "SPLUSCA96B6",
+        "days": {
+            "Wednesday": [
+                {
+                    "end": "17:30",
+                    "begin": "08:30",
+                    "summary": "Lautenschläger, Haase: BW(BA)UPP/S/01.3"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "17:30",
+                    "begin": "08:30",
+                    "summary": "Lautenschläger, Haase: BW(BA)UPP/S/01.2"
+                }
+            ],
+            "Monday": [
+                {
+                    "end": "17:30",
+                    "begin": "08:30",
+                    "summary": "Lautenschläger, Haase: BW(BA)UPP/S/01.1"
+                }
+            ]
+        }
+    },
+    "05.03.204": {
+        "id": "SPLUSD17C63",
+        "days": {
+            "Wednesday": [
+                {
+                    "end": "11:00",
+                    "begin": "09:00",
+                    "summary": "Tutor Kowalik(BW), Klaus: BW_StET/S/01"
                 }
             ]
         }
