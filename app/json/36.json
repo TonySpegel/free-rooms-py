@@ -1,64 +1,64 @@
 {
+    "05.00.03": {
+        "days": {
+            "Sunday": [
+                {
+                    "summary": "Sickenberger: JenALL_Kontaktlinse 2018/S/01.07",
+                    "begin": "08:00",
+                    "end": "18:00"
+                }
+            ],
+            "Friday": [
+                {
+                    "summary": "Sickenberger: JenALL_Kontaktlinse 2018/S/01.05",
+                    "begin": "08:00",
+                    "end": "18:00"
+                }
+            ],
+            "Saturday": [
+                {
+                    "summary": "Sickenberger: JenALL_Kontaktlinse 2018/S/01.06",
+                    "begin": "08:00",
+                    "end": "18:00"
+                }
+            ]
+        },
+        "id": "SPLUSA8CFB5"
+    },
     "05.01.43": {
-        "id": "SPLUSD17C42",
         "days": {
             "Wednesday": [
                 {
-                    "begin": "16:00",
                     "summary": "JenAll: JenAll_HCM/Infoveranstaltung/S/01",
+                    "begin": "16:00",
                     "end": "21:00"
                 }
             ]
-        }
+        },
+        "id": "SPLUSD17C42"
     },
     "05.00.04": {
-        "id": "SPLUSD17C52",
         "days": {
             "Saturday": [
                 {
-                    "begin": "09:00",
                     "summary": "Bösch: JenAll_GM 2017/APL/01",
+                    "begin": "09:00",
                     "end": "11:00"
                 }
             ]
-        }
-    },
-    "05.00.03": {
-        "id": "SPLUSA8CFB5",
-        "days": {
-            "Friday": [
-                {
-                    "begin": "08:00",
-                    "summary": "Sickenberger: JenALL_Kontaktlinse 2018/S/01.05",
-                    "end": "18:00"
-                }
-            ],
-            "Saturday": [
-                {
-                    "begin": "08:00",
-                    "summary": "Sickenberger: JenALL_Kontaktlinse 2018/S/01.06",
-                    "end": "18:00"
-                }
-            ],
-            "Sunday": [
-                {
-                    "begin": "08:00",
-                    "summary": "Sickenberger: JenALL_Kontaktlinse 2018/S/01.07",
-                    "end": "18:00"
-                }
-            ]
-        }
+        },
+        "id": "SPLUSD17C52"
     },
     "04.-1.01(Aula)": {
-        "id": "SPLUSCA96B6",
         "days": {
             "Wednesday": [
                 {
-                    "begin": "08:30",
                     "summary": "Bliedtner: 05.09._AG Bliedtner 3D-Druckforum",
+                    "begin": "08:30",
                     "end": "17:30"
                 }
             ]
-        }
+        },
+        "id": "SPLUSCA96B6"
     }
 }

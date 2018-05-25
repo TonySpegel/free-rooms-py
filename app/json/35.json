@@ -1,26 +1,26 @@
 {
     "05.00.02": {
-        "id": "SPLUS29A371",
         "days": {
             "Saturday": [
                 {
-                    "begin": "09:00",
                     "summary": "Herbst, U.: JenAll_FTPM 2017/APL/01",
+                    "begin": "09:00",
                     "end": "10:30"
                 }
             ]
-        }
+        },
+        "id": "SPLUS29A371"
     },
     "05.00.04": {
-        "id": "SPLUSD17C52",
         "days": {
             "Saturday": [
                 {
-                    "begin": "09:00",
                     "summary": "Watzka, Stoetzer, Bernartz, Kraußlach, JenAll: JenALL_PIW/GM/HCM 2017/GM 2018/APL/02",
+                    "begin": "09:00",
                     "end": "11:00"
                 }
             ]
-        }
+        },
+        "id": "SPLUSD17C52"
     }
 }

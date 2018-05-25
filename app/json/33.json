@@ -1,64 +1,64 @@
 {
-    "04.03.07": {
-        "id": "SPLUS412E9D",
-        "days": {
-            "Thursday": [
-                {
-                    "begin": "08:30",
-                    "summary": "Garzke: FT/MB(BA)ME I/Wdh.-Prfg./01",
-                    "end": "10:30"
-                }
-            ]
-        }
-    },
-    "05.01.43": {
-        "id": "SPLUSD17C42",
+    "05.03.36": {
         "days": {
             "Friday": [
                 {
-                    "begin": "16:15",
-                    "summary": "JenAll: JenAll_HCM 2017/S/01.10",
+                    "summary": "Mainka (BW): JenAll_GM 2018/S/01.11",
+                    "begin": "14:30",
                     "end": "19:30"
                 }
             ],
             "Saturday": [
                 {
+                    "summary": "Mainka (BW): JenAll_GM 2018/APL/02",
                     "begin": "09:00",
+                    "end": "10:30"
+                }
+            ]
+        },
+        "id": "SPLUSD17C38"
+    },
+    "05.01.43": {
+        "days": {
+            "Friday": [
+                {
+                    "summary": "JenAll: JenAll_HCM 2017/S/01.10",
+                    "begin": "16:15",
+                    "end": "19:30"
+                }
+            ],
+            "Saturday": [
+                {
                     "summary": "JenAll_2: JenAll_HCM 2017/APL/03",
+                    "begin": "09:00",
                     "end": "12:15"
                 }
             ]
-        }
+        },
+        "id": "SPLUSD17C42"
+    },
+    "04.03.07": {
+        "days": {
+            "Thursday": [
+                {
+                    "summary": "Garzke: FT/MB(BA)ME I/Wdh.-Prfg./01",
+                    "begin": "08:30",
+                    "end": "10:30"
+                }
+            ]
+        },
+        "id": "SPLUS412E9D"
     },
     "05.00.04": {
-        "id": "SPLUSD17C52",
         "days": {
             "Saturday": [
                 {
-                    "begin": "09:00",
                     "summary": "Scheld, JenAll: JenAll_HCM 2017/GM 2018/APL/01",
-                    "end": "10:30"
-                }
-            ]
-        }
-    },
-    "05.03.36": {
-        "id": "SPLUSD17C38",
-        "days": {
-            "Friday": [
-                {
-                    "begin": "14:30",
-                    "summary": "Mainka (BW): JenAll_GM 2018/S/01.11",
-                    "end": "19:30"
-                }
-            ],
-            "Saturday": [
-                {
                     "begin": "09:00",
-                    "summary": "Mainka (BW): JenAll_GM 2018/APL/02",
                     "end": "10:30"
                 }
             ]
-        }
+        },
+        "id": "SPLUSD17C52"
     }
 }
