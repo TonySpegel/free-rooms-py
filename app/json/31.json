@@ -1,28 +1,11 @@
 {
-    "04.00.01(HS6)": {
-        "days": {
-            "Wednesday": [
-                {
-                    "begin": "08:00",
-                    "end": "09:30",
-                    "summary": "Görg: BW(BA)WVR/PL/01"
-                },
-                {
-                    "begin": "14:00",
-                    "end": "15:00",
-                    "summary": "Stodolka (BW): BW(BA)IKT/ERP/PL/01"
-                }
-            ]
-        },
-        "id": "SPLUS40B576"
-    },
     "05.00.04": {
         "days": {
             "Thursday": [
                 {
                     "begin": "10:00",
-                    "end": "12:00",
-                    "summary": "Stoetzer: BW(BA)VWL III angew.WiPo/PL/01"
+                    "summary": "Stoetzer: BW(BA)VWL III angew.WiPo/PL/01",
+                    "end": "12:00"
                 }
             ]
         },
@@ -33,44 +16,85 @@
             "Tuesday": [
                 {
                     "begin": "16:00",
-                    "end": "17:00",
-                    "summary": "Görg: BW(MA)R f.Führungskr./PL/01"
+                    "summary": "Görg: BW(MA)R f.Führungskr./PL/01",
+                    "end": "17:00"
                 }
             ]
         },
         "id": "SPLUS9BD8B1"
+    },
+    "05.03.02 (HS5)": {
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "10:00",
+                    "summary": ": SA(BA)Recht 1/PL/01",
+                    "end": "12:00"
+                }
+            ],
+            "Friday": [
+                {
+                    "begin": "12:00",
+                    "summary": ": SA(BA)Psych 2/PL/01",
+                    "end": "13:30"
+                }
+            ]
+        },
+        "id": "SPLUSD17C3B"
     },
     "05.00.10": {
         "days": {
             "Tuesday": [
                 {
                     "begin": "10:00",
-                    "end": "13:00",
-                    "summary": "Linsenbarth(BW), Görg, Enders, di Stefano(BW): BW(BA)Spez.Kentn.WR/PL/01"
+                    "summary": "Linsenbarth(BW), Görg, Enders, di Stefano(BW): BW(BA)Spez.Kentn.WR/PL/01",
+                    "end": "13:00"
+                },
+                {
+                    "begin": "14:00",
+                    "summary": ": SA(BA)Recht 2/PL/01",
+                    "end": "16:00"
                 }
             ],
             "Monday": [
                 {
                     "begin": "10:00",
-                    "end": "11:00",
-                    "summary": "Ephrosi(BW): BW(BA)ABWL-Logistik/PL/01"
+                    "summary": "Ephrosi(BW): BW(BA)ABWL-Logistik/PL/01",
+                    "end": "11:00"
                 }
             ]
         },
         "id": "SPLUSD17C56"
+    },
+    "04.00.01(HS6)": {
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "08:00",
+                    "summary": "Görg: BW(BA)WVR/PL/01",
+                    "end": "09:30"
+                },
+                {
+                    "begin": "14:00",
+                    "summary": "Stodolka (BW): BW(BA)IKT/ERP/PL/01",
+                    "end": "15:00"
+                }
+            ]
+        },
+        "id": "SPLUS40B576"
     },
     "04.00.02 (HS7)": {
         "days": {
             "Wednesday": [
                 {
                     "begin": "08:00",
-                    "end": "09:30",
-                    "summary": "Görg: BW(BA)WVR/PL/01"
+                    "summary": "Görg: BW(BA)WVR/PL/01",
+                    "end": "09:30"
                 },
                 {
                     "begin": "14:00",
-                    "end": "15:00",
-                    "summary": "Stodolka (BW): BW(BA)IKT/ERP/PL/01"
+                    "summary": "Stodolka (BW): BW(BA)IKT/ERP/PL/01",
+                    "end": "15:00"
                 }
             ]
         },

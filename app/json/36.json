@@ -4,8 +4,8 @@
             "Wednesday": [
                 {
                     "begin": "08:30",
-                    "end": "17:30",
-                    "summary": "Bliedtner: 05.09._AG Bliedtner 3D-Druckforum"
+                    "summary": "Bliedtner: 05.09._AG Bliedtner 3D-Druckforum",
+                    "end": "17:30"
                 }
             ]
         },
@@ -16,22 +16,22 @@
             "Saturday": [
                 {
                     "begin": "08:00",
-                    "end": "18:00",
-                    "summary": "Sickenberger: JenALL_Kontaktlinse 2018/S/01.06"
-                }
-            ],
-            "Friday": [
-                {
-                    "begin": "08:00",
-                    "end": "18:00",
-                    "summary": "Sickenberger: JenALL_Kontaktlinse 2018/S/01.05"
+                    "summary": "Sickenberger: JenALL_Kontaktlinse 2018/S/01.06",
+                    "end": "18:00"
                 }
             ],
             "Sunday": [
                 {
                     "begin": "08:00",
-                    "end": "18:00",
-                    "summary": "Sickenberger: JenALL_Kontaktlinse 2018/S/01.07"
+                    "summary": "Sickenberger: JenALL_Kontaktlinse 2018/S/01.07",
+                    "end": "18:00"
+                }
+            ],
+            "Friday": [
+                {
+                    "begin": "08:00",
+                    "summary": "Sickenberger: JenALL_Kontaktlinse 2018/S/01.05",
+                    "end": "18:00"
                 }
             ]
         },
@@ -42,8 +42,8 @@
             "Wednesday": [
                 {
                     "begin": "16:00",
-                    "end": "21:00",
-                    "summary": "JenAll: JenAll_HCM/Infoveranstaltung/S/01"
+                    "summary": "JenAll: JenAll_HCM/Infoveranstaltung/S/01",
+                    "end": "21:00"
                 }
             ]
         },
@@ -54,8 +54,8 @@
             "Saturday": [
                 {
                     "begin": "09:00",
-                    "end": "11:00",
-                    "summary": "Bösch: JenAll_GM 2017/APL/01"
+                    "summary": "Bösch: JenAll_GM 2017/APL/01",
+                    "end": "11:00"
                 }
             ]
         },
