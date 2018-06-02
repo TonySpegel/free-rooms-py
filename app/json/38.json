@@ -1,444 +1,444 @@
 {
-    "05.01.42": {
-        "days": {
-            "Thursday": [
-                {
-                    "begin": "13:00",
-                    "summary": "VHS: BW/Vorkurs/Info/S/01.4",
-                    "end": "16:15"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "begin": "13:00",
-                    "summary": "VHS: BW/Vorkurs/Info/S/01.2",
-                    "end": "16:15"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "begin": "13:00",
-                    "summary": "VHS: BW/Vorkurs/Info/S/01.3",
-                    "end": "16:15"
-                }
-            ],
-            "Monday": [
-                {
-                    "begin": "13:00",
-                    "summary": "VHS: BW/Vorkurs/Info/S/01.1",
-                    "end": "16:15"
-                }
-            ],
-            "Friday": [
-                {
-                    "begin": "13:00",
-                    "summary": "VHS: BW/Vorkurs/Info/S/01.5",
-                    "end": "16:15"
-                }
-            ]
-        },
-        "id": "SPLUSD17C41"
-    },
-    "05.00.04": {
-        "days": {
-            "Thursday": [
-                {
-                    "begin": "13:00",
-                    "summary": "Hübner: Alle FB_Vorkurs/Phy 1/S/01.4",
-                    "end": "16:15"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "begin": "13:00",
-                    "summary": "Hübner: Alle FB_Vorkurs/Phy 1/S/01.2",
-                    "end": "16:15"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "begin": "13:00",
-                    "summary": "Hübner: Alle FB_Vorkurs/Phy 1/S/01.3",
-                    "end": "16:15"
-                }
-            ],
-            "Monday": [
-                {
-                    "begin": "13:00",
-                    "summary": "Hübner: Alle FB_Vorkurs/Phy 1/S/01.1",
-                    "end": "16:15"
-                }
-            ],
-            "Friday": [
-                {
-                    "begin": "13:00",
-                    "summary": "Hübner: Alle FB_Vorkurs/Phy 1/S/01.5",
-                    "end": "16:15"
-                }
-            ]
-        },
-        "id": "SPLUSD17C52"
-    },
     "05.00.02": {
+        "id": "SPLUS29A371",
         "days": {
-            "Thursday": [
+            "Friday": [
                 {
-                    "begin": "08:30",
-                    "summary": "JenAll: ET/Vorkurs/Phy/S/04",
-                    "end": "12:00"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "begin": "13:00",
-                    "summary": "JenAll: ET/Vorkurs/Phy/S/02",
-                    "end": "14:30"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "begin": "08:30",
-                    "summary": "JenAll: ET/Vorkurs/Phy/S/03",
-                    "end": "12:00"
-                }
-            ],
-            "Monday": [
-                {
-                    "begin": "08:30",
-                    "summary": "JenAll: ET/Vorkurs/Phy/S/01",
-                    "end": "12:00"
+                    "end": "12:00",
+                    "summary": "JenAll: ET/Vorkurs/Phy/S/05",
+                    "begin": "08:30"
                 }
             ],
             "Saturday": [
                 {
-                    "begin": "09:00",
+                    "end": "10:30",
                     "summary": "Herbst, U.: JenAll_FTPM 2017/APL/01",
-                    "end": "10:30"
-                }
-            ],
-            "Friday": [
-                {
-                    "begin": "08:30",
-                    "summary": "JenAll: ET/Vorkurs/Phy/S/05",
-                    "end": "12:00"
-                }
-            ]
-        },
-        "id": "SPLUS29A371"
-    },
-    "05.02.52": {
-        "days": {
-            "Wednesday": [
-                {
-                    "begin": "13:00",
-                    "summary": "JenAll: ET/Vorkurs/Mikroproz.-tech./S/01",
-                    "end": "14:30"
-                }
-            ]
-        },
-        "id": "SPLUSD17C4E"
-    },
-    "05.02.54": {
-        "days": {
-            "Thursday": [
-                {
-                    "begin": "13:00",
-                    "summary": "JenAll: ET/Vorkurs/Rob c-Löt/P/01",
-                    "end": "14:30"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "begin": "08:30",
-                    "summary": "JenAll: ET/Vorkurs/Rob a-Löt/P/01",
-                    "end": "10:00"
-                },
-                {
-                    "begin": "10:30",
-                    "summary": "JenAll: ET/Vorkurs/Rob b-Löt/P/01",
-                    "end": "12:00"
-                }
-            ],
-            "Friday": [
-                {
-                    "begin": "13:00",
-                    "summary": "JenAll: ET/Vorkurs/Rob d-Löt/P/01",
-                    "end": "14:30"
-                }
-            ]
-        },
-        "id": "SPLUS51407D"
-    },
-    "04.-1.01(Aula)": {
-        "days": {
-            "Friday": [
-                {
-                    "begin": "08:30",
-                    "summary": "GP: 21.09._GP Zeugnisübergabe",
-                    "end": "17:30"
-                }
-            ]
-        },
-        "id": "SPLUSCA96B6"
-    },
-    "05.00.10": {
-        "days": {
-            "Thursday": [
-                {
-                    "begin": "09:00",
-                    "summary": "JenAll_4: Alle FB_Vorkurs/Ma 1/S/01.4",
-                    "end": "12:15"
-                },
-                {
-                    "begin": "13:00",
-                    "summary": "JenAll_4: Alle FB_Vorkurs/Ma 2/S/01.4",
-                    "end": "16:15"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "begin": "09:00",
-                    "summary": "JenAll_4: Alle FB_Vorkurs/Ma 1/S/01.2",
-                    "end": "12:15"
-                },
-                {
-                    "begin": "13:00",
-                    "summary": "JenAll_4: Alle FB_Vorkurs/Ma 2/S/01.2",
-                    "end": "16:15"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "begin": "09:00",
-                    "summary": "JenAll_4: Alle FB_Vorkurs/Ma 1/S/01.3",
-                    "end": "12:15"
-                },
-                {
-                    "begin": "13:00",
-                    "summary": "JenAll_4: Alle FB_Vorkurs/Ma 2/S/01.3",
-                    "end": "16:15"
+                    "begin": "09:00"
                 }
             ],
             "Monday": [
                 {
-                    "begin": "09:00",
-                    "summary": "JenAll_4: Alle FB_Vorkurs/Ma 1/S/01.1",
-                    "end": "12:15"
-                },
-                {
-                    "begin": "13:00",
-                    "summary": "JenAll_4: Alle FB_Vorkurs/Ma 2/S/01.1",
-                    "end": "16:15"
+                    "end": "12:00",
+                    "summary": "JenAll: ET/Vorkurs/Phy/S/01",
+                    "begin": "08:30"
                 }
             ],
-            "Friday": [
-                {
-                    "begin": "09:00",
-                    "summary": "JenAll_4: Alle FB_Vorkurs/Ma 1/S/01.5",
-                    "end": "12:15"
-                },
-                {
-                    "begin": "13:00",
-                    "summary": "JenAll_4: Alle FB_Vorkurs/Ma 2/S/01.5",
-                    "end": "16:15"
-                }
-            ]
-        },
-        "id": "SPLUSD17C56"
-    },
-    "05.00.06": {
-        "days": {
             "Thursday": [
                 {
-                    "begin": "09:00",
-                    "summary": "Merker: BW/Vorkurs/WA/S/01.4",
-                    "end": "12:15"
+                    "end": "12:00",
+                    "summary": "JenAll: ET/Vorkurs/Phy/S/04",
+                    "begin": "08:30"
                 }
             ],
             "Tuesday": [
                 {
-                    "begin": "09:00",
-                    "summary": "Merker: BW/Vorkurs/WA/S/01.2",
-                    "end": "12:15"
+                    "end": "14:30",
+                    "summary": "JenAll: ET/Vorkurs/Phy/S/02",
+                    "begin": "13:00"
                 }
             ],
             "Wednesday": [
                 {
-                    "begin": "09:00",
-                    "summary": "Merker: BW/Vorkurs/WA/S/01.3",
-                    "end": "12:15"
-                }
-            ],
-            "Monday": [
-                {
-                    "begin": "09:00",
-                    "summary": "Merker: BW/Vorkurs/WA/S/01.1",
-                    "end": "12:15"
-                }
-            ],
-            "Friday": [
-                {
-                    "begin": "09:00",
-                    "summary": "Merker: BW/Vorkurs/WA/S/01.5",
-                    "end": "12:15"
+                    "end": "12:00",
+                    "summary": "JenAll: ET/Vorkurs/Phy/S/03",
+                    "begin": "08:30"
                 }
             ]
-        },
-        "id": "SPLUSD17C54"
+        }
     },
-    "05.02.61(Büro)": {
-        "days": {
-            "Monday": [
-                {
-                    "begin": "13:00",
-                    "summary": "JenAll: ET/Vorkurs/Rob/S/01",
-                    "end": "14:30"
-                }
-            ]
-        },
-        "id": "SPLUS50EF59"
-    },
-    "05.03.202": {
+    "05.01.42": {
+        "id": "SPLUSD17C41",
         "days": {
             "Thursday": [
                 {
-                    "begin": "09:00",
-                    "summary": "JenAll_2: BW/Vorkurs/Ma/S/01.4",
-                    "end": "12:15"
-                },
-                {
-                    "begin": "13:00",
-                    "summary": "JenAll_2: BW/Vorkurs/Ma/S/02.4",
-                    "end": "16:15"
+                    "end": "16:15",
+                    "summary": "VHS: BW/Vorkurs/Info/S/01.4",
+                    "begin": "13:00"
                 }
             ],
             "Tuesday": [
                 {
-                    "begin": "09:00",
-                    "summary": "JenAll_2: BW/Vorkurs/Ma/S/01.2",
-                    "end": "12:15"
-                },
-                {
-                    "begin": "13:00",
-                    "summary": "JenAll_2: BW/Vorkurs/Ma/S/02.2",
-                    "end": "16:15"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "begin": "09:00",
-                    "summary": "JenAll_2: BW/Vorkurs/Ma/S/01.3",
-                    "end": "12:15"
-                },
-                {
-                    "begin": "13:00",
-                    "summary": "JenAll_2: BW/Vorkurs/Ma/S/02.3",
-                    "end": "16:15"
-                }
-            ],
-            "Monday": [
-                {
-                    "begin": "09:00",
-                    "summary": "JenAll_2: BW/Vorkurs/Ma/S/01.1",
-                    "end": "12:15"
-                },
-                {
-                    "begin": "13:00",
-                    "summary": "JenAll_2: BW/Vorkurs/Ma/S/02.1",
-                    "end": "16:15"
+                    "end": "16:15",
+                    "summary": "VHS: BW/Vorkurs/Info/S/01.2",
+                    "begin": "13:00"
                 }
             ],
             "Friday": [
                 {
-                    "begin": "09:00",
-                    "summary": "JenAll_2: BW/Vorkurs/Ma/S/01.5",
-                    "end": "12:15"
-                },
+                    "end": "16:15",
+                    "summary": "VHS: BW/Vorkurs/Info/S/01.5",
+                    "begin": "13:00"
+                }
+            ],
+            "Wednesday": [
                 {
-                    "begin": "13:00",
-                    "summary": "JenAll_2: BW/Vorkurs/Ma/S/02.5",
-                    "end": "16:15"
+                    "end": "16:15",
+                    "summary": "VHS: BW/Vorkurs/Info/S/01.3",
+                    "begin": "13:00"
+                }
+            ],
+            "Monday": [
+                {
+                    "end": "16:15",
+                    "summary": "VHS: BW/Vorkurs/Info/S/01.1",
+                    "begin": "13:00"
                 }
             ]
-        },
-        "id": "SPLUSD17C61"
+        }
     },
     "05.00.03": {
+        "id": "SPLUSA8CFB5",
         "days": {
             "Thursday": [
                 {
-                    "begin": "09:00",
+                    "end": "12:15",
                     "summary": "Hopp, Gernegroß: Alle FB_Vorkurs/Chem 1/S/01.4",
-                    "end": "12:15"
+                    "begin": "09:00"
                 }
             ],
             "Tuesday": [
                 {
-                    "begin": "09:00",
+                    "end": "12:15",
                     "summary": "Hopp, Gernegroß: Alle FB_Vorkurs/Chem 1/S/01.2",
-                    "end": "12:15"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "begin": "09:00",
-                    "summary": "Hopp, Gernegroß: Alle FB_Vorkurs/Chem 1/S/01.3",
-                    "end": "12:15"
-                }
-            ],
-            "Monday": [
-                {
-                    "begin": "09:00",
-                    "summary": "Hopp, Gernegroß: Alle FB_Vorkurs/Chem 1/S/01.1",
-                    "end": "12:15"
+                    "begin": "09:00"
                 }
             ],
             "Friday": [
                 {
-                    "begin": "09:00",
+                    "end": "12:15",
                     "summary": "Hopp, Gernegroß: Alle FB_Vorkurs/Chem 1/S/01.5",
-                    "end": "12:15"
-                }
-            ]
-        },
-        "id": "SPLUSA8CFB5"
-    },
-    "05.03.36": {
-        "days": {
-            "Tuesday": [
-                {
-                    "begin": "09:00",
-                    "summary": "Kaiser(SciTec): JenAll_Optikdes./S/01.2",
-                    "end": "17:00"
+                    "begin": "09:00"
                 }
             ],
             "Wednesday": [
                 {
-                    "begin": "09:00",
-                    "summary": "Kaiser(SciTec): JenAll_Optikdes./S/01.3",
-                    "end": "17:00"
+                    "end": "12:15",
+                    "summary": "Hopp, Gernegroß: Alle FB_Vorkurs/Chem 1/S/01.3",
+                    "begin": "09:00"
                 }
             ],
             "Monday": [
                 {
-                    "begin": "09:00",
-                    "summary": "Kaiser(SciTec): JenAll_Optikdes./S/01.1",
-                    "end": "17:00"
+                    "end": "12:15",
+                    "summary": "Hopp, Gernegroß: Alle FB_Vorkurs/Chem 1/S/01.1",
+                    "begin": "09:00"
                 }
             ]
-        },
-        "id": "SPLUSD17C38"
+        }
     },
-    "05.02.29": {
+    "05.00.04": {
+        "id": "SPLUSD17C52",
+        "days": {
+            "Thursday": [
+                {
+                    "end": "16:15",
+                    "summary": "Hübner: Alle FB_Vorkurs/Phy 1/S/01.4",
+                    "begin": "13:00"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "16:15",
+                    "summary": "Hübner: Alle FB_Vorkurs/Phy 1/S/01.2",
+                    "begin": "13:00"
+                }
+            ],
+            "Friday": [
+                {
+                    "end": "16:15",
+                    "summary": "Hübner: Alle FB_Vorkurs/Phy 1/S/01.5",
+                    "begin": "13:00"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "16:15",
+                    "summary": "Hübner: Alle FB_Vorkurs/Phy 1/S/01.3",
+                    "begin": "13:00"
+                }
+            ],
+            "Monday": [
+                {
+                    "end": "16:15",
+                    "summary": "Hübner: Alle FB_Vorkurs/Phy 1/S/01.1",
+                    "begin": "13:00"
+                }
+            ]
+        }
+    },
+    "05.00.06": {
+        "id": "SPLUSD17C54",
+        "days": {
+            "Thursday": [
+                {
+                    "end": "12:15",
+                    "summary": "Merker: BW/Vorkurs/WA/S/01.4",
+                    "begin": "09:00"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "12:15",
+                    "summary": "Merker: BW/Vorkurs/WA/S/01.2",
+                    "begin": "09:00"
+                }
+            ],
+            "Friday": [
+                {
+                    "end": "12:15",
+                    "summary": "Merker: BW/Vorkurs/WA/S/01.5",
+                    "begin": "09:00"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "12:15",
+                    "summary": "Merker: BW/Vorkurs/WA/S/01.3",
+                    "begin": "09:00"
+                }
+            ],
+            "Monday": [
+                {
+                    "end": "12:15",
+                    "summary": "Merker: BW/Vorkurs/WA/S/01.1",
+                    "begin": "09:00"
+                }
+            ]
+        }
+    },
+    "05.03.36": {
+        "id": "SPLUSD17C38",
+        "days": {
+            "Tuesday": [
+                {
+                    "end": "17:00",
+                    "summary": "Kaiser(SciTec): JenAll_Optikdes./S/01.2",
+                    "begin": "09:00"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "17:00",
+                    "summary": "Kaiser(SciTec): JenAll_Optikdes./S/01.3",
+                    "begin": "09:00"
+                }
+            ],
+            "Monday": [
+                {
+                    "end": "17:00",
+                    "summary": "Kaiser(SciTec): JenAll_Optikdes./S/01.1",
+                    "begin": "09:00"
+                }
+            ]
+        }
+    },
+    "05.02.54": {
+        "id": "SPLUS51407D",
+        "days": {
+            "Thursday": [
+                {
+                    "end": "14:30",
+                    "summary": "JenAll: ET/Vorkurs/Rob c-Löt/P/01",
+                    "begin": "13:00"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "10:00",
+                    "summary": "JenAll: ET/Vorkurs/Rob a-Löt/P/01",
+                    "begin": "08:30"
+                },
+                {
+                    "end": "12:00",
+                    "summary": "JenAll: ET/Vorkurs/Rob b-Löt/P/01",
+                    "begin": "10:30"
+                }
+            ],
+            "Friday": [
+                {
+                    "end": "14:30",
+                    "summary": "JenAll: ET/Vorkurs/Rob d-Löt/P/01",
+                    "begin": "13:00"
+                }
+            ]
+        }
+    },
+    "05.03.202": {
+        "id": "SPLUSD17C61",
+        "days": {
+            "Thursday": [
+                {
+                    "end": "12:15",
+                    "summary": "JenAll_2: BW/Vorkurs/Ma/S/01.4",
+                    "begin": "09:00"
+                },
+                {
+                    "end": "16:15",
+                    "summary": "JenAll_2: BW/Vorkurs/Ma/S/02.4",
+                    "begin": "13:00"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "12:15",
+                    "summary": "JenAll_2: BW/Vorkurs/Ma/S/01.2",
+                    "begin": "09:00"
+                },
+                {
+                    "end": "16:15",
+                    "summary": "JenAll_2: BW/Vorkurs/Ma/S/02.2",
+                    "begin": "13:00"
+                }
+            ],
+            "Friday": [
+                {
+                    "end": "12:15",
+                    "summary": "JenAll_2: BW/Vorkurs/Ma/S/01.5",
+                    "begin": "09:00"
+                },
+                {
+                    "end": "16:15",
+                    "summary": "JenAll_2: BW/Vorkurs/Ma/S/02.5",
+                    "begin": "13:00"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "12:15",
+                    "summary": "JenAll_2: BW/Vorkurs/Ma/S/01.3",
+                    "begin": "09:00"
+                },
+                {
+                    "end": "16:15",
+                    "summary": "JenAll_2: BW/Vorkurs/Ma/S/02.3",
+                    "begin": "13:00"
+                }
+            ],
+            "Monday": [
+                {
+                    "end": "12:15",
+                    "summary": "JenAll_2: BW/Vorkurs/Ma/S/01.1",
+                    "begin": "09:00"
+                },
+                {
+                    "end": "16:15",
+                    "summary": "JenAll_2: BW/Vorkurs/Ma/S/02.1",
+                    "begin": "13:00"
+                }
+            ]
+        }
+    },
+    "05.02.61(Büro)": {
+        "id": "SPLUS50EF59",
         "days": {
             "Monday": [
                 {
-                    "begin": "13:00",
+                    "end": "14:30",
                     "summary": "JenAll: ET/Vorkurs/Rob/S/01",
-                    "end": "14:30"
+                    "begin": "13:00"
                 }
             ]
-        },
-        "id": "SPLUSD34D25"
+        }
+    },
+    "04.-1.01(Aula)": {
+        "id": "SPLUSCA96B6",
+        "days": {
+            "Friday": [
+                {
+                    "end": "17:30",
+                    "summary": "GP: 21.09._GP Zeugnisübergabe",
+                    "begin": "08:30"
+                }
+            ]
+        }
+    },
+    "05.02.52": {
+        "id": "SPLUSD17C4E",
+        "days": {
+            "Wednesday": [
+                {
+                    "end": "14:30",
+                    "summary": "JenAll: ET/Vorkurs/Mikroproz.-tech./S/01",
+                    "begin": "13:00"
+                }
+            ]
+        }
+    },
+    "05.02.29": {
+        "id": "SPLUSD34D25",
+        "days": {
+            "Monday": [
+                {
+                    "end": "14:30",
+                    "summary": "JenAll: ET/Vorkurs/Rob/S/01",
+                    "begin": "13:00"
+                }
+            ]
+        }
+    },
+    "05.00.10": {
+        "id": "SPLUSD17C56",
+        "days": {
+            "Thursday": [
+                {
+                    "end": "12:15",
+                    "summary": "JenAll_4: Alle FB_Vorkurs/Ma 1/S/01.4",
+                    "begin": "09:00"
+                },
+                {
+                    "end": "16:15",
+                    "summary": "JenAll_4: Alle FB_Vorkurs/Ma 2/S/01.4",
+                    "begin": "13:00"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "12:15",
+                    "summary": "JenAll_4: Alle FB_Vorkurs/Ma 1/S/01.2",
+                    "begin": "09:00"
+                },
+                {
+                    "end": "16:15",
+                    "summary": "JenAll_4: Alle FB_Vorkurs/Ma 2/S/01.2",
+                    "begin": "13:00"
+                }
+            ],
+            "Friday": [
+                {
+                    "end": "12:15",
+                    "summary": "JenAll_4: Alle FB_Vorkurs/Ma 1/S/01.5",
+                    "begin": "09:00"
+                },
+                {
+                    "end": "16:15",
+                    "summary": "JenAll_4: Alle FB_Vorkurs/Ma 2/S/01.5",
+                    "begin": "13:00"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "12:15",
+                    "summary": "JenAll_4: Alle FB_Vorkurs/Ma 1/S/01.3",
+                    "begin": "09:00"
+                },
+                {
+                    "end": "16:15",
+                    "summary": "JenAll_4: Alle FB_Vorkurs/Ma 2/S/01.3",
+                    "begin": "13:00"
+                }
+            ],
+            "Monday": [
+                {
+                    "end": "12:15",
+                    "summary": "JenAll_4: Alle FB_Vorkurs/Ma 1/S/01.1",
+                    "begin": "09:00"
+                },
+                {
+                    "end": "16:15",
+                    "summary": "JenAll_4: Alle FB_Vorkurs/Ma 2/S/01.1",
+                    "begin": "13:00"
+                }
+            ]
+        }
     }
 }
