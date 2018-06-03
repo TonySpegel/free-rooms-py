@@ -4,8 +4,8 @@
         "days": {
             "Saturday": [
                 {
-                    "end": "10:30",
                     "summary": "Herbst, U.: JenAll_FTPM 2017/APL/01",
+                    "end": "10:30",
                     "begin": "09:00"
                 }
             ]
@@ -16,8 +16,8 @@
         "days": {
             "Saturday": [
                 {
-                    "end": "11:00",
                     "summary": "Watzka, Stoetzer, Bernartz, Kraußlach, JenAll: JenALL_PIW/GM/HCM 2017/GM 2018/APL/02",
+                    "end": "11:00",
                     "begin": "09:00"
                 }
             ]

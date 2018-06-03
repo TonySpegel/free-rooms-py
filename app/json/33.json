@@ -1,18 +1,18 @@
 {
-    "05.03.36": {
-        "id": "SPLUSD17C38",
+    "05.01.43": {
+        "id": "SPLUSD17C42",
         "days": {
             "Friday": [
                 {
+                    "summary": "JenAll: JenAll_HCM 2017/S/01.10",
                     "end": "19:30",
-                    "summary": "Mainka (BW): JenAll_GM 2018/S/01.11",
-                    "begin": "14:30"
+                    "begin": "16:15"
                 }
             ],
             "Saturday": [
                 {
-                    "end": "10:30",
-                    "summary": "Mainka (BW): JenAll_GM 2018/APL/02",
+                    "summary": "JenAll_2: JenAll_HCM 2017/APL/03",
+                    "end": "12:15",
                     "begin": "09:00"
                 }
             ]
@@ -23,28 +23,9 @@
         "days": {
             "Thursday": [
                 {
-                    "end": "10:30",
                     "summary": "Garzke: FT/MB(BA)ME I/Wdh.-Prfg./01",
+                    "end": "10:30",
                     "begin": "08:30"
-                }
-            ]
-        }
-    },
-    "05.01.43": {
-        "id": "SPLUSD17C42",
-        "days": {
-            "Friday": [
-                {
-                    "end": "19:30",
-                    "summary": "JenAll: JenAll_HCM 2017/S/01.10",
-                    "begin": "16:15"
-                }
-            ],
-            "Saturday": [
-                {
-                    "end": "12:15",
-                    "summary": "JenAll_2: JenAll_HCM 2017/APL/03",
-                    "begin": "09:00"
                 }
             ]
         }
@@ -54,8 +35,27 @@
         "days": {
             "Saturday": [
                 {
-                    "end": "10:30",
                     "summary": "Scheld, JenAll: JenAll_HCM 2017/GM 2018/APL/01",
+                    "end": "10:30",
+                    "begin": "09:00"
+                }
+            ]
+        }
+    },
+    "05.03.36": {
+        "id": "SPLUSD17C38",
+        "days": {
+            "Friday": [
+                {
+                    "summary": "Mainka (BW): JenAll_GM 2018/S/01.11",
+                    "end": "19:30",
+                    "begin": "14:30"
+                }
+            ],
+            "Saturday": [
+                {
+                    "summary": "Mainka (BW): JenAll_GM 2018/APL/02",
+                    "end": "10:30",
                     "begin": "09:00"
                 }
             ]

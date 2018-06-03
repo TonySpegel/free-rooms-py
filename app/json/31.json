@@ -1,91 +1,24 @@
 {
-    "04.00.01(HS6)": {
-        "id": "SPLUS40B576",
-        "days": {
-            "Wednesday": [
-                {
-                    "end": "09:30",
-                    "summary": "Görg: BW(BA)WVR/PL/01",
-                    "begin": "08:00"
-                },
-                {
-                    "end": "15:00",
-                    "summary": "Stodolka (BW): BW(BA)IKT/ERP/PL/01",
-                    "begin": "14:00"
-                }
-            ],
-            "Friday": [
-                {
-                    "end": "09:30",
-                    "summary": "Felkl: MB/ME(BA)GL ET/PL/01",
-                    "begin": "08:00"
-                }
-            ],
-            "Monday": [
-                {
-                    "end": "10:00",
-                    "summary": "Heiderich: MB/ME(BA/MA)TM II/PL/01",
-                    "begin": "08:00"
-                }
-            ]
-        }
-    },
-    "04.03.07": {
-        "id": "SPLUS412E9D",
-        "days": {
-            "Wednesday": [
-                {
-                    "end": "11:30",
-                    "summary": "Holland-Moritz: ME(BA)Phy I+II/Wdh.-Prf./PL/01",
-                    "begin": "10:00"
-                }
-            ]
-        }
-    },
-    "01.02.12": {
-        "id": "SPLUS9BD8B1",
-        "days": {
-            "Tuesday": [
-                {
-                    "end": "17:00",
-                    "summary": "Görg: BW(MA)R f.Führungskr./PL/01",
-                    "begin": "16:00"
-                }
-            ]
-        }
-    },
-    "05.00.04": {
-        "id": "SPLUSD17C52",
-        "days": {
-            "Thursday": [
-                {
-                    "end": "12:00",
-                    "summary": "Stoetzer: BW(BA)VWL III angew.WiPo/PL/01",
-                    "begin": "10:00"
-                }
-            ]
-        }
-    },
     "04.00.02 (HS7)": {
         "id": "SPLUS412E9B",
         "days": {
-            "Tuesday": [
-                {
-                    "end": "13:30",
-                    "summary": "Glück: MB(BA)StröL II/PL/01",
-                    "begin": "12:00"
-                }
-            ],
             "Wednesday": [
                 {
-                    "end": "09:30",
                     "summary": "Görg: BW(BA)WVR/PL/01",
+                    "end": "09:30",
                     "begin": "08:00"
                 },
                 {
-                    "end": "15:00",
                     "summary": "Stodolka (BW): BW(BA)IKT/ERP/PL/01",
+                    "end": "15:00",
                     "begin": "14:00"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "summary": "Glück: MB(BA)StröL II/PL/01",
+                    "end": "13:30",
+                    "begin": "12:00"
                 }
             ]
         }
@@ -95,15 +28,15 @@
         "days": {
             "Wednesday": [
                 {
-                    "end": "12:00",
                     "summary": ": SA(BA)Recht 1/PL/01",
+                    "end": "12:00",
                     "begin": "10:00"
                 }
             ],
             "Friday": [
                 {
-                    "end": "13:30",
                     "summary": ": SA(BA)Psych 2/PL/01",
+                    "end": "13:30",
                     "begin": "12:00"
                 }
             ]
@@ -112,23 +45,90 @@
     "05.00.10": {
         "id": "SPLUSD17C56",
         "days": {
+            "Monday": [
+                {
+                    "summary": "Ephrosi(BW): BW(BA)ABWL-Logistik/PL/01",
+                    "end": "11:00",
+                    "begin": "10:00"
+                }
+            ],
             "Tuesday": [
                 {
-                    "end": "13:00",
                     "summary": "Linsenbarth(BW), Görg, Enders, di Stefano(BW): BW(BA)Spez.Kentn.WR/PL/01",
+                    "end": "13:00",
                     "begin": "10:00"
                 },
                 {
-                    "end": "16:00",
                     "summary": ": SA(BA)Recht 2/PL/01",
+                    "end": "16:00",
                     "begin": "14:00"
+                }
+            ]
+        }
+    },
+    "01.02.12": {
+        "id": "SPLUS9BD8B1",
+        "days": {
+            "Tuesday": [
+                {
+                    "summary": "Görg: BW(MA)R f.Führungskr./PL/01",
+                    "end": "17:00",
+                    "begin": "16:00"
+                }
+            ]
+        }
+    },
+    "04.03.07": {
+        "id": "SPLUS412E9D",
+        "days": {
+            "Wednesday": [
+                {
+                    "summary": "Holland-Moritz: ME(BA)Phy I+II/Wdh.-Prf./PL/01",
+                    "end": "11:30",
+                    "begin": "10:00"
+                }
+            ]
+        }
+    },
+    "05.00.04": {
+        "id": "SPLUSD17C52",
+        "days": {
+            "Thursday": [
+                {
+                    "summary": "Stoetzer: BW(BA)VWL III angew.WiPo/PL/01",
+                    "end": "12:00",
+                    "begin": "10:00"
+                }
+            ]
+        }
+    },
+    "04.00.01(HS6)": {
+        "id": "SPLUS40B576",
+        "days": {
+            "Wednesday": [
+                {
+                    "summary": "Görg: BW(BA)WVR/PL/01",
+                    "end": "09:30",
+                    "begin": "08:00"
+                },
+                {
+                    "summary": "Stodolka (BW): BW(BA)IKT/ERP/PL/01",
+                    "end": "15:00",
+                    "begin": "14:00"
+                }
+            ],
+            "Friday": [
+                {
+                    "summary": "Felkl: MB/ME(BA)GL ET/PL/01",
+                    "end": "09:30",
+                    "begin": "08:00"
                 }
             ],
             "Monday": [
                 {
-                    "end": "11:00",
-                    "summary": "Ephrosi(BW): BW(BA)ABWL-Logistik/PL/01",
-                    "begin": "10:00"
+                    "summary": "Heiderich: MB/ME(BA/MA)TM II/PL/01",
+                    "end": "10:00",
+                    "begin": "08:00"
                 }
             ]
         }
