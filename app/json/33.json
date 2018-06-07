@@ -1,31 +1,67 @@
 {
-    "05.01.43": {
-        "id": "SPLUSD17C42",
+    "05.03.36": {
+        "id": "SPLUSD17C38",
         "days": {
-            "Friday": [
-                {
-                    "summary": "JenAll: JenAll_HCM 2017/S/01.10",
-                    "end": "19:30",
-                    "begin": "16:15"
-                }
-            ],
             "Saturday": [
                 {
-                    "summary": "JenAll_2: JenAll_HCM 2017/APL/03",
-                    "end": "12:15",
-                    "begin": "09:00"
+                    "summary": "Mainka (BW): JenAll_GM 2018/APL/02",
+                    "begin": "09:00",
+                    "end": "10:30"
+                }
+            ],
+            "Friday": [
+                {
+                    "summary": "Mainka (BW): JenAll_GM 2018/S/01.11",
+                    "begin": "14:30",
+                    "end": "19:30"
                 }
             ]
         }
     },
-    "04.03.07": {
-        "id": "SPLUS412E9D",
+    "03.03.10/1": {
+        "id": "SPLUSF883FF",
         "days": {
-            "Thursday": [
+            "Monday": [
                 {
-                    "summary": "Garzke: FT/MB(BA)ME I/Wdh.-Prfg./01",
-                    "end": "10:30",
-                    "begin": "08:30"
+                    "summary": "Mottl, Hoffmann, U., Gruhn: 13.08._WI_Umbau Labortür",
+                    "begin": "08:30",
+                    "end": "17:30"
+                }
+            ]
+        }
+    },
+    "03.03.42/1": {
+        "id": "SPLUSF88402",
+        "days": {
+            "Monday": [
+                {
+                    "summary": "Mottl, Hoffmann, U., Gruhn: 13.08._WI_Umbau Labortür",
+                    "begin": "08:30",
+                    "end": "17:30"
+                }
+            ]
+        }
+    },
+    "03.03.33": {
+        "id": "SPLUSF88401",
+        "days": {
+            "Monday": [
+                {
+                    "summary": "Mottl, Hoffmann, U., Gruhn: 13.08._WI_Umbau Labortür",
+                    "begin": "08:30",
+                    "end": "17:30"
+                }
+            ]
+        }
+    },
+    "03.03.39(Büro)": {
+        "id": "SPLUS4666F0",
+        "days": {
+            "Monday": [
+                {
+                    "summary": "Mottl, Hoffmann, U., Gruhn: 13.08._WI_Umbau Labortür",
+                    "begin": "08:30",
+                    "end": "17:30"
                 }
             ]
         }
@@ -36,27 +72,51 @@
             "Saturday": [
                 {
                     "summary": "Scheld, JenAll: JenAll_HCM 2017/GM 2018/APL/01",
-                    "end": "10:30",
-                    "begin": "09:00"
+                    "begin": "09:00",
+                    "end": "10:30"
                 }
             ]
         }
     },
-    "05.03.36": {
-        "id": "SPLUSD17C38",
+    "03.03.10/2": {
+        "id": "SPLUSC78DFC",
         "days": {
-            "Friday": [
+            "Monday": [
                 {
-                    "summary": "Mainka (BW): JenAll_GM 2018/S/01.11",
-                    "end": "19:30",
-                    "begin": "14:30"
+                    "summary": "Mottl, Hoffmann, U., Gruhn: 13.08._WI_Umbau Labortür",
+                    "begin": "08:30",
+                    "end": "17:30"
                 }
-            ],
+            ]
+        }
+    },
+    "04.03.07": {
+        "id": "SPLUS412E9D",
+        "days": {
+            "Thursday": [
+                {
+                    "summary": "Garzke: FT/MB(BA)ME I/Wdh.-Prfg./01",
+                    "begin": "08:30",
+                    "end": "10:30"
+                }
+            ]
+        }
+    },
+    "05.01.43": {
+        "id": "SPLUSD17C42",
+        "days": {
             "Saturday": [
                 {
-                    "summary": "Mainka (BW): JenAll_GM 2018/APL/02",
-                    "end": "10:30",
-                    "begin": "09:00"
+                    "summary": "JenAll_2: JenAll_HCM 2017/APL/03",
+                    "begin": "09:00",
+                    "end": "12:15"
+                }
+            ],
+            "Friday": [
+                {
+                    "summary": "JenAll: JenAll_HCM 2017/S/01.10",
+                    "begin": "16:15",
+                    "end": "19:30"
                 }
             ]
         }

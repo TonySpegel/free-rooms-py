@@ -1,274 +1,31 @@
 {
-    "05.03.02 (HS5)": {
-        "id": "SPLUSD17C3B",
-        "days": {
-            "Wednesday": [
-                {
-                    "summary": "Behlert: SA(BA)Recht 3/PL/03",
-                    "end": "12:00",
-                    "begin": "10:00"
-                },
-                {
-                    "summary": "Behlert: SA(BA)Recht 3/PL/04",
-                    "end": "15:00",
-                    "begin": "13:00"
-                }
-            ],
-            "Monday": [
-                {
-                    "summary": "Harth: SW(ba)Psychologie/V/01.3",
-                    "end": "16:00",
-                    "begin": "09:00"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "summary": "von Boetticher: SA(BA)Recht 3/PL/01",
-                    "end": "12:00",
-                    "begin": "10:00"
-                },
-                {
-                    "summary": "von Boetticher: SA(BA)Recht 3/PL/02",
-                    "end": "15:00",
-                    "begin": "13:00"
-                }
-            ]
-        }
-    },
-    "01.02.12": {
-        "id": "SPLUS9BD8B1",
-        "days": {
-            "Wednesday": [
-                {
-                    "summary": "Bösch: BW(MA)Int.Fin.man./PL/01",
-                    "end": "15:00",
-                    "begin": "14:00"
-                }
-            ],
-            "Friday": [
-                {
-                    "summary": "Kraußlach: BW(MA)Int.Pers.man./PL/01",
-                    "end": "11:00",
-                    "begin": "10:00"
-                }
-            ],
-            "Monday": [
-                {
-                    "summary": "Watzka: BW(MA)Psych.GL AG/PL/01",
-                    "end": "17:00",
-                    "begin": "16:00"
-                }
-            ],
-            "Thursday": [
-                {
-                    "summary": "Claß: MB(BA)Info/PL/01",
-                    "end": "11:30",
-                    "begin": "10:00"
-                }
-            ]
-        }
-    },
-    "05.00.10": {
-        "id": "SPLUSD17C56",
-        "days": {
-            "Thursday": [
-                {
-                    "summary": "Geyer, Bösch: BW(BA)Spez.Th.FiWi/PL/01",
-                    "end": "17:00",
-                    "begin": "14:00"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "summary": "Hinkelthein(BW), Görg, Enders: BW(BA)GL WR/PL/01",
-                    "end": "11:00",
-                    "begin": "08:00"
-                }
-            ]
-        }
-    },
     "05.03.43 (HS4)": {
         "id": "SPLUSD17C3C",
         "days": {
             "Monday": [
                 {
                     "summary": "Scupin: FPF(BA)/(MA)Komm./Pflegeforschung/PL/01",
-                    "end": "11:30",
-                    "begin": "10:00"
-                }
-            ],
-            "Thursday": [
-                {
-                    "summary": ": SA(BA)Psych 1/PL/01",
-                    "end": "13:00",
-                    "begin": "10:00"
+                    "begin": "10:00",
+                    "end": "11:30"
                 }
             ],
             "Tuesday": [
                 {
                     "summary": "Scupin: FPF(BA)Pfl. i. Ges.-sys./PL/01",
-                    "end": "11:30",
-                    "begin": "10:00"
+                    "begin": "10:00",
+                    "end": "11:30"
                 },
                 {
                     "summary": "Bauernschmidt: FPF(BA)Pfl.-Forsch. 1/PL/01",
-                    "end": "13:30",
-                    "begin": "12:00"
-                }
-            ]
-        }
-    },
-    "01.02.14": {
-        "id": "SPLUS0B1252",
-        "days": {
-            "Tuesday": [
-                {
-                    "summary": ": SA(BA)Fachspr. Eng./PL/01",
-                    "end": "09:30",
-                    "begin": "08:30"
-                }
-            ]
-        }
-    },
-    "03.00.18": {
-        "id": "SPLUSCD917B",
-        "days": {
-            "Wednesday": [
-                {
-                    "summary": "Kleekamp(GW): Pflege(BA)Statistik/PL/01",
-                    "end": "11:00",
-                    "begin": "10:00"
-                },
-                {
-                    "summary": "Kleekamp(GW): Pflege(BA)Statistik/PL/02",
-                    "end": "13:00",
-                    "begin": "11:30"
-                }
-            ]
-        }
-    },
-    "04.00.02 (HS7)": {
-        "id": "SPLUS412E9B",
-        "days": {
-            "Monday": [
-                {
-                    "summary": "Leitzgen: BW(BA)Steuern I+II/PL/01",
-                    "end": "10:00",
-                    "begin": "08:00"
+                    "begin": "12:00",
+                    "end": "13:30"
                 }
             ],
-            "Thursday": [
-                {
-                    "summary": "Enders: BW(BA)Recht I/PL/01",
-                    "end": "09:30",
-                    "begin": "08:00"
-                },
-                {
-                    "summary": "Adler: SA(BA)Soz.man./PL/01",
-                    "end": "16:00",
-                    "begin": "15:00"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "summary": "Enders: BW(BA)/ME/RE/SD(MA)Gew.RS/PL/01",
-                    "end": "15:30",
-                    "begin": "14:00"
-                }
-            ]
-        }
-    },
-    "05.03.32": {
-        "id": "SPLUS4833BD",
-        "days": {
-            "Wednesday": [
-                {
-                    "summary": "Eibner, Schuhmann: WI(MA)Int.Bus./Länderproj./Gruppe 1-Datteln/S/01",
-                    "end": "16:00",
-                    "begin": "09:00"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "summary": "Eibner, Schuhmann: WI(MA)Int.Bus./Länderproj./Gruppe 2/S/01",
-                    "end": "15:00",
-                    "begin": "09:00"
-                }
-            ]
-        }
-    },
-    "01.02.11": {
-        "id": "SPLUS9BD8B0",
-        "days": {
-            "Wednesday": [
-                {
-                    "summary": "Eibner: WI(MA)Int. Bus./Außenwirt./S/02",
-                    "end": "20:15",
-                    "begin": "16:15"
-                }
-            ],
-            "Monday": [
-                {
-                    "summary": "Eibner: WI(MA)Int. Bus./Außenwirt./S/01",
-                    "end": "20:15",
-                    "begin": "17:00"
-                }
-            ],
-            "Thursday": [
-                {
-                    "summary": "Eibner: WI(MA)Int. Bus./Außenwirt./S/03",
-                    "end": "14:00",
-                    "begin": "09:00"
-                }
-            ]
-        }
-    },
-    "05.03.40 (HS3)": {
-        "id": "SPLUSD17C3A",
-        "days": {
             "Thursday": [
                 {
                     "summary": ": SA(BA)Psych 1/PL/01",
-                    "end": "13:00",
-                    "begin": "10:00"
-                }
-            ]
-        }
-    },
-    "04.00.34": {
-        "id": "SPLUS4833BC",
-        "days": {
-            "Wednesday": [
-                {
-                    "summary": ": 18.07._Ref.4_Brandschutz",
-                    "end": "12:15",
-                    "begin": "08:30"
-                }
-            ]
-        }
-    },
-    "05.00.04": {
-        "id": "SPLUSD17C52",
-        "days": {
-            "Wednesday": [
-                {
-                    "summary": "Geyer, Bösch: BW(BA)GL FiWi/PL/01",
-                    "end": "11:00",
-                    "begin": "08:00"
-                }
-            ],
-            "Friday": [
-                {
-                    "summary": "Watzka, Kraußlach, Enders: BW(BA)ZA/EF PM/PL/01",
-                    "end": "15:00",
-                    "begin": "12:00"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "summary": "Patz: MB(BA)UUT/PL/01",
-                    "end": "15:30",
-                    "begin": "14:00"
+                    "begin": "10:00",
+                    "end": "13:00"
                 }
             ]
         }
@@ -279,22 +36,306 @@
             "Monday": [
                 {
                     "summary": "Leitzgen: BW(BA)Steuern I+II/PL/01",
-                    "end": "10:00",
-                    "begin": "08:00"
-                }
-            ],
-            "Thursday": [
-                {
-                    "summary": "Enders: BW(BA)Recht I/PL/01",
-                    "end": "09:30",
-                    "begin": "08:00"
+                    "begin": "08:00",
+                    "end": "10:00"
                 }
             ],
             "Tuesday": [
                 {
                     "summary": "Enders: BW(BA)/ME/RE/SD(MA)Gew.RS/PL/01",
-                    "end": "15:30",
-                    "begin": "14:00"
+                    "begin": "14:00",
+                    "end": "15:30"
+                }
+            ],
+            "Thursday": [
+                {
+                    "summary": "Enders: BW(BA)Recht I/PL/01",
+                    "begin": "08:00",
+                    "end": "09:30"
+                },
+                {
+                    "summary": "Enders: BW(BA)Recht I/PL/NTA/01",
+                    "begin": "09:30",
+                    "end": "10:15"
+                }
+            ]
+        }
+    },
+    "05.00.10": {
+        "id": "SPLUSD17C56",
+        "days": {
+            "Tuesday": [
+                {
+                    "summary": "Hinkelthein(BW), Görg, Enders: BW(BA)GL WR/PL/01",
+                    "begin": "08:00",
+                    "end": "11:00"
+                }
+            ],
+            "Thursday": [
+                {
+                    "summary": "Geyer, Bösch: BW(BA)Spez.Th.FiWi/PL/01",
+                    "begin": "14:00",
+                    "end": "17:00"
+                }
+            ]
+        }
+    },
+    "05.00.04": {
+        "id": "SPLUSD17C52",
+        "days": {
+            "Monday": [
+                {
+                    "summary": "Patz: MB(BA)Zersp.II/PL/01",
+                    "begin": "08:00",
+                    "end": "09:30"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "summary": "Patz: MB(BA)UUT/PL/01",
+                    "begin": "14:00",
+                    "end": "15:30"
+                },
+                {
+                    "summary": "Patz: MB(BA)UUT/PL/NTA/01",
+                    "begin": "15:30",
+                    "end": "16:15"
+                }
+            ],
+            "Thursday": [
+                {
+                    "summary": "Schwabe: MB(BA)MD/PL/01",
+                    "begin": "12:00",
+                    "end": "13:30"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "summary": "Geyer, Bösch: BW(BA)GL FiWi/PL/01",
+                    "begin": "08:00",
+                    "end": "11:00"
+                }
+            ],
+            "Friday": [
+                {
+                    "summary": "Spessert: MB(BA)KuA/PL/01",
+                    "begin": "10:00",
+                    "end": "11:00"
+                },
+                {
+                    "summary": "Watzka, Kraußlach, Enders: BW(BA)ZA/EF PM/PL/01",
+                    "begin": "12:00",
+                    "end": "15:00"
+                }
+            ]
+        }
+    },
+    "05.03.40 (HS3)": {
+        "id": "SPLUSD17C3A",
+        "days": {
+            "Thursday": [
+                {
+                    "summary": ": SA(BA)Psych 1/PL/01",
+                    "begin": "10:00",
+                    "end": "13:00"
+                }
+            ]
+        }
+    },
+    "05.03.02 (HS5)": {
+        "id": "SPLUSD17C3B",
+        "days": {
+            "Monday": [
+                {
+                    "summary": "Harth: SW(ba)Psychologie/V/01.3",
+                    "begin": "09:00",
+                    "end": "16:00"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "summary": "von Boetticher: SA(BA)Recht 3/PL/01",
+                    "begin": "10:00",
+                    "end": "12:00"
+                },
+                {
+                    "summary": "von Boetticher: SA(BA)Recht 3/PL/02",
+                    "begin": "13:00",
+                    "end": "15:00"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "summary": "Behlert: SA(BA)Recht 3/PL/03",
+                    "begin": "10:00",
+                    "end": "12:00"
+                },
+                {
+                    "summary": "Behlert: SA(BA)Recht 3/PL/04",
+                    "begin": "13:00",
+                    "end": "15:00"
+                }
+            ]
+        }
+    },
+    "03.00.18": {
+        "id": "SPLUSCD917B",
+        "days": {
+            "Wednesday": [
+                {
+                    "summary": "Kleekamp(GW): Pflege(BA)Statistik/PL/01",
+                    "begin": "10:00",
+                    "end": "11:00"
+                },
+                {
+                    "summary": "Kleekamp(GW): Pflege(BA)Statistik/PL/02",
+                    "begin": "11:30",
+                    "end": "13:00"
+                }
+            ]
+        }
+    },
+    "01.02.11": {
+        "id": "SPLUS9BD8B0",
+        "days": {
+            "Monday": [
+                {
+                    "summary": "Eibner: WI(MA)Int. Bus./Außenwirt./S/01",
+                    "begin": "17:00",
+                    "end": "20:15"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "summary": "Eibner: WI(MA)Int. Bus./Außenwirt./S/02",
+                    "begin": "16:15",
+                    "end": "20:15"
+                }
+            ],
+            "Thursday": [
+                {
+                    "summary": "Eibner: WI(MA)Int. Bus./Außenwirt./S/03",
+                    "begin": "09:00",
+                    "end": "14:00"
+                }
+            ]
+        }
+    },
+    "01.02.12": {
+        "id": "SPLUS9BD8B1",
+        "days": {
+            "Monday": [
+                {
+                    "summary": "Watzka: BW(MA)Psych.GL AG/PL/01",
+                    "begin": "16:00",
+                    "end": "17:00"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "summary": "Bösch: BW(MA)Int.Fin.man./PL/01",
+                    "begin": "14:00",
+                    "end": "15:00"
+                }
+            ],
+            "Thursday": [
+                {
+                    "summary": "Claß: MB(BA)Info/PL/01",
+                    "begin": "10:00",
+                    "end": "11:30"
+                },
+                {
+                    "summary": "Claß: MB(BA)Info/PL/NTA/01",
+                    "begin": "11:30",
+                    "end": "12:15"
+                }
+            ],
+            "Friday": [
+                {
+                    "summary": "Kraußlach: BW(MA)Int.Pers.man./PL/01",
+                    "begin": "10:00",
+                    "end": "11:00"
+                }
+            ]
+        }
+    },
+    "05.03.32": {
+        "id": "SPLUS4833BD",
+        "days": {
+            "Tuesday": [
+                {
+                    "summary": "Eibner, Schuhmann: WI(MA)Int.Bus./Länderproj./Gruppe 2/S/01",
+                    "begin": "09:00",
+                    "end": "15:00"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "summary": "Eibner, Schuhmann: WI(MA)Int.Bus./Länderproj./Gruppe 1-Datteln/S/01",
+                    "begin": "09:00",
+                    "end": "16:00"
+                }
+            ]
+        }
+    },
+    "04.00.02 (HS7)": {
+        "id": "SPLUS412E9B",
+        "days": {
+            "Monday": [
+                {
+                    "summary": "Leitzgen: BW(BA)Steuern I+II/PL/01",
+                    "begin": "08:00",
+                    "end": "10:00"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "summary": "Enders: BW(BA)/ME/RE/SD(MA)Gew.RS/PL/01",
+                    "begin": "14:00",
+                    "end": "15:30"
+                }
+            ],
+            "Thursday": [
+                {
+                    "summary": "Enders: BW(BA)Recht I/PL/01",
+                    "begin": "08:00",
+                    "end": "09:30"
+                },
+                {
+                    "summary": "Adler: SA(BA)Soz.man./PL/01",
+                    "begin": "15:00",
+                    "end": "16:00"
+                }
+            ]
+        }
+    },
+    "04.00.34": {
+        "id": "SPLUS4833BC",
+        "days": {
+            "Tuesday": [
+                {
+                    "summary": "Heiderich: ME(BA)TM I/Wdh.-Prfg./01",
+                    "begin": "14:00",
+                    "end": "16:00"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "summary": ": 18.07._Ref.4_Brandschutz",
+                    "begin": "08:30",
+                    "end": "12:15"
+                }
+            ]
+        }
+    },
+    "01.02.14": {
+        "id": "SPLUS0B1252",
+        "days": {
+            "Tuesday": [
+                {
+                    "summary": ": SA(BA)Fachspr. Eng./PL/01",
+                    "begin": "08:30",
+                    "end": "09:30"
                 }
             ]
         }

@@ -1,67 +1,85 @@
 {
-    "04.00.02 (HS7)": {
-        "id": "SPLUS412E9B",
-        "days": {
-            "Wednesday": [
-                {
-                    "summary": "Görg: BW(BA)WVR/PL/01",
-                    "end": "09:30",
-                    "begin": "08:00"
-                },
-                {
-                    "summary": "Stodolka (BW): BW(BA)IKT/ERP/PL/01",
-                    "end": "15:00",
-                    "begin": "14:00"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "summary": "Glück: MB(BA)StröL II/PL/01",
-                    "end": "13:30",
-                    "begin": "12:00"
-                }
-            ]
-        }
-    },
-    "05.03.02 (HS5)": {
-        "id": "SPLUSD17C3B",
-        "days": {
-            "Wednesday": [
-                {
-                    "summary": ": SA(BA)Recht 1/PL/01",
-                    "end": "12:00",
-                    "begin": "10:00"
-                }
-            ],
-            "Friday": [
-                {
-                    "summary": ": SA(BA)Psych 2/PL/01",
-                    "end": "13:30",
-                    "begin": "12:00"
-                }
-            ]
-        }
-    },
     "05.00.10": {
         "id": "SPLUSD17C56",
         "days": {
             "Monday": [
                 {
                     "summary": "Ephrosi(BW): BW(BA)ABWL-Logistik/PL/01",
-                    "end": "11:00",
-                    "begin": "10:00"
+                    "begin": "10:00",
+                    "end": "11:00"
                 }
             ],
             "Tuesday": [
                 {
                     "summary": "Linsenbarth(BW), Görg, Enders, di Stefano(BW): BW(BA)Spez.Kentn.WR/PL/01",
-                    "end": "13:00",
-                    "begin": "10:00"
+                    "begin": "10:00",
+                    "end": "13:00"
                 },
                 {
                     "summary": ": SA(BA)Recht 2/PL/01",
-                    "end": "16:00",
-                    "begin": "14:00"
+                    "begin": "14:00",
+                    "end": "16:00"
+                }
+            ]
+        }
+    },
+    "05.00.04": {
+        "id": "SPLUSD17C52",
+        "days": {
+            "Thursday": [
+                {
+                    "summary": "Garzke: MB(BA)KL II/PL/01",
+                    "begin": "08:00",
+                    "end": "09:30"
+                },
+                {
+                    "summary": "Stoetzer: BW(BA)VWL III angew.WiPo/PL/01",
+                    "begin": "10:00",
+                    "end": "12:00"
+                }
+            ]
+        }
+    },
+    "04.00.01(HS6)": {
+        "id": "SPLUS40B576",
+        "days": {
+            "Monday": [
+                {
+                    "summary": "Heiderich: MB/ME(BA/MA)TM II/PL/01",
+                    "begin": "08:00",
+                    "end": "10:00"
+                },
+                {
+                    "summary": "Heiderich: MB/ME(BA/MA)TM II/PL/NTA/01",
+                    "begin": "10:00",
+                    "end": "10:45"
+                },
+                {
+                    "summary": "Lehmann (BW): BW(BA)Jahresabschl./PL/01",
+                    "begin": "14:00",
+                    "end": "15:30"
+                },
+                {
+                    "summary": "Lehmann (BW): BW(BA)Jahresabschl./PL/NTA/01",
+                    "begin": "15:30",
+                    "end": "16:15"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "summary": "Görg: BW(BA)WVR/PL/01",
+                    "begin": "08:00",
+                    "end": "09:30"
+                },
+                {
+                    "summary": "Görg: BW(BA)WVR/PL/NTA/01",
+                    "begin": "09:30",
+                    "end": "10:15"
+                },
+                {
+                    "summary": "Stodolka (BW): BW(BA)IKT/ERP/PL/01",
+                    "begin": "14:00",
+                    "end": "15:00"
                 }
             ]
         }
@@ -72,8 +90,39 @@
             "Tuesday": [
                 {
                     "summary": "Görg: BW(MA)R f.Führungskr./PL/01",
-                    "end": "17:00",
-                    "begin": "16:00"
+                    "begin": "16:00",
+                    "end": "17:00"
+                }
+            ]
+        }
+    },
+    "04.-1.01(Aula)": {
+        "id": "SPLUSCA96B6",
+        "days": {
+            "Monday": [
+                {
+                    "summary": "Förster: ET/FT/MB/ME(BA)El. Antr./PL/01",
+                    "begin": "14:00",
+                    "end": "15:30"
+                }
+            ]
+        }
+    },
+    "04.03.10": {
+        "id": "SPLUS412E9E",
+        "days": {
+            "Monday": [
+                {
+                    "summary": "Gerbach: LOT/MB/ME(BA)GL FA/Rob./PL/01",
+                    "begin": "16:00",
+                    "end": "17:30"
+                }
+            ],
+            "Friday": [
+                {
+                    "summary": "Felkl: MB/ME(BA)GL ET/PL/01",
+                    "begin": "08:00",
+                    "end": "09:30"
                 }
             ]
         }
@@ -84,51 +133,75 @@
             "Wednesday": [
                 {
                     "summary": "Holland-Moritz: ME(BA)Phy I+II/Wdh.-Prf./PL/01",
-                    "end": "11:30",
-                    "begin": "10:00"
-                }
-            ]
-        }
-    },
-    "05.00.04": {
-        "id": "SPLUSD17C52",
-        "days": {
-            "Thursday": [
-                {
-                    "summary": "Stoetzer: BW(BA)VWL III angew.WiPo/PL/01",
-                    "end": "12:00",
-                    "begin": "10:00"
-                }
-            ]
-        }
-    },
-    "04.00.01(HS6)": {
-        "id": "SPLUS40B576",
-        "days": {
-            "Wednesday": [
-                {
-                    "summary": "Görg: BW(BA)WVR/PL/01",
-                    "end": "09:30",
-                    "begin": "08:00"
-                },
-                {
-                    "summary": "Stodolka (BW): BW(BA)IKT/ERP/PL/01",
-                    "end": "15:00",
-                    "begin": "14:00"
+                    "begin": "10:00",
+                    "end": "11:30"
                 }
             ],
             "Friday": [
                 {
                     "summary": "Felkl: MB/ME(BA)GL ET/PL/01",
-                    "end": "09:30",
-                    "begin": "08:00"
+                    "begin": "08:00",
+                    "end": "09:30"
+                },
+                {
+                    "summary": "Felkl: MB/ME(BA)GL ET/PL/NTA/01",
+                    "begin": "09:30",
+                    "end": "10:15"
+                }
+            ]
+        }
+    },
+    "05.03.02 (HS5)": {
+        "id": "SPLUSD17C3B",
+        "days": {
+            "Wednesday": [
+                {
+                    "summary": ": SA(BA)Recht 1/PL/01",
+                    "begin": "10:00",
+                    "end": "12:00"
                 }
             ],
+            "Friday": [
+                {
+                    "summary": ": SA(BA)Psych 2/PL/01",
+                    "begin": "12:00",
+                    "end": "13:30"
+                }
+            ]
+        }
+    },
+    "04.00.02 (HS7)": {
+        "id": "SPLUS412E9B",
+        "days": {
             "Monday": [
                 {
-                    "summary": "Heiderich: MB/ME(BA/MA)TM II/PL/01",
-                    "end": "10:00",
-                    "begin": "08:00"
+                    "summary": "Lehmann (BW): BW(BA)Jahresabschl./PL/01",
+                    "begin": "14:00",
+                    "end": "15:30"
+                },
+                {
+                    "summary": "Lehmann (BW): BW(BA)Jahresabschl./PL/NTA/01",
+                    "begin": "15:30",
+                    "end": "16:15"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "summary": "Glück: MB(BA)StröL II/PL/01",
+                    "begin": "12:00",
+                    "end": "13:30"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "summary": "Görg: BW(BA)WVR/PL/01",
+                    "begin": "08:00",
+                    "end": "09:30"
+                },
+                {
+                    "summary": "Stodolka (BW): BW(BA)IKT/ERP/PL/01",
+                    "begin": "14:00",
+                    "end": "15:00"
                 }
             ]
         }
