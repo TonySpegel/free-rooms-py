@@ -1,12 +1,19 @@
 {
-    "05.00.04": {
-        "id": "SPLUSD17C52",
+    "04.00.08(CIM)": {
+        "id": "SPLUSCA9608",
         "days": {
-            "Saturday": [
+            "Thursday": [
                 {
-                    "summary": "Watzka, Stoetzer, Bernartz, Kraußlach, JenAll: JenALL_PIW/GM/HCM 2017/GM 2018/APL/02",
-                    "begin": "09:00",
-                    "end": "11:00"
+                    "begin": "14:00",
+                    "summary": "Pfaff SciTec: SciTec_Schlegel_??/01.2",
+                    "end": "16:30"
+                }
+            ],
+            "Monday": [
+                {
+                    "begin": "08:00",
+                    "summary": "Pfaff SciTec: SciTec_Schlegel_??/01.1",
+                    "end": "16:30"
                 }
             ]
         }
@@ -16,9 +23,21 @@
         "days": {
             "Saturday": [
                 {
-                    "summary": "Herbst, U.: JenAll_FTPM 2017/APL/01",
                     "begin": "09:00",
+                    "summary": "Herbst, U.: JenAll_FTPM 2017/APL/01",
                     "end": "10:30"
+                }
+            ]
+        }
+    },
+    "05.00.04": {
+        "id": "SPLUSD17C52",
+        "days": {
+            "Saturday": [
+                {
+                    "begin": "09:00",
+                    "summary": "Watzka, Stoetzer, Bernartz, Kraußlach, JenAll: JenALL_PIW/GM/HCM 2017/GM 2018/APL/02",
+                    "end": "11:00"
                 }
             ]
         }

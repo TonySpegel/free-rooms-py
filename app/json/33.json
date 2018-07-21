@@ -1,43 +1,19 @@
 {
-    "05.03.36": {
-        "id": "SPLUSD17C38",
+    "05.01.43": {
+        "id": "SPLUSD17C42",
         "days": {
             "Saturday": [
                 {
-                    "summary": "Mainka (BW): JenAll_GM 2018/APL/02",
                     "begin": "09:00",
-                    "end": "10:30"
+                    "summary": "JenAll_2: JenAll_HCM 2017/APL/03",
+                    "end": "12:15"
                 }
             ],
             "Friday": [
                 {
-                    "summary": "Mainka (BW): JenAll_GM 2018/S/01.11",
-                    "begin": "14:30",
+                    "begin": "16:15",
+                    "summary": "JenAll: JenAll_HCM 2017/S/01.10",
                     "end": "19:30"
-                }
-            ]
-        }
-    },
-    "03.03.10/1": {
-        "id": "SPLUSF883FF",
-        "days": {
-            "Monday": [
-                {
-                    "summary": "Mottl, Hoffmann, U., Gruhn: 13.08._WI_Umbau Labortür",
-                    "begin": "08:30",
-                    "end": "17:30"
-                }
-            ]
-        }
-    },
-    "03.03.42/1": {
-        "id": "SPLUSF88402",
-        "days": {
-            "Monday": [
-                {
-                    "summary": "Mottl, Hoffmann, U., Gruhn: 13.08._WI_Umbau Labortür",
-                    "begin": "08:30",
-                    "end": "17:30"
                 }
             ]
         }
@@ -47,33 +23,33 @@
         "days": {
             "Monday": [
                 {
-                    "summary": "Mottl, Hoffmann, U., Gruhn: 13.08._WI_Umbau Labortür",
                     "begin": "08:30",
+                    "summary": "Mottl, Hoffmann, U., Gruhn: 13.08._WI_Umbau Labortür",
                     "end": "17:30"
                 }
             ]
         }
     },
-    "03.03.39(Büro)": {
-        "id": "SPLUS4666F0",
+    "03.03.10/1": {
+        "id": "SPLUSF883FF",
         "days": {
             "Monday": [
                 {
-                    "summary": "Mottl, Hoffmann, U., Gruhn: 13.08._WI_Umbau Labortür",
                     "begin": "08:30",
+                    "summary": "Mottl, Hoffmann, U., Gruhn: 13.08._WI_Umbau Labortür",
                     "end": "17:30"
                 }
             ]
         }
     },
-    "05.00.04": {
-        "id": "SPLUSD17C52",
+    "05.00.06": {
+        "id": "SPLUSD17C54",
         "days": {
-            "Saturday": [
+            "Monday": [
                 {
-                    "summary": "Scheld, JenAll: JenAll_HCM 2017/GM 2018/APL/01",
-                    "begin": "09:00",
-                    "end": "10:30"
+                    "begin": "10:30",
+                    "summary": "Hübner: 13.08._AO_Vertdg.",
+                    "end": "13:00"
                 }
             ]
         }
@@ -83,8 +59,70 @@
         "days": {
             "Monday": [
                 {
-                    "summary": "Mottl, Hoffmann, U., Gruhn: 13.08._WI_Umbau Labortür",
                     "begin": "08:30",
+                    "summary": "Mottl, Hoffmann, U., Gruhn: 13.08._WI_Umbau Labortür",
+                    "end": "17:30"
+                }
+            ]
+        }
+    },
+    "04.00.08(CIM)": {
+        "id": "SPLUSCA9608",
+        "days": {
+            "Thursday": [
+                {
+                    "begin": "14:00",
+                    "summary": "Pfaff SciTec: SciTec_Schlegel_??/01.2",
+                    "end": "16:30"
+                }
+            ],
+            "Monday": [
+                {
+                    "begin": "08:00",
+                    "summary": "Pfaff SciTec: SciTec_Schlegel_??/01.1",
+                    "end": "16:30"
+                }
+            ]
+        }
+    },
+    "05.00.04": {
+        "id": "SPLUSD17C52",
+        "days": {
+            "Saturday": [
+                {
+                    "begin": "09:00",
+                    "summary": "Scheld, JenAll: JenAll_HCM 2017/GM 2018/APL/01",
+                    "end": "10:30"
+                }
+            ]
+        }
+    },
+    "05.03.36": {
+        "id": "SPLUSD17C38",
+        "days": {
+            "Saturday": [
+                {
+                    "begin": "09:00",
+                    "summary": "Mainka (BW): JenAll_GM 2018/APL/02",
+                    "end": "10:30"
+                }
+            ],
+            "Friday": [
+                {
+                    "begin": "14:30",
+                    "summary": "Mainka (BW): JenAll_GM 2018/S/01.11",
+                    "end": "19:30"
+                }
+            ]
+        }
+    },
+    "03.03.42/1": {
+        "id": "SPLUSF88402",
+        "days": {
+            "Monday": [
+                {
+                    "begin": "08:30",
+                    "summary": "Mottl, Hoffmann, U., Gruhn: 13.08._WI_Umbau Labortür",
                     "end": "17:30"
                 }
             ]
@@ -95,28 +133,9 @@
         "days": {
             "Thursday": [
                 {
-                    "summary": "Garzke: FT/MB(BA)ME I/Wdh.-Prfg./01",
                     "begin": "08:30",
+                    "summary": "Garzke: FT/MB(BA)ME I/Wdh.-Prfg./01",
                     "end": "10:30"
-                }
-            ]
-        }
-    },
-    "05.01.43": {
-        "id": "SPLUSD17C42",
-        "days": {
-            "Saturday": [
-                {
-                    "summary": "JenAll_2: JenAll_HCM 2017/APL/03",
-                    "begin": "09:00",
-                    "end": "12:15"
-                }
-            ],
-            "Friday": [
-                {
-                    "summary": "JenAll: JenAll_HCM 2017/S/01.10",
-                    "begin": "16:15",
-                    "end": "19:30"
                 }
             ]
         }
