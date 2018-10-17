@@ -1,17 +1,6 @@
 {
-    "05.03.11(SW)": {
-        "days": {
-            "Saturday": [
-                {
-                    "summary": "SW 1: SW(MA)Coaching+Fhrg./S/01",
-                    "begin": "08:30",
-                    "end": "17:30"
-                }
-            ]
-        },
-        "id": "SPLUS8C6346"
-    },
     "05.03.206": {
+        "id": "SPLUS7F8D03",
         "days": {
             "Thursday": [
                 {
@@ -20,10 +9,10 @@
                     "end": "18:00"
                 }
             ]
-        },
-        "id": "SPLUS7F8D03"
+        }
     },
     "05.03.203": {
+        "id": "SPLUSD17C62",
         "days": {
             "Thursday": [
                 {
@@ -32,7 +21,18 @@
                     "end": "12:45"
                 }
             ]
-        },
-        "id": "SPLUSD17C62"
+        }
+    },
+    "05.03.11(SW)": {
+        "id": "SPLUS8C6346",
+        "days": {
+            "Saturday": [
+                {
+                    "summary": "SW 1: SW(MA)Coaching+Fhrg./S/01",
+                    "begin": "08:30",
+                    "end": "17:30"
+                }
+            ]
+        }
     }
 }

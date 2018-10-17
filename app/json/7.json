@@ -1,5 +1,18 @@
 {
+    "05.03.33": {
+        "id": "SPLUSD17C37",
+        "days": {
+            "Tuesday": [
+                {
+                    "summary": "StuRa: 12./26.02./12./26.03._StuRa_Beratung",
+                    "begin": "13:30",
+                    "end": "18:30"
+                }
+            ]
+        }
+    },
     "03.00.32": {
+        "id": "SPLUSCD917D",
         "days": {
             "Monday": [
                 {
@@ -15,19 +28,6 @@
                     "end": "15:00"
                 }
             ]
-        },
-        "id": "SPLUSCD917D"
-    },
-    "05.03.33": {
-        "days": {
-            "Tuesday": [
-                {
-                    "summary": "StuRa: 12./26.02./12./26.03._StuRa_Beratung",
-                    "begin": "13:30",
-                    "end": "18:30"
-                }
-            ]
-        },
-        "id": "SPLUSD17C37"
+        }
     }
 }
