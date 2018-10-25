@@ -1,33 +1,33 @@
 {
     "05.03.33": {
-        "id": "SPLUSD17C37",
         "days": {
             "Tuesday": [
                 {
-                    "end": "18:30",
                     "begin": "13:30",
+                    "end": "18:30",
                     "summary": "StuRa: 12./26.02./12./26.03._StuRa_Beratung"
                 }
             ]
-        }
+        },
+        "id": "SPLUSD17C37"
     },
     "03.00.32": {
-        "id": "SPLUSCD917D",
         "days": {
             "Wednesday": [
                 {
-                    "end": "15:00",
                     "begin": "13:30",
+                    "end": "15:00",
                     "summary": "Walther M.: PFD(BA)GL Statistik/S/01.1"
                 }
             ],
             "Monday": [
                 {
-                    "end": "11:00",
                     "begin": "09:30",
+                    "end": "11:00",
                     "summary": "Walther M.: PFD(BA)GL Statistik/S/01.2"
                 }
             ]
-        }
+        },
+        "id": "SPLUSCD917D"
     }
 }
