@@ -3,9 +3,9 @@
         "days": {
             "Tuesday": [
                 {
-                    "begin": "13:30",
                     "end": "18:30",
-                    "summary": "StuRa: 12./26.02./12./26.03._StuRa_Beratung"
+                    "summary": "StuRa: 12./26.02./12./26.03._StuRa_Beratung",
+                    "begin": "13:30"
                 }
             ]
         },
@@ -13,18 +13,18 @@
     },
     "03.00.32": {
         "days": {
-            "Wednesday": [
-                {
-                    "begin": "13:30",
-                    "end": "15:00",
-                    "summary": "Walther M.: PFD(BA)GL Statistik/S/01.1"
-                }
-            ],
             "Monday": [
                 {
-                    "begin": "09:30",
                     "end": "11:00",
-                    "summary": "Walther M.: PFD(BA)GL Statistik/S/01.2"
+                    "summary": "Walther M.: PFD(BA)GL Statistik/S/01.2",
+                    "begin": "09:30"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "15:00",
+                    "summary": "Walther M.: PFD(BA)GL Statistik/S/01.1",
+                    "begin": "13:30"
                 }
             ]
         },

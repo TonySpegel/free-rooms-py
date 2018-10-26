@@ -1,11 +1,23 @@
 {
+    "05.03.11(SW)": {
+        "days": {
+            "Saturday": [
+                {
+                    "end": "17:30",
+                    "summary": "SW 1: SW(MA)Coaching+Fhrg./S/01",
+                    "begin": "08:30"
+                }
+            ]
+        },
+        "id": "SPLUS8C6346"
+    },
     "05.01.43": {
         "days": {
             "Thursday": [
                 {
-                    "begin": "09:00",
                     "end": "11:30",
-                    "summary": "Kraußlach: 21.02._BW_Bespr."
+                    "summary": "Kraußlach: 21.02._BW_Bespr.",
+                    "begin": "09:00"
                 }
             ]
         },
@@ -15,33 +27,21 @@
         "days": {
             "Thursday": [
                 {
-                    "begin": "09:30",
                     "end": "12:45",
-                    "summary": "Rädel-Ablass: GP/SW(BA)Stud.Projekte/V/01.04"
+                    "summary": "Rädel-Ablass: GP/SW(BA)Stud.Projekte/V/01.04",
+                    "begin": "09:30"
                 }
             ]
         },
         "id": "SPLUSD17C62"
     },
-    "05.03.11(SW)": {
-        "days": {
-            "Saturday": [
-                {
-                    "begin": "08:30",
-                    "end": "17:30",
-                    "summary": "SW 1: SW(MA)Coaching+Fhrg./S/01"
-                }
-            ]
-        },
-        "id": "SPLUS8C6346"
-    },
     "05.03.206": {
         "days": {
             "Thursday": [
                 {
-                    "begin": "16:30",
                     "end": "18:00",
-                    "summary": "Rädel-Ablass: GP/SW(BA)Stud.Projekte/V/01.02"
+                    "summary": "Rädel-Ablass: GP/SW(BA)Stud.Projekte/V/01.02",
+                    "begin": "16:30"
                 }
             ]
         },
