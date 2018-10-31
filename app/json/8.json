@@ -1,95 +1,95 @@
 {
-    "05.01.43": {
+    "05.03.203": {
+        "id": "SPLUSD17C62",
         "days": {
             "Thursday": [
                 {
-                    "begin": "09:00",
+                    "end": "12:45",
+                    "begin": "09:30",
+                    "summary": "Rädel-Ablass: GP/SW(BA)Stud.Projekte/V/01.04"
+                }
+            ]
+        }
+    },
+    "05.03.206": {
+        "id": "SPLUS7F8D03",
+        "days": {
+            "Thursday": [
+                {
+                    "end": "18:00",
+                    "begin": "16:30",
+                    "summary": "Rädel-Ablass: GP/SW(BA)Stud.Projekte/V/01.02"
+                }
+            ]
+        }
+    },
+    "05.01.43": {
+        "id": "SPLUSD17C42",
+        "days": {
+            "Thursday": [
+                {
                     "end": "11:30",
+                    "begin": "09:00",
                     "summary": "Kraußlach: 21.02._BW_Bespr."
                 }
             ]
-        },
-        "id": "SPLUSD17C42"
+        }
     },
-    "05.00.04": {
+    "05.03.11(SW)": {
+        "id": "SPLUS8C6346",
         "days": {
             "Saturday": [
                 {
-                    "begin": "09:00",
+                    "end": "17:30",
+                    "begin": "08:30",
+                    "summary": "SW 1: SW(MA)Coaching+Fhrg./S/01"
+                }
+            ]
+        }
+    },
+    "05.00.04": {
+        "id": "SPLUSD17C52",
+        "days": {
+            "Saturday": [
+                {
                     "end": "11:00",
+                    "begin": "09:00",
                     "summary": "Görg: JenALL_WI 2018/APL/03"
                 }
             ],
             "Sunday": [
                 {
-                    "begin": "09:00",
                     "end": "18:00",
+                    "begin": "09:00",
                     "summary": "JenAll: JenALL_AO-Optom./S/01.12"
                 }
             ]
-        },
-        "id": "SPLUSD17C52"
-    },
-    "05.03.11(SW)": {
-        "days": {
-            "Saturday": [
-                {
-                    "begin": "08:30",
-                    "end": "17:30",
-                    "summary": "SW 1: SW(MA)Coaching+Fhrg./S/01"
-                }
-            ]
-        },
-        "id": "SPLUS8C6346"
+        }
     },
     "05.03.36": {
+        "id": "SPLUSD17C38",
         "days": {
             "Saturday": [
                 {
-                    "begin": "09:00",
                     "end": "18:00",
+                    "begin": "09:00",
                     "summary": "JenAll: JenALL_AO-Optom./S/01.11"
                 }
             ],
             "Friday": [
                 {
-                    "begin": "09:30",
                     "end": "18:00",
+                    "begin": "09:30",
                     "summary": "JenAll: JenALL_AO-Optom./S/01.10"
                 }
             ],
             "Sunday": [
                 {
-                    "begin": "09:00",
                     "end": "18:00",
+                    "begin": "09:00",
                     "summary": "JenAll: JenALL_AO-Optom./S/01.12"
                 }
             ]
-        },
-        "id": "SPLUSD17C38"
-    },
-    "05.03.206": {
-        "days": {
-            "Thursday": [
-                {
-                    "begin": "16:30",
-                    "end": "18:00",
-                    "summary": "Rädel-Ablass: GP/SW(BA)Stud.Projekte/V/01.02"
-                }
-            ]
-        },
-        "id": "SPLUS7F8D03"
-    },
-    "05.03.203": {
-        "days": {
-            "Thursday": [
-                {
-                    "begin": "09:30",
-                    "end": "12:45",
-                    "summary": "Rädel-Ablass: GP/SW(BA)Stud.Projekte/V/01.04"
-                }
-            ]
-        },
-        "id": "SPLUSD17C62"
+        }
     }
 }
