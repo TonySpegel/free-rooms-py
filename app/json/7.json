@@ -4,8 +4,8 @@
         "days": {
             "Wednesday": [
                 {
-                    "end": "15:00",
                     "begin": "13:30",
+                    "end": "15:00",
                     "summary": "Walther M.: PFD(BA)GL Statistik/S/01.1"
                 }
             ]
@@ -16,8 +16,8 @@
         "days": {
             "Tuesday": [
                 {
-                    "end": "18:30",
                     "begin": "13:30",
+                    "end": "18:30",
                     "summary": "StuRa: 12./26.02./12./26.03._StuRa_Beratung"
                 }
             ]
