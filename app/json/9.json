@@ -1,128 +1,128 @@
 {
-    "05.00.04": {
-        "days": {
-            "Friday": [
-                {
-                    "end": "18:00",
-                    "begin": "09:00",
-                    "summary": "Degle, S.: JenALL_AO-BW/S/01.01"
-                }
-            ],
-            "Saturday": [
-                {
-                    "end": "18:00",
-                    "begin": "09:00",
-                    "summary": "Degle, S.: JenALL_AO-BW/S/01.02"
-                }
-            ]
-        },
-        "id": "SPLUSD17C52"
-    },
-    "05.03.36": {
-        "days": {
-            "Monday": [
-                {
-                    "end": "14:30",
-                    "begin": "09:00",
-                    "summary": "JenAll: JenALL_AO-Optom./S/01.13"
-                }
-            ]
-        },
-        "id": "SPLUSD17C38"
-    },
-    "05.00.03": {
-        "days": {
-            "Friday": [
-                {
-                    "end": "18:00",
-                    "begin": "09:00",
-                    "summary": "Degle, S.: JenALL_AO-BW/S/01.01"
-                }
-            ],
-            "Saturday": [
-                {
-                    "end": "18:00",
-                    "begin": "09:00",
-                    "summary": "Degle, S.: JenALL_AO-BW/S/01.02"
-                }
-            ]
-        },
-        "id": "SPLUSA8CFB5"
-    },
     "05.00.06": {
+        "id": "SPLUSD17C54",
         "days": {
+            "Friday": [
+                {
+                    "begin": "09:00",
+                    "summary": "Degle, S.: JenALL_AO-BW/S/01.01",
+                    "end": "18:00"
+                }
+            ],
+            "Saturday": [
+                {
+                    "begin": "09:00",
+                    "summary": "Degle, S.: JenALL_AO-BW/S/01.02",
+                    "end": "18:00"
+                }
+            ],
             "Sunday": [
                 {
-                    "end": "18:00",
                     "begin": "09:00",
-                    "summary": "Degle, S.: JenALL_AO-BW/S/01.03"
+                    "summary": "Degle, S.: JenALL_AO-BW/S/01.03",
+                    "end": "18:00"
                 }
-            ],
+            ]
+        }
+    },
+    "05.00.02": {
+        "id": "SPLUS6B85F1",
+        "days": {
             "Friday": [
                 {
-                    "end": "18:00",
                     "begin": "09:00",
-                    "summary": "Degle, S.: JenALL_AO-BW/S/01.01"
+                    "summary": "Degle, S.: JenALL_AO-BW/S/01.01",
+                    "end": "18:00"
                 }
             ],
             "Saturday": [
                 {
-                    "end": "18:00",
                     "begin": "09:00",
-                    "summary": "Degle, S.: JenALL_AO-BW/S/01.02"
+                    "summary": "Degle, S.: JenALL_AO-BW/S/01.02",
+                    "end": "18:00"
                 }
             ]
-        },
-        "id": "SPLUSD17C54"
+        }
+    },
+    "05.00.10": {
+        "id": "SPLUSD17C56",
+        "days": {
+            "Saturday": [
+                {
+                    "begin": "09:00",
+                    "summary": "Degle, S.: JenALL_AO-BW/S/01.02",
+                    "end": "18:00"
+                }
+            ],
+            "Sunday": [
+                {
+                    "begin": "09:00",
+                    "summary": "Degle, S.: JenALL_AO-BW/S/01.03",
+                    "end": "18:00"
+                }
+            ]
+        }
     },
     "05.03.33": {
+        "id": "SPLUSD17C37",
         "days": {
             "Tuesday": [
                 {
-                    "end": "18:30",
                     "begin": "13:30",
-                    "summary": "StuRa: 12./26.02./12./26.03._StuRa_Beratung"
+                    "summary": "StuRa: 12./26.02./12./26.03._StuRa_Beratung",
+                    "end": "18:30"
                 }
             ]
-        },
-        "id": "SPLUSD17C37"
+        }
     },
-    "05.00.10": {
-        "days": {
-            "Sunday": [
-                {
-                    "end": "18:00",
-                    "begin": "09:00",
-                    "summary": "Degle, S.: JenALL_AO-BW/S/01.03"
-                }
-            ],
-            "Saturday": [
-                {
-                    "end": "18:00",
-                    "begin": "09:00",
-                    "summary": "Degle, S.: JenALL_AO-BW/S/01.02"
-                }
-            ]
-        },
-        "id": "SPLUSD17C56"
-    },
-    "05.00.02": {
+    "05.00.03": {
+        "id": "SPLUSA8CFB5",
         "days": {
             "Friday": [
                 {
-                    "end": "18:00",
                     "begin": "09:00",
-                    "summary": "Degle, S.: JenALL_AO-BW/S/01.01"
+                    "summary": "Degle, S.: JenALL_AO-BW/S/01.01",
+                    "end": "18:00"
                 }
             ],
             "Saturday": [
                 {
-                    "end": "18:00",
                     "begin": "09:00",
-                    "summary": "Degle, S.: JenALL_AO-BW/S/01.02"
+                    "summary": "Degle, S.: JenALL_AO-BW/S/01.02",
+                    "end": "18:00"
                 }
             ]
-        },
-        "id": "SPLUS6B85F1"
+        }
+    },
+    "05.03.36": {
+        "id": "SPLUSD17C38",
+        "days": {
+            "Monday": [
+                {
+                    "begin": "09:00",
+                    "summary": "JenAll: JenALL_AO-Optom./S/01.13",
+                    "end": "14:30"
+                }
+            ]
+        }
+    },
+    "05.00.04": {
+        "id": "SPLUSD17C52",
+        "days": {
+            "Friday": [
+                {
+                    "begin": "09:00",
+                    "summary": "Degle, S.: JenALL_AO-BW/S/01.01",
+                    "end": "18:00"
+                }
+            ],
+            "Saturday": [
+                {
+                    "begin": "09:00",
+                    "summary": "Degle, S.: JenALL_AO-BW/S/01.02",
+                    "end": "18:00"
+                }
+            ]
+        }
     }
 }
