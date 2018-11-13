@@ -1,4 +1,30 @@
 {
+    "04.00.28": {
+        "days": {
+            "Tuesday": [
+                {
+                    "summary": "Herbst, U.: WI(MA)Lean Prod./P/01.2",
+                    "end": "18:00",
+                    "begin": "08:00"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "summary": "Herbst, U.: WI(MA)Lean Prod./P/01.3",
+                    "end": "18:00",
+                    "begin": "08:00"
+                }
+            ],
+            "Monday": [
+                {
+                    "summary": "Herbst, U.: WI(MA)Lean Prod./P/01.1",
+                    "end": "18:00",
+                    "begin": "08:00"
+                }
+            ]
+        },
+        "id": "SPLUS3E97E2"
+    },
     "05.03.33": {
         "days": {
             "Tuesday": [
@@ -10,5 +36,31 @@
             ]
         },
         "id": "SPLUSD17C37"
+    },
+    "04.00.34": {
+        "days": {
+            "Tuesday": [
+                {
+                    "summary": "Herbst, U.: WI(MA)Lean Prod./P/01.2",
+                    "end": "18:00",
+                    "begin": "08:00"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "summary": "Herbst, U.: WI(MA)Lean Prod./P/01.3",
+                    "end": "18:00",
+                    "begin": "08:00"
+                }
+            ],
+            "Monday": [
+                {
+                    "summary": "Herbst, U.: WI(MA)Lean Prod./P/01.1",
+                    "end": "18:00",
+                    "begin": "08:00"
+                }
+            ]
+        },
+        "id": "SPLUS4833BC"
     }
 }

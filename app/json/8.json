@@ -1,68 +1,4 @@
 {
-    "05.00.10": {
-        "days": {
-            "Saturday": [
-                {
-                    "summary": "JenAll 2: JenALL_GM 2018/S/01.11",
-                    "end": "17:30",
-                    "begin": "08:30"
-                }
-            ],
-            "Friday": [
-                {
-                    "summary": "JenAll 2: JenALL_GM 2018/S/01.10",
-                    "end": "19:30",
-                    "begin": "13:30"
-                }
-            ]
-        },
-        "id": "SPLUSD17C56"
-    },
-    "05.00.04": {
-        "days": {
-            "Sunday": [
-                {
-                    "summary": "JenAll: JenALL_AO-Optom./S/01.12",
-                    "end": "18:00",
-                    "begin": "09:00"
-                }
-            ],
-            "Saturday": [
-                {
-                    "summary": "Görg: JenALL_WI 2018/APL/03",
-                    "end": "11:00",
-                    "begin": "09:00"
-                }
-            ]
-        },
-        "id": "SPLUSD17C52"
-    },
-    "05.03.36": {
-        "days": {
-            "Sunday": [
-                {
-                    "summary": "JenAll: JenALL_AO-Optom./S/01.12",
-                    "end": "18:00",
-                    "begin": "09:00"
-                }
-            ],
-            "Saturday": [
-                {
-                    "summary": "JenAll: JenALL_AO-Optom./S/01.11",
-                    "end": "18:00",
-                    "begin": "09:00"
-                }
-            ],
-            "Friday": [
-                {
-                    "summary": "JenAll: JenALL_AO-Optom./S/01.10",
-                    "end": "18:00",
-                    "begin": "09:30"
-                }
-            ]
-        },
-        "id": "SPLUSD17C38"
-    },
     "05.01.43": {
         "days": {
             "Thursday": [
@@ -74,18 +10,6 @@
             ]
         },
         "id": "SPLUSD17C42"
-    },
-    "05.03.11(SW)": {
-        "days": {
-            "Saturday": [
-                {
-                    "summary": "SW 1: SW(MA)Coaching+Fhrg./S/01",
-                    "end": "17:30",
-                    "begin": "08:30"
-                }
-            ]
-        },
-        "id": "SPLUS8C6346"
     },
     "05.03.203": {
         "days": {
@@ -110,5 +34,81 @@
             ]
         },
         "id": "SPLUS7F8D03"
+    },
+    "05.03.36": {
+        "days": {
+            "Saturday": [
+                {
+                    "summary": "JenAll: JenALL_AO-Optom./S/01.11",
+                    "end": "18:00",
+                    "begin": "09:00"
+                }
+            ],
+            "Friday": [
+                {
+                    "summary": "JenAll: JenALL_AO-Optom./S/01.10",
+                    "end": "18:00",
+                    "begin": "09:30"
+                }
+            ],
+            "Sunday": [
+                {
+                    "summary": "JenAll: JenALL_AO-Optom./S/01.12",
+                    "end": "18:00",
+                    "begin": "09:00"
+                }
+            ]
+        },
+        "id": "SPLUSD17C38"
+    },
+    "05.03.11(SW)": {
+        "days": {
+            "Saturday": [
+                {
+                    "summary": "SW 1: SW(MA)Coaching+Fhrg./S/01",
+                    "end": "17:30",
+                    "begin": "08:30"
+                }
+            ]
+        },
+        "id": "SPLUS8C6346"
+    },
+    "05.00.04": {
+        "days": {
+            "Saturday": [
+                {
+                    "summary": "Görg: JenALL_WI 2018/APL/03",
+                    "end": "11:00",
+                    "begin": "09:00"
+                }
+            ],
+            "Sunday": [
+                {
+                    "summary": "JenAll: JenALL_AO-Optom./S/01.12",
+                    "end": "18:00",
+                    "begin": "09:00"
+                }
+            ]
+        },
+        "id": "SPLUSD17C52"
+    },
+    "05.00.10": {
+        "days": {
+            "Saturday": [
+                {
+                    "summary": "JenAll 2: JenALL_GM 2018/S/01.11",
+                    "end": "17:30",
+                    "begin": "08:30"
+                }
+            ],
+            "Friday": [
+                {
+                    "summary": "JenAll 2: JenALL_GM 2018/S/01.10",
+                    "end": "19:30",
+                    "begin": "13:30"
+                }
+            ]
+        },
+        "id": "SPLUSD17C56"
     }
 }
