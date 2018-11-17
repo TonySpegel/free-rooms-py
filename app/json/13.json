@@ -1,51 +1,25 @@
 {
-    "05.03.202": {
-        "id": "SPLUSD17C61",
+    "05.03.203": {
+        "id": "SPLUSD17C62",
         "days": {
-            "Wednesday": [
+            "Monday": [
                 {
+                    "summary": "Lautenschläger: MB/BW/SciTec/WI(BA)GPS TOPSIM easy Startup!/S/01.1",
                     "begin": "09:30",
-                    "summary": "Lautenschläger: MB/BW/SciTec/WI(BA)GPS TOPSIM easy Startup!/S/01.3",
                     "end": "17:30"
                 }
             ],
             "Tuesday": [
                 {
-                    "begin": "09:30",
                     "summary": "Lautenschläger: MB/BW/SciTec/WI(BA)GPS TOPSIM easy Startup!/S/01.2",
+                    "begin": "09:30",
                     "end": "17:30"
                 }
             ],
-            "Monday": [
-                {
-                    "begin": "09:30",
-                    "summary": "Lautenschläger: MB/BW/SciTec/WI(BA)GPS TOPSIM easy Startup!/S/01.1",
-                    "end": "17:30"
-                }
-            ]
-        }
-    },
-    "05.03.206": {
-        "id": "SPLUS7F8D03",
-        "days": {
             "Wednesday": [
                 {
-                    "begin": "09:30",
                     "summary": "Lautenschläger: MB/BW/SciTec/WI(BA)GPS TOPSIM easy Startup!/S/01.3",
-                    "end": "17:30"
-                }
-            ],
-            "Tuesday": [
-                {
                     "begin": "09:30",
-                    "summary": "Lautenschläger: MB/BW/SciTec/WI(BA)GPS TOPSIM easy Startup!/S/01.2",
-                    "end": "17:30"
-                }
-            ],
-            "Monday": [
-                {
-                    "begin": "09:30",
-                    "summary": "Lautenschläger: MB/BW/SciTec/WI(BA)GPS TOPSIM easy Startup!/S/01.1",
                     "end": "17:30"
                 }
             ]
@@ -54,76 +28,50 @@
     "05.03.204": {
         "id": "SPLUSD17C63",
         "days": {
-            "Wednesday": [
+            "Monday": [
                 {
+                    "summary": "Lautenschläger: MB/BW/SciTec/WI(BA)GPS TOPSIM easy Startup!/S/01.1",
                     "begin": "09:30",
-                    "summary": "Lautenschläger: MB/BW/SciTec/WI(BA)GPS TOPSIM easy Startup!/S/01.3",
                     "end": "17:30"
                 }
             ],
             "Tuesday": [
                 {
-                    "begin": "09:30",
                     "summary": "Lautenschläger: MB/BW/SciTec/WI(BA)GPS TOPSIM easy Startup!/S/01.2",
+                    "begin": "09:30",
                     "end": "17:30"
                 }
             ],
-            "Monday": [
+            "Wednesday": [
                 {
+                    "summary": "Lautenschläger: MB/BW/SciTec/WI(BA)GPS TOPSIM easy Startup!/S/01.3",
                     "begin": "09:30",
-                    "summary": "Lautenschläger: MB/BW/SciTec/WI(BA)GPS TOPSIM easy Startup!/S/01.1",
                     "end": "17:30"
                 }
             ]
         }
     },
-    "05.03.203": {
-        "id": "SPLUSD17C62",
+    "05.03.206": {
+        "id": "SPLUS7F8D03",
         "days": {
-            "Wednesday": [
+            "Monday": [
                 {
+                    "summary": "Lautenschläger: MB/BW/SciTec/WI(BA)GPS TOPSIM easy Startup!/S/01.1",
                     "begin": "09:30",
-                    "summary": "Lautenschläger: MB/BW/SciTec/WI(BA)GPS TOPSIM easy Startup!/S/01.3",
                     "end": "17:30"
                 }
             ],
             "Tuesday": [
                 {
-                    "begin": "09:30",
                     "summary": "Lautenschläger: MB/BW/SciTec/WI(BA)GPS TOPSIM easy Startup!/S/01.2",
+                    "begin": "09:30",
                     "end": "17:30"
                 }
             ],
-            "Monday": [
-                {
-                    "begin": "09:30",
-                    "summary": "Lautenschläger: MB/BW/SciTec/WI(BA)GPS TOPSIM easy Startup!/S/01.1",
-                    "end": "17:30"
-                }
-            ]
-        }
-    },
-    "05.03.201": {
-        "id": "SPLUSD17C60",
-        "days": {
             "Wednesday": [
                 {
-                    "begin": "09:30",
                     "summary": "Lautenschläger: MB/BW/SciTec/WI(BA)GPS TOPSIM easy Startup!/S/01.3",
-                    "end": "17:30"
-                }
-            ],
-            "Tuesday": [
-                {
                     "begin": "09:30",
-                    "summary": "Lautenschläger: MB/BW/SciTec/WI(BA)GPS TOPSIM easy Startup!/S/01.2",
-                    "end": "17:30"
-                }
-            ],
-            "Monday": [
-                {
-                    "begin": "09:30",
-                    "summary": "Lautenschläger: MB/BW/SciTec/WI(BA)GPS TOPSIM easy Startup!/S/01.1",
                     "end": "17:30"
                 }
             ]
@@ -134,49 +82,49 @@
         "days": {
             "Tuesday": [
                 {
-                    "begin": "13:30",
                     "summary": "StuRa: 12./26.02./12./26.03._StuRa_Beratung",
+                    "begin": "13:30",
                     "end": "18:30"
                 }
             ]
         }
     },
-    "01.02.11": {
-        "id": "SPLUS9BD8B0",
+    "04.-1.01(Aula)": {
+        "id": "SPLUSCA96B6",
         "days": {
-            "Wednesday": [
-                {
-                    "begin": "09:00",
-                    "summary": "Wolfrum (SciTec): SciTec_Soft Skills/schw.Gespr.efolgr.führen/S/01.3",
-                    "end": "15:00"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "begin": "09:00",
-                    "summary": "Wolfrum (SciTec): SciTec_Soft Skills/schw.Gespr.efolgr.führen/S/01.2",
-                    "end": "15:00"
-                }
-            ],
-            "Thursday": [
-                {
-                    "begin": "09:00",
-                    "summary": "Wolfrum (SciTec): SciTec_Soft Skills/schw.Gespr.efolgr.führen/S/01.4",
-                    "end": "15:00"
-                }
-            ],
             "Monday": [
                 {
+                    "summary": "ZVM: 25.03_Jugend forscht/Vorb.",
                     "begin": "09:00",
-                    "summary": "Wolfrum (SciTec): SciTec_Soft Skills/schw.Gespr.efolgr.führen/S/01.1",
-                    "end": "15:00"
+                    "end": "18:00"
                 }
             ],
             "Friday": [
                 {
+                    "summary": "ZVM: 29.03_Jugend forscht",
                     "begin": "09:00",
-                    "summary": "Wolfrum (SciTec): SciTec_Soft Skills/schw.Gespr.efolgr.führen/S/01.5",
-                    "end": "15:00"
+                    "end": "18:00"
+                }
+            ],
+            "Thursday": [
+                {
+                    "summary": "ZVM: 28.03_Jugend forscht",
+                    "begin": "09:00",
+                    "end": "18:00"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "summary": "ZVM: 26.03_Jugend forscht/Vorb.",
+                    "begin": "09:00",
+                    "end": "18:00"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "summary": "ZVM: 27.03_Jugend forscht/Vorb.",
+                    "begin": "09:00",
+                    "end": "18:00"
                 }
             ]
         }
@@ -186,49 +134,101 @@
         "days": {
             "Thursday": [
                 {
-                    "begin": "08:30",
                     "summary": "Töpfer: 28.03._AK Funktionskeramik",
+                    "begin": "08:30",
                     "end": "17:30"
                 }
             ]
         }
     },
-    "04.-1.01(Aula)": {
-        "id": "SPLUSCA96B6",
+    "05.03.202": {
+        "id": "SPLUSD17C61",
         "days": {
-            "Wednesday": [
+            "Monday": [
                 {
-                    "begin": "09:00",
-                    "summary": "ZVM: 27.03_Jugend forscht/Vorb.",
-                    "end": "18:00"
+                    "summary": "Lautenschläger: MB/BW/SciTec/WI(BA)GPS TOPSIM easy Startup!/S/01.1",
+                    "begin": "09:30",
+                    "end": "17:30"
                 }
             ],
             "Tuesday": [
                 {
-                    "begin": "09:00",
-                    "summary": "ZVM: 26.03_Jugend forscht/Vorb.",
-                    "end": "18:00"
+                    "summary": "Lautenschläger: MB/BW/SciTec/WI(BA)GPS TOPSIM easy Startup!/S/01.2",
+                    "begin": "09:30",
+                    "end": "17:30"
                 }
             ],
-            "Thursday": [
+            "Wednesday": [
                 {
-                    "begin": "09:00",
-                    "summary": "ZVM: 28.03_Jugend forscht",
-                    "end": "18:00"
+                    "summary": "Lautenschläger: MB/BW/SciTec/WI(BA)GPS TOPSIM easy Startup!/S/01.3",
+                    "begin": "09:30",
+                    "end": "17:30"
                 }
-            ],
+            ]
+        }
+    },
+    "01.02.11": {
+        "id": "SPLUS9BD8B0",
+        "days": {
             "Monday": [
                 {
+                    "summary": "Wolfrum (SciTec): SciTec_Soft Skills/schw.Gespr.efolgr.führen/S/01.1",
                     "begin": "09:00",
-                    "summary": "ZVM: 25.03_Jugend forscht/Vorb.",
-                    "end": "18:00"
+                    "end": "15:00"
                 }
             ],
             "Friday": [
                 {
+                    "summary": "Wolfrum (SciTec): SciTec_Soft Skills/schw.Gespr.efolgr.führen/S/01.5",
                     "begin": "09:00",
-                    "summary": "ZVM: 29.03_Jugend forscht",
-                    "end": "18:00"
+                    "end": "15:00"
+                }
+            ],
+            "Thursday": [
+                {
+                    "summary": "Wolfrum (SciTec): SciTec_Soft Skills/schw.Gespr.efolgr.führen/S/01.4",
+                    "begin": "09:00",
+                    "end": "15:00"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "summary": "Wolfrum (SciTec): SciTec_Soft Skills/schw.Gespr.efolgr.führen/S/01.2",
+                    "begin": "09:00",
+                    "end": "15:00"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "summary": "Wolfrum (SciTec): SciTec_Soft Skills/schw.Gespr.efolgr.führen/S/01.3",
+                    "begin": "09:00",
+                    "end": "15:00"
+                }
+            ]
+        }
+    },
+    "05.03.201": {
+        "id": "SPLUSD17C60",
+        "days": {
+            "Monday": [
+                {
+                    "summary": "Lautenschläger: MB/BW/SciTec/WI(BA)GPS TOPSIM easy Startup!/S/01.1",
+                    "begin": "09:30",
+                    "end": "17:30"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "summary": "Lautenschläger: MB/BW/SciTec/WI(BA)GPS TOPSIM easy Startup!/S/01.2",
+                    "begin": "09:30",
+                    "end": "17:30"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "summary": "Lautenschläger: MB/BW/SciTec/WI(BA)GPS TOPSIM easy Startup!/S/01.3",
+                    "begin": "09:30",
+                    "end": "17:30"
                 }
             ]
         }
