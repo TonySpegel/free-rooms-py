@@ -1,128 +1,128 @@
 {
+    "05.00.03": {
+        "id": "SPLUSA8CFB5",
+        "days": {
+            "Friday": [
+                {
+                    "summary": "Degle, S.: JenALL_AO-BW/S/01.01",
+                    "end": "18:00",
+                    "begin": "09:00"
+                }
+            ],
+            "Saturday": [
+                {
+                    "summary": "Degle, S.: JenALL_AO-BW/S/01.02",
+                    "end": "18:00",
+                    "begin": "09:00"
+                }
+            ]
+        }
+    },
+    "05.00.06": {
+        "id": "SPLUSD17C54",
+        "days": {
+            "Sunday": [
+                {
+                    "summary": "Degle, S.: JenALL_AO-BW/S/01.03",
+                    "end": "18:00",
+                    "begin": "09:00"
+                }
+            ],
+            "Friday": [
+                {
+                    "summary": "Degle, S.: JenALL_AO-BW/S/01.01",
+                    "end": "18:00",
+                    "begin": "09:00"
+                }
+            ],
+            "Saturday": [
+                {
+                    "summary": "Degle, S.: JenALL_AO-BW/S/01.02",
+                    "end": "18:00",
+                    "begin": "09:00"
+                }
+            ]
+        }
+    },
+    "05.00.10": {
+        "id": "SPLUSD17C56",
+        "days": {
+            "Sunday": [
+                {
+                    "summary": "Degle, S.: JenALL_AO-BW/S/01.03",
+                    "end": "18:00",
+                    "begin": "09:00"
+                }
+            ],
+            "Saturday": [
+                {
+                    "summary": "Degle, S.: JenALL_AO-BW/S/01.02",
+                    "end": "18:00",
+                    "begin": "09:00"
+                }
+            ]
+        }
+    },
+    "05.00.04": {
+        "id": "SPLUSD17C52",
+        "days": {
+            "Friday": [
+                {
+                    "summary": "Degle, S.: JenALL_AO-BW/S/01.01",
+                    "end": "18:00",
+                    "begin": "09:00"
+                }
+            ],
+            "Saturday": [
+                {
+                    "summary": "Degle, S.: JenALL_AO-BW/S/01.02",
+                    "end": "18:00",
+                    "begin": "09:00"
+                }
+            ]
+        }
+    },
     "05.03.36": {
+        "id": "SPLUSD17C38",
         "days": {
             "Monday": [
                 {
+                    "summary": "JenAll: JenALL_AO-Optom./S/01.13",
                     "end": "14:30",
-                    "begin": "09:00",
-                    "summary": "JenAll: JenALL_AO-Optom./S/01.13"
+                    "begin": "09:00"
                 }
             ]
-        },
-        "id": "SPLUSD17C38"
-    },
-    "05.00.06": {
-        "days": {
-            "Sunday": [
-                {
-                    "end": "18:00",
-                    "begin": "09:00",
-                    "summary": "Degle, S.: JenALL_AO-BW/S/01.03"
-                }
-            ],
-            "Saturday": [
-                {
-                    "end": "18:00",
-                    "begin": "09:00",
-                    "summary": "Degle, S.: JenALL_AO-BW/S/01.02"
-                }
-            ],
-            "Friday": [
-                {
-                    "end": "18:00",
-                    "begin": "09:00",
-                    "summary": "Degle, S.: JenALL_AO-BW/S/01.01"
-                }
-            ]
-        },
-        "id": "SPLUSD17C54"
-    },
-    "05.00.04": {
-        "days": {
-            "Saturday": [
-                {
-                    "end": "18:00",
-                    "begin": "09:00",
-                    "summary": "Degle, S.: JenALL_AO-BW/S/01.02"
-                }
-            ],
-            "Friday": [
-                {
-                    "end": "18:00",
-                    "begin": "09:00",
-                    "summary": "Degle, S.: JenALL_AO-BW/S/01.01"
-                }
-            ]
-        },
-        "id": "SPLUSD17C52"
-    },
-    "05.00.10": {
-        "days": {
-            "Sunday": [
-                {
-                    "end": "18:00",
-                    "begin": "09:00",
-                    "summary": "Degle, S.: JenALL_AO-BW/S/01.03"
-                }
-            ],
-            "Saturday": [
-                {
-                    "end": "18:00",
-                    "begin": "09:00",
-                    "summary": "Degle, S.: JenALL_AO-BW/S/01.02"
-                }
-            ]
-        },
-        "id": "SPLUSD17C56"
+        }
     },
     "05.00.02": {
+        "id": "SPLUS6B85F1",
         "days": {
-            "Saturday": [
-                {
-                    "end": "18:00",
-                    "begin": "09:00",
-                    "summary": "Degle, S.: JenALL_AO-BW/S/01.02"
-                }
-            ],
             "Friday": [
                 {
+                    "summary": "Degle, S.: JenALL_AO-BW/S/01.01",
                     "end": "18:00",
-                    "begin": "09:00",
-                    "summary": "Degle, S.: JenALL_AO-BW/S/01.01"
-                }
-            ]
-        },
-        "id": "SPLUS6B85F1"
-    },
-    "05.00.03": {
-        "days": {
-            "Saturday": [
-                {
-                    "end": "18:00",
-                    "begin": "09:00",
-                    "summary": "Degle, S.: JenALL_AO-BW/S/01.02"
+                    "begin": "09:00"
                 }
             ],
-            "Friday": [
+            "Saturday": [
                 {
+                    "summary": "Degle, S.: JenALL_AO-BW/S/01.02",
                     "end": "18:00",
-                    "begin": "09:00",
-                    "summary": "Degle, S.: JenALL_AO-BW/S/01.01"
+                    "begin": "09:00"
                 }
             ]
-        },
-        "id": "SPLUSA8CFB5"
+        }
     },
     "05.03.33": {
+        "id": "SPLUSD17C37",
         "days": {
             "Tuesday": [
                 {
+                    "summary": "StuRa: 12./26.02./12./26.03._StuRa_Beratung",
                     "end": "18:30",
-                    "begin": "13:30",
-                    "summary": "StuRa: 12./26.02./12./26.03._StuRa_Beratung"
+                    "begin": "13:30"
                 }
             ]
-        },
-        "id": "SPLUSD17C37"
+        }
     }
 }
