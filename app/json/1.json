@@ -1,21 +1,21 @@
 {
     "05.00.10": {
-        "id": "SPLUSD17C56",
         "days": {
             "Friday": [
                 {
-                    "end": "15:00",
                     "summary": "GP: GP(BA)Recht/V/01.02",
-                    "begin": "07:45"
+                    "begin": "07:45",
+                    "end": "15:00"
                 }
             ],
             "Thursday": [
                 {
-                    "end": "15:45",
                     "summary": "GP: GP(BA)Recht/V/01.01",
-                    "begin": "08:30"
+                    "begin": "08:30",
+                    "end": "15:45"
                 }
             ]
-        }
+        },
+        "id": "SPLUSD17C56"
     }
 }
