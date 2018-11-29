@@ -1,129 +1,77 @@
 {
-    "04.03.10": {
-        "days": {
-            "Friday": [
-                {
-                    "summary": "ZVM: 22.03._eComm.Camp",
-                    "begin": "09:00",
-                    "end": "18:00"
-                }
-            ],
-            "Sunday": [
-                {
-                    "summary": "ZVM: 24.03._eComm.Camp",
-                    "begin": "09:00",
-                    "end": "18:00"
-                }
-            ],
-            "Thursday": [
-                {
-                    "summary": "ZVM: 21.03._eComm.Camp",
-                    "begin": "09:00",
-                    "end": "18:00"
-                }
-            ]
-        },
-        "id": "SPLUS412E9E"
-    },
-    "04.03.07": {
-        "days": {
-            "Friday": [
-                {
-                    "summary": "ZVM: 22.03._eComm.Camp",
-                    "begin": "09:00",
-                    "end": "18:00"
-                }
-            ],
-            "Sunday": [
-                {
-                    "summary": "ZVM: 24.03._eComm.Camp",
-                    "begin": "09:00",
-                    "end": "18:00"
-                }
-            ],
-            "Thursday": [
-                {
-                    "summary": "ZVM: 21.03._eComm.Camp",
-                    "begin": "09:00",
-                    "end": "18:00"
-                }
-            ]
-        },
-        "id": "SPLUS412E9D"
-    },
     "04.03.11": {
         "days": {
-            "Friday": [
+            "Thursday": [
                 {
-                    "summary": "ZVM: 22.03._eComm.Camp",
+                    "end": "18:00",
                     "begin": "09:00",
-                    "end": "18:00"
+                    "summary": "ZVM: 21.03._eComm.Camp"
                 }
             ],
             "Sunday": [
                 {
-                    "summary": "ZVM: 24.03._eComm.Camp",
+                    "end": "18:00",
                     "begin": "09:00",
-                    "end": "18:00"
+                    "summary": "ZVM: 24.03._eComm.Camp"
                 }
             ],
-            "Thursday": [
+            "Friday": [
                 {
-                    "summary": "ZVM: 21.03._eComm.Camp",
+                    "end": "18:00",
                     "begin": "09:00",
-                    "end": "18:00"
+                    "summary": "ZVM: 22.03._eComm.Camp"
                 }
             ]
         },
         "id": "SPLUS9BD8AE"
     },
-    "04.00.01 (HS6)": {
+    "04.03.10": {
         "days": {
-            "Friday": [
+            "Thursday": [
                 {
-                    "summary": "ZVM: 22.03._eComm.Camp",
+                    "end": "18:00",
                     "begin": "09:00",
-                    "end": "18:00"
+                    "summary": "ZVM: 21.03._eComm.Camp"
                 }
             ],
             "Sunday": [
                 {
-                    "summary": "ZVM: 24.03._eComm.Camp",
+                    "end": "18:00",
                     "begin": "09:00",
-                    "end": "18:00"
+                    "summary": "ZVM: 24.03._eComm.Camp"
                 }
             ],
-            "Thursday": [
+            "Friday": [
                 {
-                    "summary": "ZVM: 21.03._eComm.Camp",
+                    "end": "18:00",
                     "begin": "09:00",
-                    "end": "18:00"
+                    "summary": "ZVM: 22.03._eComm.Camp"
                 }
             ]
         },
-        "id": "SPLUS40B576"
+        "id": "SPLUS412E9E"
     },
     "04.03.12": {
         "days": {
-            "Friday": [
+            "Thursday": [
                 {
-                    "summary": "ZVM: 22.03._eComm.Camp",
+                    "end": "18:00",
                     "begin": "09:00",
-                    "end": "18:00"
+                    "summary": "ZVM: 21.03._eComm.Camp"
                 }
             ],
             "Sunday": [
                 {
-                    "summary": "ZVM: 24.03._eComm.Camp",
+                    "end": "18:00",
                     "begin": "09:00",
-                    "end": "18:00"
+                    "summary": "ZVM: 24.03._eComm.Camp"
                 }
             ],
-            "Thursday": [
+            "Friday": [
                 {
-                    "summary": "ZVM: 21.03._eComm.Camp",
+                    "end": "18:00",
                     "begin": "09:00",
-                    "end": "18:00"
+                    "summary": "ZVM: 22.03._eComm.Camp"
                 }
             ]
         },
@@ -133,40 +81,92 @@
         "days": {
             "Sunday": [
                 {
-                    "summary": "ZVM: 24.03._eComm.Camp",
+                    "end": "18:00",
                     "begin": "09:00",
-                    "end": "18:00"
-                }
-            ],
-            "Friday": [
-                {
-                    "summary": "ZVM: 22.03._eComm.Camp",
-                    "begin": "09:00",
-                    "end": "18:00"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "summary": "Degle, S., JenAll: 19.03._AO/JenALL_Interbild/Vorb.",
-                    "begin": "09:00",
-                    "end": "18:00"
+                    "summary": "ZVM: 24.03._eComm.Camp"
                 }
             ],
             "Thursday": [
                 {
-                    "summary": "ZVM: 21.03._eComm.Camp",
+                    "end": "18:00",
                     "begin": "09:00",
-                    "end": "18:00"
+                    "summary": "ZVM: 21.03._eComm.Camp"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "18:00",
+                    "begin": "09:00",
+                    "summary": "Degle, S., JenAll: 19.03._AO/JenALL_Interbild/Vorb."
+                }
+            ],
+            "Friday": [
+                {
+                    "end": "18:00",
+                    "begin": "09:00",
+                    "summary": "ZVM: 22.03._eComm.Camp"
                 }
             ],
             "Wednesday": [
                 {
-                    "summary": "Degle, S., JenAll: 20.03._AO/JenALL_Interbild",
+                    "end": "18:00",
                     "begin": "09:00",
-                    "end": "18:00"
+                    "summary": "Degle, S., JenAll: 20.03._AO/JenALL_Interbild"
                 }
             ]
         },
         "id": "SPLUSCA96B6"
+    },
+    "04.03.07": {
+        "days": {
+            "Thursday": [
+                {
+                    "end": "18:00",
+                    "begin": "09:00",
+                    "summary": "ZVM: 21.03._eComm.Camp"
+                }
+            ],
+            "Sunday": [
+                {
+                    "end": "18:00",
+                    "begin": "09:00",
+                    "summary": "ZVM: 24.03._eComm.Camp"
+                }
+            ],
+            "Friday": [
+                {
+                    "end": "18:00",
+                    "begin": "09:00",
+                    "summary": "ZVM: 22.03._eComm.Camp"
+                }
+            ]
+        },
+        "id": "SPLUS412E9D"
+    },
+    "04.00.01 (HS6)": {
+        "days": {
+            "Thursday": [
+                {
+                    "end": "18:00",
+                    "begin": "09:00",
+                    "summary": "ZVM: 21.03._eComm.Camp"
+                }
+            ],
+            "Sunday": [
+                {
+                    "end": "18:00",
+                    "begin": "09:00",
+                    "summary": "ZVM: 24.03._eComm.Camp"
+                }
+            ],
+            "Friday": [
+                {
+                    "end": "18:00",
+                    "begin": "09:00",
+                    "summary": "ZVM: 22.03._eComm.Camp"
+                }
+            ]
+        },
+        "id": "SPLUS40B576"
     }
 }
