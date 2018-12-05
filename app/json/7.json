@@ -1,35 +1,4 @@
 {
-    "04.00.01 (HS6)": {
-        "days": {
-            "Tuesday": [
-                {
-                    "end": "14:00",
-                    "begin": "12:00",
-                    "summary": "Kempka: BW(BA)Ma/PL/01"
-                }
-            ]
-        },
-        "id": "SPLUS40B576"
-    },
-    "04.00.02 (HS7)": {
-        "days": {
-            "Tuesday": [
-                {
-                    "end": "14:00",
-                    "begin": "12:00",
-                    "summary": "Kempka: BW(BA)Ma/PL/01"
-                }
-            ],
-            "Thursday": [
-                {
-                    "end": "13:00",
-                    "begin": "12:00",
-                    "summary": ": SW(BA)Soz.man.1+2/PL/01"
-                }
-            ]
-        },
-        "id": "SPLUS412E9B"
-    },
     "04.00.28": {
         "days": {
             "Tuesday": [
@@ -55,6 +24,37 @@
             ]
         },
         "id": "SPLUS3E97E2"
+    },
+    "04.00.01 (HS6)": {
+        "days": {
+            "Tuesday": [
+                {
+                    "end": "14:00",
+                    "begin": "12:00",
+                    "summary": "Kempka: BW(BA)Ma/PL/01"
+                }
+            ]
+        },
+        "id": "SPLUS40B576"
+    },
+    "04.00.02 (HS7)": {
+        "days": {
+            "Thursday": [
+                {
+                    "end": "13:00",
+                    "begin": "12:00",
+                    "summary": ": SW(BA)Soz.man.1+2/PL/01"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "14:00",
+                    "begin": "12:00",
+                    "summary": "Kempka: BW(BA)Ma/PL/01"
+                }
+            ]
+        },
+        "id": "SPLUS412E9B"
     },
     "05.03.09(SW)": {
         "days": {

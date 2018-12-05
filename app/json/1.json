@@ -1,18 +1,18 @@
 {
     "05.00.10": {
         "days": {
-            "Friday": [
-                {
-                    "end": "15:00",
-                    "begin": "07:45",
-                    "summary": "GP: GP(BA)Recht/V/01.02"
-                }
-            ],
             "Thursday": [
                 {
                     "end": "15:45",
                     "begin": "08:30",
                     "summary": "GP: GP(BA)Recht/V/01.01"
+                }
+            ],
+            "Friday": [
+                {
+                    "end": "15:00",
+                    "begin": "07:45",
+                    "summary": "GP: GP(BA)Recht/V/01.02"
                 }
             ]
         },
