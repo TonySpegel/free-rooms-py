@@ -1,4 +1,99 @@
 {
+    "05.03.02 (HS 5)": {
+        "days": {
+            "Monday": [
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "Herbst, U.: WI(MA)Lean Prod./APL/01"
+                }
+            ]
+        },
+        "id": "SPLUSD17C3B"
+    },
+    "04.00.28": {
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "08:00",
+                    "end": "18:00",
+                    "summary": "Herbst, U.: WI(MA)Lean Prod./P/01.3"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "begin": "08:00",
+                    "end": "18:00",
+                    "summary": "Herbst, U.: WI(MA)Lean Prod./P/01.2"
+                }
+            ],
+            "Monday": [
+                {
+                    "begin": "11:30",
+                    "end": "19:00",
+                    "summary": "Herbst, U.: WI(MA)Lean Prod./P/01.1"
+                }
+            ]
+        },
+        "id": "SPLUS3E97E2"
+    },
+    "05.03.09(SW)": {
+        "days": {
+            "Tuesday": [
+                {
+                    "begin": "10:00",
+                    "end": "11:00",
+                    "summary": ": SW(BA)Soz. T2/PL/01"
+                }
+            ]
+        },
+        "id": "SPLUS5225C5"
+    },
+    "04.00.02 (HS7)": {
+        "days": {
+            "Tuesday": [
+                {
+                    "begin": "12:00",
+                    "end": "14:00",
+                    "summary": "Kempka: BW(BA)Ma/PL/01"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "12:00",
+                    "end": "13:00",
+                    "summary": ": SW(BA)Soz.man.1+2/PL/01"
+                }
+            ]
+        },
+        "id": "SPLUS412E9B"
+    },
+    "04.00.34": {
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "08:00",
+                    "end": "18:00",
+                    "summary": "Herbst, U.: WI(MA)Lean Prod./P/01.3"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "begin": "08:00",
+                    "end": "18:00",
+                    "summary": "Herbst, U.: WI(MA)Lean Prod./P/01.2"
+                }
+            ],
+            "Monday": [
+                {
+                    "begin": "11:30",
+                    "end": "19:00",
+                    "summary": "Herbst, U.: WI(MA)Lean Prod./P/01.1"
+                }
+            ]
+        },
+        "id": "SPLUS4833BC"
+    },
     "05.03.33": {
         "days": {
             "Tuesday": [
@@ -32,6 +127,13 @@
     },
     "04.-1.01(Aula)": {
         "days": {
+            "Friday": [
+                {
+                    "begin": "14:00",
+                    "end": "15:30",
+                    "summary": "Albrecht(BW): BW(BA)KLR/PL/01"
+                }
+            ],
             "Monday": [
                 {
                     "begin": "14:00",
@@ -43,110 +145,8 @@
                     "end": "16:45",
                     "summary": "Watzka, Angstmann(BW): BW(BA)PersoWi/PL/NTA/01"
                 }
-            ],
-            "Friday": [
-                {
-                    "begin": "14:00",
-                    "end": "15:30",
-                    "summary": "Albrecht(BW): BW(BA)KLR/PL/01"
-                }
             ]
         },
         "id": "SPLUSCA96B6"
-    },
-    "04.00.02 (HS7)": {
-        "days": {
-            "Tuesday": [
-                {
-                    "begin": "12:00",
-                    "end": "14:00",
-                    "summary": "Kempka: BW(BA)Ma/PL/01"
-                }
-            ],
-            "Thursday": [
-                {
-                    "begin": "12:00",
-                    "end": "13:00",
-                    "summary": ": SW(BA)Soz.man.1+2/PL/01"
-                }
-            ]
-        },
-        "id": "SPLUS412E9B"
-    },
-    "04.00.34": {
-        "days": {
-            "Monday": [
-                {
-                    "begin": "11:30",
-                    "end": "19:00",
-                    "summary": "Herbst, U.: WI(MA)Lean Prod./P/01.1"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "begin": "08:00",
-                    "end": "18:00",
-                    "summary": "Herbst, U.: WI(MA)Lean Prod./P/01.2"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "begin": "08:00",
-                    "end": "18:00",
-                    "summary": "Herbst, U.: WI(MA)Lean Prod./P/01.3"
-                }
-            ]
-        },
-        "id": "SPLUS4833BC"
-    },
-    "05.03.02 (HS 5)": {
-        "days": {
-            "Monday": [
-                {
-                    "begin": "09:30",
-                    "end": "11:00",
-                    "summary": "Herbst, U.: WI(MA)Lean Prod./APL/01"
-                }
-            ]
-        },
-        "id": "SPLUSD17C3B"
-    },
-    "04.00.28": {
-        "days": {
-            "Monday": [
-                {
-                    "begin": "11:30",
-                    "end": "19:00",
-                    "summary": "Herbst, U.: WI(MA)Lean Prod./P/01.1"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "begin": "08:00",
-                    "end": "18:00",
-                    "summary": "Herbst, U.: WI(MA)Lean Prod./P/01.2"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "begin": "08:00",
-                    "end": "18:00",
-                    "summary": "Herbst, U.: WI(MA)Lean Prod./P/01.3"
-                }
-            ]
-        },
-        "id": "SPLUS3E97E2"
-    },
-    "05.03.09(SW)": {
-        "days": {
-            "Tuesday": [
-                {
-                    "begin": "10:00",
-                    "end": "11:00",
-                    "summary": ": SW(BA)Soz. T2/PL/01"
-                }
-            ]
-        },
-        "id": "SPLUS5225C5"
     }
 }
