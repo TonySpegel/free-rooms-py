@@ -1,181 +1,29 @@
 {
-    "05.03.01": {
-        "id": "SPLUSB60779",
-        "days": {
-            "Wednesday": [
-                {
-                    "end": "11:00",
-                    "begin": "08:00",
-                    "summary": "Leitzgen: BW(BA)E/K/USt/PL/01"
-                }
-            ],
-            "Thursday": [
-                {
-                    "end": "14:30",
-                    "begin": "13:00",
-                    "summary": "Leitzgen: BW(MA)KSR/PL/01"
-                }
-            ]
-        }
-    },
     "04.-1.01(Aula)": {
         "id": "SPLUSCA96B6",
         "days": {
             "Friday": [
                 {
-                    "end": "15:30",
                     "begin": "14:00",
+                    "end": "15:30",
                     "summary": "Albrecht(BW): BW(BA)KLR/PL/01"
                 }
             ],
             "Monday": [
                 {
-                    "end": "16:00",
+                    "begin": "10:00",
+                    "end": "11:30",
+                    "summary": "Kampe: ET/ME/MT(BA)/MT(MA)Dig. Systeme/PL/01"
+                },
+                {
                     "begin": "14:00",
+                    "end": "16:00",
                     "summary": "Watzka, Angstmann(BW): BW(BA)PersoWi/PL/01"
                 },
                 {
-                    "end": "16:45",
                     "begin": "16:00",
+                    "end": "16:45",
                     "summary": "Watzka, Angstmann(BW): BW(BA)PersoWi/PL/NTA/01"
-                }
-            ]
-        }
-    },
-    "04.00.28": {
-        "id": "SPLUS3E97E2",
-        "days": {
-            "Wednesday": [
-                {
-                    "end": "18:00",
-                    "begin": "08:00",
-                    "summary": "Herbst, U.: WI(MA)Lean Prod./P/01.3"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "end": "18:00",
-                    "begin": "08:00",
-                    "summary": "Herbst, U.: WI(MA)Lean Prod./P/01.2"
-                }
-            ],
-            "Monday": [
-                {
-                    "end": "19:00",
-                    "begin": "11:30",
-                    "summary": "Herbst, U.: WI(MA)Lean Prod./P/01.1"
-                }
-            ]
-        }
-    },
-    "05.03.09(SW)": {
-        "id": "SPLUS5225C5",
-        "days": {
-            "Tuesday": [
-                {
-                    "end": "11:00",
-                    "begin": "10:00",
-                    "summary": ": SW(BA)Soz. T2/PL/01"
-                }
-            ]
-        }
-    },
-    "04.03.07": {
-        "id": "SPLUS412E9D",
-        "days": {
-            "Thursday": [
-                {
-                    "end": "15:30",
-                    "begin": "14:00",
-                    "summary": "Grabow: MB/ME(MA)Exp.Modalan./PL/01"
-                }
-            ]
-        }
-    },
-    "04.00.02 (HS7)": {
-        "id": "SPLUS412E9B",
-        "days": {
-            "Tuesday": [
-                {
-                    "end": "14:00",
-                    "begin": "12:00",
-                    "summary": "Kempka: BW(BA)Ma/PL/01"
-                }
-            ],
-            "Thursday": [
-                {
-                    "end": "13:00",
-                    "begin": "12:00",
-                    "summary": ": SW(BA)Soz.man.1+2/PL/01"
-                }
-            ]
-        }
-    },
-    "04.00.01 (HS6)": {
-        "id": "SPLUS40B576",
-        "days": {
-            "Wednesday": [
-                {
-                    "end": "11:30",
-                    "begin": "10:00",
-                    "summary": "Glück: MB/ME/WT(BA/MA)ThDyn./PL/01"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "end": "11:30",
-                    "begin": "10:00",
-                    "summary": "Holland-Moritz: MB(BA)Physik I/PL/01"
-                },
-                {
-                    "end": "14:00",
-                    "begin": "12:00",
-                    "summary": "Kempka: BW(BA)Ma/PL/01"
-                }
-            ],
-            "Thursday": [
-                {
-                    "end": "10:00",
-                    "begin": "08:00",
-                    "summary": "Leitzgen: BW(BA)Steuern I+II/Wdh.-Prf./01"
-                }
-            ],
-            "Friday": [
-                {
-                    "end": "13:00",
-                    "begin": "10:00",
-                    "summary": "Watzka, Kraußlach: BW(BA)Schnittst.-u.Unterstützungsfkt./PL/01"
-                },
-                {
-                    "end": "14:00",
-                    "begin": "13:00",
-                    "summary": "Watzka, Kraußlach: BW(BA)Schnittst.-u.Unterstützungsfkt./PL/NTA/01"
-                }
-            ]
-        }
-    },
-    "04.00.34": {
-        "id": "SPLUS4833BC",
-        "days": {
-            "Wednesday": [
-                {
-                    "end": "18:00",
-                    "begin": "08:00",
-                    "summary": "Herbst, U.: WI(MA)Lean Prod./P/01.3"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "end": "18:00",
-                    "begin": "08:00",
-                    "summary": "Herbst, U.: WI(MA)Lean Prod./P/01.2"
-                }
-            ],
-            "Monday": [
-                {
-                    "end": "19:00",
-                    "begin": "11:30",
-                    "summary": "Herbst, U.: WI(MA)Lean Prod./P/01.1"
                 }
             ]
         }
@@ -185,8 +33,8 @@
         "days": {
             "Tuesday": [
                 {
-                    "end": "18:30",
                     "begin": "13:30",
+                    "end": "18:30",
                     "summary": "StuRa: 12./26.02./12./26.03._StuRa_Beratung"
                 }
             ]
@@ -197,28 +45,99 @@
         "days": {
             "Tuesday": [
                 {
-                    "end": "09:30",
                     "begin": "08:00",
+                    "end": "09:30",
                     "summary": "Leitzgen: BW(BA)ABWL-Wirt.Eth./PL/01"
                 }
             ],
             "Thursday": [
                 {
-                    "end": "15:30",
                     "begin": "14:00",
+                    "end": "15:30",
                     "summary": "Ephrosi(BW): BW(BA)ABWL-Inno-Man./PL/01"
                 }
             ]
         }
     },
-    "05.03.02 (HS 5)": {
-        "id": "SPLUSD17C3B",
+    "04.00.02 (HS7)": {
+        "id": "SPLUS412E9B",
         "days": {
+            "Tuesday": [
+                {
+                    "begin": "12:00",
+                    "end": "14:00",
+                    "summary": "Kempka: BW(BA)Ma/PL/01"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "12:00",
+                    "end": "13:00",
+                    "summary": ": SW(BA)Soz.man.1+2/PL/01"
+                }
+            ]
+        }
+    },
+    "05.03.01": {
+        "id": "SPLUSB60779",
+        "days": {
+            "Friday": [
+                {
+                    "begin": "08:00",
+                    "end": "09:30",
+                    "summary": "Felkl: ME(BA)Elektr. BE/PL/01"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "08:00",
+                    "end": "11:00",
+                    "summary": "Leitzgen: BW(BA)E/K/USt/PL/01"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "13:00",
+                    "end": "14:30",
+                    "summary": "Leitzgen: BW(MA)KSR/PL/01"
+                }
+            ]
+        }
+    },
+    "05.03.09(SW)": {
+        "id": "SPLUS5225C5",
+        "days": {
+            "Tuesday": [
+                {
+                    "begin": "10:00",
+                    "end": "11:00",
+                    "summary": ": SW(BA)Soz. T2/PL/01"
+                }
+            ]
+        }
+    },
+    "04.00.34": {
+        "id": "SPLUS4833BC",
+        "days": {
+            "Tuesday": [
+                {
+                    "begin": "08:00",
+                    "end": "18:00",
+                    "summary": "Herbst, U.: WI(MA)Lean Prod./P/01.2"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "08:00",
+                    "end": "18:00",
+                    "summary": "Herbst, U.: WI(MA)Lean Prod./P/01.3"
+                }
+            ],
             "Monday": [
                 {
-                    "end": "11:00",
-                    "begin": "09:30",
-                    "summary": "Herbst, U.: WI(MA)Lean Prod./APL/01"
+                    "begin": "11:30",
+                    "end": "19:00",
+                    "summary": "Herbst, U.: WI(MA)Lean Prod./P/01.1"
                 }
             ]
         }
@@ -228,14 +147,107 @@
         "days": {
             "Friday": [
                 {
-                    "end": "10:00",
                     "begin": "08:00",
+                    "end": "10:00",
                     "summary": "Garzke: MB(BA)ME I/PL/01"
                 },
                 {
-                    "end": "13:00",
                     "begin": "10:00",
+                    "end": "13:00",
                     "summary": "Tutor Hoppe(WI): UT/UTE/WI(BA)Mech. Vf.tech./T/01.6"
+                }
+            ]
+        }
+    },
+    "04.00.28": {
+        "id": "SPLUS3E97E2",
+        "days": {
+            "Tuesday": [
+                {
+                    "begin": "08:00",
+                    "end": "18:00",
+                    "summary": "Herbst, U.: WI(MA)Lean Prod./P/01.2"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "08:00",
+                    "end": "18:00",
+                    "summary": "Herbst, U.: WI(MA)Lean Prod./P/01.3"
+                }
+            ],
+            "Monday": [
+                {
+                    "begin": "11:30",
+                    "end": "19:00",
+                    "summary": "Herbst, U.: WI(MA)Lean Prod./P/01.1"
+                }
+            ]
+        }
+    },
+    "04.00.01 (HS6)": {
+        "id": "SPLUS40B576",
+        "days": {
+            "Tuesday": [
+                {
+                    "begin": "10:00",
+                    "end": "11:30",
+                    "summary": "Holland-Moritz: MB(BA)Physik I/PL/01"
+                },
+                {
+                    "begin": "12:00",
+                    "end": "14:00",
+                    "summary": "Kempka: BW(BA)Ma/PL/01"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "10:00",
+                    "end": "11:30",
+                    "summary": "Glück: MB/ME/WT(BA/MA)ThDyn./PL/01"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "08:00",
+                    "end": "10:00",
+                    "summary": "Leitzgen: BW(BA)Steuern I+II/Wdh.-Prf./01"
+                }
+            ],
+            "Friday": [
+                {
+                    "begin": "10:00",
+                    "end": "13:00",
+                    "summary": "Watzka, Kraußlach: BW(BA)Schnittst.-u.Unterstützungsfkt./PL/01"
+                },
+                {
+                    "begin": "13:00",
+                    "end": "14:00",
+                    "summary": "Watzka, Kraußlach: BW(BA)Schnittst.-u.Unterstützungsfkt./PL/NTA/01"
+                }
+            ]
+        }
+    },
+    "05.03.02 (HS 5)": {
+        "id": "SPLUSD17C3B",
+        "days": {
+            "Monday": [
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "Herbst, U.: WI(MA)Lean Prod./APL/01"
+                }
+            ]
+        }
+    },
+    "04.03.07": {
+        "id": "SPLUS412E9D",
+        "days": {
+            "Thursday": [
+                {
+                    "begin": "14:00",
+                    "end": "15:30",
+                    "summary": "Grabow: MB/ME(MA)Exp.Modalan./PL/01"
                 }
             ]
         }
