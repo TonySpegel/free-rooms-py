@@ -11,7 +11,7 @@
 // TODO: implement offset_time
 var building_number_input;
 var floor_number_input;
-let today;
+let today = 'Tuesday';
 let offset_time      = '00:30';  // At least this much time should be available
 let upper_time_limit = '20:00';
 let calendar_week    = '43';
@@ -189,7 +189,7 @@ function handle_search() {
     const MAIN_WRAPPER        = querySel('#target');
     const current_week_input  = querySel('#input-current-week');
     let current_week_number   = '';
-    let current_time;
+    let current_time = '09:00';
 
     const CURRENT_TIME_SWITCH = querySel('#switch-current-time');
     const CURRENT_TIME_INPUT  = querySel('#current-time-input');
@@ -197,10 +197,10 @@ function handle_search() {
 
     if (CURRENT_TIME_SWITCH.checked) {
         mins = ('0' + new Date().getMinutes()).slice(-2);
-        current_time = `${new Date().getHours()}:${mins}`;
+        current_time = '09:00';
         current_week_number = new Date().getWeekNumber().toString();
         console.log('Calendar Week: ', current_week_number);
-        today = getDayOfWeek(new Date());
+        today = 'Tuesday';
     }
     else {
         current_time = CURRENT_TIME_INPUT.MaterialTextfield.element_.MaterialTextfield.input_.value;
@@ -215,7 +215,7 @@ function handle_search() {
 
     console.log('Building:', building_number_input === undefined ? 'all' : building_number_input);
     console.log('Floor:', floor_number_input === undefined ? 'all' : floor_number_input);
-    fetch_calendar_week_json(current_week_number).then(result => {
+    fetch_calendar_week_json('15').then(result => {
         find_available_rooms(result, current_time);
 
         let free_rooms_sorted = free_rooms.sort((x, y) => {

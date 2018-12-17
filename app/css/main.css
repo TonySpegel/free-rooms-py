@@ -272,7 +272,7 @@ body {
 
 #btn-menu-close {
   transition: bottom 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-  background-color: transparent;
+  background-color: rgba(0, 0, 0, 0);
   bottom: 5px;
   box-shadow: none;
   left: 5px;
