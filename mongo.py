@@ -1,8 +1,9 @@
+#!/usr/bin/env python
+# coding: utf8
+
 from bs4 import BeautifulSoup
 import urllib.request
 from icalendar import Calendar
-import json
-import os
 
 
 WEEK_INDEX = 0
@@ -45,6 +46,8 @@ ics_file_list = get_ics_meta_data(
 
 
 def parse_ics_data(ics_files):
+    extracted_info = []
+
     for ics_file in ics_files:
         room_id = ics_file[0]
 
@@ -57,7 +60,6 @@ def parse_ics_data(ics_files):
 
         ics_url = ics_file[2]
 
-        extracted_info = []
 
         with urllib.request.urlopen(ics_url, timeout=10) as response:
             try:
@@ -78,17 +80,21 @@ def parse_ics_data(ics_files):
                         'end': component.get('dtend').dt.isoformat(),
                     })
 
-                    sort = sorted(
-                        extracted_info,
-                        key=lambda x: (x['calendar_week'], x['start'])
-                    )
+    sort = sorted(
+        extracted_info,
+        key=lambda x: (x['calendar_week'], x['start'])
+    )
 
-        extracted_info_sorted = sort
+    extracted_info_sorted = sort
 
     return extracted_info_sorted
 
 
 data = parse_ics_data(ics_file_list)
 
-for d in data:
-    print(d)
+for idx, item in enumerate(data, start=1):
+    print(item)
+
+print('=================')
+
+
