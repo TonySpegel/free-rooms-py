@@ -4,7 +4,7 @@
 from bs4 import BeautifulSoup
 import urllib.request
 from icalendar import Calendar
-
+import json
 
 WEEK_INDEX = 0
 DATE_INDEX = 1
@@ -60,7 +60,6 @@ def parse_ics_data(ics_files):
 
         ics_url = ics_file[2]
 
-
         with urllib.request.urlopen(ics_url, timeout=10) as response:
             try:
                 ics_response = Calendar.from_ical(response.read())
@@ -69,20 +68,25 @@ def parse_ics_data(ics_files):
 
             for component in ics_response.walk():
                 if component.name == "VEVENT":
+                    # dozent = component.get('')
 
                     extracted_info.append({
                         'building': room_building,
                         'floor': room_floor,
                         'room': room_number,
                         'calendar_week': component.get('dtstart').dt.isocalendar()[1],
-                        'summary': component.get('summary'),
+                        'summary': str(component.get('summary')),
                         'start': component.get('dtstart').dt.isoformat(),
                         'end': component.get('dtend').dt.isoformat(),
                     })
 
     sort = sorted(
         extracted_info,
-        key=lambda x: (x['calendar_week'], x['start'])
+        key=lambda x: (
+            x['calendar_week'],
+            x['start'],
+            x['building'],
+        )
     )
 
     extracted_info_sorted = sort
