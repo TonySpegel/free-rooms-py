@@ -7,3 +7,4 @@ outputfile.json
 \.idea/
 
 node_modules
+venv
