@@ -49,14 +49,14 @@ def parse_ics_data(ics_files):
     extracted_info = []
 
     for ics_file in ics_files:
-        room_id = ics_file[0]
+        room_ics_id = ics_file[0]                   # SPLUSD17C39
 
-        room_name = ics_file[1]
-        room_identifier = room_name.split('.')
+        room_name = ics_file[1]                     # 05.03.37 (HS 2)
+        room_name_parts = room_name.split('.')
 
-        room_building = room_identifier[0]
-        room_floor = room_identifier[1]
-        room_number = room_identifier[2]
+        building_number = int(room_name_parts[0])   # 5
+        floor_number = int(room_name_parts[1])      # 3
+        room_number = room_name_parts[2]            # 37 (HS 2)
 
         ics_url = ics_file[2]
 
@@ -68,14 +68,17 @@ def parse_ics_data(ics_files):
 
             for component in ics_response.walk():
                 if component.name == "VEVENT":
-                    # dozent = component.get('')
+                    summary = str(component.get('summary'))
+                    lecturer = summary.split(':')[0]
+                    summary_short = summary.split(':')[1]
 
                     extracted_info.append({
-                        'building': room_building,
-                        'floor': room_floor,
-                        'room': room_number,
+                        'building_number': building_number,
+                        'floor_number': floor_number,
+                        'room_number': room_number,
                         'calendar_week': component.get('dtstart').dt.isocalendar()[1],
-                        'summary': str(component.get('summary')),
+                        'summary_short': summary_short,
+                        'lecturer': lecturer,
                         'start': component.get('dtstart').dt.isoformat(),
                         'end': component.get('dtend').dt.isoformat(),
                     })
@@ -85,7 +88,7 @@ def parse_ics_data(ics_files):
         key=lambda x: (
             x['calendar_week'],
             x['start'],
-            x['building'],
+            x['building_number'],
         )
     )
 
