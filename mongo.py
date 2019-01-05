@@ -4,7 +4,7 @@
 from bs4 import BeautifulSoup
 import urllib.request
 from icalendar import Calendar
-import json
+import datetime
 
 WEEK_INDEX = 0
 DATE_INDEX = 1
@@ -27,14 +27,15 @@ def get_ics_meta_data(rooms_base_url, ics_base_link):
     for option in eah_rooms_options_list:
         room_id = option['value']  # SPLUSA8CFB5 - a rooms ID
 
-        # Test if first char is a digit do exclude rooms such as 'Siemens Rudolstadt'
-        if option.text[0].isdigit():
-            room_name = option.text  # 05.00.03
+        if option.text == '03.03.33':
+            # Test if first char is a digit do exclude rooms such as 'Siemens Rudolstadt'
+            if option.text[0].isdigit():
+                room_name = option.text  # 05.00.03
 
-            # Build download-link using ics_base_link and option_value
-            room_ics_link = '{}{}'.format(ics_base_link, room_id)
+                # Build download-link using ics_base_link and option_value
+                room_ics_link = '{}{}'.format(ics_base_link, room_id)
 
-            ics_list.append([room_id, room_name, room_ics_link])
+                ics_list.append([room_id, room_name, room_ics_link])
 
     return ics_list
 
@@ -70,24 +71,30 @@ def parse_ics_data(ics_files):
                 if component.name == "VEVENT":
                     summary = str(component.get('summary'))
                     lecturer = summary.split(':')[0]
-                    summary_short = summary.split(':')[1]
+                    summary_short = summary.split(':')[1].lstrip()
+
+                    time_range = [
+                        str(component.get('dtstart').dt).replace("'", ""),
+                        str(component.get('dtend').dt).replace("'", ""),
+                    ]
+
+                    ('"{}"'.format(item) for time in time_range)
 
                     extracted_info.append({
-                        'building_number': building_number,
-                        'floor_number': floor_number,
-                        'room_number': room_number,
+                        'time_range': time_range,
                         'calendar_week': component.get('dtstart').dt.isocalendar()[1],
+                        'building_number': building_number,
+                        # 'floor_number': floor_number,
+                        # 'room_number': room_number,
                         'summary_short': summary_short,
                         'lecturer': lecturer,
-                        'start': component.get('dtstart').dt.isoformat(),
-                        'end': component.get('dtend').dt.isoformat(),
                     })
 
     sort = sorted(
         extracted_info,
         key=lambda x: (
             x['calendar_week'],
-            x['start'],
+            x['time_range'],
             x['building_number'],
         )
     )
