@@ -1,181 +1,372 @@
 {
-    "05.00.10": {
+    "05.00.02": {
         "days": {
-            "Saturday": [
-                {
-                    "end": "18:00",
-                    "summary": "Degle, S.: JenALL_AO-BW/S/01.02",
-                    "begin": "09:00"
-                }
-            ],
-            "Friday": [
-                {
-                    "end": "13:30",
-                    "summary": "Hauser (BW): BW(BA)Client/Server Techn./PL/01",
-                    "begin": "12:00"
-                },
-                {
-                    "end": "15:30",
-                    "summary": "Assfalg(BW): BW(MA)Strat.Entsch.spielth.Basis/PL/01",
-                    "begin": "14:00"
-                }
-            ],
             "Tuesday": [
                 {
-                    "end": "15:30",
-                    "summary": "Wöhner: BW(MA)e-Bus./IT-Sicherh.PL/01",
+                    "summary": "Reimer: UT/UTE(BA)ET I/ET II/Wdh.-Prfg./01",
+                    "end": "16:00",
                     "begin": "14:00"
                 }
             ],
-            "Sunday": [
-                {
-                    "end": "18:00",
-                    "summary": "Degle, S.: JenALL_AO-BW/S/01.03",
-                    "begin": "09:00"
-                }
-            ]
-        },
-        "id": "SPLUSD17C56"
-    },
-    "05.00.03": {
-        "days": {
             "Saturday": [
                 {
-                    "end": "18:00",
                     "summary": "Degle, S.: JenALL_AO-BW/S/01.02",
+                    "end": "18:00",
                     "begin": "09:00"
                 }
             ],
             "Friday": [
                 {
-                    "end": "18:00",
                     "summary": "Degle, S.: JenALL_AO-BW/S/01.01",
+                    "end": "18:00",
                     "begin": "09:00"
                 }
             ]
         },
-        "id": "SPLUSA8CFB5"
+        "id": "SPLUS6B85F1"
     },
-    "05.03.202": {
+    "03.03.01 (HS 1)": {
+        "days": {
+            "Thursday": [
+                {
+                    "summary": "Reger-Wagner: UT/UTE(BA)Marktg./PL/01",
+                    "end": "13:30",
+                    "begin": "12:00"
+                }
+            ]
+        },
+        "id": "SPLUSFADB3E"
+    },
+    "05.03.203": {
         "days": {
             "Saturday": [
                 {
-                    "end": "18:00",
                     "summary": "Holdack(SciTec), Pfeil(BW): SI(MA)Scient.Writing/S/01.2",
+                    "end": "18:00",
                     "begin": "09:00"
                 }
             ],
             "Friday": [
                 {
-                    "end": "21:00",
                     "summary": "Holdack(SciTec), Pfeil(BW): SI(MA)Scient.Writing/S/01.1",
+                    "end": "21:00",
                     "begin": "16:00"
                 }
             ]
         },
-        "id": "SPLUSD17C61"
+        "id": "SPLUSD17C62"
     },
-    "05.03.33": {
+    "04.-1.01(Aula)": {
         "days": {
             "Tuesday": [
                 {
-                    "end": "18:30",
-                    "summary": "StuRa: 12./26.02./12./26.03._StuRa_Beratung",
-                    "begin": "13:30"
+                    "summary": "Reimer: WI/WIEC(BA)ET/PL/01",
+                    "end": "11:30",
+                    "begin": "10:00"
                 }
-            ]
-        },
-        "id": "SPLUSD17C37"
-    },
-    "05.03.37 (HS 2)": {
-        "days": {
+            ],
+            "Friday": [
+                {
+                    "summary": "Hauser (BW): BW(BA)Softw.entw./PM/PL/01",
+                    "end": "09:30",
+                    "begin": "08:00"
+                },
+                {
+                    "summary": "Buntfuss (BW): BW(BA)IKT GL/Konz./PL/01",
+                    "end": "17:00",
+                    "begin": "16:00"
+                },
+                {
+                    "summary": "Buntfuss (BW): BW(BA)IKT GL/Konz./PL/NTA/01",
+                    "end": "17:30",
+                    "begin": "17:00"
+                }
+            ],
             "Monday": [
                 {
-                    "end": "15:00",
-                    "summary": ": SW(BA)Eng/PL/01",
-                    "begin": "14:00"
+                    "summary": "Brehm: WI/WIEC(BA)DB/PL/01",
+                    "end": "09:30",
+                    "begin": "08:00"
+                },
+                {
+                    "summary": "Manß(BW), Magerhans: BW(BA)Marktg./PL/01",
+                    "end": "11:30",
+                    "begin": "10:00"
+                },
+                {
+                    "summary": "Heiderich: MB/ME(BA)TM I/PL/01",
+                    "end": "14:00",
+                    "begin": "12:00"
                 }
             ]
         },
-        "id": "SPLUSD17C39"
+        "id": "SPLUSCA96B6"
+    },
+    "04.02.15": {
+        "days": {
+            "Tuesday": [
+                {
+                    "summary": "Kaufmann: MB/ME(BA)GL MT II/Wdh.-Prfg./01",
+                    "end": "09:30",
+                    "begin": "08:00"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "summary": "Schwabe: MB(BA)MD/Wdh.-Prfg./01",
+                    "end": "13:30",
+                    "begin": "12:00"
+                }
+            ],
+            "Monday": [
+                {
+                    "summary": "Brehm: WIEC(BA)DB/Wdh.-Prfg./01",
+                    "end": "09:30",
+                    "begin": "08:00"
+                },
+                {
+                    "summary": "Kaufmann: MB/ME(BA)GL RT I/Wdh.-Prfg./01",
+                    "end": "11:30",
+                    "begin": "10:00"
+                }
+            ]
+        },
+        "id": "SPLUS40B574"
     },
     "05.03.40 (HS 3)": {
         "days": {
-            "Monday": [
+            "Tuesday": [
                 {
-                    "end": "15:00",
-                    "summary": ": SW(BA)Eng/PL/01",
+                    "summary": ": SW(BA)Recht 2/PL/01",
+                    "end": "16:00",
                     "begin": "14:00"
                 }
             ],
             "Thursday": [
                 {
-                    "end": "11:30",
                     "summary": ": SW(BA)Psych. II/PL/01",
+                    "end": "11:30",
                     "begin": "10:00"
                 }
             ],
-            "Tuesday": [
+            "Monday": [
                 {
-                    "end": "16:00",
-                    "summary": ": SW(BA)Recht 2/PL/01",
+                    "summary": ": SW(BA)Eng/PL/01",
+                    "end": "15:00",
                     "begin": "14:00"
                 }
             ]
         },
         "id": "SPLUSD17C3A"
     },
-    "04.00.02 (HS7)": {
+    "04.03.11": {
         "days": {
-            "Thursday": [
-                {
-                    "end": "11:30",
-                    "summary": "Lehmann(BW): BW(BA)Buchf./PL/01",
-                    "begin": "10:00"
-                }
-            ],
             "Wednesday": [
                 {
-                    "end": "12:00",
-                    "summary": ": SW(BA)Recht 1/PL/01",
+                    "summary": "Schwabe: MB(MA)GL/PL/01",
+                    "end": "11:30",
                     "begin": "10:00"
                 }
             ]
         },
-        "id": "SPLUS412E9B"
+        "id": "SPLUS9BD8AE"
+    },
+    "05.03.36": {
+        "days": {
+            "Monday": [
+                {
+                    "summary": "JenAll: JenALL_AO-Optom./S/01.13",
+                    "end": "14:30",
+                    "begin": "09:00"
+                }
+            ]
+        },
+        "id": "SPLUSD17C38"
+    },
+    "05.03.43 (HS 4)": {
+        "days": {
+            "Tuesday": [
+                {
+                    "summary": ": SW(BA)Recht 2/PL/01",
+                    "end": "16:00",
+                    "begin": "14:00"
+                }
+            ],
+            "Thursday": [
+                {
+                    "summary": "Adler: SW(BA)Psych. I/Wdh.-Prfg./01",
+                    "end": "13:00",
+                    "begin": "10:00"
+                }
+            ],
+            "Monday": [
+                {
+                    "summary": ": SW(BA)Eng/PL/01",
+                    "end": "15:00",
+                    "begin": "14:00"
+                }
+            ]
+        },
+        "id": "SPLUSD17C3C"
+    },
+    "05.00.03": {
+        "days": {
+            "Saturday": [
+                {
+                    "summary": "Degle, S.: JenALL_AO-BW/S/01.02",
+                    "end": "18:00",
+                    "begin": "09:00"
+                }
+            ],
+            "Friday": [
+                {
+                    "summary": "Degle, S.: JenALL_AO-BW/S/01.01",
+                    "end": "18:00",
+                    "begin": "09:00"
+                }
+            ]
+        },
+        "id": "SPLUSA8CFB5"
+    },
+    "01.02.14": {
+        "days": {
+            "Thursday": [
+                {
+                    "summary": "Reger-Wagner: WI/WIEC(BA)Marktg./PL/01",
+                    "end": "13:30",
+                    "begin": "12:00"
+                }
+            ]
+        },
+        "id": "SPLUS0B1252"
+    },
+    "04.00.01 (HS6)": {
+        "days": {
+            "Tuesday": [
+                {
+                    "summary": "Kaufmann: MB/ME(BA)GL MT I/PL/01",
+                    "end": "13:30",
+                    "begin": "12:00"
+                }
+            ],
+            "Friday": [
+                {
+                    "summary": "Schwabe: MB/ME(BA)TM III/PL/01",
+                    "end": "11:30",
+                    "begin": "10:00"
+                }
+            ],
+            "Thursday": [
+                {
+                    "summary": "Lehmann(BW): BW(BA)Buchf./PL/01",
+                    "end": "11:30",
+                    "begin": "10:00"
+                }
+            ],
+            "Monday": [
+                {
+                    "summary": "Wicher: AO/UT/UTE(BA)PCW/Chemie/PL/01",
+                    "end": "11:30",
+                    "begin": "10:00"
+                }
+            ]
+        },
+        "id": "SPLUS40B576"
     },
     "01.01.11": {
         "days": {
             "Tuesday": [
                 {
-                    "end": "15:00",
                     "summary": "Magerhans: BW(BA)Marktg.ana/-instr.I/Wdh.-Prfg./01",
+                    "end": "15:00",
                     "begin": "12:00"
                 }
             ]
         },
         "id": "SPLUS715528"
     },
-    "05.00.06": {
+    "05.03.33": {
         "days": {
-            "Saturday": [
+            "Tuesday": [
                 {
-                    "end": "18:00",
-                    "summary": "Degle, S.: JenALL_AO-BW/S/01.02",
-                    "begin": "09:00"
+                    "summary": "StuRa: 12./26.02./12./26.03._StuRa_Beratung",
+                    "end": "18:30",
+                    "begin": "13:30"
+                }
+            ]
+        },
+        "id": "SPLUSD17C37"
+    },
+    "05.00.10": {
+        "days": {
+            "Tuesday": [
+                {
+                    "summary": "Wöhner: BW(MA)e-Bus./IT-Sicherh.PL/01",
+                    "end": "15:30",
+                    "begin": "14:00"
                 }
             ],
-            "Friday": [
+            "Saturday": [
                 {
+                    "summary": "Degle, S.: JenALL_AO-BW/S/01.02",
                     "end": "18:00",
-                    "summary": "Degle, S.: JenALL_AO-BW/S/01.01",
                     "begin": "09:00"
                 }
             ],
             "Sunday": [
                 {
-                    "end": "18:00",
                     "summary": "Degle, S.: JenALL_AO-BW/S/01.03",
+                    "end": "18:00",
+                    "begin": "09:00"
+                }
+            ],
+            "Friday": [
+                {
+                    "summary": "Hauser (BW): BW(BA)Client/Server Techn./PL/01",
+                    "end": "13:30",
+                    "begin": "12:00"
+                },
+                {
+                    "summary": "Assfalg(BW): BW(MA)Strat.Entsch.spielth.Basis/PL/01",
+                    "end": "15:30",
+                    "begin": "14:00"
+                }
+            ]
+        },
+        "id": "SPLUSD17C56"
+    },
+    "05.03.37 (HS 2)": {
+        "days": {
+            "Monday": [
+                {
+                    "summary": ": SW(BA)Eng/PL/01",
+                    "end": "15:00",
+                    "begin": "14:00"
+                }
+            ]
+        },
+        "id": "SPLUSD17C39"
+    },
+    "05.00.06": {
+        "days": {
+            "Saturday": [
+                {
+                    "summary": "Degle, S.: JenALL_AO-BW/S/01.02",
+                    "end": "18:00",
+                    "begin": "09:00"
+                }
+            ],
+            "Sunday": [
+                {
+                    "summary": "Degle, S.: JenALL_AO-BW/S/01.03",
+                    "end": "18:00",
+                    "begin": "09:00"
+                }
+            ],
+            "Friday": [
+                {
+                    "summary": "Degle, S.: JenALL_AO-BW/S/01.01",
+                    "end": "18:00",
                     "begin": "09:00"
                 }
             ]
@@ -186,231 +377,93 @@
         "days": {
             "Thursday": [
                 {
-                    "end": "09:30",
                     "summary": "Felkl: MB/ME(BA)GL ET/Wdh.-Prfg./01",
+                    "end": "09:30",
                     "begin": "08:00"
                 }
             ]
         },
         "id": "SPLUSB60779"
     },
-    "04.00.01 (HS6)": {
+    "04.00.02 (HS7)": {
         "days": {
-            "Monday": [
+            "Wednesday": [
                 {
-                    "end": "11:30",
-                    "summary": "Wicher: AO/UT/UTE(BA)PCW/Chemie/PL/01",
+                    "summary": ": SW(BA)Recht 1/PL/01",
+                    "end": "12:00",
                     "begin": "10:00"
                 }
             ],
             "Thursday": [
                 {
-                    "end": "11:30",
                     "summary": "Lehmann(BW): BW(BA)Buchf./PL/01",
-                    "begin": "10:00"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "end": "13:30",
-                    "summary": "Kaufmann: MB/ME(BA)GL MT I/PL/01",
-                    "begin": "12:00"
-                }
-            ],
-            "Friday": [
-                {
                     "end": "11:30",
-                    "summary": "Schwabe: MB/ME(BA)TM III/PL/01",
                     "begin": "10:00"
                 }
             ]
         },
-        "id": "SPLUS40B576"
-    },
-    "05.03.36": {
-        "days": {
-            "Monday": [
-                {
-                    "end": "14:30",
-                    "summary": "JenAll: JenALL_AO-Optom./S/01.13",
-                    "begin": "09:00"
-                }
-            ]
-        },
-        "id": "SPLUSD17C38"
-    },
-    "05.03.43 (HS 4)": {
-        "days": {
-            "Monday": [
-                {
-                    "end": "15:00",
-                    "summary": ": SW(BA)Eng/PL/01",
-                    "begin": "14:00"
-                }
-            ],
-            "Thursday": [
-                {
-                    "end": "13:00",
-                    "summary": "Adler: SW(BA)Psych. I/Wdh.-Prfg./01",
-                    "begin": "10:00"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "end": "16:00",
-                    "summary": ": SW(BA)Recht 2/PL/01",
-                    "begin": "14:00"
-                }
-            ]
-        },
-        "id": "SPLUSD17C3C"
-    },
-    "05.03.203": {
-        "days": {
-            "Saturday": [
-                {
-                    "end": "18:00",
-                    "summary": "Holdack(SciTec), Pfeil(BW): SI(MA)Scient.Writing/S/01.2",
-                    "begin": "09:00"
-                }
-            ],
-            "Friday": [
-                {
-                    "end": "21:00",
-                    "summary": "Holdack(SciTec), Pfeil(BW): SI(MA)Scient.Writing/S/01.1",
-                    "begin": "16:00"
-                }
-            ]
-        },
-        "id": "SPLUSD17C62"
-    },
-    "04.03.11": {
-        "days": {
-            "Wednesday": [
-                {
-                    "end": "11:30",
-                    "summary": "Schwabe: MB(MA)GL/PL/01",
-                    "begin": "10:00"
-                }
-            ]
-        },
-        "id": "SPLUS9BD8AE"
-    },
-    "01.02.12": {
-        "days": {
-            "Thursday": [
-                {
-                    "end": "11:30",
-                    "summary": "Ephrosi(BW): BW(BA)ABWL-Strat.Man./PL/01",
-                    "begin": "10:00"
-                }
-            ]
-        },
-        "id": "SPLUS9BD8B1"
-    },
-    "04.02.15": {
-        "days": {
-            "Monday": [
-                {
-                    "end": "11:30",
-                    "summary": "Kaufmann: MB/ME(BA)GL RT I/Wdh.-Prfg./01",
-                    "begin": "10:00"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "end": "09:30",
-                    "summary": "Kaufmann: MB/ME(BA)GL MT II/Wdh.-Prfg./01",
-                    "begin": "08:00"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "end": "13:30",
-                    "summary": "Schwabe: MB(BA)MD/Wdh.-Prfg./01",
-                    "begin": "12:00"
-                }
-            ]
-        },
-        "id": "SPLUS40B574"
-    },
-    "05.00.02": {
-        "days": {
-            "Saturday": [
-                {
-                    "end": "18:00",
-                    "summary": "Degle, S.: JenALL_AO-BW/S/01.02",
-                    "begin": "09:00"
-                }
-            ],
-            "Friday": [
-                {
-                    "end": "18:00",
-                    "summary": "Degle, S.: JenALL_AO-BW/S/01.01",
-                    "begin": "09:00"
-                }
-            ]
-        },
-        "id": "SPLUS6B85F1"
+        "id": "SPLUS412E9B"
     },
     "05.00.04": {
         "days": {
+            "Tuesday": [
+                {
+                    "summary": "Reger-Wagner, Magerhans: BW(BA)Marktg.ana/-instr.II/PL/01",
+                    "end": "09:30",
+                    "begin": "08:00"
+                }
+            ],
             "Saturday": [
                 {
-                    "end": "18:00",
                     "summary": "Degle, S.: JenALL_AO-BW/S/01.02",
+                    "end": "18:00",
                     "begin": "09:00"
                 }
             ],
             "Friday": [
                 {
-                    "end": "18:00",
                     "summary": "Degle, S.: JenALL_AO-BW/S/01.01",
+                    "end": "18:00",
                     "begin": "09:00"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "end": "09:30",
-                    "summary": "Reger-Wagner, Magerhans: BW(BA)Marktg.ana/-instr.II/PL/01",
-                    "begin": "08:00"
                 }
             ]
         },
         "id": "SPLUSD17C52"
     },
-    "04.-1.01(Aula)": {
+    "05.03.202": {
         "days": {
-            "Monday": [
+            "Saturday": [
                 {
-                    "end": "11:30",
-                    "summary": "Manß(BW), Magerhans: BW(BA)Marktg./PL/01",
-                    "begin": "10:00"
-                },
-                {
-                    "end": "14:00",
-                    "summary": "Heiderich: MB/ME(BA)TM I/PL/01",
-                    "begin": "12:00"
+                    "summary": "Holdack(SciTec), Pfeil(BW): SI(MA)Scient.Writing/S/01.2",
+                    "end": "18:00",
+                    "begin": "09:00"
                 }
             ],
             "Friday": [
                 {
-                    "end": "09:30",
-                    "summary": "Hauser (BW): BW(BA)Softw.entw./PM/PL/01",
-                    "begin": "08:00"
-                },
-                {
-                    "end": "17:00",
-                    "summary": "Buntfuss (BW): BW(BA)IKT GL/Konz./PL/01",
+                    "summary": "Holdack(SciTec), Pfeil(BW): SI(MA)Scient.Writing/S/01.1",
+                    "end": "21:00",
                     "begin": "16:00"
-                },
-                {
-                    "end": "17:30",
-                    "summary": "Buntfuss (BW): BW(BA)IKT GL/Konz./PL/NTA/01",
-                    "begin": "17:00"
                 }
             ]
         },
-        "id": "SPLUSCA96B6"
+        "id": "SPLUSD17C61"
+    },
+    "01.02.12": {
+        "days": {
+            "Thursday": [
+                {
+                    "summary": "Ephrosi(BW): BW(BA)ABWL-Strat.Man./PL/01",
+                    "end": "11:30",
+                    "begin": "10:00"
+                },
+                {
+                    "summary": "Reger-Wagner: WI/WIEC(BA)Marktg./PL/01",
+                    "end": "13:30",
+                    "begin": "12:00"
+                }
+            ]
+        },
+        "id": "SPLUS9BD8B1"
     }
 }
