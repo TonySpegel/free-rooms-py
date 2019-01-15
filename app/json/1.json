@@ -4,15 +4,15 @@
             "Friday": [
                 {
                     "end": "15:00",
-                    "begin": "07:45",
-                    "summary": "GP: GP(BA)Recht/V/01.02"
+                    "summary": "GP: GP(BA)Recht/V/01.02",
+                    "begin": "07:45"
                 }
             ],
             "Thursday": [
                 {
                     "end": "15:45",
-                    "begin": "08:30",
-                    "summary": "GP: GP(BA)Recht/V/01.01"
+                    "summary": "GP: GP(BA)Recht/V/01.01",
+                    "begin": "08:30"
                 }
             ]
         },
