@@ -1,5 +1,6 @@
 {
     "05.00.10": {
+        "id": "SPLUSD17C56",
         "days": {
             "Thursday": [
                 {
@@ -15,7 +16,6 @@
                     "summary": "GP: GP(BA)Recht/V/01.02"
                 }
             ]
-        },
-        "id": "SPLUSD17C56"
+        }
     }
 }
