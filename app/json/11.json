@@ -1,122 +1,31 @@
 {
-    "01.02.12": {
-        "id": "SPLUS9BD8B1",
-        "days": {
-            "Wednesday": [
-                {
-                    "summary": "Lakemann: UTE(BA)Nachhaltigk./S/02",
-                    "end": "16:45",
-                    "begin": "09:30"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "summary": "Lakemann: UTE(BA)Nachhaltigk./S/01",
-                    "end": "16:45",
-                    "begin": "09:30"
-                }
-            ]
-        }
-    },
-    "05.03.206": {
-        "id": "SPLUS7F8D03",
-        "days": {
-            "Wednesday": [
-                {
-                    "summary": "Adler: 12.03._SW_Fundraising",
-                    "end": "17:30",
-                    "begin": "08:30"
-                }
-            ]
-        }
-    },
-    "05.00.03": {
-        "id": "SPLUSA8CFB5",
-        "days": {
-            "Thursday": [
-                {
-                    "summary": "Rädel-Ablass: 14.03._Kleingruppenbetreuung_I",
-                    "end": "12:15",
-                    "begin": "09:00"
-                },
-                {
-                    "summary": "Rädel-Ablass: 14.03._Kleingruppenbetreuung_II",
-                    "end": "19:45",
-                    "begin": "16:30"
-                }
-            ],
-            "Saturday": [
-                {
-                    "summary": "Merker: JenALL_FTPM_2017/APL/01",
-                    "end": "10:30",
-                    "begin": "08:00"
-                }
-            ]
-        }
-    },
-    "05.03.229": {
-        "id": "SPLUSD17C3F",
-        "days": {
-            "Wednesday": [
-                {
-                    "summary": "Adler: 12.03._SW_Fundraising",
-                    "end": "17:30",
-                    "begin": "08:30"
-                }
-            ]
-        }
-    },
     "05.03.01": {
         "id": "SPLUSB60779",
         "days": {
             "Wednesday": [
                 {
+                    "begin": "08:30",
                     "summary": "Adler: 12.03._SW_Fundraising",
-                    "end": "17:30",
-                    "begin": "08:30"
+                    "end": "17:30"
                 }
             ]
         }
     },
-    "05.00.06": {
-        "id": "SPLUSD17C54",
+    "05.03.202": {
+        "id": "SPLUSD17C61",
         "days": {
-            "Monday": [
-                {
-                    "summary": "JenAll: JenALL_AO-Optom./S/01.18",
-                    "end": "14:30",
-                    "begin": "09:00"
-                }
-            ]
-        }
-    },
-    "05.03.40 (HS 3)": {
-        "id": "SPLUSD17C3A",
-        "days": {
-            "Wednesday": [
-                {
-                    "summary": "Adler: 12.03._SW_Fundraising",
-                    "end": "17:30",
-                    "begin": "08:30"
-                }
-            ]
-        }
-    },
-    "05.03.33": {
-        "id": "SPLUSD17C37",
-        "days": {
-            "Wednesday": [
-                {
-                    "summary": "Adler: 12.03._SW_Fundraising",
-                    "end": "17:30",
-                    "begin": "08:30"
-                }
-            ],
             "Tuesday": [
                 {
-                    "summary": "StuRa: 12./26.02./12./26.03._StuRa_Beratung",
-                    "end": "18:30",
-                    "begin": "13:30"
+                    "begin": "09:00",
+                    "summary": "Staupendahl(SciTec): JenALL_LSB/S/01.03",
+                    "end": "16:00"
+                }
+            ],
+            "Monday": [
+                {
+                    "begin": "09:00",
+                    "summary": "Staupendahl(SciTec): JenALL_LSB/S/01.02",
+                    "end": "16:00"
                 }
             ]
         }
@@ -126,9 +35,9 @@
         "days": {
             "Wednesday": [
                 {
+                    "begin": "08:30",
                     "summary": "Adler: 12.03._SW_Fundraising",
-                    "end": "17:30",
-                    "begin": "08:30"
+                    "end": "17:30"
                 }
             ]
         }
@@ -138,116 +47,9 @@
         "days": {
             "Wednesday": [
                 {
+                    "begin": "08:30",
                     "summary": "Adler: 12.03._SW_Fundraising",
-                    "end": "17:30",
-                    "begin": "08:30"
-                }
-            ]
-        }
-    },
-    "05.03.29": {
-        "id": "SPLUSD17C65",
-        "days": {
-            "Wednesday": [
-                {
-                    "summary": "Adler: 12.03._SW_Fundraising",
-                    "end": "17:30",
-                    "begin": "08:30"
-                }
-            ]
-        }
-    },
-    "05.03.202": {
-        "id": "SPLUSD17C61",
-        "days": {
-            "Monday": [
-                {
-                    "summary": "Staupendahl(SciTec): JenALL_LSB/S/01.02",
-                    "end": "16:00",
-                    "begin": "09:00"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "summary": "Staupendahl(SciTec): JenALL_LSB/S/01.03",
-                    "end": "16:00",
-                    "begin": "09:00"
-                }
-            ]
-        }
-    },
-    "04.-1.01(Aula)": {
-        "id": "SPLUSCA96B6",
-        "days": {
-            "Friday": [
-                {
-                    "summary": "Sandbothe: 15.03._Sandbothe_Achtsame HS in der dig. Ges.",
-                    "end": "20:00",
-                    "begin": "08:00"
-                }
-            ],
-            "Thursday": [
-                {
-                    "summary": "Sandbothe: 14.03._Sandbothe_Achtsame HS in der dig. Ges.",
-                    "end": "20:00",
-                    "begin": "08:00"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "summary": "Sandbothe: 13.03._Sandbothe_Achtsame HS in der dig. Ges.",
-                    "end": "20:00",
-                    "begin": "08:00"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "summary": "Sandbothe: 12.03._Sandbothe_Achtsame HS in der dig. Ges.",
-                    "end": "20:00",
-                    "begin": "08:00"
-                }
-            ]
-        }
-    },
-    "05.03.02 (HS 5)": {
-        "id": "SPLUSD17C3B",
-        "days": {
-            "Wednesday": [
-                {
-                    "summary": "Adler: 12.03._SW_Fundraising",
-                    "end": "17:30",
-                    "begin": "08:30"
-                }
-            ]
-        }
-    },
-    "04.00.08(CIM)": {
-        "id": "SPLUSCA9608",
-        "days": {
-            "Monday": [
-                {
-                    "summary": "Pfaff SciTec: SciTec_Schlegel_Stud.einf./-vorb./S/01.7",
-                    "end": "11:30",
-                    "begin": "10:00"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "summary": "Pfaff SciTec: SciTec_Schlegel_Stud.einf./-vorb./S/01.8",
-                    "end": "15:30",
-                    "begin": "14:00"
-                }
-            ]
-        }
-    },
-    "05.03.224": {
-        "id": "SPLUSD17C3D",
-        "days": {
-            "Wednesday": [
-                {
-                    "summary": "Adler: 12.03._SW_Fundraising",
-                    "end": "17:30",
-                    "begin": "08:30"
+                    "end": "17:30"
                 }
             ]
         }
@@ -257,130 +59,54 @@
         "days": {
             "Friday": [
                 {
+                    "begin": "13:30",
                     "summary": "Fritzsche: JenALL_PIW 2017/S/01.07",
-                    "end": "19:30",
-                    "begin": "13:30"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "summary": "Adler: 12.03._SW_Fundraising",
-                    "end": "17:30",
-                    "begin": "08:30"
+                    "end": "19:30"
                 }
             ],
             "Saturday": [
                 {
+                    "begin": "08:00",
                     "summary": "Fritzsche: JenALL_PIW 2017/S/01.08",
-                    "end": "15:30",
-                    "begin": "08:00"
+                    "end": "15:30"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "08:30",
+                    "summary": "Adler: 12.03._SW_Fundraising",
+                    "end": "17:30"
                 }
             ]
         }
     },
-    "04.03.12": {
-        "id": "SPLUS40B570",
+    "04.00.08(CIM)": {
+        "id": "SPLUSCA9608",
         "days": {
-            "Friday": [
+            "Tuesday": [
                 {
-                    "summary": "Schirlitz(MB): MB(BA)SoftSkills_Pof.Präs./S/03.2",
-                    "end": "16:15",
-                    "begin": "09:00"
+                    "begin": "14:00",
+                    "summary": "Pfaff SciTec: SciTec_Schlegel_Stud.einf./-vorb./S/01.8",
+                    "end": "15:30"
                 }
             ],
             "Monday": [
                 {
-                    "summary": "Schirlitz(MB): MB(BA)SoftSkills_Pof.Präs./S/03.1",
-                    "end": "16:15",
-                    "begin": "09:00"
+                    "begin": "10:00",
+                    "summary": "Pfaff SciTec: SciTec_Schlegel_Stud.einf./-vorb./S/01.7",
+                    "end": "11:30"
                 }
             ]
         }
     },
-    "05.03.203": {
-        "id": "SPLUSD17C62",
+    "05.03.40 (HS 3)": {
+        "id": "SPLUSD17C3A",
         "days": {
             "Wednesday": [
                 {
+                    "begin": "08:30",
                     "summary": "Adler: 12.03._SW_Fundraising",
-                    "end": "17:30",
-                    "begin": "08:30"
-                }
-            ]
-        }
-    },
-    "05.01.43": {
-        "id": "SPLUSD17C42",
-        "days": {
-            "Friday": [
-                {
-                    "summary": "Reger-Wagner: JenALL_WI 2918/S/01.01",
-                    "end": "19:30",
-                    "begin": "13:30"
-                }
-            ],
-            "Saturday": [
-                {
-                    "summary": "Reger-Wagner: JenALL_WI 2918/S/01.02",
-                    "end": "15:30",
-                    "begin": "08:00"
-                }
-            ]
-        }
-    },
-    "05.03.36": {
-        "id": "SPLUSD17C38",
-        "days": {
-            "Friday": [
-                {
-                    "summary": "JenAll 3: JenALL_LMT/S/01.01",
-                    "end": "18:30",
-                    "begin": "11:30"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "summary": "Adler: 12.03._SW_Fundraising",
-                    "end": "17:30",
-                    "begin": "08:30"
-                }
-            ]
-        }
-    },
-    "05.00.04": {
-        "id": "SPLUSD17C52",
-        "days": {
-            "Friday": [
-                {
-                    "summary": "JenAll 2: JenALL_Gehirnbenutzer/S/01.02",
-                    "end": "19:30",
-                    "begin": "11:30"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "summary": "Adler: 12.03._SW_Fundraising",
-                    "end": "17:30",
-                    "begin": "08:30"
-                }
-            ],
-            "Saturday": [
-                {
-                    "summary": "JenAll 2: JenALL_Gehirnbenutzer/S/01.04",
-                    "end": "15:30",
-                    "begin": "08:00"
-                }
-            ]
-        }
-    },
-    "05.03.28": {
-        "id": "SPLUSD17C34",
-        "days": {
-            "Wednesday": [
-                {
-                    "summary": "Adler: 12.03._SW_Fundraising",
-                    "end": "17:30",
-                    "begin": "08:30"
+                    "end": "17:30"
                 }
             ]
         }
@@ -390,23 +116,285 @@
         "days": {
             "Saturday": [
                 {
+                    "begin": "08:00",
                     "summary": "JenAll: JenALL_Mittag/alle SG/01.01",
-                    "end": "14:00",
-                    "begin": "08:00"
+                    "end": "14:00"
                 }
             ],
             "Monday": [
                 {
+                    "begin": "09:00",
                     "summary": "SZT: 11.03._SZT-Doktoranden/S",
-                    "end": "18:00",
-                    "begin": "09:00"
+                    "end": "18:00"
                 }
             ],
             "Wednesday": [
                 {
+                    "begin": "08:30",
                     "summary": "Adler: 12.03._SW_Fundraising",
-                    "end": "17:30",
-                    "begin": "08:30"
+                    "end": "17:30"
+                }
+            ]
+        }
+    },
+    "05.03.36": {
+        "id": "SPLUSD17C38",
+        "days": {
+            "Friday": [
+                {
+                    "begin": "11:30",
+                    "summary": "JenAll 3: JenALL_LMT/S/01.01",
+                    "end": "18:30"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "08:30",
+                    "summary": "Adler: 12.03._SW_Fundraising",
+                    "end": "17:30"
+                }
+            ]
+        }
+    },
+    "04.-1.01(Aula)": {
+        "id": "SPLUSCA96B6",
+        "days": {
+            "Tuesday": [
+                {
+                    "begin": "08:00",
+                    "summary": "Sandbothe: 12.03._Sandbothe_Achtsame HS in der dig. Ges.",
+                    "end": "20:00"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "08:00",
+                    "summary": "Sandbothe: 14.03._Sandbothe_Achtsame HS in der dig. Ges.",
+                    "end": "20:00"
+                }
+            ],
+            "Friday": [
+                {
+                    "begin": "08:00",
+                    "summary": "Sandbothe: 15.03._Sandbothe_Achtsame HS in der dig. Ges.",
+                    "end": "20:00"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "08:00",
+                    "summary": "Sandbothe: 13.03._Sandbothe_Achtsame HS in der dig. Ges.",
+                    "end": "20:00"
+                }
+            ]
+        }
+    },
+    "05.03.203": {
+        "id": "SPLUSD17C62",
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "08:30",
+                    "summary": "Adler: 12.03._SW_Fundraising",
+                    "end": "17:30"
+                }
+            ]
+        }
+    },
+    "05.00.06": {
+        "id": "SPLUSD17C54",
+        "days": {
+            "Monday": [
+                {
+                    "begin": "09:00",
+                    "summary": "JenAll: JenALL_AO-Optom./S/01.18",
+                    "end": "14:30"
+                }
+            ]
+        }
+    },
+    "05.03.29": {
+        "id": "SPLUSD17C65",
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "08:30",
+                    "summary": "Adler: 12.03._SW_Fundraising",
+                    "end": "17:30"
+                }
+            ]
+        }
+    },
+    "05.00.03": {
+        "id": "SPLUSA8CFB5",
+        "days": {
+            "Thursday": [
+                {
+                    "begin": "09:00",
+                    "summary": "Rädel-Ablass: 14.03._Kleingruppenbetreuung_I",
+                    "end": "12:15"
+                },
+                {
+                    "begin": "16:30",
+                    "summary": "Rädel-Ablass: 14.03._Kleingruppenbetreuung_II",
+                    "end": "19:45"
+                }
+            ],
+            "Saturday": [
+                {
+                    "begin": "08:00",
+                    "summary": "Merker: JenALL_FTPM_2017/APL/01",
+                    "end": "10:30"
+                }
+            ]
+        }
+    },
+    "05.01.43": {
+        "id": "SPLUSD17C42",
+        "days": {
+            "Friday": [
+                {
+                    "begin": "13:30",
+                    "summary": "Reger-Wagner: JenALL_WI 2918/S/01.01",
+                    "end": "19:30"
+                }
+            ],
+            "Saturday": [
+                {
+                    "begin": "08:00",
+                    "summary": "Reger-Wagner: JenALL_WI 2918/S/01.02",
+                    "end": "15:30"
+                }
+            ]
+        }
+    },
+    "05.03.224": {
+        "id": "SPLUSD17C3D",
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "08:30",
+                    "summary": "Adler: 12.03._SW_Fundraising",
+                    "end": "17:30"
+                }
+            ]
+        }
+    },
+    "05.03.229": {
+        "id": "SPLUSD17C3F",
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "08:30",
+                    "summary": "Adler: 12.03._SW_Fundraising",
+                    "end": "17:30"
+                }
+            ]
+        }
+    },
+    "01.02.12": {
+        "id": "SPLUS9BD8B1",
+        "days": {
+            "Tuesday": [
+                {
+                    "begin": "09:30",
+                    "summary": "Lakemann: UTE(BA)Nachhaltigk./S/01",
+                    "end": "16:45"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "09:30",
+                    "summary": "Lakemann: UTE(BA)Nachhaltigk./S/02",
+                    "end": "16:45"
+                }
+            ]
+        }
+    },
+    "04.03.12": {
+        "id": "SPLUS40B570",
+        "days": {
+            "Friday": [
+                {
+                    "begin": "09:00",
+                    "summary": "Schirlitz(MB): MB(BA)SoftSkills_Pof.Präs./S/03.2",
+                    "end": "16:15"
+                }
+            ],
+            "Monday": [
+                {
+                    "begin": "09:00",
+                    "summary": "Schirlitz(MB): MB(BA)SoftSkills_Pof.Präs./S/03.1",
+                    "end": "16:15"
+                }
+            ]
+        }
+    },
+    "05.03.33": {
+        "id": "SPLUSD17C37",
+        "days": {
+            "Tuesday": [
+                {
+                    "begin": "13:30",
+                    "summary": "StuRa: 12./26.02./12./26.03._StuRa_Beratung",
+                    "end": "18:30"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "08:30",
+                    "summary": "Adler: 12.03._SW_Fundraising",
+                    "end": "17:30"
+                }
+            ]
+        }
+    },
+    "05.00.04": {
+        "id": "SPLUSD17C52",
+        "days": {
+            "Friday": [
+                {
+                    "begin": "11:30",
+                    "summary": "JenAll 2: JenALL_Gehirnbenutzer/S/01.02",
+                    "end": "19:30"
+                }
+            ],
+            "Saturday": [
+                {
+                    "begin": "08:00",
+                    "summary": "JenAll 2: JenALL_Gehirnbenutzer/S/01.04",
+                    "end": "15:30"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "08:30",
+                    "summary": "Adler: 12.03._SW_Fundraising",
+                    "end": "17:30"
+                }
+            ]
+        }
+    },
+    "05.03.206": {
+        "id": "SPLUS7F8D03",
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "08:30",
+                    "summary": "Adler: 12.03._SW_Fundraising",
+                    "end": "17:30"
+                }
+            ]
+        }
+    },
+    "05.03.02 (HS 5)": {
+        "id": "SPLUSD17C3B",
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "08:30",
+                    "summary": "Adler: 12.03._SW_Fundraising",
+                    "end": "17:30"
                 }
             ]
         }
@@ -416,9 +404,21 @@
         "days": {
             "Wednesday": [
                 {
+                    "begin": "08:30",
                     "summary": "Adler: 12.03._SW_Fundraising",
-                    "end": "17:30",
-                    "begin": "08:30"
+                    "end": "17:30"
+                }
+            ]
+        }
+    },
+    "05.03.28": {
+        "id": "SPLUSD17C34",
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "08:30",
+                    "summary": "Adler: 12.03._SW_Fundraising",
+                    "end": "17:30"
                 }
             ]
         }
