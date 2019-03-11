@@ -1,930 +1,930 @@
 {
-    "05.03.33": {
-        "days": {
-            "Tuesday": [
-                {
-                    "begin": "13:30",
-                    "end": "18:30",
-                    "summary": "StuRa: 12./26.02./12./26.03._StuRa_Beratung"
-                }
-            ]
-        },
-        "id": "SPLUSD17C37"
-    },
-    "04.03.11": {
-        "days": {
-            "Wednesday": [
-                {
-                    "begin": "09:00",
-                    "end": "18:00",
-                    "summary": "ZVM: 27.03_Jugend forscht/Vorb."
-                }
-            ],
-            "Friday": [
-                {
-                    "begin": "09:00",
-                    "end": "18:00",
-                    "summary": "ZVM: 29.03_Jugend forscht"
-                }
-            ],
-            "Thursday": [
-                {
-                    "begin": "09:00",
-                    "end": "18:00",
-                    "summary": "ZVM: 28.03_Jugend forscht"
-                }
-            ]
-        },
-        "id": "SPLUS9BD8AE"
-    },
-    "05.00.11": {
+    "05.03.36": {
         "days": {
             "Friday": [
                 {
-                    "begin": "14:45",
-                    "end": "18:00",
-                    "summary": "Degle, S.: JenALL_AO-Optom./S/01.24"
-                }
-            ],
-            "Thursday": [
-                {
-                    "begin": "16:30",
-                    "end": "18:00",
-                    "summary": "Degle, S.: JenALL_AO-Optom./S/01.23"
-                }
-            ]
-        },
-        "id": "SPLUS9DC2B3"
-    },
-    "05.00.06": {
-        "days": {
-            "Monday": [
-                {
                     "begin": "09:00",
-                    "end": "18:00",
-                    "summary": "JenAll: JenALL_AO-Bino-sehen/S/01.13"
-                }
-            ]
-        },
-        "id": "SPLUSD17C54"
-    },
-    "04.03.10": {
-        "days": {
-            "Monday": [
-                {
-                    "begin": "13:00",
-                    "end": "18:00",
-                    "summary": "Bliedtner: 25.03._AG Bliedtner Bespr."
-                }
-            ],
-            "Wednesday": [
-                {
-                    "begin": "09:00",
-                    "end": "18:00",
-                    "summary": "ZVM: 27.03_Jugend forscht/Vorb."
-                }
-            ],
-            "Friday": [
-                {
-                    "begin": "09:00",
-                    "end": "18:00",
-                    "summary": "ZVM: 29.03_Jugend forscht"
-                }
-            ],
-            "Thursday": [
-                {
-                    "begin": "09:00",
-                    "end": "18:00",
-                    "summary": "ZVM: 28.03_Jugend forscht"
-                }
-            ]
-        },
-        "id": "SPLUS412E9E"
-    },
-    "05.03.225": {
-        "days": {
-            "Wednesday": [
-                {
-                    "begin": "13:30",
-                    "end": "19:00",
-                    "summary": "Assfalg(BW): BW(BA)ABWL UPS/S/01.1"
-                }
-            ],
-            "Friday": [
-                {
-                    "begin": "08:00",
-                    "end": "17:00",
-                    "summary": "Assfalg(BW): BW(BA)ABWL UPS/S/01.3"
-                }
-            ],
-            "Thursday": [
-                {
-                    "begin": "08:00",
-                    "end": "18:30",
-                    "summary": "Assfalg(BW): BW(BA)ABWL UPS/S/01.2"
-                }
-            ]
-        },
-        "id": "SPLUSD17C3E"
-    },
-    "01.02.14": {
-        "days": {
-            "Monday": [
-                {
-                    "begin": "08:30",
-                    "end": "10:00",
-                    "summary": "Kilias(WI): UT/UTE(BA)Entw.-ZA/S/01.1"
-                },
-                {
-                    "begin": "10:30",
-                    "end": "12:00",
-                    "summary": "Kilias(WI): UT/UTE(BA)Entw.-ZA/S/01.2"
-                },
-                {
-                    "begin": "13:30",
-                    "end": "15:00",
-                    "summary": "Kilias(WI): UT/UTE(BA)Entw.-ZA/S/01.3"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "begin": "08:30",
-                    "end": "10:00",
-                    "summary": "Kilias(WI): UT/UTE(BA)Entw.-ZA/S/03.1"
-                },
-                {
-                    "begin": "10:30",
-                    "end": "13:00",
-                    "summary": "Kilias(WI): UT/UTE(BA)Entw.-ZA/S/03.2"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "begin": "09:30",
-                    "end": "11:00",
-                    "summary": "Kilias(WI): UT/UTE(BA)Entw.-ZA/S/02.1"
-                },
-                {
-                    "begin": "11:30",
-                    "end": "13:30",
-                    "summary": "Kilias(WI): UT/UTE(BA)Entw.-ZA/S/02.2"
-                }
-            ],
-            "Friday": [
-                {
-                    "begin": "08:30",
-                    "end": "10:00",
-                    "summary": "Kilias(WI): UT/UTE(BA)Entw.-ZA/S/05.1"
-                },
-                {
-                    "begin": "10:30",
-                    "end": "12:00",
-                    "summary": "Kilias(WI): UT/UTE(BA)Entw.-ZA/S/05.2"
-                }
-            ],
-            "Thursday": [
-                {
-                    "begin": "10:00",
-                    "end": "12:00",
-                    "summary": "Kilias(WI): UT/UTE(BA)Entw.-ZA/S/04"
-                }
-            ]
-        },
-        "id": "SPLUS0B1252"
-    },
-    "04.00.02 (HS7)": {
-        "days": {
-            "Wednesday": [
-                {
-                    "begin": "09:00",
-                    "end": "18:00",
-                    "summary": "ZVM: 27.03_Jugend forscht/Vorb."
-                }
-            ],
-            "Friday": [
-                {
-                    "begin": "09:00",
-                    "end": "18:00",
-                    "summary": "ZVM: 29.03_Jugend forscht"
-                }
-            ],
-            "Thursday": [
-                {
-                    "begin": "09:00",
-                    "end": "18:00",
-                    "summary": "ZVM: 28.03_Jugend forscht"
-                }
-            ]
-        },
-        "id": "SPLUS412E9B"
-    },
-    "05.03.203": {
-        "days": {
-            "Monday": [
-                {
-                    "begin": "09:30",
-                    "end": "17:30",
-                    "summary": "Lautenschläger: MB/BW/SciTec/WI(BA)GPS TOPSIM easy Startup!/S/01.1"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "begin": "09:30",
-                    "end": "17:30",
-                    "summary": "Lautenschläger: MB/BW/SciTec/WI(BA)GPS TOPSIM easy Startup!/S/01.3"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "begin": "09:30",
-                    "end": "17:30",
-                    "summary": "Lautenschläger: MB/BW/SciTec/WI(BA)GPS TOPSIM easy Startup!/S/01.2"
-                }
-            ]
-        },
-        "id": "SPLUSD17C62"
-    },
-    "05.-1.217": {
-        "days": {
-            "Sunday": [
-                {
-                    "begin": "16:30",
-                    "end": "18:00",
-                    "summary": "Degle, S.: JenALL_AO-Optom./S/01.26"
+                    "summary": "JenAll: JenALL_AO-Optom./S/01.20",
+                    "end": "18:00"
                 }
             ],
             "Saturday": [
                 {
-                    "begin": "16:30",
-                    "end": "18:00",
-                    "summary": "Degle, S.: JenALL_AO-Optom./S/01.25"
+                    "begin": "09:00",
+                    "summary": "JenAll: JenALL_AO-Optom./S/01.21",
+                    "end": "18:00"
                 }
             ],
-            "Friday": [
+            "Wednesday": [
                 {
-                    "begin": "14:45",
-                    "end": "18:00",
-                    "summary": "Degle, S.: JenALL_AO-Optom./S/01.24"
+                    "begin": "09:00",
+                    "summary": "Bliedtner: JenALL_LMB/S/01.04",
+                    "end": "16:00"
+                }
+            ],
+            "Sunday": [
+                {
+                    "begin": "09:00",
+                    "summary": "JenAll: JenALL_AO-Optom./S/01.22",
+                    "end": "18:00"
                 }
             ],
             "Thursday": [
                 {
-                    "begin": "16:30",
-                    "end": "18:00",
-                    "summary": "Degle, S.: JenALL_AO-Optom./S/01.23"
+                    "begin": "09:00",
+                    "summary": "JenAll: JenALL_AO-Optom./S/01.19",
+                    "end": "18:00"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "begin": "09:00",
+                    "summary": "Bliedtner: JenALL_LMB/S/01.03",
+                    "end": "16:00"
+                }
+            ],
+            "Monday": [
+                {
+                    "begin": "09:00",
+                    "summary": "Bliedtner: JenALL_LMB/S/01.02",
+                    "end": "16:00"
                 }
             ]
         },
-        "id": "SPLUS9DC2C1"
+        "id": "SPLUSD17C38"
+    },
+    "04.00.08(CIM)": {
+        "days": {
+            "Tuesday": [
+                {
+                    "begin": "14:00",
+                    "summary": "Pfaff SciTec: SciTec_Schlegel_Stud.einf./-vorb./S/01.8",
+                    "end": "15:30"
+                }
+            ],
+            "Monday": [
+                {
+                    "begin": "10:00",
+                    "summary": "Pfaff SciTec: SciTec_Schlegel_Stud.einf./-vorb./S/01.7",
+                    "end": "11:30"
+                }
+            ]
+        },
+        "id": "SPLUSCA9608"
     },
     "05.01.43": {
         "days": {
             "Tuesday": [
                 {
                     "begin": "08:00",
-                    "end": "17:30",
-                    "summary": "Klinkowski(BW): 26.03. Desing Thinking"
+                    "summary": "Klinkowski(BW): 26.03. Desing Thinking",
+                    "end": "17:30"
                 }
             ]
         },
         "id": "SPLUSD17C42"
     },
-    "04.-1.01(Aula)": {
-        "days": {
-            "Monday": [
-                {
-                    "begin": "09:00",
-                    "end": "18:00",
-                    "summary": "ZVM: 25.03_Jugend forscht/Vorb."
-                }
-            ],
-            "Wednesday": [
-                {
-                    "begin": "09:00",
-                    "end": "18:00",
-                    "summary": "ZVM: 27.03_Jugend forscht/Vorb."
-                }
-            ],
-            "Tuesday": [
-                {
-                    "begin": "09:00",
-                    "end": "18:00",
-                    "summary": "ZVM: 26.03_Jugend forscht/Vorb."
-                }
-            ],
-            "Friday": [
-                {
-                    "begin": "09:00",
-                    "end": "18:00",
-                    "summary": "ZVM: 29.03_Jugend forscht"
-                }
-            ],
-            "Thursday": [
-                {
-                    "begin": "09:00",
-                    "end": "18:00",
-                    "summary": "ZVM: 28.03_Jugend forscht"
-                }
-            ]
-        },
-        "id": "SPLUSCA96B6"
-    },
-    "05.-1.221": {
-        "days": {
-            "Sunday": [
-                {
-                    "begin": "16:30",
-                    "end": "18:00",
-                    "summary": "Degle, S.: JenALL_AO-Optom./S/01.26"
-                }
-            ],
-            "Monday": [
-                {
-                    "begin": "10:45",
-                    "end": "12:15",
-                    "summary": "Degle, S.: JenALL_AO-Bino-sehen/S/01.15"
-                }
-            ],
-            "Saturday": [
-                {
-                    "begin": "16:30",
-                    "end": "18:00",
-                    "summary": "Degle, S.: JenALL_AO-Optom./S/01.25"
-                }
-            ],
-            "Friday": [
-                {
-                    "begin": "14:45",
-                    "end": "18:00",
-                    "summary": "Degle, S.: JenALL_AO-Optom./S/01.24"
-                }
-            ],
-            "Thursday": [
-                {
-                    "begin": "16:30",
-                    "end": "18:00",
-                    "summary": "Degle, S.: JenALL_AO-Optom./S/01.23"
-                }
-            ]
-        },
-        "id": "SPLUS9DC2C3"
-    },
-    "05.-1.216": {
-        "days": {
-            "Sunday": [
-                {
-                    "begin": "16:30",
-                    "end": "18:00",
-                    "summary": "Degle, S.: JenALL_AO-Optom./S/01.26"
-                }
-            ],
-            "Saturday": [
-                {
-                    "begin": "16:30",
-                    "end": "18:00",
-                    "summary": "Degle, S.: JenALL_AO-Optom./S/01.25"
-                }
-            ],
-            "Friday": [
-                {
-                    "begin": "14:45",
-                    "end": "18:00",
-                    "summary": "Degle, S.: JenALL_AO-Optom./S/01.24"
-                }
-            ],
-            "Thursday": [
-                {
-                    "begin": "16:30",
-                    "end": "18:00",
-                    "summary": "Degle, S.: JenALL_AO-Optom./S/01.23"
-                }
-            ]
-        },
-        "id": "SPLUS9DC2C0"
-    },
-    "05.03.29": {
-        "days": {
-            "Monday": [
-                {
-                    "begin": "08:30",
-                    "end": "15:30",
-                    "summary": "Bischoff: JenALL_Opt.f.Einst./S/01.1"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "begin": "08:30",
-                    "end": "15:30",
-                    "summary": "Bischoff: JenALL_Opt.f.Einst./S/01.3"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "begin": "08:30",
-                    "end": "15:30",
-                    "summary": "Bischoff: JenALL_Opt.f.Einst./S/01.2"
-                }
-            ]
-        },
-        "id": "SPLUSD17C65"
-    },
     "05.03.202": {
         "days": {
-            "Monday": [
-                {
-                    "begin": "09:30",
-                    "end": "17:30",
-                    "summary": "Lautenschläger: MB/BW/SciTec/WI(BA)GPS TOPSIM easy Startup!/S/01.1"
-                }
-            ],
             "Wednesday": [
                 {
                     "begin": "09:30",
-                    "end": "17:30",
-                    "summary": "Lautenschläger: MB/BW/SciTec/WI(BA)GPS TOPSIM easy Startup!/S/01.3"
+                    "summary": "Lautenschläger: MB/BW/SciTec/WI(BA)GPS TOPSIM easy Startup!/S/01.3",
+                    "end": "17:30"
                 }
             ],
             "Tuesday": [
                 {
                     "begin": "09:30",
-                    "end": "17:30",
-                    "summary": "Lautenschläger: MB/BW/SciTec/WI(BA)GPS TOPSIM easy Startup!/S/01.2"
+                    "summary": "Lautenschläger: MB/BW/SciTec/WI(BA)GPS TOPSIM easy Startup!/S/01.2",
+                    "end": "17:30"
+                }
+            ],
+            "Monday": [
+                {
+                    "begin": "09:30",
+                    "summary": "Lautenschläger: MB/BW/SciTec/WI(BA)GPS TOPSIM easy Startup!/S/01.1",
+                    "end": "17:30"
                 }
             ]
         },
         "id": "SPLUSD17C61"
     },
-    "05.03.36": {
-        "days": {
-            "Monday": [
-                {
-                    "begin": "09:00",
-                    "end": "16:00",
-                    "summary": "Bliedtner: JenALL_LMB/S/01.02"
-                }
-            ],
-            "Saturday": [
-                {
-                    "begin": "09:00",
-                    "end": "18:00",
-                    "summary": "JenAll: JenALL_AO-Optom./S/01.21"
-                }
-            ],
-            "Sunday": [
-                {
-                    "begin": "09:00",
-                    "end": "18:00",
-                    "summary": "JenAll: JenALL_AO-Optom./S/01.22"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "begin": "09:00",
-                    "end": "16:00",
-                    "summary": "Bliedtner: JenALL_LMB/S/01.04"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "begin": "09:00",
-                    "end": "16:00",
-                    "summary": "Bliedtner: JenALL_LMB/S/01.03"
-                }
-            ],
-            "Friday": [
-                {
-                    "begin": "09:00",
-                    "end": "18:00",
-                    "summary": "JenAll: JenALL_AO-Optom./S/01.20"
-                }
-            ],
-            "Thursday": [
-                {
-                    "begin": "09:00",
-                    "end": "18:00",
-                    "summary": "JenAll: JenALL_AO-Optom./S/01.19"
-                }
-            ]
-        },
-        "id": "SPLUSD17C38"
-    },
-    "05.03.201": {
-        "days": {
-            "Monday": [
-                {
-                    "begin": "09:30",
-                    "end": "17:30",
-                    "summary": "Lautenschläger: MB/BW/SciTec/WI(BA)GPS TOPSIM easy Startup!/S/01.1"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "begin": "09:30",
-                    "end": "17:30",
-                    "summary": "Lautenschläger: MB/BW/SciTec/WI(BA)GPS TOPSIM easy Startup!/S/01.3"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "begin": "09:30",
-                    "end": "17:30",
-                    "summary": "Lautenschläger: MB/BW/SciTec/WI(BA)GPS TOPSIM easy Startup!/S/01.2"
-                }
-            ]
-        },
-        "id": "SPLUSD17C60"
-    },
-    "05.03.28": {
-        "days": {
-            "Wednesday": [
-                {
-                    "begin": "13:30",
-                    "end": "19:00",
-                    "summary": "Assfalg(BW): BW(BA)ABWL UPS/S/01.1"
-                }
-            ],
-            "Friday": [
-                {
-                    "begin": "08:00",
-                    "end": "17:00",
-                    "summary": "Assfalg(BW): BW(BA)ABWL UPS/S/01.3"
-                }
-            ],
-            "Thursday": [
-                {
-                    "begin": "08:00",
-                    "end": "18:30",
-                    "summary": "Assfalg(BW): BW(BA)ABWL UPS/S/01.2"
-                }
-            ]
-        },
-        "id": "SPLUSD17C34"
-    },
-    "04.03.12": {
-        "days": {
-            "Wednesday": [
-                {
-                    "begin": "09:00",
-                    "end": "18:00",
-                    "summary": "ZVM: 27.03_Jugend forscht/Vorb."
-                }
-            ],
-            "Friday": [
-                {
-                    "begin": "09:00",
-                    "end": "18:00",
-                    "summary": "ZVM: 29.03_Jugend forscht"
-                }
-            ],
-            "Thursday": [
-                {
-                    "begin": "09:00",
-                    "end": "18:00",
-                    "summary": "ZVM: 28.03_Jugend forscht"
-                }
-            ]
-        },
-        "id": "SPLUS40B570"
-    },
-    "04.00.34": {
-        "days": {
-            "Monday": [
-                {
-                    "begin": "10:00",
-                    "end": "11:30",
-                    "summary": "Munder: 18./25.03._BT Ba-Koll."
-                }
-            ],
-            "Wednesday": [
-                {
-                    "begin": "09:00",
-                    "end": "18:00",
-                    "summary": "ZVM: 27.03_Jugend forscht/Vorb."
-                }
-            ],
-            "Friday": [
-                {
-                    "begin": "09:00",
-                    "end": "18:00",
-                    "summary": "ZVM: 29.03_Jugend forscht"
-                }
-            ],
-            "Thursday": [
-                {
-                    "begin": "09:00",
-                    "end": "18:00",
-                    "summary": "ZVM: 28.03_Jugend forscht"
-                }
-            ]
-        },
-        "id": "SPLUS4833BC"
-    },
-    "04.03.07": {
-        "days": {
-            "Wednesday": [
-                {
-                    "begin": "09:00",
-                    "end": "18:00",
-                    "summary": "ZVM: 27.03_Jugend forscht/Vorb."
-                }
-            ],
-            "Friday": [
-                {
-                    "begin": "09:00",
-                    "end": "18:00",
-                    "summary": "ZVM: 29.03_Jugend forscht"
-                }
-            ],
-            "Thursday": [
-                {
-                    "begin": "09:00",
-                    "end": "18:00",
-                    "summary": "ZVM: 28.03_Jugend forscht"
-                }
-            ]
-        },
-        "id": "SPLUS412E9D"
-    },
-    "05.03.229": {
-        "days": {
-            "Wednesday": [
-                {
-                    "begin": "13:30",
-                    "end": "19:00",
-                    "summary": "Assfalg(BW): BW(BA)ABWL UPS/S/01.1"
-                }
-            ],
-            "Friday": [
-                {
-                    "begin": "08:00",
-                    "end": "17:00",
-                    "summary": "Assfalg(BW): BW(BA)ABWL UPS/S/01.3"
-                }
-            ],
-            "Thursday": [
-                {
-                    "begin": "08:00",
-                    "end": "18:30",
-                    "summary": "Assfalg(BW): BW(BA)ABWL UPS/S/01.2"
-                }
-            ]
-        },
-        "id": "SPLUSD17C3F"
-    },
-    "05.03.204": {
-        "days": {
-            "Monday": [
-                {
-                    "begin": "09:30",
-                    "end": "17:30",
-                    "summary": "Lautenschläger: MB/BW/SciTec/WI(BA)GPS TOPSIM easy Startup!/S/01.1"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "begin": "09:30",
-                    "end": "17:30",
-                    "summary": "Lautenschläger: MB/BW/SciTec/WI(BA)GPS TOPSIM easy Startup!/S/01.3"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "begin": "09:30",
-                    "end": "17:30",
-                    "summary": "Lautenschläger: MB/BW/SciTec/WI(BA)GPS TOPSIM easy Startup!/S/01.2"
-                }
-            ]
-        },
-        "id": "SPLUSD17C63"
-    },
-    "05.03.32": {
-        "days": {
-            "Wednesday": [
-                {
-                    "begin": "13:30",
-                    "end": "19:00",
-                    "summary": "Assfalg(BW): BW(BA)ABWL UPS/S/01.1"
-                }
-            ],
-            "Friday": [
-                {
-                    "begin": "08:00",
-                    "end": "17:00",
-                    "summary": "Assfalg(BW): BW(BA)ABWL UPS/S/01.3"
-                }
-            ],
-            "Thursday": [
-                {
-                    "begin": "08:00",
-                    "end": "18:30",
-                    "summary": "Assfalg(BW): BW(BA)ABWL UPS/S/01.2"
-                }
-            ]
-        },
-        "id": "SPLUS4833BD"
-    },
     "05.-1.220": {
         "days": {
+            "Thursday": [
+                {
+                    "begin": "16:30",
+                    "summary": "Degle, S.: JenALL_AO-Optom./S/01.23",
+                    "end": "18:00"
+                }
+            ],
             "Sunday": [
                 {
                     "begin": "16:30",
-                    "end": "18:00",
-                    "summary": "Degle, S.: JenALL_AO-Optom./S/01.26"
+                    "summary": "Degle, S.: JenALL_AO-Optom./S/01.26",
+                    "end": "18:00"
                 }
             ],
             "Saturday": [
                 {
                     "begin": "16:30",
-                    "end": "18:00",
-                    "summary": "Degle, S.: JenALL_AO-Optom./S/01.25"
+                    "summary": "Degle, S.: JenALL_AO-Optom./S/01.25",
+                    "end": "18:00"
                 }
             ],
             "Friday": [
                 {
                     "begin": "14:45",
-                    "end": "18:00",
-                    "summary": "Degle, S.: JenALL_AO-Optom./S/01.24"
-                }
-            ],
-            "Thursday": [
-                {
-                    "begin": "16:30",
-                    "end": "18:00",
-                    "summary": "Degle, S.: JenALL_AO-Optom./S/01.23"
+                    "summary": "Degle, S.: JenALL_AO-Optom./S/01.24",
+                    "end": "18:00"
                 }
             ]
         },
         "id": "SPLUS9DC2C2"
     },
-    "03.03.01 (HS 1)": {
+    "05.-1.216": {
         "days": {
-            "Tuesday": [
+            "Thursday": [
                 {
-                    "begin": "17:00",
-                    "end": "18:30",
-                    "summary": ": 26.03._Zeiss AG"
+                    "begin": "16:30",
+                    "summary": "Degle, S.: JenALL_AO-Optom./S/01.23",
+                    "end": "18:00"
+                }
+            ],
+            "Sunday": [
+                {
+                    "begin": "16:30",
+                    "summary": "Degle, S.: JenALL_AO-Optom./S/01.26",
+                    "end": "18:00"
+                }
+            ],
+            "Saturday": [
+                {
+                    "begin": "16:30",
+                    "summary": "Degle, S.: JenALL_AO-Optom./S/01.25",
+                    "end": "18:00"
+                }
+            ],
+            "Friday": [
+                {
+                    "begin": "14:45",
+                    "summary": "Degle, S.: JenALL_AO-Optom./S/01.24",
+                    "end": "18:00"
                 }
             ]
         },
-        "id": "SPLUSFADB3E"
+        "id": "SPLUS9DC2C0"
     },
-    "05.03.224": {
+    "04.00.34": {
         "days": {
             "Wednesday": [
                 {
+                    "begin": "09:00",
+                    "summary": "ZVM: 27.03_Jugend forscht/Vorb.",
+                    "end": "18:00"
+                }
+            ],
+            "Monday": [
+                {
+                    "begin": "10:00",
+                    "summary": "Munder: 18./25.03._BT Ba-Koll.",
+                    "end": "11:30"
+                }
+            ],
+            "Friday": [
+                {
+                    "begin": "09:00",
+                    "summary": "ZVM: 29.03_Jugend forscht",
+                    "end": "18:00"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "09:00",
+                    "summary": "ZVM: 28.03_Jugend forscht",
+                    "end": "18:00"
+                }
+            ]
+        },
+        "id": "SPLUS4833BC"
+    },
+    "04.00.02 (HS7)": {
+        "days": {
+            "Thursday": [
+                {
+                    "begin": "09:00",
+                    "summary": "ZVM: 28.03_Jugend forscht",
+                    "end": "18:00"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "09:00",
+                    "summary": "ZVM: 27.03_Jugend forscht/Vorb.",
+                    "end": "18:00"
+                }
+            ],
+            "Friday": [
+                {
+                    "begin": "09:00",
+                    "summary": "ZVM: 29.03_Jugend forscht",
+                    "end": "18:00"
+                }
+            ]
+        },
+        "id": "SPLUS412E9B"
+    },
+    "04.-1.01(Aula)": {
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "09:00",
+                    "summary": "ZVM: 27.03_Jugend forscht/Vorb.",
+                    "end": "18:00"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "begin": "09:00",
+                    "summary": "ZVM: 26.03_Jugend forscht/Vorb.",
+                    "end": "18:00"
+                }
+            ],
+            "Monday": [
+                {
+                    "begin": "09:00",
+                    "summary": "ZVM: 25.03_Jugend forscht/Vorb.",
+                    "end": "18:00"
+                }
+            ],
+            "Friday": [
+                {
+                    "begin": "09:00",
+                    "summary": "ZVM: 29.03_Jugend forscht",
+                    "end": "18:00"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "09:00",
+                    "summary": "ZVM: 28.03_Jugend forscht",
+                    "end": "18:00"
+                }
+            ]
+        },
+        "id": "SPLUSCA96B6"
+    },
+    "04.03.10": {
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "09:00",
+                    "summary": "ZVM: 27.03_Jugend forscht/Vorb.",
+                    "end": "18:00"
+                }
+            ],
+            "Monday": [
+                {
+                    "begin": "13:00",
+                    "summary": "Bliedtner: 25.03._AG Bliedtner Bespr.",
+                    "end": "18:00"
+                }
+            ],
+            "Friday": [
+                {
+                    "begin": "09:00",
+                    "summary": "ZVM: 29.03_Jugend forscht",
+                    "end": "18:00"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "09:00",
+                    "summary": "ZVM: 28.03_Jugend forscht",
+                    "end": "18:00"
+                }
+            ]
+        },
+        "id": "SPLUS412E9E"
+    },
+    "05.03.224": {
+        "days": {
+            "Thursday": [
+                {
+                    "begin": "08:00",
+                    "summary": "Assfalg(BW): BW(BA)ABWL UPS/S/01.2",
+                    "end": "18:30"
+                }
+            ],
+            "Wednesday": [
+                {
                     "begin": "13:30",
-                    "end": "19:00",
-                    "summary": "Assfalg(BW): BW(BA)ABWL UPS/S/01.1"
+                    "summary": "Assfalg(BW): BW(BA)ABWL UPS/S/01.1",
+                    "end": "19:00"
                 }
             ],
             "Friday": [
                 {
                     "begin": "08:00",
-                    "end": "17:00",
-                    "summary": "Assfalg(BW): BW(BA)ABWL UPS/S/01.3"
-                }
-            ],
-            "Thursday": [
-                {
-                    "begin": "08:00",
-                    "end": "18:30",
-                    "summary": "Assfalg(BW): BW(BA)ABWL UPS/S/01.2"
+                    "summary": "Assfalg(BW): BW(BA)ABWL UPS/S/01.3",
+                    "end": "17:00"
                 }
             ]
         },
         "id": "SPLUSD17C3D"
-    },
-    "04.00.08(CIM)": {
-        "days": {
-            "Monday": [
-                {
-                    "begin": "10:00",
-                    "end": "11:30",
-                    "summary": "Pfaff SciTec: SciTec_Schlegel_Stud.einf./-vorb./S/01.7"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "begin": "14:00",
-                    "end": "15:30",
-                    "summary": "Pfaff SciTec: SciTec_Schlegel_Stud.einf./-vorb./S/01.8"
-                }
-            ]
-        },
-        "id": "SPLUSCA9608"
-    },
-    "05.03.37 (HS 2)": {
-        "days": {
-            "Thursday": [
-                {
-                    "begin": "14:30",
-                    "end": "17:00",
-                    "summary": "Hoechstetter: 28.03._ZSB_Jugens forscht"
-                }
-            ]
-        },
-        "id": "SPLUSD17C39"
-    },
-    "05.03.206": {
-        "days": {
-            "Monday": [
-                {
-                    "begin": "09:30",
-                    "end": "17:30",
-                    "summary": "Lautenschläger: MB/BW/SciTec/WI(BA)GPS TOPSIM easy Startup!/S/01.1"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "begin": "09:30",
-                    "end": "17:30",
-                    "summary": "Lautenschläger: MB/BW/SciTec/WI(BA)GPS TOPSIM easy Startup!/S/01.3"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "begin": "09:30",
-                    "end": "17:30",
-                    "summary": "Lautenschläger: MB/BW/SciTec/WI(BA)GPS TOPSIM easy Startup!/S/01.2"
-                }
-            ]
-        },
-        "id": "SPLUS7F8D03"
     },
     "05.03.40 (HS 3)": {
         "days": {
             "Thursday": [
                 {
                     "begin": "08:30",
-                    "end": "17:30",
-                    "summary": "Töpfer: 28.03._AK Funktionskeramik"
+                    "summary": "Töpfer: 28.03._AK Funktionskeramik",
+                    "end": "17:30"
                 }
             ]
         },
         "id": "SPLUSD17C3A"
     },
-    "04.00.01 (HS6)": {
+    "04.03.07": {
         "days": {
+            "Thursday": [
+                {
+                    "begin": "09:00",
+                    "summary": "ZVM: 28.03_Jugend forscht",
+                    "end": "18:00"
+                }
+            ],
             "Wednesday": [
                 {
                     "begin": "09:00",
-                    "end": "18:00",
-                    "summary": "ZVM: 27.03_Jugend forscht/Vorb."
+                    "summary": "ZVM: 27.03_Jugend forscht/Vorb.",
+                    "end": "18:00"
                 }
             ],
             "Friday": [
                 {
                     "begin": "09:00",
-                    "end": "18:00",
-                    "summary": "ZVM: 29.03_Jugend forscht"
-                }
-            ],
-            "Thursday": [
-                {
-                    "begin": "09:00",
-                    "end": "18:00",
-                    "summary": "ZVM: 28.03_Jugend forscht"
+                    "summary": "ZVM: 29.03_Jugend forscht",
+                    "end": "18:00"
                 }
             ]
         },
-        "id": "SPLUS40B576"
+        "id": "SPLUS412E9D"
     },
-    "05.00.12": {
+    "05.00.11": {
         "days": {
+            "Thursday": [
+                {
+                    "begin": "16:30",
+                    "summary": "Degle, S.: JenALL_AO-Optom./S/01.23",
+                    "end": "18:00"
+                }
+            ],
             "Friday": [
                 {
                     "begin": "14:45",
-                    "end": "18:00",
-                    "summary": "Degle, S.: JenALL_AO-Optom./S/01.24"
+                    "summary": "Degle, S.: JenALL_AO-Optom./S/01.24",
+                    "end": "18:00"
+                }
+            ]
+        },
+        "id": "SPLUS9DC2B3"
+    },
+    "05.-1.217": {
+        "days": {
+            "Thursday": [
+                {
+                    "begin": "16:30",
+                    "summary": "Degle, S.: JenALL_AO-Optom./S/01.23",
+                    "end": "18:00"
+                }
+            ],
+            "Sunday": [
+                {
+                    "begin": "16:30",
+                    "summary": "Degle, S.: JenALL_AO-Optom./S/01.26",
+                    "end": "18:00"
+                }
+            ],
+            "Saturday": [
+                {
+                    "begin": "16:30",
+                    "summary": "Degle, S.: JenALL_AO-Optom./S/01.25",
+                    "end": "18:00"
+                }
+            ],
+            "Friday": [
+                {
+                    "begin": "14:45",
+                    "summary": "Degle, S.: JenALL_AO-Optom./S/01.24",
+                    "end": "18:00"
+                }
+            ]
+        },
+        "id": "SPLUS9DC2C1"
+    },
+    "05.03.33": {
+        "days": {
+            "Tuesday": [
+                {
+                    "begin": "13:30",
+                    "summary": "StuRa: 12./26.02./12./26.03._StuRa_Beratung",
+                    "end": "18:30"
+                }
+            ]
+        },
+        "id": "SPLUSD17C37"
+    },
+    "05.03.32": {
+        "days": {
+            "Thursday": [
+                {
+                    "begin": "08:00",
+                    "summary": "Assfalg(BW): BW(BA)ABWL UPS/S/01.2",
+                    "end": "18:30"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "13:30",
+                    "summary": "Assfalg(BW): BW(BA)ABWL UPS/S/01.1",
+                    "end": "19:00"
+                }
+            ],
+            "Friday": [
+                {
+                    "begin": "08:00",
+                    "summary": "Assfalg(BW): BW(BA)ABWL UPS/S/01.3",
+                    "end": "17:00"
+                }
+            ]
+        },
+        "id": "SPLUS4833BD"
+    },
+    "03.03.01 (HS 1)": {
+        "days": {
+            "Tuesday": [
+                {
+                    "begin": "17:00",
+                    "summary": ": 26.03._Zeiss AG",
+                    "end": "18:30"
+                }
+            ]
+        },
+        "id": "SPLUSFADB3E"
+    },
+    "05.03.201": {
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "09:30",
+                    "summary": "Lautenschläger: MB/BW/SciTec/WI(BA)GPS TOPSIM easy Startup!/S/01.3",
+                    "end": "17:30"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "begin": "09:30",
+                    "summary": "Lautenschläger: MB/BW/SciTec/WI(BA)GPS TOPSIM easy Startup!/S/01.2",
+                    "end": "17:30"
+                }
+            ],
+            "Monday": [
+                {
+                    "begin": "09:30",
+                    "summary": "Lautenschläger: MB/BW/SciTec/WI(BA)GPS TOPSIM easy Startup!/S/01.1",
+                    "end": "17:30"
+                }
+            ]
+        },
+        "id": "SPLUSD17C60"
+    },
+    "05.03.225": {
+        "days": {
+            "Thursday": [
+                {
+                    "begin": "08:00",
+                    "summary": "Assfalg(BW): BW(BA)ABWL UPS/S/01.2",
+                    "end": "18:30"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "13:30",
+                    "summary": "Assfalg(BW): BW(BA)ABWL UPS/S/01.1",
+                    "end": "19:00"
+                }
+            ],
+            "Friday": [
+                {
+                    "begin": "08:00",
+                    "summary": "Assfalg(BW): BW(BA)ABWL UPS/S/01.3",
+                    "end": "17:00"
+                }
+            ]
+        },
+        "id": "SPLUSD17C3E"
+    },
+    "05.03.28": {
+        "days": {
+            "Thursday": [
+                {
+                    "begin": "08:00",
+                    "summary": "Assfalg(BW): BW(BA)ABWL UPS/S/01.2",
+                    "end": "18:30"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "13:30",
+                    "summary": "Assfalg(BW): BW(BA)ABWL UPS/S/01.1",
+                    "end": "19:00"
+                }
+            ],
+            "Friday": [
+                {
+                    "begin": "08:00",
+                    "summary": "Assfalg(BW): BW(BA)ABWL UPS/S/01.3",
+                    "end": "17:00"
+                }
+            ]
+        },
+        "id": "SPLUSD17C34"
+    },
+    "05.03.204": {
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "09:30",
+                    "summary": "Lautenschläger: MB/BW/SciTec/WI(BA)GPS TOPSIM easy Startup!/S/01.3",
+                    "end": "17:30"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "begin": "09:30",
+                    "summary": "Lautenschläger: MB/BW/SciTec/WI(BA)GPS TOPSIM easy Startup!/S/01.2",
+                    "end": "17:30"
+                }
+            ],
+            "Monday": [
+                {
+                    "begin": "09:30",
+                    "summary": "Lautenschläger: MB/BW/SciTec/WI(BA)GPS TOPSIM easy Startup!/S/01.1",
+                    "end": "17:30"
+                }
+            ]
+        },
+        "id": "SPLUSD17C63"
+    },
+    "04.03.11": {
+        "days": {
+            "Thursday": [
+                {
+                    "begin": "09:00",
+                    "summary": "ZVM: 28.03_Jugend forscht",
+                    "end": "18:00"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "09:00",
+                    "summary": "ZVM: 27.03_Jugend forscht/Vorb.",
+                    "end": "18:00"
+                }
+            ],
+            "Friday": [
+                {
+                    "begin": "09:00",
+                    "summary": "ZVM: 29.03_Jugend forscht",
+                    "end": "18:00"
+                }
+            ]
+        },
+        "id": "SPLUS9BD8AE"
+    },
+    "05.03.229": {
+        "days": {
+            "Thursday": [
+                {
+                    "begin": "08:00",
+                    "summary": "Assfalg(BW): BW(BA)ABWL UPS/S/01.2",
+                    "end": "18:30"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "13:30",
+                    "summary": "Assfalg(BW): BW(BA)ABWL UPS/S/01.1",
+                    "end": "19:00"
+                }
+            ],
+            "Friday": [
+                {
+                    "begin": "08:00",
+                    "summary": "Assfalg(BW): BW(BA)ABWL UPS/S/01.3",
+                    "end": "17:00"
+                }
+            ]
+        },
+        "id": "SPLUSD17C3F"
+    },
+    "05.00.06": {
+        "days": {
+            "Monday": [
+                {
+                    "begin": "09:00",
+                    "summary": "JenAll: JenALL_AO-Bino-sehen/S/01.13",
+                    "end": "18:00"
+                }
+            ]
+        },
+        "id": "SPLUSD17C54"
+    },
+    "01.02.14": {
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "08:30",
+                    "summary": "Kilias(WI): UT/UTE(BA)Entw.-ZA/S/03.1",
+                    "end": "10:00"
+                },
+                {
+                    "begin": "10:30",
+                    "summary": "Kilias(WI): UT/UTE(BA)Entw.-ZA/S/03.2",
+                    "end": "13:00"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "begin": "09:30",
+                    "summary": "Kilias(WI): UT/UTE(BA)Entw.-ZA/S/02.1",
+                    "end": "11:00"
+                },
+                {
+                    "begin": "11:30",
+                    "summary": "Kilias(WI): UT/UTE(BA)Entw.-ZA/S/02.2",
+                    "end": "13:30"
+                }
+            ],
+            "Monday": [
+                {
+                    "begin": "08:30",
+                    "summary": "Kilias(WI): UT/UTE(BA)Entw.-ZA/S/01.1",
+                    "end": "10:00"
+                },
+                {
+                    "begin": "10:30",
+                    "summary": "Kilias(WI): UT/UTE(BA)Entw.-ZA/S/01.2",
+                    "end": "12:00"
+                },
+                {
+                    "begin": "13:30",
+                    "summary": "Kilias(WI): UT/UTE(BA)Entw.-ZA/S/01.3",
+                    "end": "15:00"
+                }
+            ],
+            "Friday": [
+                {
+                    "begin": "08:30",
+                    "summary": "Kilias(WI): UT/UTE(BA)Entw.-ZA/S/05.1",
+                    "end": "10:00"
+                },
+                {
+                    "begin": "10:30",
+                    "summary": "Kilias(WI): UT/UTE(BA)Entw.-ZA/S/05.2",
+                    "end": "12:00"
                 }
             ],
             "Thursday": [
                 {
+                    "begin": "10:00",
+                    "summary": "Kilias(WI): UT/UTE(BA)Entw.-ZA/S/04",
+                    "end": "12:00"
+                }
+            ]
+        },
+        "id": "SPLUS0B1252"
+    },
+    "05.00.12": {
+        "days": {
+            "Thursday": [
+                {
                     "begin": "16:30",
-                    "end": "18:00",
-                    "summary": "Degle, S.: JenALL_AO-Optom./S/01.23"
+                    "summary": "Degle, S.: JenALL_AO-Optom./S/01.23",
+                    "end": "18:00"
+                }
+            ],
+            "Friday": [
+                {
+                    "begin": "14:45",
+                    "summary": "Degle, S.: JenALL_AO-Optom./S/01.24",
+                    "end": "18:00"
                 }
             ]
         },
         "id": "SPLUS9DC2B4"
     },
-    "01.02.12": {
+    "04.00.01 (HS6)": {
         "days": {
+            "Thursday": [
+                {
+                    "begin": "09:00",
+                    "summary": "ZVM: 28.03_Jugend forscht",
+                    "end": "18:00"
+                }
+            ],
             "Wednesday": [
                 {
                     "begin": "09:00",
-                    "end": "13:00",
-                    "summary": "Kipfelsberger: 27.03._SciTec_Schüler"
+                    "summary": "ZVM: 27.03_Jugend forscht/Vorb.",
+                    "end": "18:00"
+                }
+            ],
+            "Friday": [
+                {
+                    "begin": "09:00",
+                    "summary": "ZVM: 29.03_Jugend forscht",
+                    "end": "18:00"
+                }
+            ]
+        },
+        "id": "SPLUS40B576"
+    },
+    "05.03.37 (HS 2)": {
+        "days": {
+            "Thursday": [
+                {
+                    "begin": "14:30",
+                    "summary": "Hoechstetter: 28.03._ZSB_Jugens forscht",
+                    "end": "17:00"
+                }
+            ]
+        },
+        "id": "SPLUSD17C39"
+    },
+    "05.03.29": {
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "08:30",
+                    "summary": "Bischoff: JenALL_Opt.f.Einst./S/01.3",
+                    "end": "15:30"
                 }
             ],
             "Tuesday": [
                 {
+                    "begin": "08:30",
+                    "summary": "Bischoff: JenALL_Opt.f.Einst./S/01.2",
+                    "end": "15:30"
+                }
+            ],
+            "Monday": [
+                {
+                    "begin": "08:30",
+                    "summary": "Bischoff: JenALL_Opt.f.Einst./S/01.1",
+                    "end": "15:30"
+                }
+            ]
+        },
+        "id": "SPLUSD17C65"
+    },
+    "05.03.206": {
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "09:30",
+                    "summary": "Lautenschläger: MB/BW/SciTec/WI(BA)GPS TOPSIM easy Startup!/S/01.3",
+                    "end": "17:30"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "begin": "09:30",
+                    "summary": "Lautenschläger: MB/BW/SciTec/WI(BA)GPS TOPSIM easy Startup!/S/01.2",
+                    "end": "17:30"
+                }
+            ],
+            "Monday": [
+                {
+                    "begin": "09:30",
+                    "summary": "Lautenschläger: MB/BW/SciTec/WI(BA)GPS TOPSIM easy Startup!/S/01.1",
+                    "end": "17:30"
+                }
+            ]
+        },
+        "id": "SPLUS7F8D03"
+    },
+    "01.02.12": {
+        "days": {
+            "Tuesday": [
+                {
                     "begin": "09:00",
-                    "end": "13:00",
-                    "summary": "Kipfelsberger: 26.03._SciTec_Schüler"
+                    "summary": "Kipfelsberger: 26.03._SciTec_Schüler",
+                    "end": "13:00"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "09:00",
+                    "summary": "Kipfelsberger: 27.03._SciTec_Schüler",
+                    "end": "13:00"
                 }
             ]
         },
         "id": "SPLUS9BD8B1"
+    },
+    "04.03.12": {
+        "days": {
+            "Thursday": [
+                {
+                    "begin": "09:00",
+                    "summary": "ZVM: 28.03_Jugend forscht",
+                    "end": "18:00"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "09:00",
+                    "summary": "ZVM: 27.03_Jugend forscht/Vorb.",
+                    "end": "18:00"
+                }
+            ],
+            "Friday": [
+                {
+                    "begin": "09:00",
+                    "summary": "ZVM: 29.03_Jugend forscht",
+                    "end": "18:00"
+                }
+            ]
+        },
+        "id": "SPLUS40B570"
+    },
+    "05.-1.221": {
+        "days": {
+            "Thursday": [
+                {
+                    "begin": "16:30",
+                    "summary": "Degle, S.: JenALL_AO-Optom./S/01.23",
+                    "end": "18:00"
+                }
+            ],
+            "Sunday": [
+                {
+                    "begin": "16:30",
+                    "summary": "Degle, S.: JenALL_AO-Optom./S/01.26",
+                    "end": "18:00"
+                }
+            ],
+            "Saturday": [
+                {
+                    "begin": "16:30",
+                    "summary": "Degle, S.: JenALL_AO-Optom./S/01.25",
+                    "end": "18:00"
+                }
+            ],
+            "Monday": [
+                {
+                    "begin": "10:45",
+                    "summary": "Degle, S.: JenALL_AO-Bino-sehen/S/01.15",
+                    "end": "12:15"
+                }
+            ],
+            "Friday": [
+                {
+                    "begin": "14:45",
+                    "summary": "Degle, S.: JenALL_AO-Optom./S/01.24",
+                    "end": "18:00"
+                }
+            ]
+        },
+        "id": "SPLUS9DC2C3"
+    },
+    "05.03.203": {
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "09:30",
+                    "summary": "Lautenschläger: MB/BW/SciTec/WI(BA)GPS TOPSIM easy Startup!/S/01.3",
+                    "end": "17:30"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "begin": "09:30",
+                    "summary": "Lautenschläger: MB/BW/SciTec/WI(BA)GPS TOPSIM easy Startup!/S/01.2",
+                    "end": "17:30"
+                }
+            ],
+            "Monday": [
+                {
+                    "begin": "09:30",
+                    "summary": "Lautenschläger: MB/BW/SciTec/WI(BA)GPS TOPSIM easy Startup!/S/01.1",
+                    "end": "17:30"
+                }
+            ]
+        },
+        "id": "SPLUSD17C62"
     }
 }
