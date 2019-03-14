@@ -1,25 +1,11 @@
 {
     "05.03.36": {
         "days": {
-            "Monday": [
-                {
-                    "end": "16:00",
-                    "begin": "09:00",
-                    "summary": "Staupendahl(SciTec): JenALL_LMT/S/01.02"
-                }
-            ],
             "Wednesday": [
                 {
                     "end": "16:00",
                     "begin": "09:00",
                     "summary": "Staupendahl(SciTec): JenALL_LMT/S/01.04"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "end": "16:00",
-                    "begin": "09:00",
-                    "summary": "Staupendahl(SciTec): JenALL_LMT/S/01.03"
                 }
             ],
             "Friday": [
@@ -28,66 +14,75 @@
                     "begin": "11:30",
                     "summary": "JenAll 3: JenALL_LMB/S/01.01"
                 }
+            ],
+            "Monday": [
+                {
+                    "end": "16:00",
+                    "begin": "09:00",
+                    "summary": "Staupendahl(SciTec): JenALL_LMT/S/01.02"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "16:00",
+                    "begin": "09:00",
+                    "summary": "Staupendahl(SciTec): JenALL_LMT/S/01.03"
+                }
             ]
         },
         "id": "SPLUSD17C38"
     },
-    "01.02.11": {
-        "days": {
-            "Tuesday": [
-                {
-                    "end": "14:15",
-                    "begin": "09:00",
-                    "summary": "Engelmann: 19.03._Teambesprechung"
-                }
-            ]
-        },
-        "id": "SPLUS9BD8B0"
-    },
-    "05.03.29": {
+    "04.00.08(CIM)": {
         "days": {
             "Monday": [
                 {
-                    "end": "15:30",
-                    "begin": "08:30",
-                    "summary": "Fleck: JenALL_OMT/S/02.01"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "end": "15:30",
-                    "begin": "08:30",
-                    "summary": "Fleck: JenALL_OMT/S/02.03"
+                    "end": "11:30",
+                    "begin": "10:00",
+                    "summary": "Pfaff SciTec: SciTec_Schlegel_Stud.einf./-vorb./S/01.7"
                 }
             ],
             "Tuesday": [
                 {
                     "end": "15:30",
-                    "begin": "08:30",
-                    "summary": "Fleck: JenALL_OMT/S/02.02"
+                    "begin": "14:00",
+                    "summary": "Pfaff SciTec: SciTec_Schlegel_Stud.einf./-vorb./S/01.8"
+                }
+            ]
+        },
+        "id": "SPLUSCA9608"
+    },
+    "04.03.07": {
+        "days": {
+            "Wednesday": [
+                {
+                    "end": "18:00",
+                    "begin": "08:00",
+                    "summary": "Bliedtner: 20.03._Stud. Forschertag"
+                }
+            ],
+            "Thursday": [
+                {
+                    "end": "18:00",
+                    "begin": "09:00",
+                    "summary": "ZVM: 21.03._eComm.Camp"
+                }
+            ],
+            "Sunday": [
+                {
+                    "end": "18:00",
+                    "begin": "09:00",
+                    "summary": "ZVM: 24.03._eComm.Camp"
                 }
             ],
             "Friday": [
                 {
-                    "end": "15:30",
-                    "begin": "08:30",
-                    "summary": "Bischoff: JenALL_Opt.f.Einst./Vorb.Catering nix anfassen"
-                }
-            ]
-        },
-        "id": "SPLUSD17C65"
-    },
-    "05.-1.220": {
-        "days": {
-            "Friday": [
-                {
                     "end": "18:00",
-                    "begin": "15:00",
-                    "summary": "Degle, S.: JenALL_AO-Bino-sehen/S/01.14"
+                    "begin": "09:00",
+                    "summary": "ZVM: 22.03._eComm.Camp"
                 }
             ]
         },
-        "id": "SPLUS9DC2C2"
+        "id": "SPLUS412E9D"
     },
     "04.00.01 (HS6)": {
         "days": {
@@ -115,69 +110,38 @@
         },
         "id": "SPLUS40B576"
     },
-    "05.-1.216": {
+    "05.03.29": {
         "days": {
-            "Friday": [
-                {
-                    "end": "18:00",
-                    "begin": "15:00",
-                    "summary": "Degle, S.: JenALL_AO-Bino-sehen/S/01.14"
-                }
-            ]
-        },
-        "id": "SPLUS9DC2C0"
-    },
-    "05.-1.217": {
-        "days": {
-            "Friday": [
-                {
-                    "end": "18:00",
-                    "begin": "15:00",
-                    "summary": "Degle, S.: JenALL_AO-Bino-sehen/S/01.14"
-                }
-            ]
-        },
-        "id": "SPLUS9DC2C1"
-    },
-    "04.-1.01(Aula)": {
-        "days": {
-            "Thursday": [
-                {
-                    "end": "18:00",
-                    "begin": "09:00",
-                    "summary": "ZVM: 21.03._eComm.Camp"
-                }
-            ],
             "Wednesday": [
                 {
-                    "end": "18:00",
-                    "begin": "09:00",
-                    "summary": "Degle, S., JenAll: 20.03._AO/JenALL_Interbild"
+                    "end": "15:30",
+                    "begin": "08:30",
+                    "summary": "Fleck: JenALL_OMT/S/02.03"
+                }
+            ],
+            "Friday": [
+                {
+                    "end": "15:30",
+                    "begin": "08:30",
+                    "summary": "Bischoff: JenALL_Opt.f.Einst./Vorb.Catering nix anfassen"
+                }
+            ],
+            "Monday": [
+                {
+                    "end": "15:30",
+                    "begin": "08:30",
+                    "summary": "Fleck: JenALL_OMT/S/02.01"
                 }
             ],
             "Tuesday": [
                 {
-                    "end": "18:00",
-                    "begin": "09:00",
-                    "summary": "Degle, S., JenAll: 19.03._AO/JenALL_Interbild/Vorb."
-                }
-            ],
-            "Sunday": [
-                {
-                    "end": "18:00",
-                    "begin": "09:00",
-                    "summary": "ZVM: 24.03._eComm.Camp"
-                }
-            ],
-            "Friday": [
-                {
-                    "end": "18:00",
-                    "begin": "09:00",
-                    "summary": "ZVM: 22.03._eComm.Camp"
+                    "end": "15:30",
+                    "begin": "08:30",
+                    "summary": "Fleck: JenALL_OMT/S/02.02"
                 }
             ]
         },
-        "id": "SPLUSCA96B6"
+        "id": "SPLUSD17C65"
     },
     "04.03.12": {
         "days": {
@@ -205,128 +169,17 @@
         },
         "id": "SPLUS40B570"
     },
-    "05.00.06": {
+    "05.-1.216": {
         "days": {
-            "Saturday": [
-                {
-                    "end": "18:00",
-                    "begin": "09:00",
-                    "summary": "JenAll: JenALL_AO-Bino-sehen/S/01.11"
-                }
-            ],
-            "Thursday": [
-                {
-                    "end": "18:00",
-                    "begin": "08:00",
-                    "summary": "Sickenberger: JenALL_AO-Sport-Optom./APL/01"
-                }
-            ],
-            "Sunday": [
-                {
-                    "end": "18:00",
-                    "begin": "09:00",
-                    "summary": "JenAll: JenALL_AO-Bino-sehen/S/01.12"
-                }
-            ],
             "Friday": [
                 {
                     "end": "18:00",
-                    "begin": "09:00",
-                    "summary": "JenAll: JenALL_AO-Bino-sehen/S/01.10"
+                    "begin": "15:00",
+                    "summary": "Degle, S.: JenALL_AO-Bino-sehen/S/01.14"
                 }
             ]
         },
-        "id": "SPLUSD17C54"
-    },
-    "04.00.08(CIM)": {
-        "days": {
-            "Monday": [
-                {
-                    "end": "11:30",
-                    "begin": "10:00",
-                    "summary": "Pfaff SciTec: SciTec_Schlegel_Stud.einf./-vorb./S/01.7"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "end": "15:30",
-                    "begin": "14:00",
-                    "summary": "Pfaff SciTec: SciTec_Schlegel_Stud.einf./-vorb./S/01.8"
-                }
-            ]
-        },
-        "id": "SPLUSCA9608"
-    },
-    "04.03.07": {
-        "days": {
-            "Thursday": [
-                {
-                    "end": "18:00",
-                    "begin": "09:00",
-                    "summary": "ZVM: 21.03._eComm.Camp"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "end": "18:00",
-                    "begin": "08:00",
-                    "summary": "Bliedtner: 20.03._Stud. Forschertag"
-                }
-            ],
-            "Sunday": [
-                {
-                    "end": "18:00",
-                    "begin": "09:00",
-                    "summary": "ZVM: 24.03._eComm.Camp"
-                }
-            ],
-            "Friday": [
-                {
-                    "end": "18:00",
-                    "begin": "09:00",
-                    "summary": "ZVM: 22.03._eComm.Camp"
-                }
-            ]
-        },
-        "id": "SPLUS412E9D"
-    },
-    "05.00.03": {
-        "days": {
-            "Thursday": [
-                {
-                    "end": "12:00",
-                    "begin": "10:30",
-                    "summary": "Hübner: 21.03._AO Vertdg."
-                }
-            ]
-        },
-        "id": "SPLUSA8CFB5"
-    },
-    "04.03.10": {
-        "days": {
-            "Thursday": [
-                {
-                    "end": "18:00",
-                    "begin": "09:00",
-                    "summary": "ZVM: 21.03._eComm.Camp"
-                }
-            ],
-            "Sunday": [
-                {
-                    "end": "18:00",
-                    "begin": "09:00",
-                    "summary": "ZVM: 24.03._eComm.Camp"
-                }
-            ],
-            "Friday": [
-                {
-                    "end": "18:00",
-                    "begin": "09:00",
-                    "summary": "ZVM: 22.03._eComm.Camp"
-                }
-            ]
-        },
-        "id": "SPLUS412E9E"
+        "id": "SPLUS9DC2C0"
     },
     "05.00.04": {
         "days": {
@@ -346,25 +199,6 @@
             ]
         },
         "id": "SPLUSD17C52"
-    },
-    "04.00.34": {
-        "days": {
-            "Monday": [
-                {
-                    "end": "11:30",
-                    "begin": "10:00",
-                    "summary": "Munder: 18./25.03._BT Ba-Koll."
-                }
-            ],
-            "Friday": [
-                {
-                    "end": "13:00",
-                    "begin": "08:00",
-                    "summary": "Brunner: 22.03._Hispek Workshop"
-                }
-            ]
-        },
-        "id": "SPLUS4833BC"
     },
     "04.03.11": {
         "days": {
@@ -392,6 +226,160 @@
         },
         "id": "SPLUS9BD8AE"
     },
+    "05.00.06": {
+        "days": {
+            "Thursday": [
+                {
+                    "end": "18:00",
+                    "begin": "08:00",
+                    "summary": "Sickenberger: JenALL_AO-Sport-Optom./APL/01"
+                }
+            ],
+            "Sunday": [
+                {
+                    "end": "18:00",
+                    "begin": "09:00",
+                    "summary": "JenAll: JenALL_AO-Bino-sehen/S/01.12"
+                }
+            ],
+            "Friday": [
+                {
+                    "end": "18:00",
+                    "begin": "09:00",
+                    "summary": "JenAll: JenALL_AO-Bino-sehen/S/01.10"
+                }
+            ],
+            "Saturday": [
+                {
+                    "end": "18:00",
+                    "begin": "09:00",
+                    "summary": "JenAll: JenALL_AO-Bino-sehen/S/01.11"
+                }
+            ]
+        },
+        "id": "SPLUSD17C54"
+    },
+    "01.02.11": {
+        "days": {
+            "Tuesday": [
+                {
+                    "end": "14:15",
+                    "begin": "09:00",
+                    "summary": "Engelmann: 19.03._Teambesprechung"
+                }
+            ]
+        },
+        "id": "SPLUS9BD8B0"
+    },
+    "04.00.34": {
+        "days": {
+            "Monday": [
+                {
+                    "end": "11:30",
+                    "begin": "10:00",
+                    "summary": "Munder: 18./25.03._BT Ba-Koll."
+                }
+            ],
+            "Friday": [
+                {
+                    "end": "13:00",
+                    "begin": "08:00",
+                    "summary": "Brunner: 22.03._Hispek Workshop"
+                }
+            ]
+        },
+        "id": "SPLUS4833BC"
+    },
+    "04.-1.01(Aula)": {
+        "days": {
+            "Wednesday": [
+                {
+                    "end": "18:00",
+                    "begin": "09:00",
+                    "summary": "Degle, S., JenAll: 20.03._AO/JenALL_Interbild"
+                }
+            ],
+            "Thursday": [
+                {
+                    "end": "18:00",
+                    "begin": "09:00",
+                    "summary": "ZVM: 21.03._eComm.Camp"
+                }
+            ],
+            "Sunday": [
+                {
+                    "end": "18:00",
+                    "begin": "09:00",
+                    "summary": "ZVM: 24.03._eComm.Camp"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "18:00",
+                    "begin": "09:00",
+                    "summary": "Degle, S., JenAll: 19.03._AO/JenALL_Interbild/Vorb."
+                }
+            ],
+            "Friday": [
+                {
+                    "end": "18:00",
+                    "begin": "09:00",
+                    "summary": "ZVM: 22.03._eComm.Camp"
+                }
+            ]
+        },
+        "id": "SPLUSCA96B6"
+    },
+    "04.03.10": {
+        "days": {
+            "Thursday": [
+                {
+                    "end": "18:00",
+                    "begin": "09:00",
+                    "summary": "ZVM: 21.03._eComm.Camp"
+                }
+            ],
+            "Sunday": [
+                {
+                    "end": "18:00",
+                    "begin": "09:00",
+                    "summary": "ZVM: 24.03._eComm.Camp"
+                }
+            ],
+            "Friday": [
+                {
+                    "end": "18:00",
+                    "begin": "09:00",
+                    "summary": "ZVM: 22.03._eComm.Camp"
+                }
+            ]
+        },
+        "id": "SPLUS412E9E"
+    },
+    "05.-1.220": {
+        "days": {
+            "Friday": [
+                {
+                    "end": "18:00",
+                    "begin": "15:00",
+                    "summary": "Degle, S.: JenALL_AO-Bino-sehen/S/01.14"
+                }
+            ]
+        },
+        "id": "SPLUS9DC2C2"
+    },
+    "05.00.03": {
+        "days": {
+            "Thursday": [
+                {
+                    "end": "12:00",
+                    "begin": "10:30",
+                    "summary": "Hübner: 21.03._AO Vertdg."
+                }
+            ]
+        },
+        "id": "SPLUSA8CFB5"
+    },
     "05.-1.221": {
         "days": {
             "Friday": [
@@ -403,5 +391,17 @@
             ]
         },
         "id": "SPLUS9DC2C3"
+    },
+    "05.-1.217": {
+        "days": {
+            "Friday": [
+                {
+                    "end": "18:00",
+                    "begin": "15:00",
+                    "summary": "Degle, S.: JenALL_AO-Bino-sehen/S/01.14"
+                }
+            ]
+        },
+        "id": "SPLUS9DC2C1"
     }
 }
