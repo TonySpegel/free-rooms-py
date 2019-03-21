@@ -3,15 +3,15 @@
         "days": {
             "Friday": [
                 {
-                    "summary": "GP: GP(BA)Recht/V/01.02",
                     "end": "15:00",
+                    "summary": "GP: GP(BA)Recht/V/01.02",
                     "begin": "07:45"
                 }
             ],
             "Thursday": [
                 {
-                    "summary": "GP: GP(BA)Recht/V/01.01",
                     "end": "15:45",
+                    "summary": "GP: GP(BA)Recht/V/01.01",
                     "begin": "08:30"
                 }
             ]
