@@ -1,141 +1,19 @@
 {
-    "05.01.43": {
-        "id": "SPLUSD17C42",
+    "04.-1.01(Aula)": {
+        "id": "SPLUSCA96B6",
         "days": {
             "Saturday": [
                 {
-                    "begin": "09:00",
-                    "summary": "JenAll_2: JenAll_HCM 2017/APL/03",
-                    "end": "12:15"
+                    "begin": "08:30",
+                    "summary": "ZVM: 17.8._Einschulung Südschule",
+                    "end": "17:30"
                 }
             ],
             "Friday": [
                 {
-                    "begin": "16:15",
-                    "summary": "JenAll: JenAll_HCM 2017/S/01.10",
-                    "end": "19:30"
-                }
-            ]
-        }
-    },
-    "03.03.33": {
-        "id": "SPLUSF88401",
-        "days": {
-            "Monday": [
-                {
                     "begin": "08:30",
-                    "summary": "Mottl, Hoffmann, U., Gruhn: 13.08._WI_Umbau Labortür",
+                    "summary": "ZVM: 16.8._Einschulung Südschule/Vorb.",
                     "end": "17:30"
-                }
-            ]
-        }
-    },
-    "03.03.10/1": {
-        "id": "SPLUSF883FF",
-        "days": {
-            "Monday": [
-                {
-                    "begin": "08:30",
-                    "summary": "Mottl, Hoffmann, U., Gruhn: 13.08._WI_Umbau Labortür",
-                    "end": "17:30"
-                }
-            ]
-        }
-    },
-    "05.00.06": {
-        "id": "SPLUSD17C54",
-        "days": {
-            "Monday": [
-                {
-                    "begin": "10:30",
-                    "summary": "Hübner: 13.08._AO_Vertdg.",
-                    "end": "13:00"
-                }
-            ]
-        }
-    },
-    "03.03.10/2": {
-        "id": "SPLUSC78DFC",
-        "days": {
-            "Monday": [
-                {
-                    "begin": "08:30",
-                    "summary": "Mottl, Hoffmann, U., Gruhn: 13.08._WI_Umbau Labortür",
-                    "end": "17:30"
-                }
-            ]
-        }
-    },
-    "04.00.08(CIM)": {
-        "id": "SPLUSCA9608",
-        "days": {
-            "Thursday": [
-                {
-                    "begin": "14:00",
-                    "summary": "Pfaff SciTec: SciTec_Schlegel_??/01.2",
-                    "end": "16:30"
-                }
-            ],
-            "Monday": [
-                {
-                    "begin": "08:00",
-                    "summary": "Pfaff SciTec: SciTec_Schlegel_??/01.1",
-                    "end": "16:30"
-                }
-            ]
-        }
-    },
-    "05.00.04": {
-        "id": "SPLUSD17C52",
-        "days": {
-            "Saturday": [
-                {
-                    "begin": "09:00",
-                    "summary": "Scheld, JenAll: JenAll_HCM 2017/GM 2018/APL/01",
-                    "end": "10:30"
-                }
-            ]
-        }
-    },
-    "05.03.36": {
-        "id": "SPLUSD17C38",
-        "days": {
-            "Saturday": [
-                {
-                    "begin": "09:00",
-                    "summary": "Mainka (BW): JenAll_GM 2018/APL/02",
-                    "end": "10:30"
-                }
-            ],
-            "Friday": [
-                {
-                    "begin": "14:30",
-                    "summary": "Mainka (BW): JenAll_GM 2018/S/01.11",
-                    "end": "19:30"
-                }
-            ]
-        }
-    },
-    "03.03.42/1": {
-        "id": "SPLUSF88402",
-        "days": {
-            "Monday": [
-                {
-                    "begin": "08:30",
-                    "summary": "Mottl, Hoffmann, U., Gruhn: 13.08._WI_Umbau Labortür",
-                    "end": "17:30"
-                }
-            ]
-        }
-    },
-    "04.03.07": {
-        "id": "SPLUS412E9D",
-        "days": {
-            "Thursday": [
-                {
-                    "begin": "08:30",
-                    "summary": "Garzke: FT/MB(BA)ME I/Wdh.-Prfg./01",
-                    "end": "10:30"
                 }
             ]
         }
