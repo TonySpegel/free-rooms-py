@@ -2,18 +2,18 @@
     "04.-1.01(Aula)": {
         "id": "SPLUSCA96B6",
         "days": {
-            "Thursday": [
-                {
-                    "end": "17:30",
-                    "begin": "09:30",
-                    "summary": "Lautenschläger, Haase: BW(BA)TOPSIM easy Startup!/S/01.2"
-                }
-            ],
             "Wednesday": [
                 {
                     "end": "17:30",
                     "begin": "09:30",
                     "summary": "Lautenschläger, Haase: BW(BA)TOPSIM easy Startup!/S/01.1"
+                }
+            ],
+            "Thursday": [
+                {
+                    "end": "17:30",
+                    "begin": "09:30",
+                    "summary": "Lautenschläger, Haase: BW(BA)TOPSIM easy Startup!/S/01.2"
                 }
             ],
             "Friday": [
