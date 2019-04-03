@@ -1,182 +1,26 @@
 {
-    "05.03.33": {
-        "id": "SPLUSD17C37",
-        "days": {
-            "Wednesday": [
-                {
-                    "end": "17:30",
-                    "begin": "08:30",
-                    "summary": "Assfalg(BW): BW(BA)ABWL-UPS-GM/S/01.1"
-                }
-            ],
-            "Thursday": [
-                {
-                    "end": "17:30",
-                    "begin": "08:30",
-                    "summary": "Assfalg(BW): BW(BA)ABWL-UPS-GM/S/01.2"
-                }
-            ],
-            "Friday": [
-                {
-                    "end": "17:30",
-                    "begin": "08:30",
-                    "summary": "Assfalg(BW): BW(BA)ABWL-UPS-GM/S/01.3"
-                }
-            ]
-        }
-    },
-    "05.03.203": {
-        "id": "SPLUSD17C62",
-        "days": {
-            "Tuesday": [
-                {
-                    "end": "18:30",
-                    "begin": "09:30",
-                    "summary": "Lautenschläger: BW(BA)ABWL-TOPSIM-Startup!/S/02.2"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "end": "18:30",
-                    "begin": "09:30",
-                    "summary": "Lautenschläger: BW(BA)ABWL-TOPSIM-Startup!/S/02.3"
-                }
-            ],
-            "Monday": [
-                {
-                    "end": "18:30",
-                    "begin": "09:30",
-                    "summary": "Lautenschläger: BW(BA)ABWL-TOPSIM-Startup!/S/02.1"
-                }
-            ]
-        }
-    },
-    "05.03.32": {
-        "id": "SPLUS4833BD",
-        "days": {
-            "Wednesday": [
-                {
-                    "end": "17:30",
-                    "begin": "08:30",
-                    "summary": "Assfalg(BW): BW(BA)ABWL-UPS-GM/S/01.1"
-                }
-            ],
-            "Thursday": [
-                {
-                    "end": "17:30",
-                    "begin": "08:30",
-                    "summary": "Assfalg(BW): BW(BA)ABWL-UPS-GM/S/01.2"
-                }
-            ],
-            "Friday": [
-                {
-                    "end": "17:30",
-                    "begin": "08:30",
-                    "summary": "Assfalg(BW): BW(BA)ABWL-UPS-GM/S/01.3"
-                }
-            ]
-        }
-    },
-    "05.03.36": {
-        "id": "SPLUSD17C38",
-        "days": {
-            "Wednesday": [
-                {
-                    "end": "17:30",
-                    "begin": "08:30",
-                    "summary": "Assfalg(BW): BW(BA)ABWL-UPS-GM/S/01.1"
-                }
-            ],
-            "Thursday": [
-                {
-                    "end": "17:30",
-                    "begin": "08:30",
-                    "summary": "Assfalg(BW): BW(BA)ABWL-UPS-GM/S/01.2"
-                }
-            ],
-            "Friday": [
-                {
-                    "end": "17:30",
-                    "begin": "08:30",
-                    "summary": "Assfalg(BW): BW(BA)ABWL-UPS-GM/S/01.3"
-                }
-            ]
-        }
-    },
-    "05.03.204": {
-        "id": "SPLUSD17C63",
-        "days": {
-            "Tuesday": [
-                {
-                    "end": "18:30",
-                    "begin": "09:30",
-                    "summary": "Lautenschläger: BW(BA)ABWL-TOPSIM-Startup!/S/02.2"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "end": "18:30",
-                    "begin": "09:30",
-                    "summary": "Lautenschläger: BW(BA)ABWL-TOPSIM-Startup!/S/02.3"
-                }
-            ],
-            "Monday": [
-                {
-                    "end": "18:30",
-                    "begin": "09:30",
-                    "summary": "Lautenschläger: BW(BA)ABWL-TOPSIM-Startup!/S/02.1"
-                }
-            ]
-        }
-    },
     "05.03.202": {
         "id": "SPLUSD17C61",
         "days": {
-            "Tuesday": [
-                {
-                    "end": "18:30",
-                    "begin": "09:30",
-                    "summary": "Lautenschläger: BW(BA)ABWL-TOPSIM-Startup!/S/02.2"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "end": "18:30",
-                    "begin": "09:30",
-                    "summary": "Lautenschläger: BW(BA)ABWL-TOPSIM-Startup!/S/02.3"
-                }
-            ],
             "Monday": [
                 {
-                    "end": "18:30",
+                    "summary": "Lautenschläger: BW(BA)ABWL-TOPSIM-Startup!/S/02.1",
                     "begin": "09:30",
-                    "summary": "Lautenschläger: BW(BA)ABWL-TOPSIM-Startup!/S/02.1"
+                    "end": "18:30"
                 }
-            ]
-        }
-    },
-    "05.03.29": {
-        "id": "SPLUSAF012D",
-        "days": {
+            ],
             "Wednesday": [
                 {
-                    "end": "17:30",
-                    "begin": "08:30",
-                    "summary": "Assfalg(BW): BW(BA)ABWL-UPS-GM/S/01.1"
+                    "summary": "Lautenschläger: BW(BA)ABWL-TOPSIM-Startup!/S/02.3",
+                    "begin": "09:30",
+                    "end": "18:30"
                 }
             ],
-            "Thursday": [
+            "Tuesday": [
                 {
-                    "end": "17:30",
-                    "begin": "08:30",
-                    "summary": "Assfalg(BW): BW(BA)ABWL-UPS-GM/S/01.2"
-                }
-            ],
-            "Friday": [
-                {
-                    "end": "17:30",
-                    "begin": "08:30",
-                    "summary": "Assfalg(BW): BW(BA)ABWL-UPS-GM/S/01.3"
+                    "summary": "Lautenschläger: BW(BA)ABWL-TOPSIM-Startup!/S/02.2",
+                    "begin": "09:30",
+                    "end": "18:30"
                 }
             ]
         }
@@ -186,49 +30,49 @@
         "days": {
             "Wednesday": [
                 {
-                    "end": "17:30",
+                    "summary": "Assfalg(BW): BW(BA)ABWL-UPS-GM/S/01.1",
                     "begin": "08:30",
-                    "summary": "Assfalg(BW): BW(BA)ABWL-UPS-GM/S/01.1"
+                    "end": "17:30"
                 }
             ],
             "Thursday": [
                 {
-                    "end": "17:30",
+                    "summary": "Assfalg(BW): BW(BA)ABWL-UPS-GM/S/01.2",
                     "begin": "08:30",
-                    "summary": "Assfalg(BW): BW(BA)ABWL-UPS-GM/S/01.2"
+                    "end": "17:30"
                 }
             ],
             "Friday": [
                 {
-                    "end": "17:30",
+                    "summary": "Assfalg(BW): BW(BA)ABWL-UPS-GM/S/01.3",
                     "begin": "08:30",
-                    "summary": "Assfalg(BW): BW(BA)ABWL-UPS-GM/S/01.3"
+                    "end": "17:30"
                 }
             ]
         }
     },
-    "05.03.201": {
-        "id": "SPLUSD17C60",
+    "05.03.32": {
+        "id": "SPLUS4833BD",
         "days": {
-            "Tuesday": [
-                {
-                    "end": "18:30",
-                    "begin": "09:30",
-                    "summary": "Lautenschläger: BW(BA)ABWL-TOPSIM-Startup!/S/02.2"
-                }
-            ],
             "Wednesday": [
                 {
-                    "end": "18:30",
-                    "begin": "09:30",
-                    "summary": "Lautenschläger: BW(BA)ABWL-TOPSIM-Startup!/S/02.3"
+                    "summary": "Assfalg(BW): BW(BA)ABWL-UPS-GM/S/01.1",
+                    "begin": "08:30",
+                    "end": "17:30"
                 }
             ],
-            "Monday": [
+            "Thursday": [
                 {
-                    "end": "18:30",
-                    "begin": "09:30",
-                    "summary": "Lautenschläger: BW(BA)ABWL-TOPSIM-Startup!/S/02.1"
+                    "summary": "Assfalg(BW): BW(BA)ABWL-UPS-GM/S/01.2",
+                    "begin": "08:30",
+                    "end": "17:30"
+                }
+            ],
+            "Friday": [
+                {
+                    "summary": "Assfalg(BW): BW(BA)ABWL-UPS-GM/S/01.3",
+                    "begin": "08:30",
+                    "end": "17:30"
                 }
             ]
         }
@@ -236,25 +80,181 @@
     "05.03.206": {
         "id": "SPLUS7F8D03",
         "days": {
-            "Tuesday": [
+            "Monday": [
                 {
-                    "end": "18:30",
+                    "summary": "Lautenschläger: BW(BA)ABWL-TOPSIM-Startup!/S/02.1",
                     "begin": "09:30",
-                    "summary": "Lautenschläger: BW(BA)ABWL-TOPSIM-Startup!/S/02.2"
+                    "end": "18:30"
                 }
             ],
             "Wednesday": [
                 {
-                    "end": "18:30",
+                    "summary": "Lautenschläger: BW(BA)ABWL-TOPSIM-Startup!/S/02.3",
                     "begin": "09:30",
-                    "summary": "Lautenschläger: BW(BA)ABWL-TOPSIM-Startup!/S/02.3"
+                    "end": "18:30"
                 }
             ],
+            "Tuesday": [
+                {
+                    "summary": "Lautenschläger: BW(BA)ABWL-TOPSIM-Startup!/S/02.2",
+                    "begin": "09:30",
+                    "end": "18:30"
+                }
+            ]
+        }
+    },
+    "05.03.204": {
+        "id": "SPLUSD17C63",
+        "days": {
             "Monday": [
                 {
-                    "end": "18:30",
+                    "summary": "Lautenschläger: BW(BA)ABWL-TOPSIM-Startup!/S/02.1",
                     "begin": "09:30",
-                    "summary": "Lautenschläger: BW(BA)ABWL-TOPSIM-Startup!/S/02.1"
+                    "end": "18:30"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "summary": "Lautenschläger: BW(BA)ABWL-TOPSIM-Startup!/S/02.3",
+                    "begin": "09:30",
+                    "end": "18:30"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "summary": "Lautenschläger: BW(BA)ABWL-TOPSIM-Startup!/S/02.2",
+                    "begin": "09:30",
+                    "end": "18:30"
+                }
+            ]
+        }
+    },
+    "05.03.33": {
+        "id": "SPLUSD17C37",
+        "days": {
+            "Wednesday": [
+                {
+                    "summary": "Assfalg(BW): BW(BA)ABWL-UPS-GM/S/01.1",
+                    "begin": "08:30",
+                    "end": "17:30"
+                }
+            ],
+            "Thursday": [
+                {
+                    "summary": "Assfalg(BW): BW(BA)ABWL-UPS-GM/S/01.2",
+                    "begin": "08:30",
+                    "end": "17:30"
+                }
+            ],
+            "Friday": [
+                {
+                    "summary": "Assfalg(BW): BW(BA)ABWL-UPS-GM/S/01.3",
+                    "begin": "08:30",
+                    "end": "17:30"
+                }
+            ]
+        }
+    },
+    "05.03.36": {
+        "id": "SPLUSD17C38",
+        "days": {
+            "Wednesday": [
+                {
+                    "summary": "Assfalg(BW): BW(BA)ABWL-UPS-GM/S/01.1",
+                    "begin": "08:30",
+                    "end": "17:30"
+                }
+            ],
+            "Thursday": [
+                {
+                    "summary": "Assfalg(BW): BW(BA)ABWL-UPS-GM/S/01.2",
+                    "begin": "08:30",
+                    "end": "17:30"
+                }
+            ],
+            "Friday": [
+                {
+                    "summary": "Assfalg(BW): BW(BA)ABWL-UPS-GM/S/01.3",
+                    "begin": "08:30",
+                    "end": "17:30"
+                }
+            ]
+        }
+    },
+    "05.03.201": {
+        "id": "SPLUSD17C60",
+        "days": {
+            "Monday": [
+                {
+                    "summary": "Lautenschläger: BW(BA)ABWL-TOPSIM-Startup!/S/02.1",
+                    "begin": "09:30",
+                    "end": "18:30"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "summary": "Lautenschläger: BW(BA)ABWL-TOPSIM-Startup!/S/02.3",
+                    "begin": "09:30",
+                    "end": "18:30"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "summary": "Lautenschläger: BW(BA)ABWL-TOPSIM-Startup!/S/02.2",
+                    "begin": "09:30",
+                    "end": "18:30"
+                }
+            ]
+        }
+    },
+    "05.03.29": {
+        "id": "SPLUSAF012D",
+        "days": {
+            "Wednesday": [
+                {
+                    "summary": "Assfalg(BW): BW(BA)ABWL-UPS-GM/S/01.1",
+                    "begin": "08:30",
+                    "end": "17:30"
+                }
+            ],
+            "Thursday": [
+                {
+                    "summary": "Assfalg(BW): BW(BA)ABWL-UPS-GM/S/01.2",
+                    "begin": "08:30",
+                    "end": "17:30"
+                }
+            ],
+            "Friday": [
+                {
+                    "summary": "Assfalg(BW): BW(BA)ABWL-UPS-GM/S/01.3",
+                    "begin": "08:30",
+                    "end": "17:30"
+                }
+            ]
+        }
+    },
+    "05.03.203": {
+        "id": "SPLUSD17C62",
+        "days": {
+            "Monday": [
+                {
+                    "summary": "Lautenschläger: BW(BA)ABWL-TOPSIM-Startup!/S/02.1",
+                    "begin": "09:30",
+                    "end": "18:30"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "summary": "Lautenschläger: BW(BA)ABWL-TOPSIM-Startup!/S/02.3",
+                    "begin": "09:30",
+                    "end": "18:30"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "summary": "Lautenschläger: BW(BA)ABWL-TOPSIM-Startup!/S/02.2",
+                    "begin": "09:30",
+                    "end": "18:30"
                 }
             ]
         }
