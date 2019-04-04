@@ -12,7 +12,7 @@
 
         <meta charset="utf-8">
         <title>Free Rooms EAH</title>
-        <link rel="icon" type="image/png" href="./img/ic_today_black_48dp_2x.png" sizes="96x96"> 
+        <link rel="icon" type="image/png" href="./img/ic_today_black_48dp_2x.png" sizes="96x96">
         <script src="./js/card-template.js"></script>
         <script src="./js/lib/clipboard.js"></script>
         <script defer src="./js/lib/MDL/material.min.js"></script>
@@ -35,29 +35,29 @@
         </div>
         <main id="target"></main>
 
-        <section 
-            id="cg-notification-area" 
+        <section
+            id="cg-notification-area"
             class="notification-area --current-time"
         >
             <div class="notification-ripple"></div>
-            
-            <button 
-                id="btn-menu-opener" 
-                class="mdc-fab material-icons" 
+
+            <button
+                id="btn-menu-opener"
+                class="mdc-fab material-icons"
                 aria-label="Filter"
                 data-mode="open"
             >
-                <span class="mdc-fab__icon --filter"> 
+                <span class="mdc-fab__icon --filter">
                     filter_list
                 </span>
 
-                <span class="mdc-fab__icon --search"> 
+                <span class="mdc-fab__icon --search">
                     search
                 </span>
             </button>
 
             <button id="btn-menu-close" class="mdc-fab material-icons" aria-label="Search">
-                <span class="mdc-fab__icon"> 
+                <span class="mdc-fab__icon">
                     close
                 </span>
             </button>
@@ -74,22 +74,22 @@
             <div class="notification-content --current-time">
                 <div class="filter-box">
                     <div class="mdl-select-wrapper --building">
-                        <div 
+                        <div
                             class="
-                                mdl-textfield 
-                                mdl-js-textfield 
-                                mdl-textfield--floating-label 
+                                mdl-textfield
+                                mdl-js-textfield
+                                mdl-textfield--floating-label
                                 getmdl-select
                                 getmdl-select__fullwidth"
                         >
-                            <input 
-                                id="building" 
-                                class="mdl-textfield__input" 
-                                name="building" 
-                                value="all" 
-                                type="text" 
-                                readonly 
-                                tabIndex="-1" 
+                            <input
+                                id="building"
+                                class="mdl-textfield__input"
+                                name="building"
+                                value="all"
+                                type="text"
+                                readonly
+                                tabIndex="-1"
                                 data-val="all"
                             />
                             <label class="mdl-textfield__label" for="building">Building</label>
@@ -105,27 +105,27 @@
                     </div>
 
                     <div class="mdl-select-wrapper">
-                        <div 
+                        <div
                             class="
                                 flr
-                                mdl-textfield 
-                                mdl-js-textfield 
-                                mdl-textfield--floating-label 
+                                mdl-textfield
+                                mdl-js-textfield
+                                mdl-textfield--floating-label
                                 getmdl-select
                                 getmdl-select__fullwidth"
                         >
-                            <input 
-                                id="floor" 
-                                class="mdl-textfield__input" 
-                                name="floor" 
-                                value="all" 
-                                type="text" 
-                                readonly 
-                                tabIndex="-1" 
+                            <input
+                                id="floor"
+                                class="mdl-textfield__input"
+                                name="floor"
+                                value="all"
+                                type="text"
+                                readonly
+                                tabIndex="-1"
                                 data-val="all"
                             />
                             <label class="mdl-textfield__label" for="floor">Floor</label>
-                            <ul 
+                            <ul
                                 id="floor-list-wrapper"
                                 class="mdl-menu mdl-menu--bottom-left mdl-js-menu" for="floor"
                             >
@@ -138,23 +138,23 @@
                             </ul>
                         </div>
                     </div>
-                    
+
                     <!-- Week -->
                     <div class="input-wrapper">
                         <div
                             style="float: left; margin-right: 10px;"
                             id="input-week"
                             class="
-                                mdl-textfield 
+                                mdl-textfield
                                 mdl-textfield--number
-                                mdl-js-textfield 
+                                mdl-js-textfield
                                 mdl-textfield--floating-label
                             "
                         >
-                            <input 
+                            <input
                                 id="input-current-week"
-                                class="mdl-textfield__input" 
-                                type="tel" 
+                                class="mdl-textfield__input"
+                                type="tel"
                                 pattern="-?[0-9]*(\.[0-9]+)?"
                                 disabled
                             >
@@ -163,24 +163,24 @@
                         </div>
 
                         <div class="mdl-select-wrapper">
-                            <div 
+                            <div
                                 id="select-day-wrapper"
                                 class="
-                                    mdl-textfield 
-                                    mdl-js-textfield 
-                                    mdl-textfield--floating-label 
+                                    mdl-textfield
+                                    mdl-js-textfield
+                                    mdl-textfield--floating-label
                                     getmdl-select
                                     getmdl-select__fullwidth"
                             >
-                                <input 
-                                    id="select-day" 
-                                    class="mdl-textfield__input" 
-                                    name="day" 
-                                    value="Monday" 
-                                    type="text" 
-                                    readonly 
-                                    tabIndex="-1" 
-                                    data-val="all"
+                                <input
+                                    id="select-day"
+                                    class="mdl-textfield__input"
+                                    name="day"
+                                    value="Monday"
+                                    type="text"
+                                    readonly
+                                    tabIndex="-1"
+                                    data-val="Monday"
                                     disabled
                                 />
                                 <label class="mdl-textfield__label" for="day">Day</label>
@@ -194,14 +194,14 @@
                                 </ul>
                             </div>
                         </div>
-                    
+
                         <div
                             style="float: left; margin-right: 10px;"
                             id="current-time-input"
                             class="
-                                mdl-textfield 
+                                mdl-textfield
                                 mdl-textfield--number
-                                mdl-js-textfield 
+                                mdl-js-textfield
                                 mdl-textfield--floating-label
                             "
                         >
@@ -216,7 +216,7 @@
                             <input type="checkbox" id="switch-current-time" class="mdl-switch__input" checked>
                             <span class="mdl-switch__label">Use current time</span>
                         </label>
-    
+
                         <!-- <label class="mdl-switch mdl-js-switch mdl-js-ripple-effect" for="switch-instant-search">
                             <input type="checkbox" id="switch-instant-search" class="mdl-switch__input" checked>
                             <span class="mdl-switch__label">Instant Search</span>
@@ -225,7 +225,7 @@
                 </div>
             </div>
         </section>
-            
+
         <script src="./js/lib/material-components-web.min.js"></script>
         <script>window.mdc.autoInit();</script>
     </body>
