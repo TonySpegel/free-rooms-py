@@ -1,14 +1,14 @@
 {
     "04.00.02 (HS7)": {
+        "id": "SPLUS412E9B",
         "days": {
             "Monday": [
                 {
+                    "summary": "Garzke: 07.10._MB Einf.",
                     "begin": "08:00",
-                    "end": "12:30",
-                    "summary": "Garzke: 07.10._MB Einf."
+                    "end": "12:30"
                 }
             ]
-        },
-        "id": "SPLUS412E9B"
+        }
     }
 }
