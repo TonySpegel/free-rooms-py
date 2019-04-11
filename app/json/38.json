@@ -1,6 +1,5 @@
 {
     "04.-1.01(Aula)": {
-        "id": "SPLUSCA96B6",
         "days": {
             "Wednesday": [
                 {
@@ -9,6 +8,7 @@
                     "summary": ": 18.9._Optonet/UKP-Workshop"
                 }
             ]
-        }
+        },
+        "id": "SPLUSCA96B6"
     }
 }
