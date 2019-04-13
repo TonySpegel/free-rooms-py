@@ -1,12 +1,24 @@
 {
+    "03.03.01(HS1)": {
+        "id": "SPLUSFADB3E",
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "17:00",
+                    "end": "20:00",
+                    "summary": "Baumgärtner: 18.09._GP Zeugnisübergabe"
+                }
+            ]
+        }
+    },
     "04.-1.01(Aula)": {
         "id": "SPLUSCA96B6",
         "days": {
             "Wednesday": [
                 {
-                    "summary": ": 18.9._Optonet/UKP-Workshop",
+                    "begin": "08:30",
                     "end": "17:30",
-                    "begin": "08:30"
+                    "summary": ": 18.9._Optonet/UKP-Workshop"
                 }
             ]
         }
