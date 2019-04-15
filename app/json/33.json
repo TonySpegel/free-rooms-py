@@ -2,17 +2,17 @@
     "04.-1.01(Aula)": {
         "id": "SPLUSCA96B6",
         "days": {
-            "Friday": [
-                {
-                    "end": "17:30",
-                    "summary": "ZVM: 16.8._Einschulung Südschule/Vorb.",
-                    "begin": "08:30"
-                }
-            ],
             "Saturday": [
                 {
                     "end": "17:30",
                     "summary": "ZVM: 17.8._Einschulung Südschule",
+                    "begin": "08:30"
+                }
+            ],
+            "Friday": [
+                {
+                    "end": "17:30",
+                    "summary": "ZVM: 16.8._Einschulung Südschule/Vorb.",
                     "begin": "08:30"
                 }
             ]
