@@ -4,9 +4,9 @@
         "days": {
             "Monday": [
                 {
-                    "end": "12:30",
+                    "begin": "08:00",
                     "summary": "Garzke: 07.10._MB Einf.",
-                    "begin": "08:00"
+                    "end": "12:30"
                 }
             ]
         }
