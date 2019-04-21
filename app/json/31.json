@@ -1,14 +1,14 @@
 {
     "04.-1.01(Aula)": {
-        "id": "SPLUSCA96B6",
         "days": {
             "Saturday": [
                 {
                     "end": "19:00",
-                    "summary": ": 03.08._Abschlussfeier BT",
-                    "begin": "08:00"
+                    "begin": "08:00",
+                    "summary": ": 03.08._Abschlussfeier BT"
                 }
             ]
-        }
+        },
+        "id": "SPLUSCA96B6"
     }
 }
