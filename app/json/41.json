@@ -1,18 +1,18 @@
 {
     "04.00.02 (HS7)": {
         "days": {
-            "Tuesday": [
-                {
-                    "end": "12:00",
-                    "begin": "08:00",
-                    "summary": "Garzke: MB/ME(BA)Einführungsveranstaltung/S/01"
-                }
-            ],
             "Monday": [
                 {
+                    "summary": "Garzke: 07.10._MB Einf.",
                     "end": "12:30",
-                    "begin": "08:00",
-                    "summary": "Garzke: 07.10._MB Einf."
+                    "begin": "08:00"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "summary": "Garzke: MB/ME(BA)Einführungsveranstaltung/S/01",
+                    "end": "12:00",
+                    "begin": "08:00"
                 }
             ]
         },

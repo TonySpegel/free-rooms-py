@@ -1,25 +1,25 @@
 {
     "04.-1.01(Aula)": {
         "days": {
-            "Friday": [
-                {
-                    "end": "17:30",
-                    "begin": "09:30",
-                    "summary": "Lautenschläger, Haase: BW(BA)TOPSIM easy Startup!/S/01.3"
-                }
-            ],
             "Wednesday": [
                 {
+                    "summary": "Lautenschläger, Haase: BW(BA)TOPSIM easy Startup!/S/01.1",
                     "end": "17:30",
-                    "begin": "09:30",
-                    "summary": "Lautenschläger, Haase: BW(BA)TOPSIM easy Startup!/S/01.1"
+                    "begin": "09:30"
                 }
             ],
             "Thursday": [
                 {
+                    "summary": "Lautenschläger, Haase: BW(BA)TOPSIM easy Startup!/S/01.2",
                     "end": "17:30",
-                    "begin": "09:30",
-                    "summary": "Lautenschläger, Haase: BW(BA)TOPSIM easy Startup!/S/01.2"
+                    "begin": "09:30"
+                }
+            ],
+            "Friday": [
+                {
+                    "summary": "Lautenschläger, Haase: BW(BA)TOPSIM easy Startup!/S/01.3",
+                    "end": "17:30",
+                    "begin": "09:30"
                 }
             ]
         },
