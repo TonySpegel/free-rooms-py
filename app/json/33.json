@@ -3,16 +3,16 @@
         "days": {
             "Saturday": [
                 {
+                    "summary": "ZVM: 17.8._Einschulung Südschule",
                     "begin": "08:30",
-                    "end": "17:30",
-                    "summary": "ZVM: 17.8._Einschulung Südschule"
+                    "end": "17:30"
                 }
             ],
             "Friday": [
                 {
+                    "summary": "ZVM: 16.8._Einschulung Südschule/Vorb.",
                     "begin": "08:30",
-                    "end": "17:30",
-                    "summary": "ZVM: 16.8._Einschulung Südschule/Vorb."
+                    "end": "17:30"
                 }
             ]
         },
