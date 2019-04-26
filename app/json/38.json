@@ -22,5 +22,17 @@
             ]
         },
         "id": "SPLUSCA96B6"
+    },
+    "05.03.36": {
+        "days": {
+            "Monday": [
+                {
+                    "summary": "Degle: JenALL_AO-Klin.Opto 2019/S/01.17",
+                    "begin": "09:00",
+                    "end": "14:30"
+                }
+            ]
+        },
+        "id": "SPLUSD17C38"
     }
 }

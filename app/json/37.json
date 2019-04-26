@@ -1,178 +1,66 @@
 {
-    "04.-1.01(Aula)": {
-        "id": "SPLUSCA96B6",
+    "05.00.04": {
         "days": {
-            "Friday": [
-                {
-                    "begin": "08:00",
-                    "summary": ": 14.09._DBCP Konferenz",
-                    "end": "20:00"
-                }
-            ]
-        }
-    },
-    "05.00.03": {
-        "id": "SPLUSA8CFB5",
-        "days": {
-            "Monday": [
-                {
-                    "begin": "08:00",
-                    "summary": "Sickenberger: JenALL_Kontaktlinse 2018/S/01.08",
-                    "end": "18:00"
-                }
-            ],
-            "Friday": [
-                {
-                    "begin": "11:00",
-                    "summary": "Hübner: 14.09._AO_Vertdg.",
-                    "end": "12:00"
-                }
-            ]
-        }
-    },
-    "05.03.29": {
-        "id": "SPLUSAF012D",
-        "days": {
-            "Tuesday": [
-                {
-                    "begin": "09:00",
-                    "summary": "Bischoff: JenAll_Opt.f.Einst./S/01.2",
-                    "end": "17:00"
-                }
-            ],
-            "Monday": [
-                {
-                    "begin": "09:00",
-                    "summary": "Bischoff: JenAll_Opt.f.Einst./S/01.1",
-                    "end": "17:00"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "begin": "09:00",
-                    "summary": "Bischoff: JenAll_Opt.f.Einst./S/01.3",
-                    "end": "17:00"
-                }
-            ]
-        }
-    },
-    "04.00.10": {
-        "id": "SPLUS2A78BE",
-        "days": {
-            "Thursday": [
-                {
-                    "begin": "09:00",
-                    "summary": "Bliedtner: JenAll_3 D-Druck/S/01.4",
-                    "end": "17:00"
-                }
-            ]
-        }
-    },
-    "04.02.11": {
-        "id": "SPLUS3E9807",
-        "days": {
-            "Thursday": [
-                {
-                    "begin": "09:00",
-                    "summary": "Bischoff: JenAll_Opt.f.Einst./S/01.4",
-                    "end": "17:00"
-                }
-            ]
-        }
-    },
-    "04.00.08(CIM)": {
-        "id": "SPLUSCA9608",
-        "days": {
-            "Thursday": [
-                {
-                    "begin": "09:00",
-                    "summary": "Bliedtner: JenAll_3 D-Druck/S/01.4",
-                    "end": "17:00"
-                }
-            ],
-            "Monday": [
-                {
-                    "begin": "08:00",
-                    "summary": "Pfaff SciTec: SciTec_Schlegel_??/01.1",
-                    "end": "16:30"
-                }
-            ]
-        }
-    },
-    "05.03.11(SW)": {
-        "id": "SPLUS8C6346",
-        "days": {
-            "Saturday": [
-                {
-                    "begin": "09:00",
-                    "summary": "Geisler: SA(MA)Sp.- u. Med.-päd./S/02",
-                    "end": "17:00"
-                }
-            ]
-        }
-    },
-    "04.02.10": {
-        "id": "SPLUS66327E",
-        "days": {
-            "Thursday": [
-                {
-                    "begin": "09:00",
-                    "summary": "Bischoff: JenAll_Opt.f.Einst./S/01.4",
-                    "end": "17:00"
-                }
-            ]
-        }
-    },
-    "05.00.10": {
-        "id": "SPLUSD17C56",
-        "days": {
-            "Saturday": [
-                {
-                    "begin": "08:00",
-                    "summary": "Degle: JenALL_Optom 2018/S/01.07",
-                    "end": "18:00"
-                }
-            ],
-            "Friday": [
-                {
-                    "begin": "08:00",
-                    "summary": "Degle: JenALL_Optom 2018/S/01.06",
-                    "end": "18:00"
-                }
-            ],
             "Sunday": [
                 {
+                    "summary": "Degle: JenALL_AO-Klin.Opto 2019/S/01.16",
                     "begin": "08:00",
-                    "summary": "Degle: JenALL_Optom 2018/S/01.08",
+                    "end": "17:00"
+                }
+            ],
+            "Saturday": [
+                {
+                    "summary": "Degle: JenALL_AO-Klin.Opto 2019/S/01.15",
+                    "begin": "08:00",
+                    "end": "17:00"
+                }
+            ]
+        },
+        "id": "SPLUSD17C52"
+    },
+    "05.01.43": {
+        "days": {
+            "Friday": [
+                {
+                    "summary": "JenAll: JenALL_BGM 2018/S/01.5",
+                    "begin": "07:45",
+                    "end": "12:45"
+                }
+            ]
+        },
+        "id": "SPLUSD17C42"
+    },
+    "05.03.36": {
+        "days": {
+            "Sunday": [
+                {
+                    "summary": "Degle: JenALL_AO-Klin.Opto 2019/S/01.16",
+                    "begin": "08:00",
+                    "end": "17:00"
+                }
+            ],
+            "Friday": [
+                {
+                    "summary": "Degle: JenALL_AO-Klin.Opto 2019/S/01.14",
+                    "begin": "08:00",
+                    "end": "17:00"
+                }
+            ],
+            "Thursday": [
+                {
+                    "summary": "Degle: JenALL_AO-Klin.Opto 2019/S/01.13",
+                    "begin": "09:00",
                     "end": "18:00"
                 }
-            ]
-        }
-    },
-    "04.03.12": {
-        "id": "SPLUS40B570",
-        "days": {
-            "Tuesday": [
-                {
-                    "begin": "09:00",
-                    "summary": "Bliedtner: JenAll_3 D-Druck/S/01.2",
-                    "end": "17:00"
-                }
             ],
-            "Monday": [
+            "Saturday": [
                 {
-                    "begin": "09:00",
-                    "summary": "Bliedtner: JenAll_3 D-Druck/S/01.1",
-                    "end": "17:00"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "begin": "09:00",
-                    "summary": "Bliedtner: JenAll_3 D-Druck/S/01.3",
+                    "summary": "Degle: JenALL_AO-Klin.Opto 2019/S/01.15",
+                    "begin": "08:00",
                     "end": "17:00"
                 }
             ]
-        }
+        },
+        "id": "SPLUSD17C38"
     }
 }
