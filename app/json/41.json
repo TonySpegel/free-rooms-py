@@ -1,4 +1,23 @@
 {
+    "04.00.02 (HS7)": {
+        "days": {
+            "Tuesday": [
+                {
+                    "summary": "Garzke: MB/ME(BA)Einführungsveranstaltung/S/01",
+                    "begin": "08:00",
+                    "end": "12:00"
+                }
+            ],
+            "Monday": [
+                {
+                    "summary": "Garzke: 07.10._MB Einf.",
+                    "begin": "08:00",
+                    "end": "12:30"
+                }
+            ]
+        },
+        "id": "SPLUS412E9B"
+    },
     "05.01.43": {
         "days": {
             "Friday": [
@@ -10,24 +29,5 @@
             ]
         },
         "id": "SPLUSD17C42"
-    },
-    "04.00.02 (HS7)": {
-        "days": {
-            "Monday": [
-                {
-                    "summary": "Garzke: 07.10._MB Einf.",
-                    "begin": "08:00",
-                    "end": "12:30"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "summary": "Garzke: MB/ME(BA)Einführungsveranstaltung/S/01",
-                    "begin": "08:00",
-                    "end": "12:00"
-                }
-            ]
-        },
-        "id": "SPLUS412E9B"
     }
 }

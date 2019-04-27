@@ -1,16 +1,4 @@
 {
-    "03.03.01(HS1)": {
-        "days": {
-            "Wednesday": [
-                {
-                    "summary": "Baumgärtner: 18.09._GP Zeugnisübergabe",
-                    "begin": "17:00",
-                    "end": "20:00"
-                }
-            ]
-        },
-        "id": "SPLUSFADB3E"
-    },
     "04.-1.01(Aula)": {
         "days": {
             "Wednesday": [
@@ -34,5 +22,17 @@
             ]
         },
         "id": "SPLUSD17C38"
+    },
+    "03.03.01(HS1)": {
+        "days": {
+            "Wednesday": [
+                {
+                    "summary": "Baumgärtner: 18.09._GP Zeugnisübergabe",
+                    "begin": "17:00",
+                    "end": "20:00"
+                }
+            ]
+        },
+        "id": "SPLUSFADB3E"
     }
 }
