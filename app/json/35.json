@@ -4,8 +4,8 @@
             "Saturday": [
                 {
                     "summary": "Lautenschläger, Mainka (BW): JenALL_GM 2019/S/01.12",
-                    "begin": "09:00",
-                    "end": "14:30"
+                    "end": "14:30",
+                    "begin": "09:00"
                 }
             ]
         },
@@ -16,15 +16,15 @@
             "Friday": [
                 {
                     "summary": "Mainka (BW): JenALL_GM 2019/S/01.11",
-                    "begin": "13:30",
-                    "end": "19:00"
+                    "end": "19:00",
+                    "begin": "13:30"
                 }
             ],
             "Saturday": [
                 {
                     "summary": "Lautenschläger, Mainka (BW): JenALL_GM 2019/S/01.12",
-                    "begin": "09:00",
-                    "end": "14:30"
+                    "end": "14:30",
+                    "begin": "09:00"
                 }
             ]
         },

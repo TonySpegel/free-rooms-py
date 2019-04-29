@@ -4,15 +4,15 @@
             "Monday": [
                 {
                     "summary": "Garzke: 07.10._MB Einf.",
-                    "begin": "08:00",
-                    "end": "12:30"
+                    "end": "12:30",
+                    "begin": "08:00"
                 }
             ],
             "Tuesday": [
                 {
                     "summary": "Garzke: MB/ME(BA)Einführungsveranstaltung/S/01",
-                    "begin": "08:00",
-                    "end": "12:00"
+                    "end": "12:00",
+                    "begin": "08:00"
                 }
             ]
         },
@@ -23,8 +23,8 @@
             "Friday": [
                 {
                     "summary": "Kraußlach: JenALL_BGM 2018/S/01.6",
-                    "begin": "07:45",
-                    "end": "12:45"
+                    "end": "12:45",
+                    "begin": "07:45"
                 }
             ]
         },
