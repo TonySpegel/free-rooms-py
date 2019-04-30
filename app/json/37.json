@@ -1,66 +1,66 @@
 {
     "05.00.04": {
         "days": {
-            "Sunday": [
-                {
-                    "summary": "Degle: JenALL_AO-Klin.Opto 2019/S/01.16",
-                    "end": "17:00",
-                    "begin": "08:00"
-                }
-            ],
             "Saturday": [
                 {
                     "summary": "Degle: JenALL_AO-Klin.Opto 2019/S/01.15",
-                    "end": "17:00",
-                    "begin": "08:00"
+                    "begin": "08:00",
+                    "end": "17:00"
+                }
+            ],
+            "Sunday": [
+                {
+                    "summary": "Degle: JenALL_AO-Klin.Opto 2019/S/01.16",
+                    "begin": "08:00",
+                    "end": "17:00"
                 }
             ]
         },
         "id": "SPLUSD17C52"
-    },
-    "05.01.43": {
-        "days": {
-            "Friday": [
-                {
-                    "summary": "JenAll: JenALL_BGM 2018/S/01.5",
-                    "end": "12:45",
-                    "begin": "07:45"
-                }
-            ]
-        },
-        "id": "SPLUSD17C42"
     },
     "05.03.36": {
         "days": {
             "Thursday": [
                 {
                     "summary": "Degle: JenALL_AO-Klin.Opto 2019/S/01.13",
-                    "end": "18:00",
-                    "begin": "09:00"
-                }
-            ],
-            "Friday": [
-                {
-                    "summary": "Degle: JenALL_AO-Klin.Opto 2019/S/01.14",
-                    "end": "17:00",
-                    "begin": "08:00"
+                    "begin": "09:00",
+                    "end": "18:00"
                 }
             ],
             "Sunday": [
                 {
                     "summary": "Degle: JenALL_AO-Klin.Opto 2019/S/01.16",
-                    "end": "17:00",
-                    "begin": "08:00"
+                    "begin": "08:00",
+                    "end": "17:00"
+                }
+            ],
+            "Friday": [
+                {
+                    "summary": "Degle: JenALL_AO-Klin.Opto 2019/S/01.14",
+                    "begin": "08:00",
+                    "end": "17:00"
                 }
             ],
             "Saturday": [
                 {
                     "summary": "Degle: JenALL_AO-Klin.Opto 2019/S/01.15",
-                    "end": "17:00",
-                    "begin": "08:00"
+                    "begin": "08:00",
+                    "end": "17:00"
                 }
             ]
         },
         "id": "SPLUSD17C38"
+    },
+    "05.01.43": {
+        "days": {
+            "Friday": [
+                {
+                    "summary": "JenAll: JenALL_BGM 2018/S/01.5",
+                    "begin": "07:45",
+                    "end": "12:45"
+                }
+            ]
+        },
+        "id": "SPLUSD17C42"
     }
 }

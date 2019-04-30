@@ -1,45 +1,26 @@
 {
-    "04.00.08(CIM)": {
-        "id": "SPLUSCA9608",
+    "05.00.04": {
         "days": {
-            "Thursday": [
+            "Saturday": [
                 {
-                    "begin": "14:00",
-                    "summary": "Pfaff SciTec: SciTec_Schlegel_??/01.2",
-                    "end": "16:30"
-                }
-            ],
-            "Monday": [
-                {
-                    "begin": "08:00",
-                    "summary": "Pfaff SciTec: SciTec_Schlegel_??/01.1",
-                    "end": "16:30"
+                    "summary": "Ephrosi(BW), Bernartz(BW): JenALL_GM 2018/S/01.09",
+                    "begin": "09:00",
+                    "end": "15:15"
                 }
             ]
-        }
+        },
+        "id": "SPLUSD17C52"
     },
-    "05.01.43": {
-        "id": "SPLUSD17C42",
+    "05.03.33": {
         "days": {
-            "Tuesday": [
+            "Saturday": [
                 {
-                    "begin": "15:00",
-                    "summary": "Herbst, U.: JenALL_Infoveranstaltung WI/S/01",
-                    "end": "21:30"
+                    "summary": "Ephrosi(BW), Bernartz(BW): JenALL_GM 2018/S/01.09",
+                    "begin": "09:00",
+                    "end": "15:15"
                 }
             ]
-        }
-    },
-    "05.00.06": {
-        "id": "SPLUSD17C54",
-        "days": {
-            "Monday": [
-                {
-                    "begin": "09:30",
-                    "summary": "Hübner: 20.08._AO_Vertdg.",
-                    "end": "12:30"
-                }
-            ]
-        }
+        },
+        "id": "SPLUSD17C37"
     }
 }
