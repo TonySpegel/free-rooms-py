@@ -4,9 +4,9 @@
         "days": {
             "Saturday": [
                 {
-                    "summary": ": 03.08._Abschlussfeier BT",
                     "end": "19:00",
-                    "begin": "08:00"
+                    "begin": "08:00",
+                    "summary": ": 03.08._Abschlussfeier BT"
                 }
             ]
         }

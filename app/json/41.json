@@ -2,18 +2,18 @@
     "04.00.02 (HS7)": {
         "id": "SPLUS412E9B",
         "days": {
-            "Tuesday": [
-                {
-                    "summary": "Garzke: MB/ME(BA)Einführungsveranstaltung/S/01",
-                    "end": "12:00",
-                    "begin": "08:00"
-                }
-            ],
             "Monday": [
                 {
-                    "summary": "Garzke: 07.10._MB Einf.",
                     "end": "12:30",
-                    "begin": "08:00"
+                    "begin": "08:00",
+                    "summary": "Garzke: 07.10._MB Einf."
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "12:00",
+                    "begin": "08:00",
+                    "summary": "Garzke: MB/ME(BA)Einführungsveranstaltung/S/01"
                 }
             ]
         }
@@ -23,9 +23,9 @@
         "days": {
             "Friday": [
                 {
-                    "summary": "Kraußlach: JenALL_BGM 2018/S/01.6",
                     "end": "12:45",
-                    "begin": "07:45"
+                    "begin": "07:45",
+                    "summary": "Kraußlach: JenALL_BGM 2018/S/01.6"
                 }
             ]
         }
