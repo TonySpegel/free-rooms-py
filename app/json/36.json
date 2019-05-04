@@ -1,18 +1,5 @@
 {
-    "05.00.04": {
-        "id": "SPLUSD17C52",
-        "days": {
-            "Saturday": [
-                {
-                    "end": "11:00",
-                    "begin": "09:00",
-                    "summary": "Kraußlach, Bösch: JenALL_GM 2018/19/PL/01"
-                }
-            ]
-        }
-    },
     "05.01.43": {
-        "id": "SPLUSD17C42",
         "days": {
             "Saturday": [
                 {
@@ -21,6 +8,19 @@
                     "summary": "Kraußlach, Bösch: JenALL_GM 2018/19/PL/01"
                 }
             ]
-        }
+        },
+        "id": "SPLUSD17C42"
+    },
+    "05.00.04": {
+        "days": {
+            "Saturday": [
+                {
+                    "end": "11:00",
+                    "begin": "09:00",
+                    "summary": "Kraußlach, Bösch: JenALL_GM 2018/19/PL/01"
+                }
+            ]
+        },
+        "id": "SPLUSD17C52"
     }
 }

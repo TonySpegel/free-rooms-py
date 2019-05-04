@@ -1,6 +1,5 @@
 {
     "04.-1.01(Aula)": {
-        "id": "SPLUSCA96B6",
         "days": {
             "Friday": [
                 {
@@ -16,6 +15,7 @@
                     "summary": "ZVM: 17.8._Einschulung Südschule"
                 }
             ]
-        }
+        },
+        "id": "SPLUSCA96B6"
     }
 }

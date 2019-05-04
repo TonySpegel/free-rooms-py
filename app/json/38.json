@@ -1,30 +1,5 @@
 {
-    "04.-1.01(Aula)": {
-        "id": "SPLUSCA96B6",
-        "days": {
-            "Wednesday": [
-                {
-                    "end": "17:30",
-                    "begin": "08:30",
-                    "summary": ": 18.9._Optonet/UKP-Workshop"
-                }
-            ]
-        }
-    },
-    "03.03.01(HS1)": {
-        "id": "SPLUSFADB3E",
-        "days": {
-            "Wednesday": [
-                {
-                    "end": "20:00",
-                    "begin": "17:00",
-                    "summary": "Baumgärtner: 18.09._GP Zeugnisübergabe"
-                }
-            ]
-        }
-    },
     "05.03.36": {
-        "id": "SPLUSD17C38",
         "days": {
             "Monday": [
                 {
@@ -33,6 +8,31 @@
                     "summary": "Degle: JenALL_AO-Klin.Opto 2019/S/01.17"
                 }
             ]
-        }
+        },
+        "id": "SPLUSD17C38"
+    },
+    "04.-1.01(Aula)": {
+        "days": {
+            "Wednesday": [
+                {
+                    "end": "17:30",
+                    "begin": "08:30",
+                    "summary": ": 18.9._Optonet/UKP-Workshop"
+                }
+            ]
+        },
+        "id": "SPLUSCA96B6"
+    },
+    "03.03.01(HS1)": {
+        "days": {
+            "Wednesday": [
+                {
+                    "end": "20:00",
+                    "begin": "17:00",
+                    "summary": "Baumgärtner: 18.09._GP Zeugnisübergabe"
+                }
+            ]
+        },
+        "id": "SPLUSFADB3E"
     }
 }

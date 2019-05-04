@@ -1,6 +1,5 @@
 {
     "05.03.32": {
-        "id": "SPLUS4833BD",
         "days": {
             "Wednesday": [
                 {
@@ -9,6 +8,7 @@
                     "summary": "StuRa: StuRa_Prf.-Beratg./05"
                 }
             ]
-        }
+        },
+        "id": "SPLUS4833BD"
     }
 }
