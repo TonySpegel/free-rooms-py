@@ -3,9 +3,9 @@
         "days": {
             "Monday": [
                 {
+                    "summary": "StuRa: StuRa_Prf.-Beratg./03",
                     "end": "16:00",
-                    "begin": "12:00",
-                    "summary": "StuRa: StuRa_Prf.-Beratg./03"
+                    "begin": "12:00"
                 }
             ]
         },
