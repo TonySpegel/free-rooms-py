@@ -1,18 +1,18 @@
 {
     "04.-1.01(Aula)": {
         "days": {
-            "Saturday": [
-                {
-                    "end": "17:30",
-                    "begin": "08:30",
-                    "summary": "ZVM: 17.8._Einschulung Südschule"
-                }
-            ],
             "Friday": [
                 {
                     "end": "17:30",
                     "begin": "08:30",
                     "summary": "ZVM: 16.8._Einschulung Südschule/Vorb."
+                }
+            ],
+            "Saturday": [
+                {
+                    "end": "17:30",
+                    "begin": "08:30",
+                    "summary": "ZVM: 17.8._Einschulung Südschule"
                 }
             ]
         },
