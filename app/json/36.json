@@ -1,5 +1,6 @@
 {
     "05.00.04": {
+        "id": "SPLUSD17C52",
         "days": {
             "Saturday": [
                 {
@@ -8,10 +9,10 @@
                     "summary": "Kraußlach, Bösch: JenALL_GM 2018/19/PL/01"
                 }
             ]
-        },
-        "id": "SPLUSD17C52"
+        }
     },
     "05.01.43": {
+        "id": "SPLUSD17C42",
         "days": {
             "Saturday": [
                 {
@@ -20,7 +21,6 @@
                     "summary": "Kraußlach, Bösch: JenALL_GM 2018/19/PL/01"
                 }
             ]
-        },
-        "id": "SPLUSD17C42"
+        }
     }
 }

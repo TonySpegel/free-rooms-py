@@ -1,5 +1,6 @@
 {
     "05.00.04": {
+        "id": "SPLUSD17C52",
         "days": {
             "Saturday": [
                 {
@@ -8,10 +9,10 @@
                     "summary": "Mainka (BW), Lautenschläger: JenALL_GM 2019/S/01.12"
                 }
             ]
-        },
-        "id": "SPLUSD17C52"
+        }
     },
     "05.01.43": {
+        "id": "SPLUSD17C42",
         "days": {
             "Friday": [
                 {
@@ -27,7 +28,6 @@
                     "summary": "Mainka (BW), Lautenschläger: JenALL_GM 2019/S/01.12"
                 }
             ]
-        },
-        "id": "SPLUSD17C42"
+        }
     }
 }

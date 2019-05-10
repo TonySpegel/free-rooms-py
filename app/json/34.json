@@ -1,17 +1,6 @@
 {
-    "05.03.33": {
-        "days": {
-            "Saturday": [
-                {
-                    "end": "15:15",
-                    "begin": "09:00",
-                    "summary": "Ephrosi(BW), Bernartz(BW): JenALL_GM 2018/S/01.09"
-                }
-            ]
-        },
-        "id": "SPLUSD17C37"
-    },
     "05.00.04": {
+        "id": "SPLUSD17C52",
         "days": {
             "Saturday": [
                 {
@@ -20,7 +9,18 @@
                     "summary": "Ephrosi(BW), Bernartz(BW): JenALL_GM 2018/S/01.09"
                 }
             ]
-        },
-        "id": "SPLUSD17C52"
+        }
+    },
+    "05.03.33": {
+        "id": "SPLUSD17C37",
+        "days": {
+            "Saturday": [
+                {
+                    "end": "15:15",
+                    "begin": "09:00",
+                    "summary": "Ephrosi(BW), Bernartz(BW): JenALL_GM 2018/S/01.09"
+                }
+            ]
+        }
     }
 }

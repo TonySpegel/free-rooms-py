@@ -1,5 +1,6 @@
 {
     "05.03.32": {
+        "id": "SPLUS4833BD",
         "days": {
             "Friday": [
                 {
@@ -8,7 +9,52 @@
                     "summary": "StuRa: StuRa_Prf.-Beratg./04"
                 }
             ]
-        },
-        "id": "SPLUS4833BD"
+        }
+    },
+    "04.-1.01(Aula)": {
+        "id": "SPLUSCA96B6",
+        "days": {
+            "Wednesday": [
+                {
+                    "end": "10:00",
+                    "begin": "08:00",
+                    "summary": "Bösch: BW(BA)FiWi/PL/01"
+                },
+                {
+                    "end": "10:45",
+                    "begin": "10:00",
+                    "summary": "Bösch: BW(BA)FiWi/PL/NTA/01"
+                }
+            ]
+        }
+    },
+    "01.02.12": {
+        "id": "SPLUS9BD8B1",
+        "days": {
+            "Tuesday": [
+                {
+                    "end": "15:00",
+                    "begin": "14:00",
+                    "summary": "Ephrosi(BW): BW(BA)ABWL-Nachh.UF/PL/01"
+                }
+            ]
+        }
+    },
+    "04.00.02 (HS7)": {
+        "id": "SPLUS412E9B",
+        "days": {
+            "Friday": [
+                {
+                    "end": "16:30",
+                    "begin": "15:30",
+                    "summary": "Hauser: BW(BA)IKT/ERP/PL/01"
+                },
+                {
+                    "end": "17:00",
+                    "begin": "16:30",
+                    "summary": "Hauser: BW(BA)IKT/ERP/PL/NTA/01"
+                }
+            ]
+        }
     }
 }

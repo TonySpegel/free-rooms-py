@@ -1,5 +1,6 @@
 {
     "05.03.32": {
+        "id": "SPLUS4833BD",
         "days": {
             "Monday": [
                 {
@@ -8,7 +9,71 @@
                     "summary": "StuRa: StuRa_Prf.-Beratg./03"
                 }
             ]
-        },
-        "id": "SPLUS4833BD"
+        }
+    },
+    "05.00.03": {
+        "id": "SPLUSA8CFB5",
+        "days": {
+            "Thursday": [
+                {
+                    "end": "09:30",
+                    "begin": "08:00",
+                    "summary": "Görg: BW(BA)Recht I/Wdh.-Prf./01"
+                }
+            ]
+        }
+    },
+    "04.-1.01(Aula)": {
+        "id": "SPLUSCA96B6",
+        "days": {
+            "Monday": [
+                {
+                    "end": "10:00",
+                    "begin": "08:00",
+                    "summary": "Leitzgen: BW(BA)Steuern I+II/PL/01"
+                },
+                {
+                    "end": "10:45",
+                    "begin": "10:00",
+                    "summary": "Leitzgen: BW(BA)Steuern I+II/PL/NTA/01"
+                }
+            ],
+            "Friday": [
+                {
+                    "end": "13:30",
+                    "begin": "12:00",
+                    "summary": "Lehmann (BW): BW(BA)Jahresabschl./PL/01"
+                },
+                {
+                    "end": "14:00",
+                    "begin": "13:30",
+                    "summary": "Lehmann (BW): BW(BA)Jahresabschl./PL/NTA/01"
+                }
+            ]
+        }
+    },
+    "01.02.12": {
+        "id": "SPLUS9BD8B1",
+        "days": {
+            "Tuesday": [
+                {
+                    "end": "09:00",
+                    "begin": "08:00",
+                    "summary": "Geyer: BW(BA)ABWL-Immo-Fin./PL/01"
+                }
+            ]
+        }
+    },
+    "05.00.10": {
+        "id": "SPLUSD17C56",
+        "days": {
+            "Wednesday": [
+                {
+                    "end": "11:30",
+                    "begin": "10:00",
+                    "summary": "Enders: BW(BA)Recht II/Wdh.-Prfg./01"
+                }
+            ]
+        }
     }
 }
