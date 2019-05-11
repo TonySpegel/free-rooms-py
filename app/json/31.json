@@ -1,50 +1,50 @@
 {
+    "04.-1.01(Aula)": {
+        "days": {
+            "Saturday": [
+                {
+                    "begin": "08:00",
+                    "summary": ": 03.08._Abschlussfeier BT",
+                    "end": "19:00"
+                }
+            ],
+            "Monday": [
+                {
+                    "begin": "14:00",
+                    "summary": "Görg: BW(BA)Recht I/PL/01",
+                    "end": "15:30"
+                },
+                {
+                    "begin": "15:30",
+                    "summary": "Görg: BW(BA)Recht I/PL/NTA/01",
+                    "end": "16:00"
+                }
+            ]
+        },
+        "id": "SPLUSCA96B6"
+    },
+    "01.02.12": {
+        "days": {
+            "Monday": [
+                {
+                    "begin": "10:00",
+                    "summary": "Ephrosi(BW): BW(BA)ABWL-Logistik/PL/01",
+                    "end": "11:00"
+                }
+            ]
+        },
+        "id": "SPLUS9BD8B1"
+    },
     "05.00.03": {
-        "id": "SPLUSA8CFB5",
         "days": {
             "Thursday": [
                 {
-                    "end": "17:00",
                     "begin": "16:00",
-                    "summary": "Hauser: BW(BA)ABWL-PM+FK/PL/01"
+                    "summary": "Hauser: BW(BA)ABWL-PM+FK/PL/01",
+                    "end": "17:00"
                 }
             ]
-        }
-    },
-    "04.-1.01(Aula)": {
-        "id": "SPLUSCA96B6",
-        "days": {
-            "Monday": [
-                {
-                    "end": "15:30",
-                    "begin": "14:00",
-                    "summary": "Görg: BW(BA)Recht I/PL/01"
-                },
-                {
-                    "end": "16:00",
-                    "begin": "15:30",
-                    "summary": "Görg: BW(BA)Recht I/PL/NTA/01"
-                }
-            ],
-            "Saturday": [
-                {
-                    "end": "19:00",
-                    "begin": "08:00",
-                    "summary": ": 03.08._Abschlussfeier BT"
-                }
-            ]
-        }
-    },
-    "01.02.12": {
-        "id": "SPLUS9BD8B1",
-        "days": {
-            "Monday": [
-                {
-                    "end": "11:00",
-                    "begin": "10:00",
-                    "summary": "Ephrosi(BW): BW(BA)ABWL-Logistik/PL/01"
-                }
-            ]
-        }
+        },
+        "id": "SPLUSA8CFB5"
     }
 }
