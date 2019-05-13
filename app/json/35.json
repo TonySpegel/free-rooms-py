@@ -1,33 +1,33 @@
 {
-    "05.00.04": {
-        "days": {
-            "Saturday": [
-                {
-                    "end": "14:30",
-                    "summary": "Mainka (BW), Lautenschläger: JenALL_GM 2019/S/01.12",
-                    "begin": "09:00"
-                }
-            ]
-        },
-        "id": "SPLUSD17C52"
-    },
     "05.01.43": {
         "days": {
-            "Saturday": [
-                {
-                    "end": "14:30",
-                    "summary": "Mainka (BW), Lautenschläger: JenALL_GM 2019/S/01.12",
-                    "begin": "09:00"
-                }
-            ],
             "Friday": [
                 {
-                    "end": "19:00",
                     "summary": "Mainka (BW): JenALL_GM 2019/S/01.11",
-                    "begin": "13:30"
+                    "begin": "13:30",
+                    "end": "19:00"
+                }
+            ],
+            "Saturday": [
+                {
+                    "summary": "Mainka (BW), Lautenschläger: JenALL_GM 2019/S/01.12",
+                    "begin": "09:00",
+                    "end": "14:30"
                 }
             ]
         },
         "id": "SPLUSD17C42"
+    },
+    "05.00.04": {
+        "days": {
+            "Saturday": [
+                {
+                    "summary": "Mainka (BW), Lautenschläger: JenALL_GM 2019/S/01.12",
+                    "begin": "09:00",
+                    "end": "14:30"
+                }
+            ]
+        },
+        "id": "SPLUSD17C52"
     }
 }

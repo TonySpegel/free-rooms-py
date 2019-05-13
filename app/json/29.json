@@ -1,52 +1,52 @@
 {
+    "01.02.12": {
+        "days": {
+            "Tuesday": [
+                {
+                    "summary": "Geyer: BW(BA)ABWL-Immo-Fin./PL/01",
+                    "begin": "08:00",
+                    "end": "09:00"
+                }
+            ]
+        },
+        "id": "SPLUS9BD8B1"
+    },
     "04.-1.01(Aula)": {
         "days": {
-            "Monday": [
-                {
-                    "end": "10:00",
-                    "summary": "Leitzgen: BW(BA)Steuern I+II/PL/01",
-                    "begin": "08:00"
-                },
-                {
-                    "end": "10:45",
-                    "summary": "Leitzgen: BW(BA)Steuern I+II/PL/NTA/01",
-                    "begin": "10:00"
-                }
-            ],
             "Friday": [
                 {
-                    "end": "13:30",
                     "summary": "Lehmann (BW): BW(BA)Jahresabschl./PL/01",
-                    "begin": "12:00"
+                    "begin": "12:00",
+                    "end": "13:30"
                 },
                 {
-                    "end": "14:00",
                     "summary": "Lehmann (BW): BW(BA)Jahresabschl./PL/NTA/01",
-                    "begin": "13:30"
+                    "begin": "13:30",
+                    "end": "14:00"
+                }
+            ],
+            "Monday": [
+                {
+                    "summary": "Leitzgen: BW(BA)Steuern I+II/PL/01",
+                    "begin": "08:00",
+                    "end": "10:00"
+                },
+                {
+                    "summary": "Leitzgen: BW(BA)Steuern I+II/PL/NTA/01",
+                    "begin": "10:00",
+                    "end": "10:45"
                 }
             ]
         },
         "id": "SPLUSCA96B6"
     },
-    "05.00.03": {
-        "days": {
-            "Thursday": [
-                {
-                    "end": "09:30",
-                    "summary": "Görg: BW(BA)Recht I/Wdh.-Prf./01",
-                    "begin": "08:00"
-                }
-            ]
-        },
-        "id": "SPLUSA8CFB5"
-    },
     "05.00.10": {
         "days": {
             "Wednesday": [
                 {
-                    "end": "11:30",
                     "summary": "Enders: BW(BA)Recht II/Wdh.-Prfg./01",
-                    "begin": "10:00"
+                    "begin": "10:00",
+                    "end": "11:30"
                 }
             ]
         },
@@ -56,24 +56,24 @@
         "days": {
             "Monday": [
                 {
-                    "end": "16:00",
                     "summary": "StuRa: StuRa_Prf.-Beratg./03",
-                    "begin": "12:00"
+                    "begin": "12:00",
+                    "end": "16:00"
                 }
             ]
         },
         "id": "SPLUS4833BD"
     },
-    "01.02.12": {
+    "05.00.03": {
         "days": {
-            "Tuesday": [
+            "Thursday": [
                 {
-                    "end": "09:00",
-                    "summary": "Geyer: BW(BA)ABWL-Immo-Fin./PL/01",
-                    "begin": "08:00"
+                    "summary": "Görg: BW(BA)Recht I/Wdh.-Prf./01",
+                    "begin": "08:00",
+                    "end": "09:30"
                 }
             ]
         },
-        "id": "SPLUS9BD8B1"
+        "id": "SPLUSA8CFB5"
     }
 }

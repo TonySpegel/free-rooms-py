@@ -1,23 +1,35 @@
 {
-    "04.-1.01(Aula)": {
+    "01.02.12": {
         "days": {
             "Monday": [
                 {
-                    "end": "15:30",
-                    "summary": "Görg: BW(BA)Recht I/PL/01",
-                    "begin": "14:00"
-                },
-                {
-                    "end": "16:00",
-                    "summary": "Görg: BW(BA)Recht I/PL/NTA/01",
-                    "begin": "15:30"
+                    "summary": "Ephrosi(BW): BW(BA)ABWL-Logistik/PL/01",
+                    "begin": "10:00",
+                    "end": "11:00"
                 }
-            ],
+            ]
+        },
+        "id": "SPLUS9BD8B1"
+    },
+    "04.-1.01(Aula)": {
+        "days": {
             "Saturday": [
                 {
-                    "end": "19:00",
                     "summary": ": 03.08._Abschlussfeier BT",
-                    "begin": "08:00"
+                    "begin": "08:00",
+                    "end": "19:00"
+                }
+            ],
+            "Monday": [
+                {
+                    "summary": "Görg: BW(BA)Recht I/PL/01",
+                    "begin": "14:00",
+                    "end": "15:30"
+                },
+                {
+                    "summary": "Görg: BW(BA)Recht I/PL/NTA/01",
+                    "begin": "15:30",
+                    "end": "16:00"
                 }
             ]
         },
@@ -27,24 +39,12 @@
         "days": {
             "Thursday": [
                 {
-                    "end": "17:00",
                     "summary": "Hauser: BW(BA)ABWL-PM+FK/PL/01",
-                    "begin": "16:00"
+                    "begin": "16:00",
+                    "end": "17:00"
                 }
             ]
         },
         "id": "SPLUSA8CFB5"
-    },
-    "01.02.12": {
-        "days": {
-            "Monday": [
-                {
-                    "end": "11:00",
-                    "summary": "Ephrosi(BW): BW(BA)ABWL-Logistik/PL/01",
-                    "begin": "10:00"
-                }
-            ]
-        },
-        "id": "SPLUS9BD8B1"
     }
 }
