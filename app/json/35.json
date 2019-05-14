@@ -3,15 +3,15 @@
         "days": {
             "Friday": [
                 {
-                    "summary": "Mainka (BW): JenALL_GM 2019/S/01.11",
                     "begin": "13:30",
+                    "summary": "Mainka (BW): JenALL_GM 2019/S/01.11",
                     "end": "19:00"
                 }
             ],
             "Saturday": [
                 {
-                    "summary": "Mainka (BW), Lautenschläger: JenALL_GM 2019/S/01.12",
                     "begin": "09:00",
+                    "summary": "Lautenschläger, Mainka (BW): JenALL_GM 2019/S/01.12",
                     "end": "14:30"
                 }
             ]
@@ -22,8 +22,8 @@
         "days": {
             "Saturday": [
                 {
-                    "summary": "Mainka (BW), Lautenschläger: JenALL_GM 2019/S/01.12",
                     "begin": "09:00",
+                    "summary": "Lautenschläger, Mainka (BW): JenALL_GM 2019/S/01.12",
                     "end": "14:30"
                 }
             ]
