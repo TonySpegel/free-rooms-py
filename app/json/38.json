@@ -1,5 +1,6 @@
 {
     "04.-1.01(Aula)": {
+        "id": "SPLUSCA96B6",
         "days": {
             "Wednesday": [
                 {
@@ -8,10 +9,10 @@
                     "end": "17:30"
                 }
             ]
-        },
-        "id": "SPLUSCA96B6"
+        }
     },
     "03.03.01(HS1)": {
+        "id": "SPLUSFADB3E",
         "days": {
             "Wednesday": [
                 {
@@ -20,10 +21,10 @@
                     "end": "20:00"
                 }
             ]
-        },
-        "id": "SPLUSFADB3E"
+        }
     },
     "05.03.36": {
+        "id": "SPLUSD17C38",
         "days": {
             "Monday": [
                 {
@@ -32,7 +33,6 @@
                     "end": "14:30"
                 }
             ]
-        },
-        "id": "SPLUSD17C38"
+        }
     }
 }

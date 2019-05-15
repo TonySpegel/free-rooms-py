@@ -1,5 +1,44 @@
 {
+    "05.00.03": {
+        "id": "SPLUSA8CFB5",
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "08:00",
+                    "summary": "Klaus, Rotter (BW): BW(BA)RL Konz./PL/01",
+                    "end": "11:00"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "16:00",
+                    "summary": "Hauser: BW(BA)ABWL-PM+FK/PL/01",
+                    "end": "17:00"
+                }
+            ],
+            "Monday": [
+                {
+                    "begin": "10:00",
+                    "summary": "Grötsch(BW), Hartmann(BW): GM(MA)Dig.Perso-Man./PL/01",
+                    "end": "11:00"
+                }
+            ]
+        }
+    },
+    "05.03.05": {
+        "id": "SPLUS4B049F",
+        "days": {
+            "Friday": [
+                {
+                    "begin": "10:00",
+                    "summary": "Wöhner: GM(MA)Infosys.u.Datenman./APL/01",
+                    "end": "13:00"
+                }
+            ]
+        }
+    },
     "01.02.12": {
+        "id": "SPLUS9BD8B1",
         "days": {
             "Wednesday": [
                 {
@@ -15,10 +54,10 @@
                     "end": "11:00"
                 }
             ]
-        },
-        "id": "SPLUS9BD8B1"
+        }
     },
     "05.00.10": {
+        "id": "SPLUSD17C56",
         "days": {
             "Thursday": [
                 {
@@ -27,48 +66,10 @@
                     "end": "10:15"
                 }
             ]
-        },
-        "id": "SPLUSD17C56"
-    },
-    "05.00.03": {
-        "days": {
-            "Thursday": [
-                {
-                    "begin": "16:00",
-                    "summary": "Hauser: BW(BA)ABWL-PM+FK/PL/01",
-                    "end": "17:00"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "begin": "08:00",
-                    "summary": "Klaus, Rotter (BW): BW(BA)RL Konz./PL/01",
-                    "end": "11:00"
-                }
-            ],
-            "Monday": [
-                {
-                    "begin": "10:00",
-                    "summary": "Grötsch(BW), Hartmann(BW): GM(MA)Dig.Perso-Man./PL/01",
-                    "end": "11:00"
-                }
-            ]
-        },
-        "id": "SPLUSA8CFB5"
-    },
-    "05.03.05": {
-        "days": {
-            "Friday": [
-                {
-                    "begin": "10:00",
-                    "summary": "Wöhner: GM(MA)Infosys.u.Datenman./APL/01",
-                    "end": "13:00"
-                }
-            ]
-        },
-        "id": "SPLUS4B049F"
+        }
     },
     "04.-1.01(Aula)": {
+        "id": "SPLUSCA96B6",
         "days": {
             "Saturday": [
                 {
@@ -101,34 +102,10 @@
                     "end": "16:00"
                 }
             ]
-        },
-        "id": "SPLUSCA96B6"
-    },
-    "05.03.09(SW)": {
-        "days": {
-            "Tuesday": [
-                {
-                    "begin": "13:00",
-                    "summary": ": SW(BA)Soz 1/PL/01",
-                    "end": "14:30"
-                }
-            ]
-        },
-        "id": "SPLUS5225C5"
-    },
-    "05.00.04": {
-        "days": {
-            "Wednesday": [
-                {
-                    "begin": "14:00",
-                    "summary": "Bösch, Klaus: GM(MA)Bilanzg.+Bewertg./PL/01",
-                    "end": "16:00"
-                }
-            ]
-        },
-        "id": "SPLUSD17C52"
+        }
     },
     "04.00.02 (HS7)": {
+        "id": "SPLUS412E9B",
         "days": {
             "Wednesday": [
                 {
@@ -137,7 +114,30 @@
                     "end": "15:00"
                 }
             ]
-        },
-        "id": "SPLUS412E9B"
+        }
+    },
+    "05.03.09(SW)": {
+        "id": "SPLUS5225C5",
+        "days": {
+            "Tuesday": [
+                {
+                    "begin": "13:00",
+                    "summary": ": SW(BA)Soz 1/PL/01",
+                    "end": "14:30"
+                }
+            ]
+        }
+    },
+    "05.00.04": {
+        "id": "SPLUSD17C52",
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "14:00",
+                    "summary": "Bösch, Klaus: GM(MA)Bilanzg.+Bewertg./PL/01",
+                    "end": "16:00"
+                }
+            ]
+        }
     }
 }

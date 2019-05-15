@@ -1,17 +1,6 @@
 {
-    "04.00.01(HS6)": {
-        "days": {
-            "Monday": [
-                {
-                    "begin": "09:30",
-                    "summary": ": SW(BA)Einführungsveranstaltung/S/01",
-                    "end": "11:00"
-                }
-            ]
-        },
-        "id": "SPLUS40B576"
-    },
     "05.01.43": {
+        "id": "SPLUSD17C42",
         "days": {
             "Friday": [
                 {
@@ -20,10 +9,10 @@
                     "end": "12:45"
                 }
             ]
-        },
-        "id": "SPLUSD17C42"
+        }
     },
     "04.00.02 (HS7)": {
+        "id": "SPLUS412E9B",
         "days": {
             "Tuesday": [
                 {
@@ -39,7 +28,18 @@
                     "end": "11:00"
                 }
             ]
-        },
-        "id": "SPLUS412E9B"
+        }
+    },
+    "04.00.01(HS6)": {
+        "id": "SPLUS40B576",
+        "days": {
+            "Monday": [
+                {
+                    "begin": "09:30",
+                    "summary": ": SW(BA)Einführungsveranstaltung/S/01",
+                    "end": "11:00"
+                }
+            ]
+        }
     }
 }

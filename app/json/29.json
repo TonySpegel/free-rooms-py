@@ -1,5 +1,61 @@
 {
+    "05.00.03": {
+        "id": "SPLUSA8CFB5",
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "12:00",
+                    "summary": "Leitzgen: BW(BA)Vf.+Bew.R/PL/01",
+                    "end": "15:00"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "08:00",
+                    "summary": "Görg: BW(BA)Recht I/Wdh.-Prf./01",
+                    "end": "09:30"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "begin": "14:00",
+                    "summary": "Sünnwoldt(BW): BW(BA)GL WR/PL/01",
+                    "end": "17:00"
+                },
+                {
+                    "begin": "17:00",
+                    "summary": "Sünnwoldt(BW): BW(BA)GL WR/PL/NTA/01",
+                    "end": "17:45"
+                }
+            ]
+        }
+    },
+    "05.00.10": {
+        "id": "SPLUSD17C56",
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "10:00",
+                    "summary": "Enders: BW(BA)Recht II/Wdh.-Prfg./01",
+                    "end": "11:30"
+                }
+            ]
+        }
+    },
+    "05.03.32": {
+        "id": "SPLUS4833BD",
+        "days": {
+            "Monday": [
+                {
+                    "begin": "12:00",
+                    "summary": "StuRa: StuRa_Prf.-Beratg./03",
+                    "end": "16:00"
+                }
+            ]
+        }
+    },
     "01.02.12": {
+        "id": "SPLUS9BD8B1",
         "days": {
             "Thursday": [
                 {
@@ -22,41 +78,10 @@
                     "end": "15:30"
                 }
             ]
-        },
-        "id": "SPLUS9BD8B1"
-    },
-    "05.00.03": {
-        "days": {
-            "Thursday": [
-                {
-                    "begin": "08:00",
-                    "summary": "Görg: BW(BA)Recht I/Wdh.-Prf./01",
-                    "end": "09:30"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "begin": "14:00",
-                    "summary": "Sünnwoldt(BW): BW(BA)GL WR/PL/01",
-                    "end": "17:00"
-                },
-                {
-                    "begin": "17:00",
-                    "summary": "Sünnwoldt(BW): BW(BA)GL WR/PL/NTA/01",
-                    "end": "17:45"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "begin": "12:00",
-                    "summary": "Leitzgen: BW(BA)Vf.+Bew.R/PL/01",
-                    "end": "15:00"
-                }
-            ]
-        },
-        "id": "SPLUSA8CFB5"
+        }
     },
     "05.03.02 (HS5)": {
+        "id": "SPLUSD17C3B",
         "days": {
             "Thursday": [
                 {
@@ -65,35 +90,30 @@
                     "end": "09:00"
                 }
             ]
-        },
-        "id": "SPLUSD17C3B"
+        }
     },
-    "05.00.10": {
+    "05.00.02": {
+        "id": "SPLUS29A371",
+        "days": {
+            "Tuesday": [
+                {
+                    "begin": "12:00",
+                    "summary": "Klaus: GM(MA)RL/PL/01",
+                    "end": "14:00"
+                }
+            ]
+        }
+    },
+    "04.-1.01(Aula)": {
+        "id": "SPLUSCA96B6",
         "days": {
             "Wednesday": [
                 {
-                    "begin": "10:00",
-                    "summary": "Enders: BW(BA)Recht II/Wdh.-Prfg./01",
-                    "end": "11:30"
-                }
-            ]
-        },
-        "id": "SPLUSD17C56"
-    },
-    "05.03.32": {
-        "days": {
-            "Monday": [
-                {
                     "begin": "12:00",
-                    "summary": "StuRa: StuRa_Prf.-Beratg./03",
-                    "end": "16:00"
+                    "summary": "Enders: BW(BA)Gew.RS/PL/01",
+                    "end": "13:30"
                 }
-            ]
-        },
-        "id": "SPLUS4833BD"
-    },
-    "04.-1.01(Aula)": {
-        "days": {
+            ],
             "Friday": [
                 {
                     "begin": "08:00",
@@ -111,13 +131,6 @@
                     "end": "14:00"
                 }
             ],
-            "Wednesday": [
-                {
-                    "begin": "12:00",
-                    "summary": "Enders: BW(BA)Gew.RS/PL/01",
-                    "end": "13:30"
-                }
-            ],
             "Monday": [
                 {
                     "begin": "08:00",
@@ -130,34 +143,10 @@
                     "end": "10:45"
                 }
             ]
-        },
-        "id": "SPLUSCA96B6"
-    },
-    "05.00.02": {
-        "days": {
-            "Tuesday": [
-                {
-                    "begin": "12:00",
-                    "summary": "Klaus: GM(MA)RL/PL/01",
-                    "end": "14:00"
-                }
-            ]
-        },
-        "id": "SPLUS29A371"
-    },
-    "05.00.04": {
-        "days": {
-            "Wednesday": [
-                {
-                    "begin": "16:00",
-                    "summary": "Enders, Görg: GM(MA)WR/PL/01",
-                    "end": "18:00"
-                }
-            ]
-        },
-        "id": "SPLUSD17C52"
+        }
     },
     "04.00.02 (HS7)": {
+        "id": "SPLUS412E9B",
         "days": {
             "Tuesday": [
                 {
@@ -166,7 +155,18 @@
                     "end": "13:00"
                 }
             ]
-        },
-        "id": "SPLUS412E9B"
+        }
+    },
+    "05.00.04": {
+        "id": "SPLUSD17C52",
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "16:00",
+                    "summary": "Enders, Görg: GM(MA)WR/PL/01",
+                    "end": "18:00"
+                }
+            ]
+        }
     }
 }
