@@ -1,16 +1,4 @@
 {
-    "05.01.43": {
-        "id": "SPLUSD17C42",
-        "days": {
-            "Friday": [
-                {
-                    "begin": "07:45",
-                    "summary": "Kraußlach: JenALL_BGM 2018/S/01.6",
-                    "end": "12:45"
-                }
-            ]
-        }
-    },
     "04.00.02 (HS7)": {
         "id": "SPLUS412E9B",
         "days": {
@@ -26,6 +14,18 @@
                     "begin": "07:45",
                     "summary": "Garzke: MB/ME(BA)Einführungsveranstaltung/S/01",
                     "end": "11:00"
+                }
+            ]
+        }
+    },
+    "05.01.43": {
+        "id": "SPLUSD17C42",
+        "days": {
+            "Friday": [
+                {
+                    "begin": "07:45",
+                    "summary": "Kraußlach: JenALL_BGM 2018/S/01.6",
+                    "end": "12:45"
                 }
             ]
         }

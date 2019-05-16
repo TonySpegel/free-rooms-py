@@ -1,4 +1,16 @@
 {
+    "05.03.36": {
+        "id": "SPLUSD17C38",
+        "days": {
+            "Monday": [
+                {
+                    "begin": "09:00",
+                    "summary": "JenAll_4: JenALL_AO-Klin.Opto 2019/S/01.17",
+                    "end": "14:30"
+                }
+            ]
+        }
+    },
     "04.-1.01(Aula)": {
         "id": "SPLUSCA96B6",
         "days": {
@@ -19,18 +31,6 @@
                     "begin": "17:00",
                     "summary": "Baumgärtner: 18.09._GP Zeugnisübergabe",
                     "end": "20:00"
-                }
-            ]
-        }
-    },
-    "05.03.36": {
-        "id": "SPLUSD17C38",
-        "days": {
-            "Monday": [
-                {
-                    "begin": "09:00",
-                    "summary": "JenAll_4: JenALL_AO-Klin.Opto 2019/S/01.17",
-                    "end": "14:30"
                 }
             ]
         }

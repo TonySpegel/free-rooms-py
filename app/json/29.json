@@ -2,18 +2,18 @@
     "05.00.03": {
         "id": "SPLUSA8CFB5",
         "days": {
-            "Wednesday": [
-                {
-                    "begin": "12:00",
-                    "summary": "Leitzgen: BW(BA)Vf.+Bew.R/PL/01",
-                    "end": "15:00"
-                }
-            ],
             "Thursday": [
                 {
                     "begin": "08:00",
                     "summary": "Görg: BW(BA)Recht I/Wdh.-Prf./01",
                     "end": "09:30"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "12:00",
+                    "summary": "Leitzgen: BW(BA)Vf.+Bew.R/PL/01",
+                    "end": "15:00"
                 }
             ],
             "Tuesday": [
@@ -30,26 +30,55 @@
             ]
         }
     },
-    "05.00.10": {
-        "id": "SPLUSD17C56",
+    "05.00.04": {
+        "id": "SPLUSD17C52",
         "days": {
             "Wednesday": [
                 {
-                    "begin": "10:00",
-                    "summary": "Enders: BW(BA)Recht II/Wdh.-Prfg./01",
-                    "end": "11:30"
+                    "begin": "16:00",
+                    "summary": "Enders, Görg: GM(MA)WR/PL/01",
+                    "end": "18:00"
                 }
             ]
         }
     },
-    "05.03.32": {
-        "id": "SPLUS4833BD",
+    "04.-1.01(Aula)": {
+        "id": "SPLUSCA96B6",
         "days": {
-            "Monday": [
+            "Friday": [
+                {
+                    "begin": "08:00",
+                    "summary": "Stoetzer: BW(BA)ang.WiPo/PL/01",
+                    "end": "10:00"
+                },
                 {
                     "begin": "12:00",
-                    "summary": "StuRa: StuRa_Prf.-Beratg./03",
-                    "end": "16:00"
+                    "summary": "Lehmann (BW): BW(BA)Jahresabschl./PL/01",
+                    "end": "13:30"
+                },
+                {
+                    "begin": "13:30",
+                    "summary": "Lehmann (BW): BW(BA)Jahresabschl./PL/NTA/01",
+                    "end": "14:00"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "12:00",
+                    "summary": "Enders: BW(BA)Gew.RS/PL/01",
+                    "end": "13:30"
+                }
+            ],
+            "Monday": [
+                {
+                    "begin": "08:00",
+                    "summary": "Leitzgen: BW(BA)Steuern I+II/PL/01",
+                    "end": "10:00"
+                },
+                {
+                    "begin": "10:00",
+                    "summary": "Leitzgen: BW(BA)Steuern I+II/PL/NTA/01",
+                    "end": "10:45"
                 }
             ]
         }
@@ -92,59 +121,6 @@
             ]
         }
     },
-    "05.00.02": {
-        "id": "SPLUS29A371",
-        "days": {
-            "Tuesday": [
-                {
-                    "begin": "12:00",
-                    "summary": "Klaus: GM(MA)RL/PL/01",
-                    "end": "14:00"
-                }
-            ]
-        }
-    },
-    "04.-1.01(Aula)": {
-        "id": "SPLUSCA96B6",
-        "days": {
-            "Wednesday": [
-                {
-                    "begin": "12:00",
-                    "summary": "Enders: BW(BA)Gew.RS/PL/01",
-                    "end": "13:30"
-                }
-            ],
-            "Friday": [
-                {
-                    "begin": "08:00",
-                    "summary": "Stoetzer: BW(BA)ang.WiPo/PL/01",
-                    "end": "10:00"
-                },
-                {
-                    "begin": "12:00",
-                    "summary": "Lehmann (BW): BW(BA)Jahresabschl./PL/01",
-                    "end": "13:30"
-                },
-                {
-                    "begin": "13:30",
-                    "summary": "Lehmann (BW): BW(BA)Jahresabschl./PL/NTA/01",
-                    "end": "14:00"
-                }
-            ],
-            "Monday": [
-                {
-                    "begin": "08:00",
-                    "summary": "Leitzgen: BW(BA)Steuern I+II/PL/01",
-                    "end": "10:00"
-                },
-                {
-                    "begin": "10:00",
-                    "summary": "Leitzgen: BW(BA)Steuern I+II/PL/NTA/01",
-                    "end": "10:45"
-                }
-            ]
-        }
-    },
     "04.00.02 (HS7)": {
         "id": "SPLUS412E9B",
         "days": {
@@ -157,14 +133,38 @@
             ]
         }
     },
-    "05.00.04": {
-        "id": "SPLUSD17C52",
+    "05.00.02": {
+        "id": "SPLUS29A371",
+        "days": {
+            "Tuesday": [
+                {
+                    "begin": "12:00",
+                    "summary": "Klaus: GM(MA)RL/PL/01",
+                    "end": "14:00"
+                }
+            ]
+        }
+    },
+    "05.00.10": {
+        "id": "SPLUSD17C56",
         "days": {
             "Wednesday": [
                 {
-                    "begin": "16:00",
-                    "summary": "Enders, Görg: GM(MA)WR/PL/01",
-                    "end": "18:00"
+                    "begin": "10:00",
+                    "summary": "Enders: BW(BA)Recht II/Wdh.-Prfg./01",
+                    "end": "11:30"
+                }
+            ]
+        }
+    },
+    "05.03.32": {
+        "id": "SPLUS4833BD",
+        "days": {
+            "Monday": [
+                {
+                    "begin": "12:00",
+                    "summary": "StuRa: StuRa_Prf.-Beratg./03",
+                    "end": "16:00"
                 }
             ]
         }

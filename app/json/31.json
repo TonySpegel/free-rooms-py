@@ -2,18 +2,18 @@
     "05.00.03": {
         "id": "SPLUSA8CFB5",
         "days": {
-            "Wednesday": [
-                {
-                    "begin": "08:00",
-                    "summary": "Klaus, Rotter (BW): BW(BA)RL Konz./PL/01",
-                    "end": "11:00"
-                }
-            ],
             "Thursday": [
                 {
                     "begin": "16:00",
                     "summary": "Hauser: BW(BA)ABWL-PM+FK/PL/01",
                     "end": "17:00"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "08:00",
+                    "summary": "Klaus, Rotter (BW): BW(BA)RL Konz./PL/01",
+                    "end": "11:00"
                 }
             ],
             "Monday": [
@@ -37,6 +37,54 @@
             ]
         }
     },
+    "05.00.04": {
+        "id": "SPLUSD17C52",
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "14:00",
+                    "summary": "Bösch, Klaus: GM(MA)Bilanzg.+Bewertg./PL/01",
+                    "end": "16:00"
+                }
+            ]
+        }
+    },
+    "04.-1.01(Aula)": {
+        "id": "SPLUSCA96B6",
+        "days": {
+            "Tuesday": [
+                {
+                    "begin": "08:00",
+                    "summary": "Görg: BW(BA)WVR/PL/01",
+                    "end": "09:30"
+                },
+                {
+                    "begin": "09:30",
+                    "summary": "Görg: BW(BA)WVR/PL/NTA/01",
+                    "end": "10:15"
+                }
+            ],
+            "Saturday": [
+                {
+                    "begin": "08:00",
+                    "summary": ": 03.08._Abschlussfeier BT",
+                    "end": "19:00"
+                }
+            ],
+            "Monday": [
+                {
+                    "begin": "14:00",
+                    "summary": "Görg: BW(BA)Recht I/PL/01",
+                    "end": "15:30"
+                },
+                {
+                    "begin": "15:30",
+                    "summary": "Görg: BW(BA)Recht I/PL/NTA/01",
+                    "end": "16:00"
+                }
+            ]
+        }
+    },
     "01.02.12": {
         "id": "SPLUS9BD8B1",
         "days": {
@@ -52,54 +100,6 @@
                     "begin": "10:00",
                     "summary": "Ephrosi(BW): BW(BA)ABWL-Logistik/PL/01",
                     "end": "11:00"
-                }
-            ]
-        }
-    },
-    "05.00.10": {
-        "id": "SPLUSD17C56",
-        "days": {
-            "Thursday": [
-                {
-                    "begin": "08:00",
-                    "summary": "Buerke, Magerhans: BW(BA)Marktor.UF/PL/01",
-                    "end": "10:15"
-                }
-            ]
-        }
-    },
-    "04.-1.01(Aula)": {
-        "id": "SPLUSCA96B6",
-        "days": {
-            "Saturday": [
-                {
-                    "begin": "08:00",
-                    "summary": ": 03.08._Abschlussfeier BT",
-                    "end": "19:00"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "begin": "08:00",
-                    "summary": "Görg: BW(BA)WVR/PL/01",
-                    "end": "09:30"
-                },
-                {
-                    "begin": "09:30",
-                    "summary": "Görg: BW(BA)WVR/PL/NTA/01",
-                    "end": "10:15"
-                }
-            ],
-            "Monday": [
-                {
-                    "begin": "14:00",
-                    "summary": "Görg: BW(BA)Recht I/PL/01",
-                    "end": "15:30"
-                },
-                {
-                    "begin": "15:30",
-                    "summary": "Görg: BW(BA)Recht I/PL/NTA/01",
-                    "end": "16:00"
                 }
             ]
         }
@@ -128,14 +128,14 @@
             ]
         }
     },
-    "05.00.04": {
-        "id": "SPLUSD17C52",
+    "05.00.10": {
+        "id": "SPLUSD17C56",
         "days": {
-            "Wednesday": [
+            "Thursday": [
                 {
-                    "begin": "14:00",
-                    "summary": "Bösch, Klaus: GM(MA)Bilanzg.+Bewertg./PL/01",
-                    "end": "16:00"
+                    "begin": "08:00",
+                    "summary": "Buerke, Magerhans: BW(BA)Marktor.UF/PL/01",
+                    "end": "10:15"
                 }
             ]
         }
