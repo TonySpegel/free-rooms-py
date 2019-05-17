@@ -1,45 +1,92 @@
 {
-    "04.00.02 (HS7)": {
-        "id": "SPLUS412E9B",
+    "04.00.01(HS6)": {
         "days": {
-            "Tuesday": [
-                {
-                    "begin": "08:00",
-                    "summary": "Garzke: MB/ME(BA)Einführungsveranstaltung/S/02",
-                    "end": "12:00"
-                }
-            ],
             "Monday": [
                 {
-                    "begin": "07:45",
-                    "summary": "Garzke: MB/ME(BA)Einführungsveranstaltung/S/01",
-                    "end": "11:00"
+                    "summary": "Lakemann: SW(BA)Einführungsveranstaltung/S/01",
+                    "end": "11:00",
+                    "begin": "09:30"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "summary": "Schröck: SciTec_Einführungsveranstaltung/S/01",
+                    "end": "10:30",
+                    "begin": "09:30"
                 }
             ]
-        }
+        },
+        "id": "SPLUS40B576"
+    },
+    "04.00.08(CIM)": {
+        "days": {
+            "Monday": [
+                {
+                    "summary": "JenAll: JenAll._TracePro_I",
+                    "end": "18:00",
+                    "begin": "08:00"
+                }
+            ],
+            "Friday": [
+                {
+                    "summary": "JenAll: JenAll._TracePro_V",
+                    "end": "16:00",
+                    "begin": "08:00"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "summary": "JenAll: JenAll._TracePro_III",
+                    "end": "18:00",
+                    "begin": "08:00"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "summary": "JenAll: JenAll._TracePro_II",
+                    "end": "18:00",
+                    "begin": "08:00"
+                }
+            ],
+            "Thursday": [
+                {
+                    "summary": "JenAll: JenAll._TracePro_IV",
+                    "end": "18:00",
+                    "begin": "08:00"
+                }
+            ]
+        },
+        "id": "SPLUSCA9608"
+    },
+    "04.00.02 (HS7)": {
+        "days": {
+            "Monday": [
+                {
+                    "summary": "Garzke: MB/ME(BA)Einführungsveranstaltung/S/01",
+                    "end": "11:00",
+                    "begin": "07:45"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "summary": "Garzke: MB/ME(BA)Einführungsveranstaltung/S/02",
+                    "end": "12:00",
+                    "begin": "08:00"
+                }
+            ]
+        },
+        "id": "SPLUS412E9B"
     },
     "05.01.43": {
-        "id": "SPLUSD17C42",
         "days": {
             "Friday": [
                 {
-                    "begin": "07:45",
                     "summary": "Kraußlach: JenALL_BGM 2018/S/01.6",
-                    "end": "12:45"
+                    "end": "12:45",
+                    "begin": "07:45"
                 }
             ]
-        }
-    },
-    "04.00.01(HS6)": {
-        "id": "SPLUS40B576",
-        "days": {
-            "Monday": [
-                {
-                    "begin": "09:30",
-                    "summary": ": SW(BA)Einführungsveranstaltung/S/01",
-                    "end": "11:00"
-                }
-            ]
-        }
+        },
+        "id": "SPLUSD17C42"
     }
 }
