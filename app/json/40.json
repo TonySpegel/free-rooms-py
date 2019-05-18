@@ -1,14 +1,14 @@
 {
     "05.03.32": {
+        "id": "SPLUS4833BD",
         "days": {
             "Wednesday": [
                 {
                     "summary": "StuRa: StuRa_Prf.-Beratg./05",
-                    "end": "16:00",
-                    "begin": "12:00"
+                    "begin": "12:00",
+                    "end": "16:00"
                 }
             ]
-        },
-        "id": "SPLUS4833BD"
+        }
     }
 }

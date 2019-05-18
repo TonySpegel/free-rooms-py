@@ -1,162 +1,169 @@
 {
-    "05.00.03": {
-        "days": {
-            "Monday": [
-                {
-                    "summary": "Werner, A.: GM(MA)E-Bus./PL/01",
-                    "end": "11:30",
-                    "begin": "10:00"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "summary": "Leitzgen: GM(MA)St.imUV/PL/01",
-                    "end": "10:00",
-                    "begin": "08:00"
-                },
-                {
-                    "summary": "Ephrosi(BW), Sonntag(BW): BW(BA)Contr./PL/01",
-                    "end": "15:00",
-                    "begin": "12:00"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "summary": "Leitzgen: BW(BA)Steuerl.Gest./PL/01",
-                    "end": "11:00",
-                    "begin": "08:00"
-                }
-            ],
-            "Thursday": [
-                {
-                    "summary": "Buerke, Magerhans: BW(BA)Marktg.ana/-instr./PL/01",
-                    "end": "15:00",
-                    "begin": "12:00"
-                }
-            ]
-        },
-        "id": "SPLUSA8CFB5"
-    },
     "04.-1.01(Aula)": {
+        "id": "SPLUSCA96B6",
         "days": {
             "Wednesday": [
                 {
                     "summary": "Bösch: BW(BA)FiWi/PL/01",
-                    "end": "10:00",
-                    "begin": "08:00"
+                    "begin": "08:00",
+                    "end": "10:00"
                 },
                 {
                     "summary": "Bösch: BW(BA)FiWi/PL/NTA/01",
-                    "end": "10:45",
-                    "begin": "10:00"
+                    "begin": "10:00",
+                    "end": "10:45"
                 }
             ]
-        },
-        "id": "SPLUSCA96B6"
+        }
     },
-    "05.03.32": {
-        "days": {
-            "Friday": [
-                {
-                    "summary": "StuRa: StuRa_Prf.-Beratg./04",
-                    "end": "16:00",
-                    "begin": "12:00"
-                }
-            ]
-        },
-        "id": "SPLUS4833BD"
-    },
-    "05.03.02 (HS5)": {
+    "03.03.38(Büro)": {
+        "id": "SPLUS73D2C8",
         "days": {
             "Monday": [
                 {
-                    "summary": ": SW(BA)Recht 3/PL/01",
-                    "end": "14:00",
-                    "begin": "12:00"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "summary": ": SW(BA)Recht 1/PL/01",
-                    "end": "10:00",
-                    "begin": "08:00"
+                    "summary": "Engelmann, Guthmann, Herbst, S.: WI(MA)Angew.PE/mdl. Prfg/01",
+                    "begin": "08:00",
+                    "end": "16:00"
                 }
             ],
             "Tuesday": [
                 {
-                    "summary": ": SW(BA)Recht 2/PL/01",
-                    "end": "14:00",
-                    "begin": "12:00"
+                    "summary": "Engelmann, Guthmann, Herbst, S.: WI(MA)Angew.PE/mdl. Prfg/02",
+                    "begin": "08:00",
+                    "end": "16:00"
                 }
             ]
-        },
-        "id": "SPLUSD17C3B"
-    },
-    "01.02.12": {
-        "days": {
-            "Tuesday": [
-                {
-                    "summary": "Ephrosi(BW): BW(BA)ABWL-Nachh.UF/PL/01",
-                    "end": "15:00",
-                    "begin": "14:00"
-                }
-            ]
-        },
-        "id": "SPLUS9BD8B1"
+        }
     },
     "05.00.04": {
+        "id": "SPLUSD17C52",
         "days": {
-            "Monday": [
-                {
-                    "summary": "Angstmann(BW), Enders, Watzka: BW(BA)ZA/EF PM/PL/01",
-                    "end": "17:00",
-                    "begin": "14:00"
-                },
-                {
-                    "summary": "Angstmann(BW), Enders, Watzka: BW(BA)ZA/EF PM/PL/NTA/01",
-                    "end": "17:45",
-                    "begin": "17:00"
-                }
-            ],
             "Friday": [
                 {
                     "summary": "Bösch, Geyer: BW(BA)Spez.Th.FiWi/PL/01",
-                    "end": "11:00",
-                    "begin": "08:00"
+                    "begin": "08:00",
+                    "end": "11:00"
+                }
+            ],
+            "Monday": [
+                {
+                    "summary": "Angstmann(BW), Enders, Watzka: BW(BA)ZA/EF PM/PL/01",
+                    "begin": "14:00",
+                    "end": "17:00"
+                },
+                {
+                    "summary": "Angstmann(BW), Enders, Watzka: BW(BA)ZA/EF PM/PL/NTA/01",
+                    "begin": "17:00",
+                    "end": "17:45"
                 }
             ],
             "Thursday": [
                 {
                     "summary": "Buerke: GM(MA)Marktor.UF/M/PL/01",
-                    "end": "12:00",
-                    "begin": "10:00"
+                    "begin": "10:00",
+                    "end": "12:00"
                 }
             ]
-        },
-        "id": "SPLUSD17C52"
+        }
     },
-    "04.00.02 (HS7)": {
+    "05.03.02 (HS5)": {
+        "id": "SPLUSD17C3B",
         "days": {
-            "Friday": [
+            "Monday": [
                 {
-                    "summary": "Hauser: BW(BA)IKT/ERP/PL/01",
-                    "end": "16:30",
-                    "begin": "15:30"
+                    "summary": ": SW(BA)Recht 3/PL/01",
+                    "begin": "12:00",
+                    "end": "14:00"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "summary": ": SW(BA)Recht 1/PL/01",
+                    "begin": "08:00",
+                    "end": "10:00"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "summary": ": SW(BA)Recht 2/PL/01",
+                    "begin": "12:00",
+                    "end": "14:00"
+                }
+            ]
+        }
+    },
+    "05.00.03": {
+        "id": "SPLUSA8CFB5",
+        "days": {
+            "Monday": [
+                {
+                    "summary": "Werner, A.: GM(MA)E-Bus./PL/01",
+                    "begin": "10:00",
+                    "end": "11:30"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "summary": "Leitzgen: GM(MA)St.imUV/PL/01",
+                    "begin": "08:00",
+                    "end": "10:00"
                 },
                 {
-                    "summary": "Hauser: BW(BA)IKT/ERP/PL/NTA/01",
-                    "end": "17:00",
-                    "begin": "16:30"
+                    "summary": "Ephrosi(BW), Sonntag(BW): BW(BA)Contr./PL/01",
+                    "begin": "12:00",
+                    "end": "15:00"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "summary": "Leitzgen: BW(BA)Steuerl.Gest./PL/01",
+                    "begin": "08:00",
+                    "end": "11:00"
                 }
             ],
             "Thursday": [
                 {
-                    "summary": ": SW(BA)Ges.wiss./PL/01",
-                    "end": "14:00",
-                    "begin": "12:00"
+                    "summary": "Buerke, Magerhans: BW(BA)Marktg.ana/-instr./PL/01",
+                    "begin": "12:00",
+                    "end": "15:00"
                 }
             ]
-        },
-        "id": "SPLUS412E9B"
+        }
+    },
+    "01.02.12": {
+        "id": "SPLUS9BD8B1",
+        "days": {
+            "Tuesday": [
+                {
+                    "summary": "Ephrosi(BW): BW(BA)ABWL-Nachh.UF/PL/01",
+                    "begin": "14:00",
+                    "end": "15:00"
+                }
+            ]
+        }
+    },
+    "04.00.02 (HS7)": {
+        "id": "SPLUS412E9B",
+        "days": {
+            "Thursday": [
+                {
+                    "summary": ": SW(BA)Ges.wiss./PL/01",
+                    "begin": "12:00",
+                    "end": "14:00"
+                }
+            ]
+        }
+    },
+    "05.03.32": {
+        "id": "SPLUS4833BD",
+        "days": {
+            "Friday": [
+                {
+                    "summary": "StuRa: StuRa_Prf.-Beratg./04",
+                    "begin": "12:00",
+                    "end": "16:00"
+                }
+            ]
+        }
     }
 }

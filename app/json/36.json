@@ -1,26 +1,26 @@
 {
     "05.01.43": {
+        "id": "SPLUSD17C42",
         "days": {
             "Saturday": [
                 {
                     "summary": "Bösch, Kraußlach: JenALL_GM 2018/19/PL/01",
-                    "end": "11:00",
-                    "begin": "09:00"
+                    "begin": "09:00",
+                    "end": "11:00"
                 }
             ]
-        },
-        "id": "SPLUSD17C42"
+        }
     },
     "05.00.04": {
+        "id": "SPLUSD17C52",
         "days": {
             "Saturday": [
                 {
                     "summary": "Bösch, Kraußlach: JenALL_GM 2018/19/PL/01",
-                    "end": "11:00",
-                    "begin": "09:00"
+                    "begin": "09:00",
+                    "end": "11:00"
                 }
             ]
-        },
-        "id": "SPLUSD17C52"
+        }
     }
 }

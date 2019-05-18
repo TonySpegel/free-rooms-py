@@ -1,66 +1,66 @@
 {
     "05.03.36": {
+        "id": "SPLUSD17C38",
         "days": {
-            "Sunday": [
-                {
-                    "summary": "JenAll_4: JenALL_AO-Klin.Opto 2019/S/01.16",
-                    "end": "17:00",
-                    "begin": "08:00"
-                }
-            ],
-            "Saturday": [
-                {
-                    "summary": "JenAll_4: JenALL_AO-Klin.Opto 2019/S/01.15",
-                    "end": "17:00",
-                    "begin": "08:00"
-                }
-            ],
             "Friday": [
                 {
                     "summary": "JenAll_4: JenALL_AO-Klin.Opto 2019/S/01.14",
-                    "end": "17:00",
-                    "begin": "08:00"
+                    "begin": "08:00",
+                    "end": "17:00"
                 }
             ],
             "Thursday": [
                 {
                     "summary": "JenAll_4: JenALL_AO-Klin.Opto 2019/S/01.13",
-                    "end": "18:00",
-                    "begin": "09:00"
-                }
-            ]
-        },
-        "id": "SPLUSD17C38"
-    },
-    "05.00.04": {
-        "days": {
-            "Sunday": [
-                {
-                    "summary": "JenAll_4: JenALL_AO-Klin.Opto 2019/S/01.16",
-                    "end": "17:00",
-                    "begin": "08:00"
+                    "begin": "09:00",
+                    "end": "18:00"
                 }
             ],
             "Saturday": [
                 {
                     "summary": "JenAll_4: JenALL_AO-Klin.Opto 2019/S/01.15",
-                    "end": "17:00",
-                    "begin": "08:00"
+                    "begin": "08:00",
+                    "end": "17:00"
+                }
+            ],
+            "Sunday": [
+                {
+                    "summary": "JenAll_4: JenALL_AO-Klin.Opto 2019/S/01.16",
+                    "begin": "08:00",
+                    "end": "17:00"
                 }
             ]
-        },
-        "id": "SPLUSD17C52"
+        }
+    },
+    "05.00.04": {
+        "id": "SPLUSD17C52",
+        "days": {
+            "Sunday": [
+                {
+                    "summary": "JenAll_4: JenALL_AO-Klin.Opto 2019/S/01.16",
+                    "begin": "08:00",
+                    "end": "17:00"
+                }
+            ],
+            "Saturday": [
+                {
+                    "summary": "JenAll_4: JenALL_AO-Klin.Opto 2019/S/01.15",
+                    "begin": "08:00",
+                    "end": "17:00"
+                }
+            ]
+        }
     },
     "05.01.43": {
+        "id": "SPLUSD17C42",
         "days": {
             "Friday": [
                 {
                     "summary": "JenAll: JenALL_BGM 2018/S/01.5",
-                    "end": "12:45",
-                    "begin": "07:45"
+                    "begin": "07:45",
+                    "end": "12:45"
                 }
             ]
-        },
-        "id": "SPLUSD17C42"
+        }
     }
 }
