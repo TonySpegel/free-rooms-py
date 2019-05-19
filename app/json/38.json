@@ -4,8 +4,8 @@
         "days": {
             "Monday": [
                 {
-                    "summary": "JenAll_4: JenALL_AO-Klin.Opto 2019/S/01.17",
                     "begin": "09:00",
+                    "summary": "JenAll_4: JenALL_AO-Klin.Opto 2019/S/01.17",
                     "end": "14:30"
                 }
             ]
@@ -16,8 +16,8 @@
         "days": {
             "Wednesday": [
                 {
-                    "summary": ": 18.9._Optonet/UKP-Workshop",
                     "begin": "08:30",
+                    "summary": ": 18.9._Optonet/UKP-Workshop",
                     "end": "17:30"
                 }
             ]
@@ -28,8 +28,8 @@
         "days": {
             "Wednesday": [
                 {
-                    "summary": "Baumgärtner: 18.09._GP Zeugnisübergabe",
                     "begin": "17:00",
+                    "summary": "Baumgärtner: 18.09._GP Zeugnisübergabe",
                     "end": "20:00"
                 }
             ]
