@@ -1,28 +1,28 @@
 {
     "04.-1.01(Aula)": {
-        "id": "SPLUSCA96B6",
         "days": {
             "Thursday": [
                 {
                     "begin": "09:30",
-                    "summary": "Haase, Lautenschläger: BW(BA)TOPSIM easy Startup!/S/01.2",
-                    "end": "17:30"
+                    "end": "17:30",
+                    "summary": "Haase, Lautenschläger: BW(BA)TOPSIM easy Startup!/S/01.2"
                 }
             ],
             "Wednesday": [
                 {
                     "begin": "09:30",
-                    "summary": "Haase, Lautenschläger: BW(BA)TOPSIM easy Startup!/S/01.1",
-                    "end": "17:30"
+                    "end": "17:30",
+                    "summary": "Haase, Lautenschläger: BW(BA)TOPSIM easy Startup!/S/01.1"
                 }
             ],
             "Friday": [
                 {
                     "begin": "09:30",
-                    "summary": "Haase, Lautenschläger: BW(BA)TOPSIM easy Startup!/S/01.3",
-                    "end": "17:30"
+                    "end": "17:30",
+                    "summary": "Haase, Lautenschläger: BW(BA)TOPSIM easy Startup!/S/01.3"
                 }
             ]
-        }
+        },
+        "id": "SPLUSCA96B6"
     }
 }
