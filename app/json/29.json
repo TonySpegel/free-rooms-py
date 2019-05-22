@@ -1,86 +1,12 @@
 {
-    "01.02.12": {
-        "id": "SPLUS9BD8B1",
+    "04.00.02 (HS7)": {
+        "id": "SPLUS412E9B",
         "days": {
             "Tuesday": [
                 {
-                    "end": "09:00",
-                    "summary": "Geyer: BW(BA)ABWL-Immo-Fin./PL/01",
-                    "begin": "08:00"
-                }
-            ],
-            "Monday": [
-                {
-                    "end": "15:30",
-                    "summary": "Kraußlach, Watzka: BW(BA)FSK/PL/01",
-                    "begin": "14:00"
-                }
-            ],
-            "Thursday": [
-                {
-                    "end": "17:00",
-                    "summary": "Bösch, Geyer: BW(BA)GL FiWi/PL/01",
-                    "begin": "14:00"
-                }
-            ]
-        }
-    },
-    "05.00.03": {
-        "id": "SPLUSA8CFB5",
-        "days": {
-            "Wednesday": [
-                {
-                    "end": "11:00",
-                    "summary": "Leitzgen: BW(BA)Vf.+Bew.R/PL/01",
-                    "begin": "08:00"
-                }
-            ],
-            "Thursday": [
-                {
-                    "end": "09:30",
-                    "summary": "Enders: BW(BA)Recht I/Wdh.-Prf./01",
-                    "begin": "08:00"
-                }
-            ]
-        }
-    },
-    "05.03.02 (HS5)": {
-        "id": "SPLUSD17C3B",
-        "days": {
-            "Monday": [
-                {
-                    "end": "13:30",
-                    "summary": ": SW(BA)Psych 2/PL/01",
-                    "begin": "12:00"
-                }
-            ],
-            "Thursday": [
-                {
-                    "end": "09:00",
-                    "summary": ": SW(BA)Fachspr. Eng./PL/01",
-                    "begin": "08:00"
-                }
-            ]
-        }
-    },
-    "05.00.10": {
-        "id": "SPLUSD17C56",
-        "days": {
-            "Tuesday": [
-                {
-                    "end": "11:30",
-                    "summary": "Enders: BW(BA)Recht II/Wdh.-Prfg./01",
+                    "summary": ": SW(BA)Psych 1/PL/01",
+                    "end": "13:00",
                     "begin": "10:00"
-                },
-                {
-                    "end": "17:00",
-                    "summary": "Enders, Görg, Sünnwoldt(BW): BW(BA)GL WR/PL/01",
-                    "begin": "14:00"
-                },
-                {
-                    "end": "17:45",
-                    "summary": "Enders, Görg, Sünnwoldt(BW): BW(BA)GL WR/PL/NTA/01",
-                    "begin": "17:00"
                 }
             ]
         }
@@ -90,21 +16,9 @@
         "days": {
             "Wednesday": [
                 {
-                    "end": "18:00",
                     "summary": "Enders, Görg: GM(MA)WR/PL/01",
+                    "end": "18:00",
                     "begin": "16:00"
-                }
-            ]
-        }
-    },
-    "04.00.02 (HS7)": {
-        "id": "SPLUS412E9B",
-        "days": {
-            "Tuesday": [
-                {
-                    "end": "13:00",
-                    "summary": ": SW(BA)Psych 1/PL/01",
-                    "begin": "10:00"
                 }
             ]
         }
@@ -114,9 +28,54 @@
         "days": {
             "Monday": [
                 {
-                    "end": "16:00",
                     "summary": "StuRa: StuRa_Prf.-Beratg./03",
+                    "end": "16:00",
                     "begin": "12:00"
+                }
+            ]
+        }
+    },
+    "05.00.03": {
+        "id": "SPLUSA8CFB5",
+        "days": {
+            "Wednesday": [
+                {
+                    "summary": "Leitzgen: BW(BA)Vf.+Bew.R/PL/01",
+                    "end": "11:00",
+                    "begin": "08:00"
+                }
+            ],
+            "Thursday": [
+                {
+                    "summary": "Enders: BW(BA)Recht I/Wdh.-Prf./01",
+                    "end": "09:30",
+                    "begin": "08:00"
+                }
+            ]
+        }
+    },
+    "01.02.12": {
+        "id": "SPLUS9BD8B1",
+        "days": {
+            "Monday": [
+                {
+                    "summary": "Kraußlach, Watzka: BW(BA)FSK/PL/01",
+                    "end": "15:30",
+                    "begin": "14:00"
+                }
+            ],
+            "Thursday": [
+                {
+                    "summary": "Bösch, Geyer: BW(BA)GL FiWi/PL/01",
+                    "end": "17:00",
+                    "begin": "14:00"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "summary": "Geyer: BW(BA)ABWL-Immo-Fin./PL/01",
+                    "end": "09:00",
+                    "begin": "08:00"
                 }
             ]
         }
@@ -124,40 +83,62 @@
     "04.-1.01(Aula)": {
         "id": "SPLUSCA96B6",
         "days": {
-            "Friday": [
-                {
-                    "end": "10:00",
-                    "summary": "Stoetzer: BW(BA)ang.WiPo/PL/01",
-                    "begin": "08:00"
-                },
-                {
-                    "end": "13:30",
-                    "summary": "Lehmann (BW): BW(BA)Jahresabschl./PL/01",
-                    "begin": "12:00"
-                },
-                {
-                    "end": "14:00",
-                    "summary": "Lehmann (BW): BW(BA)Jahresabschl./PL/NTA/01",
-                    "begin": "13:30"
-                }
-            ],
             "Monday": [
                 {
-                    "end": "10:00",
                     "summary": "Leitzgen: BW(BA)Steuern I+II/PL/01",
+                    "end": "10:00",
                     "begin": "08:00"
                 },
                 {
-                    "end": "10:45",
                     "summary": "Leitzgen: BW(BA)Steuern I+II/PL/NTA/01",
+                    "end": "10:45",
                     "begin": "10:00"
                 }
             ],
             "Wednesday": [
                 {
-                    "end": "13:30",
                     "summary": "Enders: BW(BA)Gew.RS/PL/01",
+                    "end": "13:30",
                     "begin": "12:00"
+                }
+            ],
+            "Friday": [
+                {
+                    "summary": "Stoetzer: BW(BA)ang.WiPo/PL/01",
+                    "end": "10:00",
+                    "begin": "08:00"
+                },
+                {
+                    "summary": "Lehmann (BW): BW(BA)Jahresabschl./PL/01",
+                    "end": "13:30",
+                    "begin": "12:00"
+                },
+                {
+                    "summary": "Lehmann (BW): BW(BA)Jahresabschl./PL/NTA/01",
+                    "end": "14:00",
+                    "begin": "13:30"
+                }
+            ]
+        }
+    },
+    "05.00.10": {
+        "id": "SPLUSD17C56",
+        "days": {
+            "Tuesday": [
+                {
+                    "summary": "Enders: BW(BA)Recht II/Wdh.-Prfg./01",
+                    "end": "11:30",
+                    "begin": "10:00"
+                },
+                {
+                    "summary": "Enders, Görg, Sünnwoldt(BW): BW(BA)GL WR/PL/01",
+                    "end": "17:00",
+                    "begin": "14:00"
+                },
+                {
+                    "summary": "Enders, Görg, Sünnwoldt(BW): BW(BA)GL WR/PL/NTA/01",
+                    "end": "17:45",
+                    "begin": "17:00"
                 }
             ]
         }
@@ -167,9 +148,28 @@
         "days": {
             "Tuesday": [
                 {
-                    "end": "14:00",
                     "summary": "Klaus: GM(MA)RL/PL/01",
+                    "end": "14:00",
                     "begin": "12:00"
+                }
+            ]
+        }
+    },
+    "05.03.02 (HS5)": {
+        "id": "SPLUSD17C3B",
+        "days": {
+            "Monday": [
+                {
+                    "summary": ": SW(BA)Psych 2/PL/01",
+                    "end": "13:30",
+                    "begin": "12:00"
+                }
+            ],
+            "Thursday": [
+                {
+                    "summary": ": SW(BA)Fachspr. Eng./PL/01",
+                    "end": "09:00",
+                    "begin": "08:00"
                 }
             ]
         }

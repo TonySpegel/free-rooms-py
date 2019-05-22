@@ -4,8 +4,8 @@
         "days": {
             "Saturday": [
                 {
-                    "end": "14:30",
                     "summary": "Lautenschläger, Mainka (BW): JenALL_GM 2019/S/01.12",
+                    "end": "14:30",
                     "begin": "09:00"
                 }
             ]
@@ -14,18 +14,18 @@
     "05.01.43": {
         "id": "SPLUSD17C42",
         "days": {
-            "Friday": [
-                {
-                    "end": "19:00",
-                    "summary": "Mainka (BW): JenALL_GM 2019/S/01.11",
-                    "begin": "13:30"
-                }
-            ],
             "Saturday": [
                 {
-                    "end": "14:30",
                     "summary": "Lautenschläger, Mainka (BW): JenALL_GM 2019/S/01.12",
+                    "end": "14:30",
                     "begin": "09:00"
+                }
+            ],
+            "Friday": [
+                {
+                    "summary": "Mainka (BW): JenALL_GM 2019/S/01.11",
+                    "end": "19:00",
+                    "begin": "13:30"
                 }
             ]
         }
