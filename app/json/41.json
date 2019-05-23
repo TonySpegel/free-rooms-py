@@ -1,6 +1,57 @@
 {
+    "04.02.15": {
+        "days": {
+            "Wednesday": [
+                {
+                    "summary": "Rüb: MiPT(BA)StET/B/01",
+                    "end": "12:00",
+                    "begin": "09:00"
+                }
+            ]
+        },
+        "id": "SPLUS40B574"
+    },
+    "04.00.08(CIM)": {
+        "days": {
+            "Monday": [
+                {
+                    "summary": "JenAll: JenAll._TracePro_I",
+                    "end": "18:00",
+                    "begin": "08:00"
+                }
+            ],
+            "Thursday": [
+                {
+                    "summary": "JenAll: JenAll._TracePro_IV",
+                    "end": "18:00",
+                    "begin": "08:00"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "summary": "JenAll: JenAll._TracePro_III",
+                    "end": "18:00",
+                    "begin": "08:00"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "summary": "JenAll: JenAll._TracePro_II",
+                    "end": "18:00",
+                    "begin": "08:00"
+                }
+            ],
+            "Friday": [
+                {
+                    "summary": "JenAll: JenAll._TracePro_V",
+                    "end": "16:00",
+                    "begin": "08:00"
+                }
+            ]
+        },
+        "id": "SPLUSCA9608"
+    },
     "04.00.02 (HS7)": {
-        "id": "SPLUS412E9B",
         "days": {
             "Monday": [
                 {
@@ -16,22 +67,10 @@
                     "begin": "08:00"
                 }
             ]
-        }
-    },
-    "04.02.15": {
-        "id": "SPLUS40B574",
-        "days": {
-            "Wednesday": [
-                {
-                    "summary": "Rüb: MiPT(BA)StET/B/01",
-                    "end": "12:00",
-                    "begin": "09:00"
-                }
-            ]
-        }
+        },
+        "id": "SPLUS412E9B"
     },
     "04.00.01(HS6)": {
-        "id": "SPLUS40B576",
         "days": {
             "Monday": [
                 {
@@ -47,10 +86,10 @@
                     "begin": "09:30"
                 }
             ]
-        }
+        },
+        "id": "SPLUS40B576"
     },
     "05.01.43": {
-        "id": "SPLUSD17C42",
         "days": {
             "Friday": [
                 {
@@ -59,46 +98,7 @@
                     "begin": "07:45"
                 }
             ]
-        }
-    },
-    "04.00.08(CIM)": {
-        "id": "SPLUSCA9608",
-        "days": {
-            "Monday": [
-                {
-                    "summary": "JenAll: JenAll._TracePro_I",
-                    "end": "18:00",
-                    "begin": "08:00"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "summary": "JenAll: JenAll._TracePro_III",
-                    "end": "18:00",
-                    "begin": "08:00"
-                }
-            ],
-            "Thursday": [
-                {
-                    "summary": "JenAll: JenAll._TracePro_IV",
-                    "end": "18:00",
-                    "begin": "08:00"
-                }
-            ],
-            "Friday": [
-                {
-                    "summary": "JenAll: JenAll._TracePro_V",
-                    "end": "16:00",
-                    "begin": "08:00"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "summary": "JenAll: JenAll._TracePro_II",
-                    "end": "18:00",
-                    "begin": "08:00"
-                }
-            ]
-        }
+        },
+        "id": "SPLUSD17C42"
     }
 }

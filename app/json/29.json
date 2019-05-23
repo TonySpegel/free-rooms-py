@@ -1,30 +1,24 @@
 {
-    "04.00.02 (HS7)": {
-        "id": "SPLUS412E9B",
+    "05.03.02 (HS5)": {
         "days": {
-            "Tuesday": [
+            "Monday": [
                 {
-                    "summary": ": SW(BA)Psych 1/PL/01",
-                    "end": "13:00",
-                    "begin": "10:00"
+                    "summary": ": SW(BA)Psych 2/PL/01",
+                    "end": "13:30",
+                    "begin": "12:00"
+                }
+            ],
+            "Thursday": [
+                {
+                    "summary": ": SW(BA)Fachspr. Eng./PL/01",
+                    "end": "09:00",
+                    "begin": "08:00"
                 }
             ]
-        }
-    },
-    "05.00.04": {
-        "id": "SPLUSD17C52",
-        "days": {
-            "Wednesday": [
-                {
-                    "summary": "Enders, Görg: GM(MA)WR/PL/01",
-                    "end": "18:00",
-                    "begin": "16:00"
-                }
-            ]
-        }
+        },
+        "id": "SPLUSD17C3B"
     },
     "05.03.32": {
-        "id": "SPLUS4833BD",
         "days": {
             "Monday": [
                 {
@@ -33,29 +27,44 @@
                     "begin": "12:00"
                 }
             ]
-        }
+        },
+        "id": "SPLUS4833BD"
     },
-    "05.00.03": {
-        "id": "SPLUSA8CFB5",
+    "05.00.10": {
         "days": {
-            "Wednesday": [
+            "Tuesday": [
                 {
-                    "summary": "Leitzgen: BW(BA)Vf.+Bew.R/PL/01",
-                    "end": "11:00",
-                    "begin": "08:00"
-                }
-            ],
-            "Thursday": [
+                    "summary": "Enders: BW(BA)Recht II/Wdh.-Prfg./01",
+                    "end": "11:30",
+                    "begin": "10:00"
+                },
                 {
-                    "summary": "Enders: BW(BA)Recht I/Wdh.-Prf./01",
-                    "end": "09:30",
-                    "begin": "08:00"
+                    "summary": "Enders, Görg, Sünnwoldt(BW): BW(BA)GL WR/PL/01",
+                    "end": "17:00",
+                    "begin": "14:00"
+                },
+                {
+                    "summary": "Enders, Görg, Sünnwoldt(BW): BW(BA)GL WR/PL/NTA/01",
+                    "end": "17:45",
+                    "begin": "17:00"
                 }
             ]
-        }
+        },
+        "id": "SPLUSD17C56"
+    },
+    "05.00.02": {
+        "days": {
+            "Tuesday": [
+                {
+                    "summary": "Klaus: GM(MA)RL/PL/01",
+                    "end": "14:00",
+                    "begin": "12:00"
+                }
+            ]
+        },
+        "id": "SPLUS29A371"
     },
     "01.02.12": {
-        "id": "SPLUS9BD8B1",
         "days": {
             "Monday": [
                 {
@@ -78,10 +87,34 @@
                     "begin": "08:00"
                 }
             ]
-        }
+        },
+        "id": "SPLUS9BD8B1"
+    },
+    "04.00.02 (HS7)": {
+        "days": {
+            "Tuesday": [
+                {
+                    "summary": ": SW(BA)Psych 1/PL/01",
+                    "end": "13:00",
+                    "begin": "10:00"
+                }
+            ]
+        },
+        "id": "SPLUS412E9B"
+    },
+    "05.00.04": {
+        "days": {
+            "Wednesday": [
+                {
+                    "summary": "Enders, Görg: GM(MA)WR/PL/01",
+                    "end": "18:00",
+                    "begin": "16:00"
+                }
+            ]
+        },
+        "id": "SPLUSD17C52"
     },
     "04.-1.01(Aula)": {
-        "id": "SPLUSCA96B6",
         "days": {
             "Monday": [
                 {
@@ -119,59 +152,26 @@
                     "begin": "13:30"
                 }
             ]
-        }
+        },
+        "id": "SPLUSCA96B6"
     },
-    "05.00.10": {
-        "id": "SPLUSD17C56",
+    "05.00.03": {
         "days": {
-            "Tuesday": [
-                {
-                    "summary": "Enders: BW(BA)Recht II/Wdh.-Prfg./01",
-                    "end": "11:30",
-                    "begin": "10:00"
-                },
-                {
-                    "summary": "Enders, Görg, Sünnwoldt(BW): BW(BA)GL WR/PL/01",
-                    "end": "17:00",
-                    "begin": "14:00"
-                },
-                {
-                    "summary": "Enders, Görg, Sünnwoldt(BW): BW(BA)GL WR/PL/NTA/01",
-                    "end": "17:45",
-                    "begin": "17:00"
-                }
-            ]
-        }
-    },
-    "05.00.02": {
-        "id": "SPLUS29A371",
-        "days": {
-            "Tuesday": [
-                {
-                    "summary": "Klaus: GM(MA)RL/PL/01",
-                    "end": "14:00",
-                    "begin": "12:00"
-                }
-            ]
-        }
-    },
-    "05.03.02 (HS5)": {
-        "id": "SPLUSD17C3B",
-        "days": {
-            "Monday": [
-                {
-                    "summary": ": SW(BA)Psych 2/PL/01",
-                    "end": "13:30",
-                    "begin": "12:00"
-                }
-            ],
             "Thursday": [
                 {
-                    "summary": ": SW(BA)Fachspr. Eng./PL/01",
-                    "end": "09:00",
+                    "summary": "Enders: BW(BA)Recht I/Wdh.-Prf./01",
+                    "end": "09:30",
+                    "begin": "08:00"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "summary": "Leitzgen: BW(BA)Vf.+Bew.R/PL/01",
+                    "end": "11:00",
                     "begin": "08:00"
                 }
             ]
-        }
+        },
+        "id": "SPLUSA8CFB5"
     }
 }

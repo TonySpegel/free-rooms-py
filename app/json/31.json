@@ -1,50 +1,30 @@
 {
-    "04.00.02 (HS7)": {
-        "id": "SPLUS412E9B",
+    "05.03.05": {
         "days": {
-            "Wednesday": [
+            "Friday": [
                 {
-                    "summary": ": SW(BA)Soz.man.1/2/PL/01",
-                    "end": "15:00",
-                    "begin": "14:00"
+                    "summary": "Wöhner: GM(MA)Infosys.u.Datenman./APL/01",
+                    "end": "13:00",
+                    "begin": "10:00"
                 }
             ]
-        }
+        },
+        "id": "SPLUS4B049F"
     },
-    "05.03.09(SW)": {
-        "id": "SPLUS5225C5",
+    "05.00.10": {
         "days": {
-            "Tuesday": [
+            "Thursday": [
                 {
-                    "summary": ": SW(BA)Soz 1/PL/01",
-                    "end": "14:30",
-                    "begin": "13:00"
-                }
-            ]
-        }
-    },
-    "05.00.04": {
-        "id": "SPLUSD17C52",
-        "days": {
-            "Wednesday": [
-                {
-                    "summary": "Bösch, Klaus: GM(MA)Bilanzg.+Bewertg./PL/01",
-                    "end": "16:00",
-                    "begin": "14:00"
-                }
-            ]
-        }
-    },
-    "05.00.03": {
-        "id": "SPLUSA8CFB5",
-        "days": {
-            "Wednesday": [
-                {
-                    "summary": "Klaus, Rotter (BW): BW(BA)RL Konz./PL/01",
-                    "end": "11:00",
+                    "summary": "Buerke, Magerhans: BW(BA)Marktor.UF/PL/01",
+                    "end": "10:15",
                     "begin": "08:00"
                 }
-            ],
+            ]
+        },
+        "id": "SPLUSD17C56"
+    },
+    "05.00.03": {
+        "days": {
             "Thursday": [
                 {
                     "summary": "Hauser: BW(BA)ABWL-PM+FK/PL/01",
@@ -52,11 +32,11 @@
                     "begin": "16:00"
                 }
             ],
-            "Friday": [
+            "Wednesday": [
                 {
-                    "summary": "Klinkowski(BW): GM(MA)int.Perso-Man./PL/01",
+                    "summary": "Klaus, Rotter (BW): BW(BA)RL Konz./PL/01",
                     "end": "11:00",
-                    "begin": "10:00"
+                    "begin": "08:00"
                 }
             ],
             "Tuesday": [
@@ -65,11 +45,18 @@
                     "end": "11:00",
                     "begin": "10:00"
                 }
+            ],
+            "Friday": [
+                {
+                    "summary": "Klinkowski(BW): GM(MA)int.Perso-Man./PL/01",
+                    "end": "11:00",
+                    "begin": "10:00"
+                }
             ]
-        }
+        },
+        "id": "SPLUSA8CFB5"
     },
     "01.02.12": {
-        "id": "SPLUS9BD8B1",
         "days": {
             "Monday": [
                 {
@@ -85,10 +72,34 @@
                     "begin": "12:00"
                 }
             ]
-        }
+        },
+        "id": "SPLUS9BD8B1"
+    },
+    "04.00.02 (HS7)": {
+        "days": {
+            "Wednesday": [
+                {
+                    "summary": ": SW(BA)Soz.man.1/2/PL/01",
+                    "end": "15:00",
+                    "begin": "14:00"
+                }
+            ]
+        },
+        "id": "SPLUS412E9B"
+    },
+    "05.00.04": {
+        "days": {
+            "Wednesday": [
+                {
+                    "summary": "Bösch, Klaus: GM(MA)Bilanzg.+Bewertg./PL/01",
+                    "end": "16:00",
+                    "begin": "14:00"
+                }
+            ]
+        },
+        "id": "SPLUSD17C52"
     },
     "04.-1.01(Aula)": {
-        "id": "SPLUSCA96B6",
         "days": {
             "Monday": [
                 {
@@ -121,30 +132,19 @@
                     "begin": "09:30"
                 }
             ]
-        }
+        },
+        "id": "SPLUSCA96B6"
     },
-    "05.00.10": {
-        "id": "SPLUSD17C56",
+    "05.03.09(SW)": {
         "days": {
-            "Thursday": [
+            "Tuesday": [
                 {
-                    "summary": "Buerke, Magerhans: BW(BA)Marktor.UF/PL/01",
-                    "end": "10:15",
-                    "begin": "08:00"
+                    "summary": ": SW(BA)Soz 1/PL/01",
+                    "end": "14:30",
+                    "begin": "13:00"
                 }
             ]
-        }
-    },
-    "05.03.05": {
-        "id": "SPLUS4B049F",
-        "days": {
-            "Friday": [
-                {
-                    "summary": "Wöhner: GM(MA)Infosys.u.Datenman./APL/01",
-                    "end": "13:00",
-                    "begin": "10:00"
-                }
-            ]
-        }
+        },
+        "id": "SPLUS5225C5"
     }
 }
