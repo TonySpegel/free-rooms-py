@@ -1,150 +1,150 @@
 {
-    "05.03.05": {
+    "05.03.09(SW)": {
+        "id": "SPLUS5225C5",
         "days": {
-            "Friday": [
-                {
-                    "summary": "Wöhner: GM(MA)Infosys.u.Datenman./APL/01",
-                    "end": "13:00",
-                    "begin": "10:00"
-                }
-            ]
-        },
-        "id": "SPLUS4B049F"
-    },
-    "05.00.10": {
-        "days": {
-            "Thursday": [
-                {
-                    "summary": "Buerke, Magerhans: BW(BA)Marktor.UF/PL/01",
-                    "end": "10:15",
-                    "begin": "08:00"
-                }
-            ]
-        },
-        "id": "SPLUSD17C56"
-    },
-    "05.00.03": {
-        "days": {
-            "Thursday": [
-                {
-                    "summary": "Hauser: BW(BA)ABWL-PM+FK/PL/01",
-                    "end": "17:00",
-                    "begin": "16:00"
-                }
-            ],
-            "Wednesday": [
-                {
-                    "summary": "Klaus, Rotter (BW): BW(BA)RL Konz./PL/01",
-                    "end": "11:00",
-                    "begin": "08:00"
-                }
-            ],
             "Tuesday": [
                 {
-                    "summary": "Grötsch(BW), Hartmann(BW): GM(MA)Dig.Perso-Man./PL/01",
-                    "end": "11:00",
-                    "begin": "10:00"
-                }
-            ],
-            "Friday": [
-                {
-                    "summary": "Klinkowski(BW): GM(MA)int.Perso-Man./PL/01",
-                    "end": "11:00",
-                    "begin": "10:00"
+                    "summary": ": SW(BA)Soz 1/PL/01",
+                    "begin": "13:00",
+                    "end": "14:30"
                 }
             ]
-        },
-        "id": "SPLUSA8CFB5"
-    },
-    "01.02.12": {
-        "days": {
-            "Monday": [
-                {
-                    "summary": "Ephrosi(BW): BW(BA)ABWL-Logistik/PL/01",
-                    "end": "11:00",
-                    "begin": "10:00"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "summary": "di Stefano(BW), Enders, Görg, Linsenbarth(BW): BW(BA)Spez.Kenntn.WR/PL/01",
-                    "end": "14:15",
-                    "begin": "12:00"
-                }
-            ]
-        },
-        "id": "SPLUS9BD8B1"
-    },
-    "04.00.02 (HS7)": {
-        "days": {
-            "Wednesday": [
-                {
-                    "summary": ": SW(BA)Soz.man.1/2/PL/01",
-                    "end": "15:00",
-                    "begin": "14:00"
-                }
-            ]
-        },
-        "id": "SPLUS412E9B"
+        }
     },
     "05.00.04": {
+        "id": "SPLUSD17C52",
         "days": {
             "Wednesday": [
                 {
                     "summary": "Bösch, Klaus: GM(MA)Bilanzg.+Bewertg./PL/01",
-                    "end": "16:00",
-                    "begin": "14:00"
+                    "begin": "14:00",
+                    "end": "16:00"
                 }
             ]
-        },
-        "id": "SPLUSD17C52"
+        }
+    },
+    "05.00.10": {
+        "id": "SPLUSD17C56",
+        "days": {
+            "Thursday": [
+                {
+                    "summary": "Buerke, Magerhans: BW(BA)Marktor.UF/PL/01",
+                    "begin": "08:00",
+                    "end": "10:15"
+                }
+            ]
+        }
     },
     "04.-1.01(Aula)": {
+        "id": "SPLUSCA96B6",
         "days": {
             "Monday": [
                 {
                     "summary": "Görg: BW(BA)Recht I/PL/01",
-                    "end": "15:30",
-                    "begin": "14:00"
+                    "begin": "14:00",
+                    "end": "15:30"
                 },
                 {
                     "summary": "Görg: BW(BA)Recht I/PL/NTA/01",
-                    "end": "16:00",
-                    "begin": "15:30"
+                    "begin": "15:30",
+                    "end": "16:00"
                 }
             ],
             "Saturday": [
                 {
                     "summary": ": 03.08._Abschlussfeier BT",
-                    "end": "19:00",
-                    "begin": "08:00"
+                    "begin": "08:00",
+                    "end": "19:00"
                 }
             ],
             "Tuesday": [
                 {
                     "summary": "Görg: BW(BA)WVR/PL/01",
-                    "end": "09:30",
-                    "begin": "08:00"
+                    "begin": "08:00",
+                    "end": "09:30"
                 },
                 {
                     "summary": "Görg: BW(BA)WVR/PL/NTA/01",
-                    "end": "10:15",
-                    "begin": "09:30"
+                    "begin": "09:30",
+                    "end": "10:15"
                 }
             ]
-        },
-        "id": "SPLUSCA96B6"
+        }
     },
-    "05.03.09(SW)": {
+    "01.02.12": {
+        "id": "SPLUS9BD8B1",
         "days": {
+            "Monday": [
+                {
+                    "summary": "Ephrosi(BW): BW(BA)ABWL-Logistik/PL/01",
+                    "begin": "10:00",
+                    "end": "11:00"
+                }
+            ],
             "Tuesday": [
                 {
-                    "summary": ": SW(BA)Soz 1/PL/01",
-                    "end": "14:30",
-                    "begin": "13:00"
+                    "summary": "di Stefano(BW), Enders, Görg, Linsenbarth(BW): BW(BA)Spez.Kenntn.WR/PL/01",
+                    "begin": "12:00",
+                    "end": "14:15"
                 }
             ]
-        },
-        "id": "SPLUS5225C5"
+        }
+    },
+    "05.03.05": {
+        "id": "SPLUS4B049F",
+        "days": {
+            "Friday": [
+                {
+                    "summary": "Wöhner: GM(MA)Infosys.u.Datenman./APL/01",
+                    "begin": "10:00",
+                    "end": "13:00"
+                }
+            ]
+        }
+    },
+    "05.00.03": {
+        "id": "SPLUSA8CFB5",
+        "days": {
+            "Friday": [
+                {
+                    "summary": "Klinkowski(BW): GM(MA)int.Perso-Man./PL/01",
+                    "begin": "10:00",
+                    "end": "11:00"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "summary": "Klaus, Rotter (BW): BW(BA)RL Konz./PL/01",
+                    "begin": "08:00",
+                    "end": "11:00"
+                }
+            ],
+            "Thursday": [
+                {
+                    "summary": "Hauser: BW(BA)ABWL-PM+FK/PL/01",
+                    "begin": "16:00",
+                    "end": "17:00"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "summary": "Grötsch(BW), Hartmann(BW): GM(MA)Dig.Perso-Man./PL/01",
+                    "begin": "10:00",
+                    "end": "11:00"
+                }
+            ]
+        }
+    },
+    "04.00.02 (HS7)": {
+        "id": "SPLUS412E9B",
+        "days": {
+            "Wednesday": [
+                {
+                    "summary": ": SW(BA)Soz.man.1/2/PL/01",
+                    "begin": "14:00",
+                    "end": "15:00"
+                }
+            ]
+        }
     }
 }
