@@ -2,18 +2,174 @@
     "04.-1.01(Aula)": {
         "id": "SPLUSCA96B6",
         "days": {
-            "Friday": [
-                {
-                    "summary": "ZVM: 16.8._Einschulung Südschule/Vorb.",
-                    "begin": "08:30",
-                    "end": "17:30"
-                }
-            ],
             "Saturday": [
                 {
+                    "end": "17:30",
                     "summary": "ZVM: 17.8._Einschulung Südschule",
-                    "begin": "08:30",
-                    "end": "17:30"
+                    "begin": "08:30"
+                }
+            ],
+            "Friday": [
+                {
+                    "end": "17:30",
+                    "summary": "ZVM: 16.8._Einschulung Südschule/Vorb.",
+                    "begin": "08:30"
+                }
+            ]
+        }
+    },
+    "05.03.204": {
+        "id": "SPLUSD17C63",
+        "days": {
+            "Thursday": [
+                {
+                    "end": "16:30",
+                    "summary": "Geyer, Angstmann(BW): BW(BA)ABWL-BPS/S/01.3",
+                    "begin": "09:00"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "16:30",
+                    "summary": "Geyer, Angstmann(BW): BW(BA)ABWL-BPS/S/01.2",
+                    "begin": "09:00"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "16:30",
+                    "summary": "Geyer, Angstmann(BW): BW(BA)ABWL-BPS/S/01.1",
+                    "begin": "09:00"
+                }
+            ]
+        }
+    },
+    "05.01.43": {
+        "id": "SPLUSD17C42",
+        "days": {
+            "Thursday": [
+                {
+                    "end": "16:30",
+                    "summary": "Geyer, Angstmann(BW): BW(BA)ABWL-BPS/S/01.3",
+                    "begin": "09:00"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "16:30",
+                    "summary": "Geyer, Angstmann(BW): BW(BA)ABWL-BPS/S/01.2",
+                    "begin": "09:00"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "16:30",
+                    "summary": "Geyer, Angstmann(BW): BW(BA)ABWL-BPS/S/01.1",
+                    "begin": "09:00"
+                }
+            ]
+        }
+    },
+    "05.03.224": {
+        "id": "SPLUSD17C3D",
+        "days": {
+            "Thursday": [
+                {
+                    "end": "16:30",
+                    "summary": "Geyer, Angstmann(BW): BW(BA)ABWL-BPS/S/01.3",
+                    "begin": "09:00"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "16:30",
+                    "summary": "Geyer, Angstmann(BW): BW(BA)ABWL-BPS/S/01.2",
+                    "begin": "09:00"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "16:30",
+                    "summary": "Geyer, Angstmann(BW): BW(BA)ABWL-BPS/S/01.1",
+                    "begin": "09:00"
+                }
+            ]
+        }
+    },
+    "05.03.206": {
+        "id": "SPLUS7F8D03",
+        "days": {
+            "Thursday": [
+                {
+                    "end": "16:30",
+                    "summary": "Geyer, Angstmann(BW): BW(BA)ABWL-BPS/S/01.3",
+                    "begin": "09:00"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "16:30",
+                    "summary": "Geyer, Angstmann(BW): BW(BA)ABWL-BPS/S/01.2",
+                    "begin": "09:00"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "16:30",
+                    "summary": "Geyer, Angstmann(BW): BW(BA)ABWL-BPS/S/01.1",
+                    "begin": "09:00"
+                }
+            ]
+        }
+    },
+    "05.03.203": {
+        "id": "SPLUSD17C62",
+        "days": {
+            "Thursday": [
+                {
+                    "end": "16:30",
+                    "summary": "Geyer, Angstmann(BW): BW(BA)ABWL-BPS/S/01.3",
+                    "begin": "09:00"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "16:30",
+                    "summary": "Geyer, Angstmann(BW): BW(BA)ABWL-BPS/S/01.2",
+                    "begin": "09:00"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "16:30",
+                    "summary": "Geyer, Angstmann(BW): BW(BA)ABWL-BPS/S/01.1",
+                    "begin": "09:00"
+                }
+            ]
+        }
+    },
+    "05.03.202": {
+        "id": "SPLUSD17C61",
+        "days": {
+            "Thursday": [
+                {
+                    "end": "16:30",
+                    "summary": "Geyer, Angstmann(BW): BW(BA)ABWL-BPS/S/01.3",
+                    "begin": "09:00"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "end": "16:30",
+                    "summary": "Geyer, Angstmann(BW): BW(BA)ABWL-BPS/S/01.2",
+                    "begin": "09:00"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "end": "16:30",
+                    "summary": "Geyer, Angstmann(BW): BW(BA)ABWL-BPS/S/01.1",
+                    "begin": "09:00"
                 }
             ]
         }
