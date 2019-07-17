@@ -1,19 +1,255 @@
 {
-    "05.00.04": {
-        "id": "SPLUSD17C52",
+    "03.00.19": {
+        "id": "SPLUSCD917C",
         "days": {
-            "Sunday": [
+            "Monday": [
                 {
-                    "end": "17:00",
-                    "summary": "JenAll_4: JenALL_AO-Klin.Opto 2019/S/01.16",
-                    "begin": "08:00"
+                    "begin": "08:30",
+                    "end": "18:30",
+                    "summary": ": GW_Umbau/Lager/01.1"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:30",
+                    "summary": ": GW_Umbau/Lager/02"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:30",
+                    "summary": ": GW_Umbau/Lager/03"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:30",
+                    "summary": ": GW_Umbau/Lager/04"
+                }
+            ],
+            "Friday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:30",
+                    "summary": ": GW_Umbau/Lager/05"
+                }
+            ]
+        }
+    },
+    "03.00.32": {
+        "id": "SPLUSCD917D",
+        "days": {
+            "Monday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:30",
+                    "summary": ": GW_Umbau/Lager/01.1"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:30",
+                    "summary": ": GW_Umbau/Lager/02"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:30",
+                    "summary": ": GW_Umbau/Lager/03"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:30",
+                    "summary": ": GW_Umbau/Lager/04"
+                }
+            ],
+            "Friday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:30",
+                    "summary": ": GW_Umbau/Lager/05"
+                }
+            ]
+        }
+    },
+    "04.00.34": {
+        "id": "SPLUS4833BC",
+        "days": {
+            "Monday": [
+                {
+                    "begin": "08:30",
+                    "end": "17:30",
+                    "summary": "ZSB: ZSB_Beutel packen/lagern/04"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "begin": "08:30",
+                    "end": "17:30",
+                    "summary": "ZSB: ZSB_Beutel packen/lagern/05"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "08:30",
+                    "end": "17:30",
+                    "summary": "ZSB: ZSB_Beutel packen/lagern/06"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "08:30",
+                    "end": "17:30",
+                    "summary": "ZSB: ZSB_Beutel packen/lagern/01"
+                }
+            ],
+            "Friday": [
+                {
+                    "begin": "08:30",
+                    "end": "17:30",
+                    "summary": "ZSB: ZSB_Beutel packen/lagern/02"
                 }
             ],
             "Saturday": [
                 {
+                    "begin": "08:30",
+                    "end": "17:30",
+                    "summary": "ZSB: ZSB_Beutel packen/lagern/03"
+                }
+            ]
+        }
+    },
+    "04.03.12": {
+        "id": "SPLUS40B570",
+        "days": {
+            "Monday": [
+                {
+                    "begin": "09:00",
                     "end": "17:00",
-                    "summary": "JenAll_4: JenALL_AO-Klin.Opto 2019/S/01.15",
-                    "begin": "08:00"
+                    "summary": "JenAll: JenALL_WB Optik/S/04"
+                }
+            ]
+        }
+    },
+    "05.00.06": {
+        "id": "SPLUSD17C54",
+        "days": {
+            "Monday": [
+                {
+                    "begin": "09:00",
+                    "end": "12:15",
+                    "summary": "JenAll_4: JenALL_AO-Betriebswirt 2019/S/01.05"
+                }
+            ]
+        }
+    },
+    "05.03.11(SW)": {
+        "id": "SPLUS8C6346",
+        "days": {
+            "Monday": [
+                {
+                    "begin": "09:00",
+                    "end": "18:00",
+                    "summary": "JenAll_2: JenALL_SMP 2019/S/01.01"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "begin": "09:00",
+                    "end": "18:00",
+                    "summary": "JenAll_2: JenALL_SMP 2019/S/01.02"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "09:00",
+                    "end": "18:00",
+                    "summary": "JenAll_2: JenALL_SMP 2019/S/01.03"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "09:00",
+                    "end": "18:00",
+                    "summary": "JenAll_2: JenALL_SMP 2019/S/01.04"
+                }
+            ],
+            "Friday": [
+                {
+                    "begin": "09:00",
+                    "end": "18:00",
+                    "summary": "JenAll_2: JenALL_SMP 2019/S/01.05"
+                }
+            ],
+            "Saturday": [
+                {
+                    "begin": "09:00",
+                    "end": "18:00",
+                    "summary": "JenAll_2: JenALL_SMP 2019/S/01.06"
+                }
+            ]
+        }
+    },
+    "01.01.11": {
+        "id": "SPLUS9BD899",
+        "days": {
+            "Tuesday": [
+                {
+                    "begin": "13:30",
+                    "end": "15:00",
+                    "summary": "Frambach(GW): Eng f. MA/S/01"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "07:45",
+                    "end": "08:30",
+                    "summary": "Frambach(GW): Eng f. MA/Bib/S/01"
+                },
+                {
+                    "begin": "08:45",
+                    "end": "10:15",
+                    "summary": "Frambach(GW): Eng f. MA/S/02"
+                }
+            ]
+        }
+    },
+    "05.03.36": {
+        "id": "SPLUSD17C38",
+        "days": {
+            "Thursday": [
+                {
+                    "begin": "09:00",
+                    "end": "18:00",
+                    "summary": "JenAll_4: JenALL_AO-Klin.Opto 2019/S/01.13"
+                }
+            ],
+            "Friday": [
+                {
+                    "begin": "08:00",
+                    "end": "17:00",
+                    "summary": "JenAll_4: JenALL_AO-Klin.Opto 2019/S/01.14"
+                }
+            ],
+            "Saturday": [
+                {
+                    "begin": "08:00",
+                    "end": "17:00",
+                    "summary": "JenAll_4: JenALL_AO-Klin.Opto 2019/S/01.15"
+                }
+            ],
+            "Sunday": [
+                {
+                    "begin": "08:00",
+                    "end": "17:00",
+                    "summary": "JenAll_4: JenALL_AO-Klin.Opto 2019/S/01.16"
                 }
             ]
         }
@@ -23,42 +259,28 @@
         "days": {
             "Friday": [
                 {
+                    "begin": "07:45",
                     "end": "12:45",
-                    "summary": "JenAll: JenALL_BGM 2018/S/01.5",
-                    "begin": "07:45"
+                    "summary": "JenAll: JenALL_BGM 2018/S/01.5"
                 }
             ]
         }
     },
-    "05.03.36": {
-        "id": "SPLUSD17C38",
+    "05.00.04": {
+        "id": "SPLUSD17C52",
         "days": {
-            "Sunday": [
-                {
-                    "end": "17:00",
-                    "summary": "JenAll_4: JenALL_AO-Klin.Opto 2019/S/01.16",
-                    "begin": "08:00"
-                }
-            ],
-            "Thursday": [
-                {
-                    "end": "18:00",
-                    "summary": "JenAll_4: JenALL_AO-Klin.Opto 2019/S/01.13",
-                    "begin": "09:00"
-                }
-            ],
-            "Friday": [
-                {
-                    "end": "17:00",
-                    "summary": "JenAll_4: JenALL_AO-Klin.Opto 2019/S/01.14",
-                    "begin": "08:00"
-                }
-            ],
             "Saturday": [
                 {
+                    "begin": "08:00",
                     "end": "17:00",
-                    "summary": "JenAll_4: JenALL_AO-Klin.Opto 2019/S/01.15",
-                    "begin": "08:00"
+                    "summary": "JenAll_4: JenALL_AO-Klin.Opto 2019/S/01.15"
+                }
+            ],
+            "Sunday": [
+                {
+                    "begin": "08:00",
+                    "end": "17:00",
+                    "summary": "JenAll_4: JenALL_AO-Klin.Opto 2019/S/01.16"
                 }
             ]
         }

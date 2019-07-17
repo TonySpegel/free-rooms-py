@@ -1,26 +1,189 @@
 {
-    "04.-1.01(Aula)": {
-        "id": "SPLUSCA96B6",
+    "03.00.19": {
+        "id": "SPLUSCD917C",
         "days": {
-            "Thursday": [
+            "Monday": [
                 {
-                    "end": "17:30",
-                    "summary": "Haase, Lautenschläger: BW(BA)TOPSIM easy Startup!/S/01.2",
-                    "begin": "09:30"
+                    "begin": "08:30",
+                    "end": "18:30",
+                    "summary": ": GW_Umbau/Lager/01.1"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:30",
+                    "summary": ": GW_Umbau/Lager/02"
                 }
             ],
             "Wednesday": [
                 {
-                    "end": "17:30",
-                    "summary": "Haase, Lautenschläger: BW(BA)TOPSIM easy Startup!/S/01.1",
-                    "begin": "09:30"
+                    "begin": "08:30",
+                    "end": "18:30",
+                    "summary": ": GW_Umbau/Lager/03"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:30",
+                    "summary": ": GW_Umbau/Lager/04"
                 }
             ],
             "Friday": [
                 {
+                    "begin": "08:30",
+                    "end": "18:30",
+                    "summary": ": GW_Umbau/Lager/05"
+                }
+            ]
+        }
+    },
+    "03.00.32": {
+        "id": "SPLUSCD917D",
+        "days": {
+            "Monday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:30",
+                    "summary": ": GW_Umbau/Lager/01.1"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:30",
+                    "summary": ": GW_Umbau/Lager/02"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:30",
+                    "summary": ": GW_Umbau/Lager/03"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:30",
+                    "summary": ": GW_Umbau/Lager/04"
+                }
+            ],
+            "Friday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:30",
+                    "summary": ": GW_Umbau/Lager/05"
+                }
+            ]
+        }
+    },
+    "04.00.34": {
+        "id": "SPLUS4833BC",
+        "days": {
+            "Monday": [
+                {
+                    "begin": "08:30",
                     "end": "17:30",
-                    "summary": "Haase, Lautenschläger: BW(BA)TOPSIM easy Startup!/S/01.3",
-                    "begin": "09:30"
+                    "summary": "ZSB: ZSB_Beutel packen/lagern/04"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "begin": "08:30",
+                    "end": "17:30",
+                    "summary": "ZSB: ZSB_Beutel packen/lagern/05"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "08:30",
+                    "end": "17:30",
+                    "summary": "ZSB: ZSB_Beutel packen/lagern/06"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "08:30",
+                    "end": "17:30",
+                    "summary": "ZSB: ZSB_Beutel packen/lagern/01"
+                }
+            ],
+            "Friday": [
+                {
+                    "begin": "08:30",
+                    "end": "17:30",
+                    "summary": "ZSB: ZSB_Beutel packen/lagern/02"
+                }
+            ],
+            "Saturday": [
+                {
+                    "begin": "08:30",
+                    "end": "17:30",
+                    "summary": "ZSB: ZSB_Beutel packen/lagern/03"
+                }
+            ]
+        }
+    },
+    "05.03.229": {
+        "id": "SPLUSD17C3F",
+        "days": {
+            "Monday": [
+                {
+                    "begin": "09:00",
+                    "end": "16:00",
+                    "summary": "GP: 23.09._GP berufszul.Prf."
+                }
+            ]
+        }
+    },
+    "03.00.18": {
+        "id": "SPLUSCD917B",
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "08:00",
+                    "end": "12:15",
+                    "summary": "ZVM: 25.09._Inhouse Schulung"
+                }
+            ]
+        }
+    },
+    "04.-1.01(Aula)": {
+        "id": "SPLUSCA96B6",
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "09:30",
+                    "end": "17:30",
+                    "summary": "Haase, Lautenschläger: BW(BA)TOPSIM easy Startup!/S/01.1"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "09:30",
+                    "end": "17:30",
+                    "summary": "Haase, Lautenschläger: BW(BA)TOPSIM easy Startup!/S/01.2"
+                }
+            ],
+            "Friday": [
+                {
+                    "begin": "09:30",
+                    "end": "17:30",
+                    "summary": "Haase, Lautenschläger: BW(BA)TOPSIM easy Startup!/S/01.3"
+                }
+            ]
+        }
+    },
+    "01.01.11": {
+        "id": "SPLUS9BD899",
+        "days": {
+            "Thursday": [
+                {
+                    "begin": "07:45",
+                    "end": "08:30",
+                    "summary": "Frambach(GW): Eng f. MA/Bib/S/01"
                 }
             ]
         }

@@ -1,12 +1,163 @@
 {
+    "03.00.19": {
+        "id": "SPLUSCD917C",
+        "days": {
+            "Monday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:30",
+                    "summary": ": GW_Umbau/Lager/01.1"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:30",
+                    "summary": ": GW_Umbau/Lager/02"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:30",
+                    "summary": ": GW_Umbau/Lager/03"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:30",
+                    "summary": ": GW_Umbau/Lager/04"
+                }
+            ],
+            "Friday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:30",
+                    "summary": ": GW_Umbau/Lager/05"
+                }
+            ]
+        }
+    },
+    "03.00.32": {
+        "id": "SPLUSCD917D",
+        "days": {
+            "Monday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:30",
+                    "summary": ": GW_Umbau/Lager/01.1"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:30",
+                    "summary": ": GW_Umbau/Lager/02"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:30",
+                    "summary": ": GW_Umbau/Lager/03"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:30",
+                    "summary": ": GW_Umbau/Lager/04"
+                }
+            ],
+            "Friday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:30",
+                    "summary": ": GW_Umbau/Lager/05"
+                }
+            ]
+        }
+    },
+    "04.00.34": {
+        "id": "SPLUS4833BC",
+        "days": {
+            "Monday": [
+                {
+                    "begin": "08:30",
+                    "end": "17:30",
+                    "summary": "ZSB: ZSB_Beutel packen/lagern/04"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "begin": "08:30",
+                    "end": "17:30",
+                    "summary": "ZSB: ZSB_Beutel packen/lagern/05"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "08:30",
+                    "end": "17:30",
+                    "summary": "ZSB: ZSB_Beutel packen/lagern/06"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "08:30",
+                    "end": "17:30",
+                    "summary": "ZSB: ZSB_Beutel packen/lagern/01"
+                }
+            ],
+            "Friday": [
+                {
+                    "begin": "08:30",
+                    "end": "17:30",
+                    "summary": "ZSB: ZSB_Beutel packen/lagern/02"
+                }
+            ],
+            "Saturday": [
+                {
+                    "begin": "08:30",
+                    "end": "17:30",
+                    "summary": "ZSB: ZSB_Beutel packen/lagern/03"
+                }
+            ]
+        }
+    },
+    "01.01.11": {
+        "id": "SPLUS9BD899",
+        "days": {
+            "Tuesday": [
+                {
+                    "begin": "13:30",
+                    "end": "15:00",
+                    "summary": "Frambach(GW): Eng f. MA/S/01"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "07:45",
+                    "end": "08:30",
+                    "summary": "Frambach(GW): Eng f. MA/Bib/S/01"
+                },
+                {
+                    "begin": "08:45",
+                    "end": "10:15",
+                    "summary": "Frambach(GW): Eng f. MA/S/02"
+                }
+            ]
+        }
+    },
     "05.00.04": {
         "id": "SPLUSD17C52",
         "days": {
             "Saturday": [
                 {
+                    "begin": "09:00",
                     "end": "15:15",
-                    "summary": "Bernartz(BW), Ephrosi(BW): JenALL_GM 2018/S/01.09",
-                    "begin": "09:00"
+                    "summary": "Bernartz(BW), Ephrosi(BW): JenALL_GM 2018/S/01.09"
                 }
             ]
         }
@@ -16,9 +167,9 @@
         "days": {
             "Saturday": [
                 {
+                    "begin": "09:00",
                     "end": "15:15",
-                    "summary": "Bernartz(BW), Ephrosi(BW): JenALL_GM 2018/S/01.09",
-                    "begin": "09:00"
+                    "summary": "Bernartz(BW), Ephrosi(BW): JenALL_GM 2018/S/01.09"
                 }
             ]
         }

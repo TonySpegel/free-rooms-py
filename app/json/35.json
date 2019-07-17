@@ -1,12 +1,127 @@
 {
-    "05.00.04": {
-        "id": "SPLUSD17C52",
+    "03.00.19": {
+        "id": "SPLUSCD917C",
         "days": {
+            "Monday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:30",
+                    "summary": ": GW_Umbau/Lager/01.1"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:30",
+                    "summary": ": GW_Umbau/Lager/02"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:30",
+                    "summary": ": GW_Umbau/Lager/03"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:30",
+                    "summary": ": GW_Umbau/Lager/04"
+                }
+            ],
+            "Friday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:30",
+                    "summary": ": GW_Umbau/Lager/05"
+                }
+            ]
+        }
+    },
+    "03.00.32": {
+        "id": "SPLUSCD917D",
+        "days": {
+            "Monday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:30",
+                    "summary": ": GW_Umbau/Lager/01.1"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:30",
+                    "summary": ": GW_Umbau/Lager/02"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:30",
+                    "summary": ": GW_Umbau/Lager/03"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:30",
+                    "summary": ": GW_Umbau/Lager/04"
+                }
+            ],
+            "Friday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:30",
+                    "summary": ": GW_Umbau/Lager/05"
+                }
+            ]
+        }
+    },
+    "04.00.34": {
+        "id": "SPLUS4833BC",
+        "days": {
+            "Monday": [
+                {
+                    "begin": "08:30",
+                    "end": "17:30",
+                    "summary": "ZSB: ZSB_Beutel packen/lagern/04"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "begin": "08:30",
+                    "end": "17:30",
+                    "summary": "ZSB: ZSB_Beutel packen/lagern/05"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "08:30",
+                    "end": "17:30",
+                    "summary": "ZSB: ZSB_Beutel packen/lagern/06"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "08:30",
+                    "end": "17:30",
+                    "summary": "ZSB: ZSB_Beutel packen/lagern/01"
+                }
+            ],
+            "Friday": [
+                {
+                    "begin": "08:30",
+                    "end": "17:30",
+                    "summary": "ZSB: ZSB_Beutel packen/lagern/02"
+                }
+            ],
             "Saturday": [
                 {
-                    "end": "14:30",
-                    "summary": "Lautenschläger, Mainka (BW): JenALL_GM 2019/S/01.12",
-                    "begin": "09:00"
+                    "begin": "08:30",
+                    "end": "17:30",
+                    "summary": "ZSB: ZSB_Beutel packen/lagern/03"
                 }
             ]
         }
@@ -16,23 +131,97 @@
         "days": {
             "Monday": [
                 {
+                    "begin": "18:00",
                     "end": "20:00",
-                    "summary": "JenAll: JenALL_Infoveranstaltung FRS/S/01",
-                    "begin": "18:00"
-                }
-            ],
-            "Saturday": [
-                {
-                    "end": "14:30",
-                    "summary": "Lautenschläger, Mainka (BW): JenALL_GM 2019/S/01.12",
-                    "begin": "09:00"
+                    "summary": "JenAll: JenALL_Infoveranstaltung FRS/S/01"
                 }
             ],
             "Friday": [
                 {
-                    "end": "19:00",
-                    "summary": "Mainka (BW): JenALL_GM 2019/S/01.11",
-                    "begin": "13:30"
+                    "begin": "14:30",
+                    "end": "19:30",
+                    "summary": "Mainka (BW): JenALL_GM 2019/S/01.11"
+                }
+            ],
+            "Saturday": [
+                {
+                    "begin": "09:00",
+                    "end": "14:30",
+                    "summary": "Lautenschläger, Mainka (BW): JenALL_GM 2019/S/01.12"
+                }
+            ]
+        }
+    },
+    "04.03.12": {
+        "id": "SPLUS40B570",
+        "days": {
+            "Tuesday": [
+                {
+                    "begin": "13:00",
+                    "end": "18:00",
+                    "summary": "ZVM: 27.08._Projekrveranst."
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "17:00",
+                    "end": "20:30",
+                    "summary": "JenAll_5: 28.08._Wirtschaft und Innovatiton ThZM"
+                }
+            ]
+        }
+    },
+    "01.01.11": {
+        "id": "SPLUS9BD899",
+        "days": {
+            "Tuesday": [
+                {
+                    "begin": "13:30",
+                    "end": "15:00",
+                    "summary": "Frambach(GW): Eng f. MA/S/01"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "07:45",
+                    "end": "08:30",
+                    "summary": "Frambach(GW): Eng f. MA/Bib/S/01"
+                },
+                {
+                    "begin": "08:45",
+                    "end": "10:15",
+                    "summary": "Frambach(GW): Eng f. MA/S/02"
+                }
+            ]
+        }
+    },
+    "05.03.37 (HS2)": {
+        "id": "SPLUSD17C39",
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "08:00",
+                    "end": "16:00",
+                    "summary": "Holland-Moritz: 28.08._Holland-Moritz_Dreharbeiten"
+                }
+            ],
+            "Saturday": [
+                {
+                    "begin": "09:00",
+                    "end": "11:00",
+                    "summary": "Schirmer: JenALL_WI 2018/S/01.7"
+                }
+            ]
+        }
+    },
+    "05.00.04": {
+        "id": "SPLUSD17C52",
+        "days": {
+            "Saturday": [
+                {
+                    "begin": "09:00",
+                    "end": "14:30",
+                    "summary": "Lautenschläger, Mainka (BW): JenALL_GM 2019/S/01.12"
                 }
             ]
         }

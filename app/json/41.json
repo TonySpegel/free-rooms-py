@@ -1,12 +1,26 @@
 {
-    "04.02.15": {
-        "id": "SPLUS40B574",
+    "04.00.02 (HS7)": {
+        "id": "SPLUS412E9B",
         "days": {
+            "Monday": [
+                {
+                    "begin": "07:45",
+                    "end": "11:00",
+                    "summary": "Garzke: MB/ME(BA)Einführungsveranstaltung/S/01"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "begin": "08:00",
+                    "end": "12:00",
+                    "summary": "Garzke: MB/ME(BA)Einführungsveranstaltung/S/02"
+                }
+            ],
             "Wednesday": [
                 {
-                    "end": "12:00",
-                    "summary": "Rüb: MiPT(BA)StET/B/01",
-                    "begin": "09:00"
+                    "begin": "09:00",
+                    "end": "10:30",
+                    "summary": "Pollok: BT/MT(BA)StET/B/01"
                 }
             ]
         }
@@ -16,68 +30,164 @@
         "days": {
             "Monday": [
                 {
+                    "begin": "08:00",
                     "end": "18:00",
-                    "summary": "JenAll: JenAll._TracePro_I",
-                    "begin": "08:00"
+                    "summary": "JenAll: JenAll._TracePro_I"
                 }
             ],
-            "Thursday": [
+            "Tuesday": [
                 {
+                    "begin": "08:00",
                     "end": "18:00",
-                    "summary": "JenAll: JenAll._TracePro_IV",
-                    "begin": "08:00"
+                    "summary": "JenAll: JenAll._TracePro_II"
                 }
             ],
             "Wednesday": [
                 {
+                    "begin": "08:00",
                     "end": "18:00",
-                    "summary": "JenAll: JenAll._TracePro_III",
-                    "begin": "08:00"
+                    "summary": "JenAll: JenAll._TracePro_III"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "08:00",
+                    "end": "18:00",
+                    "summary": "JenAll: JenAll._TracePro_IV"
                 }
             ],
             "Friday": [
                 {
+                    "begin": "08:00",
                     "end": "16:00",
-                    "summary": "JenAll: JenAll._TracePro_V",
-                    "begin": "08:00"
-                }
-            ],
-            "Tuesday": [
-                {
-                    "end": "18:00",
-                    "summary": "JenAll: JenAll._TracePro_II",
-                    "begin": "08:00"
+                    "summary": "JenAll: JenAll._TracePro_V"
                 }
             ]
         }
     },
-    "04.00.02 (HS7)": {
-        "id": "SPLUS412E9B",
+    "03.00.19": {
+        "id": "SPLUSCD917C",
         "days": {
             "Monday": [
                 {
-                    "end": "11:00",
-                    "summary": "Garzke: MB/ME(BA)Einführungsveranstaltung/S/01",
-                    "begin": "07:45"
+                    "begin": "08:30",
+                    "end": "18:30",
+                    "summary": ": GW_Umbau/Lager/01.1"
                 }
             ],
             "Tuesday": [
                 {
-                    "end": "12:00",
-                    "summary": "Garzke: MB/ME(BA)Einführungsveranstaltung/S/02",
-                    "begin": "08:00"
+                    "begin": "08:30",
+                    "end": "18:30",
+                    "summary": ": GW_Umbau/Lager/02"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:30",
+                    "summary": ": GW_Umbau/Lager/03"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:30",
+                    "summary": ": GW_Umbau/Lager/04"
+                }
+            ],
+            "Friday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:30",
+                    "summary": ": GW_Umbau/Lager/05"
                 }
             ]
         }
     },
-    "05.01.43": {
-        "id": "SPLUSD17C42",
+    "03.00.32": {
+        "id": "SPLUSCD917D",
         "days": {
+            "Monday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:30",
+                    "summary": ": GW_Umbau/Lager/01.1"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:30",
+                    "summary": ": GW_Umbau/Lager/02"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:30",
+                    "summary": ": GW_Umbau/Lager/03"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "08:30",
+                    "end": "18:30",
+                    "summary": ": GW_Umbau/Lager/04"
+                }
+            ],
             "Friday": [
                 {
-                    "end": "12:45",
-                    "summary": "Kraußlach: JenALL_BGM 2018/S/01.6",
-                    "begin": "07:45"
+                    "begin": "08:30",
+                    "end": "18:30",
+                    "summary": ": GW_Umbau/Lager/05"
+                }
+            ]
+        }
+    },
+    "04.00.34": {
+        "id": "SPLUS4833BC",
+        "days": {
+            "Monday": [
+                {
+                    "begin": "08:30",
+                    "end": "17:30",
+                    "summary": "ZSB: ZSB_Beutel packen/lagern/04"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "begin": "08:30",
+                    "end": "17:30",
+                    "summary": "ZSB: ZSB_Beutel packen/lagern/05"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "08:30",
+                    "end": "17:30",
+                    "summary": "ZSB: ZSB_Beutel packen/lagern/06"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "08:30",
+                    "end": "17:30",
+                    "summary": "ZSB: ZSB_Beutel packen/lagern/01"
+                }
+            ],
+            "Friday": [
+                {
+                    "begin": "08:30",
+                    "end": "17:30",
+                    "summary": "ZSB: ZSB_Beutel packen/lagern/02"
+                }
+            ],
+            "Saturday": [
+                {
+                    "begin": "08:30",
+                    "end": "17:30",
+                    "summary": "ZSB: ZSB_Beutel packen/lagern/03"
                 }
             ]
         }
@@ -87,16 +197,307 @@
         "days": {
             "Monday": [
                 {
+                    "begin": "09:30",
                     "end": "11:00",
-                    "summary": "Lakemann: SW(BA)Einführungsveranstaltung/S/01",
-                    "begin": "09:30"
+                    "summary": "Lakemann: SW(BA)Einführungsveranstaltung/S/01"
                 }
             ],
             "Wednesday": [
                 {
+                    "begin": "09:30",
                     "end": "10:30",
-                    "summary": "Schröck: SciTec_Einführungsveranstaltung/S/01",
-                    "begin": "09:30"
+                    "summary": "Schröck: SciTec_Einführungsveranstaltung/S/01"
+                }
+            ]
+        }
+    },
+    "05.03.02 (HS5)": {
+        "id": "SPLUSD17C3B",
+        "days": {
+            "Monday": [
+                {
+                    "begin": "09:30",
+                    "end": "11:00",
+                    "summary": "Baumgärtner: GP_Einführungsveranstaltung/S/01"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "begin": "13:30",
+                    "end": "15:00",
+                    "summary": "Kirchner: GP_Einführungsveranstaltung/S/02"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "09:30",
+                    "end": "12:30",
+                    "summary": "Lakemann: SW(BA)StET/B/01"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "09:30",
+                    "end": "12:45",
+                    "summary": "Möller, M.: GP_Einführungsveranstaltung/S/03"
+                }
+            ],
+            "Friday": [
+                {
+                    "begin": "09:30",
+                    "end": "12:45",
+                    "summary": "Wille, Möller, M.: GP_Einführungsveranstaltung/S/04"
+                }
+            ]
+        }
+    },
+    "05.00.04": {
+        "id": "SPLUSD17C52",
+        "days": {
+            "Tuesday": [
+                {
+                    "begin": "08:30",
+                    "end": "17:30",
+                    "summary": "ZSB: ZSB_Thoska-Ausgabe/01"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "08:30",
+                    "end": "17:30",
+                    "summary": "ZSB: ZSB_Thoska-Ausgabe/02"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "08:30",
+                    "end": "17:30",
+                    "summary": "ZSB: ZSB_Thoska-Ausgabe/03"
+                }
+            ]
+        }
+    },
+    "05.00.10": {
+        "id": "SPLUSD17C56",
+        "days": {
+            "Tuesday": [
+                {
+                    "begin": "09:00",
+                    "end": "15:00",
+                    "summary": "Jack: ET(BA)StET/B/01"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "09:00",
+                    "end": "15:00",
+                    "summary": "Jack: ET(BA)StET/B/02"
+                }
+            ]
+        }
+    },
+    "05.03.201": {
+        "id": "SPLUSD17C60",
+        "days": {
+            "Tuesday": [
+                {
+                    "begin": "09:30",
+                    "end": "12:45",
+                    "summary": "Weinberger, Rädel-Ablass, Kirchner, Baumgärtner: GP_Einführungsveranstaltung/S/05"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "10:30",
+                    "end": "12:00",
+                    "summary": "Klaus: BW_Einführungsveranstaltung/S/02"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "13:30",
+                    "end": "15:30",
+                    "summary": "Frank: GP_Einführungsveranstaltung/S/06"
+                }
+            ]
+        }
+    },
+    "05.03.202": {
+        "id": "SPLUSD17C61",
+        "days": {
+            "Tuesday": [
+                {
+                    "begin": "09:30",
+                    "end": "12:45",
+                    "summary": "Weinberger, Rädel-Ablass, Kirchner, Baumgärtner: GP_Einführungsveranstaltung/S/05"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "10:30",
+                    "end": "12:00",
+                    "summary": "Klaus: BW_Einführungsveranstaltung/S/02"
+                }
+            ]
+        }
+    },
+    "05.03.203": {
+        "id": "SPLUSD17C62",
+        "days": {
+            "Tuesday": [
+                {
+                    "begin": "09:30",
+                    "end": "12:45",
+                    "summary": "Weinberger, Rädel-Ablass, Kirchner, Baumgärtner: GP_Einführungsveranstaltung/S/05"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "10:30",
+                    "end": "12:00",
+                    "summary": "Klaus: BW_Einführungsveranstaltung/S/02"
+                }
+            ]
+        }
+    },
+    "05.03.204": {
+        "id": "SPLUSD17C63",
+        "days": {
+            "Tuesday": [
+                {
+                    "begin": "09:30",
+                    "end": "12:45",
+                    "summary": "Weinberger, Rädel-Ablass, Kirchner, Baumgärtner: GP_Einführungsveranstaltung/S/05"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "10:30",
+                    "end": "12:00",
+                    "summary": "Klaus: BW_Einführungsveranstaltung/S/02"
+                }
+            ]
+        }
+    },
+    "05.03.40 (HS3)": {
+        "id": "SPLUSD17C3A",
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "08:45",
+                    "end": "10:30",
+                    "summary": "Klaus: BW_Einführungsveranstaltung/S/01"
+                },
+                {
+                    "begin": "12:00",
+                    "end": "13:30",
+                    "summary": "Hauser: BW_Einführungsveranstaltung/S/03"
+                },
+                {
+                    "begin": "13:30",
+                    "end": "15:00",
+                    "summary": "Haase, Ephrosi(BW): BW_Einführungsveranstaltung/S/04"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "10:30",
+                    "end": "13:00",
+                    "summary": "Klaus: BW_Einführungsveranstaltung/S/05"
+                }
+            ]
+        }
+    },
+    "05.03.206": {
+        "id": "SPLUS7F8D03",
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "10:30",
+                    "end": "12:00",
+                    "summary": "Klaus: BW_Einführungsveranstaltung/S/02"
+                }
+            ]
+        }
+    },
+    "05.03.43 (HS4)": {
+        "id": "SPLUSD17C3C",
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "10:45",
+                    "end": "11:45",
+                    "summary": "Pollok: BT/MT(BA)StET/B/02"
+                },
+                {
+                    "begin": "13:30",
+                    "end": "14:30",
+                    "summary": "Pollok: BT/MT(BA)StET/B/03"
+                }
+            ]
+        }
+    },
+    "04.02.15": {
+        "id": "SPLUS40B574",
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "11:00",
+                    "end": "16:00",
+                    "summary": "Rüb: MiPT(BA)StET/B/01"
+                }
+            ]
+        }
+    },
+    "03.03.01(HS1)": {
+        "id": "SPLUSFADB3E",
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "13:00",
+                    "end": "14:30",
+                    "summary": "Töpfer: WT(BA)StET/B/01"
+                }
+            ]
+        }
+    },
+    "04.03.12": {
+        "id": "SPLUS40B570",
+        "days": {
+            "Thursday": [
+                {
+                    "begin": "07:30",
+                    "end": "10:00",
+                    "summary": "Kaufmann: MB/ME(BA)GL MT I/Wdh.-Prfg./02"
+                },
+                {
+                    "begin": "10:00",
+                    "end": "12:30",
+                    "summary": "Kaufmann: MB/ME(BA)GL RT/Wdh.-Prf./01"
+                }
+            ],
+            "Friday": [
+                {
+                    "begin": "07:30",
+                    "end": "10:00",
+                    "summary": "Kaufmann: MB/ME(BA)GL MT II/Wdh.-Prf./01"
+                },
+                {
+                    "begin": "10:00",
+                    "end": "12:00",
+                    "summary": "Kaufmann: MB(MA)Opt.MT/Wdh.-Prf./01"
+                }
+            ]
+        }
+    },
+    "05.01.43": {
+        "id": "SPLUSD17C42",
+        "days": {
+            "Friday": [
+                {
+                    "begin": "07:45",
+                    "end": "12:45",
+                    "summary": "Kraußlach: JenALL_BGM 2018/S/01.6"
                 }
             ]
         }
