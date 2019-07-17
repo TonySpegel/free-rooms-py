@@ -333,7 +333,7 @@ function select_handler(selected_item) {
  *                              for one specific calendar-week
  */
 async function fetch_calendar_week_json(cw) {
-    let path   = document.URL.includes('github') ? 'app/' : '';
+    let path   = document.URL.includes('github') || document.URL.includes('empty-eah-rooms') ? 'app/' : '';
 
     let response      = await fetch(`../${path}json/${cw}.json`);
     let response_json = await response.json();
