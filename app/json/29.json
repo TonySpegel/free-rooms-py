@@ -1170,6 +1170,25 @@
             ]
         }
     },
+    "04.03.10": {
+        "id": "SPLUS412E9E",
+        "days": {
+            "Thursday": [
+                {
+                    "begin": "10:00",
+                    "end": "11:30",
+                    "summary": "Dienerowitz: SI(MA)Intr.to FEM/Wdh.-Prfg./01"
+                }
+            ],
+            "Friday": [
+                {
+                    "begin": "10:00",
+                    "end": "11:30",
+                    "summary": "Berkholz: PBT(MA)Angew.Vf.T/PL/01"
+                }
+            ]
+        }
+    },
     "05.01.42": {
         "id": "SPLUSD17C41",
         "days": {
@@ -1190,18 +1209,6 @@
                     "begin": "08:30",
                     "end": "15:00",
                     "summary": "Wieczorek: 19.07._Moodle-Schulg."
-                }
-            ]
-        }
-    },
-    "04.03.10": {
-        "id": "SPLUS412E9E",
-        "days": {
-            "Friday": [
-                {
-                    "begin": "10:00",
-                    "end": "11:30",
-                    "summary": "Berkholz: PBT(MA)Angew.Vf.T/PL/01"
                 }
             ]
         }
