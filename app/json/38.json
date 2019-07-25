@@ -157,6 +157,25 @@
             ]
         }
     },
+    "05.03.229": {
+        "id": "SPLUSD17C3F",
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "08:00",
+                    "end": "16:00",
+                    "summary": "GP: 18.09._GP Hebamme Zulassung"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "08:00",
+                    "end": "16:00",
+                    "summary": "GP: 19.09._GP Hebamme Zulassung"
+                }
+            ]
+        }
+    },
     "04.-1.01(Aula)": {
         "id": "SPLUSCA96B6",
         "days": {

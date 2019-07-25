@@ -67,6 +67,11 @@
                     "begin": "10:00",
                     "end": "12:00",
                     "summary": "Buerke: GM(MA)Marktor.UF/M/PL/01"
+                },
+                {
+                    "begin": "12:30",
+                    "end": "17:00",
+                    "summary": ": 25.07._HSG-Treffen"
                 }
             ],
             "Friday": [
@@ -450,6 +455,13 @@
                     "summary": "Munder: PBT(MA)Gent./PL/01"
                 }
             ],
+            "Wednesday": [
+                {
+                    "begin": "13:00",
+                    "end": "14:30",
+                    "summary": "Tutor Fritzsch(GW): FT/LOT/MiPT/WT(BA)Phy II/T/01.4"
+                }
+            ],
             "Thursday": [
                 {
                     "begin": "10:00",
@@ -467,6 +479,13 @@
                     "begin": "10:00",
                     "end": "11:30",
                     "summary": "Fleck: MT(MA)TO/PL/01"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "begin": "12:00",
+                    "end": "14:00",
+                    "summary": "Dienerowitz: 23.07._SciTec Vertdg."
                 }
             ],
             "Wednesday": [
@@ -498,6 +517,11 @@
                     "begin": "10:00",
                     "end": "11:30",
                     "summary": "Werner, A.: GM(MA)E-Bus./PL/01"
+                },
+                {
+                    "begin": "14:00",
+                    "end": "15:30",
+                    "summary": "Tutor Apro(GW): BT/MT(BA)Ma II/T/01.11"
                 }
             ],
             "Tuesday": [
@@ -686,6 +710,13 @@
                     "end": "13:30",
                     "summary": "Walther: BT/MT(BA)Ma II/Kon/02"
                 }
+            ],
+            "Thursday": [
+                {
+                    "begin": "16:00",
+                    "end": "18:00",
+                    "summary": "Förster: ET/FT/MB/ME(BA)El. Antr./Kon/01"
+                }
             ]
         }
     },
@@ -846,6 +877,13 @@
                     "end": "11:30",
                     "summary": "Spessert: MB(BA)GL TA/PL/01"
                 }
+            ],
+            "Friday": [
+                {
+                    "begin": "14:00",
+                    "end": "15:30",
+                    "summary": "Rüb: 26.07._Rüb Prf."
+                }
             ]
         }
     },
@@ -890,6 +928,11 @@
                     "begin": "12:00",
                     "end": "13:30",
                     "summary": "Planer: WI/WIEC(BA)Statistik/PL/01"
+                },
+                {
+                    "begin": "15:30",
+                    "end": "17:00",
+                    "summary": "Ploss: 24.07._SciTec Vertdg."
                 }
             ],
             "Friday": [

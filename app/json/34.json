@@ -126,6 +126,18 @@
             ]
         }
     },
+    "04.03.10": {
+        "id": "SPLUS412E9E",
+        "days": {
+            "Monday": [
+                {
+                    "begin": "10:00",
+                    "end": "16:00",
+                    "summary": "Bliedtner: 19.08._AG Bliedtner"
+                }
+            ]
+        }
+    },
     "01.01.11": {
         "id": "SPLUS9BD899",
         "days": {

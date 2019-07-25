@@ -65,6 +65,46 @@
             ]
         }
     },
+    "04.-1.17(SimLab)": {
+        "id": "SPLUSCD9195",
+        "days": {
+            "Monday": [
+                {
+                    "begin": "08:15",
+                    "end": "16:00",
+                    "summary": "Heiderich: MB/ME(BA)3D-CAD II/P/01.1"
+                }
+            ],
+            "Tuesday": [
+                {
+                    "begin": "08:15",
+                    "end": "16:00",
+                    "summary": "Heiderich: MB/ME(BA)3D-CAD II/P/01.2"
+                }
+            ],
+            "Wednesday": [
+                {
+                    "begin": "08:15",
+                    "end": "16:00",
+                    "summary": "Heiderich: MB/ME(BA)3D-CAD II/P/01.3"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "08:30",
+                    "end": "16:15",
+                    "summary": "Heiderich: MB/ME(BA)3D-CAD II/P/01.4"
+                }
+            ],
+            "Friday": [
+                {
+                    "begin": "08:30",
+                    "end": "16:15",
+                    "summary": "Heiderich: MB/ME(BA)3D-CAD II/P/01.5"
+                }
+            ]
+        }
+    },
     "03.00.19": {
         "id": "SPLUSCD917C",
         "days": {

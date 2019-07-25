@@ -289,6 +289,18 @@
             ]
         }
     },
+    "01.01.11": {
+        "id": "SPLUS9BD899",
+        "days": {
+            "Wednesday": [
+                {
+                    "begin": "08:00",
+                    "end": "10:00",
+                    "summary": "Angstmann(BW): BW(BA)AdA/mdl. Prfg./01"
+                }
+            ]
+        }
+    },
     "05.03.28": {
         "id": "SPLUSD17C34",
         "days": {

@@ -557,7 +557,7 @@
                 {
                     "begin": "10:00",
                     "end": "11:30",
-                    "summary": "Brehm: ET/WIEC(BA)DB/PL/01"
+                    "summary": "Brehm: WI/WIEC(BA)DB/Wdh.-Prfg./01"
                 }
             ]
         }
@@ -569,7 +569,7 @@
                 {
                     "begin": "10:00",
                     "end": "11:30",
-                    "summary": "Brehm: WIEC(BA)DB u. Data-WH/PL/01"
+                    "summary": "Brehm: ET/WIEC(BA)DB u. Data-WH/PL/01"
                 }
             ]
         }
@@ -792,6 +792,11 @@
                     "begin": "08:00",
                     "end": "10:00",
                     "summary": "Schmager: WI/WIEC(BA)Prod.-Log./Log./PL/01"
+                },
+                {
+                    "begin": "10:15",
+                    "end": "19:15",
+                    "summary": ": 02.08._Abschlussfeier BT"
                 }
             ],
             "Saturday": [
@@ -943,6 +948,32 @@
             ]
         }
     },
+    "05.00.02": {
+        "id": "SPLUS29A371",
+        "days": {
+            "Tuesday": [
+                {
+                    "begin": "10:00",
+                    "end": "11:30",
+                    "summary": "Jüngel(GW): BW(BA)Ma/Statistik f. Wdh./Kon/01/02"
+                }
+            ],
+            "Thursday": [
+                {
+                    "begin": "14:00",
+                    "end": "15:30",
+                    "summary": "Wilde(GW): AO/UT/UTE(BA)Ma I/Wdh.-Prfg./01"
+                }
+            ],
+            "Friday": [
+                {
+                    "begin": "14:00",
+                    "end": "15:30",
+                    "summary": "Felkl: FT/LOT/PT(BA)Elektr. I/Wdh.-Prfg./01"
+                }
+            ]
+        }
+    },
     "05.00.03": {
         "id": "SPLUSA8CFB5",
         "days": {
@@ -1003,21 +1034,14 @@
             ]
         }
     },
-    "05.00.02": {
-        "id": "SPLUS29A371",
+    "03.03.01(HS1)": {
+        "id": "SPLUSFADB3E",
         "days": {
-            "Thursday": [
+            "Tuesday": [
                 {
-                    "begin": "14:00",
-                    "end": "15:30",
-                    "summary": "Wilde(GW): AO/UT/UTE(BA)Ma I/Wdh.-Prfg./01"
-                }
-            ],
-            "Friday": [
-                {
-                    "begin": "14:00",
-                    "end": "15:30",
-                    "summary": "Felkl: FT/LOT/PT(BA)Elektr. I/Wdh.-Prfg./01"
+                    "begin": "15:00",
+                    "end": "16:30",
+                    "summary": "Schumann: BT(BA)Chem.II/Kon/01"
                 }
             ]
         }
