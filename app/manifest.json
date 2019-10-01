@@ -10,8 +10,6 @@
     "description": "Find empty Classrooms at the EAH",
     "orientation": "Portrait",
     "background_color": "#313131",
-    "related_applications": "",
-    "prefer_related_applications": false,
     "icons": [
         {
             "src": "icons/android/android-launchericon-144-144.png",
